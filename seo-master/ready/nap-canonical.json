@@ -1,0 +1,32 @@
+{
+  "name": "Infinitum Corporation",
+  "legal_display": "INFINITUM CORPORATION (use 'Infinitum Corporation' in prose; ALL CAPS only where a registry requires it)",
+  "address": {
+    "street": "1629 K Street NW, Suite 300",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20006",
+    "country": "US"
+  },
+  "phone_display": "202-729-9509",
+  "phone_e164": "+1-202-729-9509",
+  "email": "info@theinfinitumcorporation.com",
+  "website": "https://www.theinfinitumcorporation.com",
+  "hours": "Mon–Fri 9:00 AM–9:00 PM; closed Sat–Sun",
+  "founder": "William Aaron Turner",
+  "headquarters": "Washington, DC (Moscow is an operating location only)",
+  "profiles": {
+    "x": "https://x.com/infinitumceo",
+    "telegram": "https://t.me/infinitumcorporation",
+    "discord": "https://discord.gg/QVT7dWHUQa",
+    "whitepapers_blog": "https://infinitumwhitepapers.blogspot.com/",
+    "ukraine_files_blog": "https://ukrainianfiles.blogspot.com/",
+    "whop": "https://whop.com/infinitum-corporation/",
+    "github": "https://github.com/InfinitumCorp"
+  },
+  "legacy_numbers_seen_live": {
+    "(202) 681-0120": "website footer, tel: links and LocalBusiness JSON-LD (2026-10-26)",
+    "(202) 980-9300": "/workspace/infinitum_directories.md 'canonical' NAP and Google Business Profile draft",
+    "(614) 216-2724": "website builder data (whatsapp_number_national) - not seen as visible text"
+  }
+}

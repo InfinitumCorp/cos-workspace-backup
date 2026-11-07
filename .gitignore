@@ -1,0 +1,10 @@
+.secrets
+secrets/
+*.env
+.env*
+node_modules/
+*venv*/
+*profile*/
+*cookie*
+*.b64
+campaign/bounce_raw/

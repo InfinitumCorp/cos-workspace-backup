@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://presslo.com/submit",
+    "exit": 0,
+    "status": "STATUS:200 FINAL:https://presslo.com/submit",
+    "error": "",
+    "public_links": [
+      "https://presslo.com/submit",
+      "https://presslux.com/login?utm_source=presslo&amp;utm_medium=header_sign_in",
+      "/submit",
+      "https://presslux.com/register?utm_source=presslo&amp;utm_medium=submit_page",
+      "https://presslux.com/register?utm_source=presslo&amp;utm_medium=submit_page",
+      "/submit",
+      "https://presslux.com?utm_source=presslo&amp;utm_medium=footer",
+      "https://presslux.com?utm_source=presslo&amp;utm_medium=footer_powered_by"
+    ]
+  },
+  {
+    "url": "https://presslux.com/",
+    "exit": 0,
+    "status": "STATUS:200 FINAL:https://presslux.com/",
+    "error": "",
+    "public_links": [
+      "https://presslux.com",
+      "/brand/presslux-app-icon.png",
+      "/brand/presslux-apple-icon.png",
+      "/login",
+      "/register",
+      "/register",
+      "/register",
+      "/register",
+      "/register",
+      "/login",
+      "/login"
+    ]
+  },
+  {
+    "url": "https://presslux.com/register",
+    "exit": 0,
+    "status": "STATUS:200 FINAL:https://presslux.com/register",
+    "error": "",
+    "public_links": [
+      "/brand/presslux-app-icon.png",
+      "/brand/presslux-apple-icon.png"
+    ]
+  },
+  {
+    "url": "https://prfree.org/members/login.php",
+    "exit": 0,
+    "status": "STATUS:200 FINAL:https://prfree.org/members/login.php",
+    "error": "",
+    "public_links": [
+      "https://prfree.org/members/login.php",
+      "https://prfree.org/members/register.php",
+      "/OAuth2.php?action=google_login"
+    ]
+  },
+  {
+    "url": "https://www.prlog.org/pub/login.html",
+    "exit": 0,
+    "status": "STATUS:200 FINAL:https://www.prlog.org/pub/login.html",
+    "error": "",
+    "public_links": [
+      "https://www.prlog.org/pub/login.html",
+      "/pub/login.html"
+    ]
+  },
+  {
+    "url": "https://pressliftoff.com/submit",
+    "exit": 0,
+    "status": "STATUS:200 FINAL:https://pressliftoff.com/submit",
+    "error": "",
+    "public_links": [
+      "https://pressliftoff.com/submit",
+      "/submit",
+      "/submit",
+      "/submit"
+    ]
+  }
+]

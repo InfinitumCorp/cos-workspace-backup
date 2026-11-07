@@ -1,0 +1,32 @@
+# William Aaron Turner Publishes Compilation of Official Reports on Ukraine's Military Mobilization Practices
+
+**Summary:** A new Ukraine Files entry by William Aaron Turner compiles Ukrainian ombudsman data, prosecutor announcements and Council of Europe findings on military recruitment practices.
+
+**Dateline:** WASHINGTON, DC, November 2, 2026
+
+William Aaron Turner, founder and president of Infinitum Corporation, has published "Ukraine's Forced Mobilization: Reports, Evidence, Law," Part 7 of his research series The Ukraine Files. It brings together official Ukrainian data, court and prosecutor records, and international human-rights findings on how Territorial Recruitment Centers (TCCs) carry out mobilization.
+
+Records compiled
+
+- Complaints: Ukraine's Human Rights Ombudsman Dmytro Lubinets reported 3,312 complaints against recruitment officers in 2024 and 6,127 in 2025.
+- Prosecutions: on August 18, 2026, Prosecutor General Ruslan Kravchenko announced charges against ten Odesa recruitment-center officers.
+- Reporting: BBC coverage from July 2026, Babel's investigation of deaths among recruits in one regiment, and a statement from the Military Ombudsman on the investigations.
+- International attention: issues raised with UN High Commissioner Volker Turk, Council of Europe Commissioner Michael O'Flaherty's findings, and Hungary's response to the death of an ethnic Hungarian.
+
+Sourcing
+
+The compilation states plainly that some sections rely on Russian officials and Russian media, and it labels them that way. The legal analysis, which draws on the ICCPR and the European Convention on Human Rights, is presented as the author's argument. The full reference list includes the BBC, the Kyiv Post, LIGA.net, UNN and The New York Times.
+
+"Most of this comes from Ukraine's own ombudsman and prosecutors. I've compiled it, sourced it, and labeled the claims that are contested." said William Aaron Turner, Founder & President, Infinitum Corporation.
+
+**Read the original:** https://ukrainianfiles.blogspot.com/2026/10/ukraine-forced-mobilization-evidence.html (Ukrainian Files blog)
+
+## About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+**Media contact:** William Aaron Turner, Infinitum Corporation, 202-729-9509, info@theinfinitumcorporation.com
+
+---
+Image: /workspace/press/pr-campaign-2026-11/rewrites/img/ukraine-forced-mobilization.jpg (neutral Infinitum cover, no watermark)
+Keywords: military mobilization, human rights, ombudsman, conscription, ECHR, The Ukraine Files, William Aaron Turner
+Replaces removed PressLiftoff URL: https://pressliftoff.com/press-release/ukraine-forced-mobilization-william-aaron-turner-compiles-reports-cases-and-law-on-busific (410)

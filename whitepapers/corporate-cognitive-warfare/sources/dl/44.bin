@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en">
+  
+
+
+
+<head>
+  <meta name="viewport" content="width=device-width">
+  <title>Chinese Next-Generation Psychological Warfare: The Military Applications of Emerging Technologies and Implications for the United States | RAND</title>
+  <script src="https://assets.adobedtm.com/7b44bfa5332b3eae1bfbb635a10267e767a4284f/satelliteLib-ba20fb485110a0c5418b54627a4aec099af80722.js" async></script>
+      
+<script src="/etc.clientlibs/rand/support/js/core-init.min.b1639f81244f55fd24c786ac6c5da003.js"></script>
+    <script src="/etc.clientlibs/rand/support/js/tabs.min.acf432fc2f9fe2ae50f3fcdecf98c78d.js"></script>
+  <link rel="preload" href="/etc.clientlibs/rand/designs/common/fonts/resources/monument-grotesk.woff2" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="/etc.clientlibs/rand/designs/common/fonts/resources/fraktion-mono-regular.woff2" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="/etc.clientlibs/rand/designs/common/fonts/resources/suisse-works.woff2" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="/etc.clientlibs/rand/designs/common/fonts/resources/suisse-works-bold.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/etc.clientlibs/rand/designs/rand/ui/rand.min.2d32bdc29cc35c115db8cda4ddeeb6a9.css"><link rel="stylesheet" href="/etc.clientlibs/rand/designs/common/css/rand-components/showHide.min.813045f6510448b867a8078a17287ea9.css"><link rel="stylesheet" href="/etc.clientlibs/rand/designs/common/css/rand-components/tabsWrap.min.e4d173e1156efb826e83457ec3b111e1.css"><link rel="stylesheet" href="/etc.clientlibs/rand/designs/rand/ui/product-pages/product-pages.min.8f1fea5e1fe444d2e3ff127dceacf462.css"><link rel="stylesheet" href="/etc.clientlibs/rand/designs/rand/ui/pubs/pubs.min.da3ee06a1ce3fd401a0b13ed841add55.css">
+  <link rel="preconnect" href="https://www.google.com">
+  <link rel="preconnect" href="https://www.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+
+
+  
+  
+     <meta name="DC.Subject" content="Research">
+   <meta name="DC.Subject" content="Information Operations">
+   <meta name="DC.Subject" content="Psychological Warfare">
+   <meta name="DC.Subject" content="Military Strategy">
+   <meta name="DC.Subject" content="China">
+   <meta name="DC.Subject" content="Intelligence Community">
+   <meta name="DC.Subject" content="Cyber Warfare">
+   <meta name="DC.Subject" content="Emerging Technologies">
+   <meta name="DC.Date" content="2023">
+   <meta name="DC.Contributor" content="Beauchamp-Mustafaga, Nathan">
+   <meta name="citation_author" content="Beauchamp-Mustafaga, Nathan">
+   <meta name="DC.Identifier.RAND" content="RR-A853-1">
+   <meta name="DC.Identifier.Slug" content="RRA853-1">
+   <meta name="citation_online_date" content="2023/6/1">
+   <meta name="citation_pdf_url" content="www.rand.org/content/dam/rand/pubs/research_reports/RRA800/RRA853-1/RAND_RRA853-1.pdf">
+   <meta name="citation_publication_date" content="2023/6/1">
+   <meta name="citation_title" content="Chinese Next-Generation Psychological Warfare: The Military Applications of Emerging Technologies and Implications for the United States">
+   <meta name="citation_abstract" content="This report explores Chinese military thinking about next-generation psychological warfare, with a special focus on the applications of emerging technologies and implications for the United States. As the U.S. military increases its focus on China, it is important to understand how Chinese psychological warfare capabilities may evolve and what this would mean for Chinese strategic behavior in a crisis or conflict.">
+   <meta name="rand-publication-series" content="Research Reports">
+
+
+  <meta charset="utf-8">
+    <meta name="keywords" content="Information Operations, Psychological Warfare, Military Strategy, China, Intelligence Community, Cyber Warfare, Emerging Technologies">
+    <meta name="description" content="&lt;p&gt;This report explores Chinese military thinking about next-generation psychological warfare, with a special focus on the applications of emerging technologies and implications for the United States.&lt;/p&gt;">
+    <link rel="canonical" href="https://www.rand.org/pubs/research_reports/RRA853-1.html">
+<meta property="og:title" content="Chinese Next-Generation Psychological Warfare">
+<meta property="og:description" content="China is interested in both advanced computing and brain science to expand and improve its psychological warfare capabilities. How might this affect U.S.-China dynamics in peacetime competition, crisis, and conflict?">
+<meta property="og:url" content="https://www.rand.org/pubs/research_reports/RRA853-1.html">
+<meta property="og:image" content="https://www.rand.org/content/rand/pubs/research_reports/RRA853-1/jcr:content/par/teaser.crop.1200x900.cm.png/1702574453638.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@RANDCorporation">
+<meta name="twitter:title" content="Chinese Next-Generation Psychological Warfare">
+<meta name="twitter:description" content="China is interested in both advanced computing and brain science to expand and improve its psychological warfare capabilities. How might this affect U.S.-China dynamics in peacetime competition, crisis, and conflict?">
+<meta name="twitter:image" content="https://www.rand.org/content/rand/pubs/research_reports/RRA853-1/jcr:content/par/teaser.crop.600x317.cm.png/1702574453638.png">
+<meta name="rand-teaser-type" content="rand">
+<meta name="rand-teaser-title" content="Chinese Next-Generation Psychological Warfare">
+<meta name="rand-teaser-description" content="China is interested in both advanced computing and brain science to expand and improve its psychological warfare capabilities. How might this affect U.S.-China dynamics in peacetime competition, crisis, and conflict?">
+<meta name="rand-teaser-date" content="20230601">
+<meta name="rand-teaser-image" content="/content/rand/pubs/research_reports/RRA853-1/jcr:content/par/teaser.crop.250x187.cm.png/1702574453638.png">
+<meta name="rand-teaser-image-alt" content="A digital brain made up of lines, triangles, binary digits and dots, photo by Natalia Darmoroz/iStock/Getty Images Plus">
+
+  
+        
+	<link rel="icon" href="/etc.clientlibs/rand/designs/common/images/resources/favicon.png" type="image/png"><link rel="icon" href="/etc.clientlibs/rand/designs/common/images/resources/favicon.svg" type="image/svg+xml">
+  <link rel="search" href="/content/dam/rand/xml/search.xml" type="application/opensearchdescription+xml" title="RAND"/>
+  <script type="application/ld+json">
+{"@context":"http://schema.org","@graph":[{"@context":"https://schema.org","@type":"Organization","url":"https://www.rand.org","logo":"https://www.rand.org/etc.clientlibs/rand/designs/common/images/logo-corp.svg","name":"RAND","alternateName":"RAND Corporation","description":"RAND is a nonprofit, nonpartisan research organization that provides leaders with the information they need to make evidence-based decisions.","email":"correspondence@rand.org","foundingDate":"1948-05-14","legalName":"RAND Corporation","address":{"@type":"PostalAddress","postOfficeBoxNumber":"2138","streetAddress":"1776 Main Street","addressLocality":"Santa Monica","addressRegion":"CA","addressCountry":"US","postalCode":"90401-2138"},"sameAs":["https://www.linkedin.com/company/rand-corporation","https://x.com/RANDCorporation","https://www.instagram.com/randcorporation","https://www.facebook.com/RANDCorporation","https://www.youtube.com/user/TheRANDCorporation","https://bsky.app/profile/rand.org","https://www.threads.net/@randcorporation"]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Research & Commentary","item":"https://www.rand.org/pubs.html"},{"@type":"ListItem","position":2,"name":"Research Reports","item":"https://www.rand.org/pubs/research_reports.html"},{"@type":"ListItem","position":3,"name":"RR-A853-1"}]}]}
+</script>
+
+  <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Book","@id":"https://www.rand.org/pubs/research_reports/RRA853-1.html","bookFormat":"EBook","editor":[],"contributor":[],"name":"Chinese Next-Generation Psychological Warfare: The Military Applications of Emerging Technologies and Implications for the United States","url":"https://www.rand.org/pubs/research_reports/RRA853-1.html","copyrightYear":2023,"description":"<p>This report explores Chinese military thinking about next-generation psychological warfare, with a special focus on the applications of emerging technologies and implications for the United States.</p>","keywords":"Information Operations, Psychological Warfare, Military Strategy, China, Intelligence Community, Cyber Warfare, Emerging Technologies","copyrightHolder":{"@type":"Organization","name":"RAND Corporation"},"publisher":{"@type":"Organization","name":"RAND Corporation"},"abstract":"<p>China views psychological warfare, centered on the manipulation of information to influence adversary decisionmaking and behavior, as one of several key components of modern warfare. The U.S. military's increased focus on China and preparations for a potential U.S.-China conflict mean that it is important to understand how Chinese psychological warfare capabilities may evolve and what they would mean for Chinese strategic behavior in a crisis or conflict. The author explores Chinese military thinking about next-generation psychological warfare. China is interested in both advanced computing, such as big data, and brain science for their potential military applications to improve future psychological warfare capabilities.</p> \n<p>Leveraging a wide array of Chinese-language primary-source materials, the author provides an overview of Chinese thinking on psychological warfare, key capabilities, and related operational concepts that the Chinese military is pursuing and presents a hypothetical case study to illustrate how these capabilities, if realized, may be applied to a future U.S.-China contingency. One high-risk future scenario is if the Chinese military and broader leadership believes that these emerging technologies enable Beijing to predict or otherwise influence adversary decisionmaking. This could lead Beijing to have misplaced confidence in its ability to deter adversaries from fighting or coerce them to not fight at all.</p>","author":[{"@type":"Person","name":"Nathan Beauchamp-Mustafaga","familyName":"Beauchamp-Mustafaga","givenName":"Nathan","url":"https://www.rand.org/about/people/b/beauchamp-mustafaga_nathan.html"}]}
+</script>
+</head>
+
+  
+<body class="">
+  
+
+<ul class="skip-links" id="top">
+<li><a href="#page-content" class="access">Skip to page content</a></li>
+</ul>
+<header id="header" class="full global-header" lang="en" dir="ltr">
+  <div class="header-inner">
+    <div>
+      
+
+<a href="/" class="logo">
+    <img src="/etc.clientlibs/rand/designs/common/images/resources/logo-corp.svg" alt="RAND" class="corp" width="56" height="56">
+  </a>
+  
+
+        
+<div class="header headerNav">
+	<a href="#main-nav" class="nav-toggle corp"><span class="access">Toggle Menu</span></a>
+	<nav id="main-nav" class="main-nav" aria-label="site-wide"><div>
+		<h2 class="access">Site-wide navigation</h2>
+		<ul class="main">
+			<li class="hasDropdown">
+				<h3 class="main-link dd-toggle topics">Topics</h3>
+        <div class="dropdown"><div>
+          <h4 class="dd-heading trending c7 mono">Trending</h4>
+          <div class="featuredTopics">
+
+<ul id="research-trending-topics" class="trending-topics topic-list txt">
+<li><a href="/topics/warfare-and-military-operations.html" class="c6">Warfare and Military Operations</a></li><li><a href="/topics/international-trade.html" class="c6">International Trade</a></li><li><a href="/topics/military-technology.html" class="c6">Military Technology</a></li><li><a href="/topics/artificial-intelligence.html" class="c6">Artificial Intelligence</a></li><li><a href="/topics/ukraine.html" class="c6">Ukraine</a></li>
+</ul>
+</div>
+
+          <h4 class="dd-heading ra-heading c7 mono"><a href="/topics.html">Topics</a></h4>
+          <ul class="research-areas"><li><a href="/topics/children-families-and-communities.html" class="c7">Children, Families, and Communities</a></li><li><a href="/topics/cyber-and-data-sciences.html" class="c7">Cyber and Data Sciences</a></li><li><a href="/topics/education-and-literacy.html" class="c7">Education and Literacy</a></li><li><a href="/topics/energy-and-environment.html" class="c7">Energy and Environment</a></li><li><a href="/topics/health-health-care-and-aging.html" class="c7">Health, Health Care, and Aging</a></li><li><a href="/topics/homeland-security-and-public-safety.html" class="c7">Homeland Security and Public Safety</a></li><li><a href="/topics/infrastructure-and-transportation.html" class="c7">Infrastructure and Transportation</a></li><li><a href="/topics/international-affairs.html" class="c7">International Affairs</a></li><li><a href="/topics/law-and-business.html" class="c7">Law and Business</a></li><li><a href="/topics/national-security.html" class="c7">National Security</a></li><li><a href="/topics/science-and-technology.html" class="c7">Science and Technology</a></li><li><a href="/topics/workers-and-the-workplace.html" class="c7">Workers and the Workplace</a></li></ul>
+          <a href="/topics.html" class="standalone mono mobile">All Topics</a>
+        </div></div>
+			</li>
+			<li>
+				<a href="/pubs.html" class="main-link pubs">Research &amp; Commentary</a>
+			</li>
+			<li>
+				<a href="/about/people.html" class="main-link experts">Experts</a>
+			</li>
+      		<li>
+				<a href="/about.html" class="main-link about">About</a>
+			</li>
+		</ul>
+		<div class="utilityNav htmlBlock">
+  <ul class="utility">
+  <li class="hasDropdown">
+    <h3 class="util-link dd-toggle">Research Divisions</h3>
+    <div class="dropdown"><div>
+      <p class="sans-small">RAND's divisions conduct research on a uniquely broad front for clients around the globe.</p>
+      <ul class="divisions c8">
+        <li class="group">
+          <h4 class="access">U.S. research divisions</h4>
+          <ul>
+            <li><a href="/ard.html">RAND Army Research Division</a></li>
+            <li><a href="/education-employment-infrastructure.html">RAND Education, Employment, and Infrastructure</a></li>
+            <li><a href="/global-and-emerging-risks.html">RAND Global and Emerging Risks</a></li>
+            <li><a href="/health.html">RAND Health</a></li>
+            <li><a href="/hsrd.html">RAND Homeland Security Research Division</a></li>
+            <li><a href="/nsrd.html">RAND National Security Research Division</a></li>
+            <li><a href="/paf.html">RAND Project AIR FORCE</a></li>
+          </ul>
+        </li>
+        <li class="group">
+          <h4 class="access">International research divisions</h4>
+          <ul>
+            <li><a href="/australia.html">RAND Australia</a></li>
+            <li><a href="/randeurope.html">RAND Europe</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div></div>
+  </li>
+  <li>
+    <a href="/services-and-impact.html" class="util-link services">Services &amp; Impact</a>
+  </li>
+  <li>
+    <a href="/jobs.html" class="util-link jobs">Careers</a>
+  </li>
+  <li>
+    <a href="https://www.rand.edu/" class="util-link">Graduate School</a>
+  </li>
+    <li>
+    <a href="/newsletters.html" class="subscribe">Subscribe</a>
+  </li>
+  <li>
+    <a href="/support-us.html" class="give">Give</a>
+  </li>
+  <li class="cart" hidden><a href="https://shop.rand.org/cart/"><span class="access">Cart</span></a></li>
+</ul>
+
+
+
+    
+</div>
+
+	</div></nav>
+	<div class="alertBar">
+
+
+</div>
+
+</div>
+
+
+      
+      <search class="search-wrap" title="Site-wide">
+        
+	<a href="/search.html" class="search-toggle"><span class="label"><span class="access">Toggle</span> Search</span></a>
+	<div id="search" class="search"><form method="get" action="/search.html"><label for="search-box" class="access">Search terms</label><input name="q" id="search-box" class="query" type="search" placeholder="Search"><button class="submit search-submit" type="submit" id="search-submit"><span class="access">Submit</span></button></form></div>
+
+      </search>
+    </div>
+  </div>
+</header>
+
+  
+<nav class="breadcrumbs-wrapper" aria-label="Breadcrumb"><div id="breadcrumbs" class="breadcrumbs"><ol>
+  <li><a href="/">RAND</a></li><li><a href="/pubs.html">Research & Commentary</a></li><li><a href="/pubs/research_reports.html">Research Reports</a></li><li class="access"><a href="/pubs/research_reports/RRA853-1.html" aria-current="page">RR-A853-1</a></li>
+  </ol></div>
+  </nav>
+  <div class="column-wrap one-column">
+    
+
+<div id="content"><main id="page-content">
+	
+
+<div class="print-abstract"><div class="short-abstract"><p>This report explores Chinese military thinking about next-generation psychological warfare, with a special focus on the applications of emerging technologies and implications for the United States. As the U.S. military increases its focus on China, it is important to understand how Chinese psychological warfare capabilities may evolve and what this would mean for Chinese strategic behavior in a crisis or conflict.</p></div></div>
+<div class="product-header">
+
+<div class="multimedia-div "></div>
+
+
+
+
+	<div class="product-header-cols">
+	<div class="text">
+	
+
+
+<h1 id="RANDTitleHeadingId">Chinese Next-Generation Psychological Warfare</h1>
+
+<p class="subtitle">The Military Applications of Emerging Technologies and Implications for the United States</p>
+<p class="authors"><a href="/about/people/b/beauchamp-mustafaga_nathan.html">Nathan Beauchamp-Mustafaga</a></p><p class="type-published"><span class="type">Research</span><span class="published">Published Jun 1, 2023</span></p>
+	</div><div class="cover-cta top sand30"><div>
+<div class="cover-image"><div data-cmp-src="/content/rand/pubs/research_reports/RRA853-1/jcr:content/par/product.fit.264x264.jpeg/1685100617431.jpeg" id="image-e60fed1cab" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA853-1/jcr:content/par/product.fit.264x264.webp/1685100617431.webp 1x, /content/rand/pubs/research_reports/RRA853-1/jcr:content/par/product.fit.528x528.webp/1685100617431.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA853-1/_jcr_content/par/product.fit.264x264.jpeg/1685100617431.jpeg" fetchpriority="high" itemprop="contentUrl" width="204" height="264" alt="Cover: Chinese Next-Generation Psychological Warfare"/>
+    </picture>
+  
+  
+</div>
+</div>
+
+
+  <div id="buybox" class="buybox">
+    <div class="buybox-buttons">
+      <div class="btn-download">
+        <a href="/content/dam/rand/pubs/research_reports/RRA800/RRA853-1/RAND_RRA853-1.pdf" class="btn btn-md icon-before icon-before-download" data-rand-ado="%7B%22id%22%3A%22RRA853-1%22%2C%22language%22%3A%22en%22%2C%22format%22%3A%22pdf%22%2C%22hasMicrocontent%22%3Atrue%7D">Download PDF</a>
+        
+      </div>
+      
+      
+      
+    </div>
+  </div>
+
+</div></div>
+  </div>
+
+</div>
+
+
+<div class="social-media-buttons follow-rand">
+<ul><li><a class="linkedin social-button" data-hover="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.rand.org%2Fpubs%2Fresearch_reports%2FRRA853-1.html&title=Chinese+Next-Generation+Psychological+Warfare%3A+The+Military+Applications+of+Emerging+Technologies+and+Implications+for+the+United+States"><span class="access">Share on LinkedIn</span></a></li><li><a class="twitter social-button" data-hover="Share on X" href="https://x.com/intent/tweet?url=https%3A%2F%2Fwww.rand.org%2Fpubs%2Fresearch_reports%2FRRA853-1.html&amp;text=Chinese+Next-Generation+Psychological+Warfare%3A+The+Military+Applications+of+Emerging+Technologies+and+Implications+for+the+United+States&amp;via=RANDCorporation"><span class="access">Share on X</span></a></li><li><a class="facebook social-button" data-hover="Share on Facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.rand.org%2Fpubs%2Fresearch_reports%2FRRA853-1.html"><span class="access">Share on Facebook</span></a></li><li><a href="mailto:?subject=RAND%3A%20Chinese%20Next-Generation%20Psychological%20Warfare&amp;body=From%20RAND%0A%0AChinese%20Next-Generation%20Psychological%20Warfare%0A%0A%3Cp%3EThis%20report%20explores%20Chinese%20military%20thinking%20about%20next-generation%20psychological%20warfare%2C%20with%20a%20special%20focus%20on%20the%20applications%20of%20emerging%20technologies%20and%20implications%20for%20the%20United%20States.%3C%2Fp%3E%0A%0Ahttps%3A%2F%2Fwww.rand.org%2Fpubs%2Fresearch_reports%2FRRA853-1.html" rel="nofollow noopener" class="email social-button" data-hover="Email"><span class="access">Email</span></a></li></ul>
+</div>
+<div class="product-main constrain-width"><div class="abstract product-page-abstract">
+<div class="abstract-first-letter"><p>China views psychological warfare, centered on the manipulation of information to influence adversary decisionmaking and behavior, as one of several key components of modern warfare. The U.S. military's increased focus on China and preparations for a potential U.S.-China conflict mean that it is important to understand how Chinese psychological warfare capabilities may evolve and what they would mean for Chinese strategic behavior in a crisis or conflict. The author explores Chinese military thinking about next-generation psychological warfare. China is interested in both advanced computing, such as big data, and brain science for their potential military applications to improve future psychological warfare capabilities.</p> 
+<p>Leveraging a wide array of Chinese-language primary-source materials, the author provides an overview of Chinese thinking on psychological warfare, key capabilities, and related operational concepts that the Chinese military is pursuing and presents a hypothetical case study to illustrate how these capabilities, if realized, may be applied to a future U.S.-China contingency. One high-risk future scenario is if the Chinese military and broader leadership believes that these emerging technologies enable Beijing to predict or otherwise influence adversary decisionmaking. This could lead Beijing to have misplaced confidence in its ability to deter adversaries from fighting or coerce them to not fight at all.</p>
+  </div>
+</div>
+
+
+
+
+
+	<h2 id="key-findings-" class="microcontent">Key Takeaways</h2>
+	<div class="key-findings">
+	<h3 class="medium">Chinese military thinking on psychological warfare is much more diverse than previously understood</h3><ul><li>Although there are areas of general agreement (the objectives of psychological warfare), there is clearly debate over various operational concepts.</li>
+</ul><h3 class="medium">The People's Liberation Army psychological warfare community has discussed a variety of technologies that it envisions leveraging for future operations</h3><ul><li>These include advanced computing, especially big data and information processing; brain science, especially brain imaging; and legacy proposals that remain of interest, including sonic weapons, laser weapons, subliminal messaging, and holograms.</li>
+<li>There is strong evidence the Chinese military has developed and employed information manipulation capabilities and laser weapons already, although it is unclear whether these have been specifically intended as psychological warfare.</li>
+</ul><h3 class="medium">There are three alternative futures that illustrate potential trends and the long-term outlook for Chinese psychological warfare</h3><ul><li>The first is an embrace of information manipulation as a leading edge of national power.</li>
+<li>The second is a bold new direction for warfare, centered on a Chinese military embrace of emerging technology for predicting or otherwise shaping adversary decisionmaking.</li>
+<li>The third is a failure of imagination, causing a continuation of the status quo for Chinese military capabilities.</li>
+</ul><h3 class="medium">The real-world impact of next-generation psychological warfare capabilities may be even less important than Beijing's assumption about whether they will work as intended, or, once employment begins, even its perception that they are working as intended</h3><ul><li>This raises the risk that once China realizes that its psychological warfare efforts are not having the intended effect, such as the adversary taking a different course of action, Beijing might respond in unpredictable ways.</li>
+</ul>
+	</div>
+	
+	<h2 id="recommendations-" class="microcontent">Recommendations</h2>
+	<div class="recommendations">
+	<ul><li>The U.S. Department of Defense (DoD) should pay special attention to indications that the Chinese military is becoming more interested in predicting or influencing adversary decisionmaking.</li>
+<li>DoD should continue to improve its understanding of Chinese psychological warfare theory (doctrine) and development of new capabilities across the research and development process.</li>
+<li>DoD should better understand China's psychological warfare workforce.</li>
+<li>DoD should better understand Chinese psychological warfare operations and training.</li>
+<li>DoD should pay special attention to how Beijing is applying military-civil fusion toward psychological warfare.</li>
+<li>DoD should better understand Chinese concerns about adversary psychological warfare for defense.</li>
+<li>DoD should consider how to protect its troops from Chinese psychological warfare (nonlethal) weapons.</li>
+<li>DoD should consider how to protect its troops from Chinese information collection and information manipulation.</li>
+<li>DoD should consider dialogue with China, specifically the Chinese military, on the implications of new technology for warfare and the acceptable scope of conflict.</li>
+<li>The U.S. intelligence community should pay special attention to an increase in intelligence deception from China.</li>
+</ul>
+	</div>
+	
+
+  
+
+
+
+
+<aside aria-label="Newsletter Subscription: Policy Currents newsletter" class="newsletter-subscription-box-wrapper" data-subscription-name="Policy Currents newsletter">
+  <div class="newsletter-subscription-box sand30 pc">
+    
+    <div class="text"><h2 class="c6 subscription-name"><span class="normal">Subscribe to the </span> Policy Currents newsletter</h2></div><form class="subscribeForm" method="post" data-component-path="/content/rand/pubs/research_reports/RRA853-1/jcr:content/par/product/par-subscribe/subscribeNoAccount" data-subscription-path="/content/rand/newsletters/rand-news-bulletin">
+        <label for="emailsubscribeNoAccount" class="access">Email</label><input type="email" name="emailsubscribeNoAccount" id="emailsubscribeNoAccount" class="email" required placeholder="Email Address">
+        <button class="btn btn-sm signup-recaptcha recaptcha-init " data-sitekey="6Lej1OkfAAAAACl4nbglyfLqKdV5PjWQHXCz_9Tc" data-size="invisible">Subscribe</button><div class="recaptcha-error error"></div>
+        </form></div>
+</aside>
+
+
+
+<!-- Begin Tags -->
+<h2 class="c6">Topics</h2>
+  <ul class="related-topics css2col css1col-sm"><li><a href="/topics/china.html">China</a></li><li><a href="/topics/cyber-warfare.html">Cyber Warfare</a></li><li><a href="/topics/emerging-technologies.html">Emerging Technologies</a></li><li><a href="/topics/information-operations.html">Information Operations</a></li><li><a href="/topics/intelligence-community.html">Intelligence Community</a></li><li><a href="/topics/military-strategy.html">Military Strategy</a></li><li><a href="/topics/psychological-warfare.html">Psychological Warfare</a></li></ul>
+<!-- End Tags -->
+
+<div class="tabcontainer accordion">
+<div class="tabContent">
+<div class="tabs" id="document-details">
+
+  
+<h2 class="tabs-heading">Document Details</h2><div class="tabContentInner"><div>
+
+<ul class="document-details css2col css1col-sm">
+<li class="copyright"><strong>Copyright:</strong> RAND Corporation</li><li><strong>Availability:</strong> Web Only</li>
+  <li><strong>Year:</strong> 2023</li><li><strong> Pages:</strong> 224</li><li><strong>DOI:</strong> <a href="https://doi.org/10.7249/RRA853-1">https://doi.org/10.7249/RRA853-1</a></li>
+  <li><strong>Document Number:</strong> RR-A853-1</li>
+
+</ul>
+
+</div></div>
+
+</div>
+
+<div class="tabs" id="citation">
+
+
+<div id="citation-message">
+  <h2 class="tabs-heading">Citation</h2>
+  <div class="tabContentInner"><div>
+    <div id="rand-style-manual" class="citation-format" hidden>
+      <h3 class="c7 sans">RAND Style Manual</h3>
+      <div class="format citation-rand sans small">Beauchamp-Mustafaga, Nathan, <em>Chinese Next-Generation Psychological Warfare: The Military Applications of Emerging Technologies and Implications for the United States,</em> RAND Corporation, RR-A853-1, 2023. As of October 26, 2026: https://www.rand.org/pubs/research_reports/RRA853-1.html</div>
+      <div class="citation-download-options">
+        <button type="button" data-type="rand" class="btn btn-secondary btn-xs icon-before icon-copy">Copy Text</button>
+      </div>
+    </div>
+    <div class="citation-format">
+      <h3 class="c7 sans">Chicago Manual of Style</h3>
+      <div class="format citation-chicago sans small">Beauchamp-Mustafaga, Nathan, Chinese Next-Generation Psychological Warfare: The Military Applications of Emerging Technologies and Implications for the United States. Santa Monica, CA: RAND Corporation, 2023. https://www.rand.org/pubs/research_reports/RRA853-1.html.</div>
+      <div class="citation-download-options">
+        <button type="button" data-type="chicago" class="btn btn-secondary btn-xs icon-before icon-copy">Copy Text</button>
+        <a href="/content/rand/pubs/research_reports/RRA853-1/_jcr_content/par/product.RRA853-1.bib" class="icon-before icon-before-citation sans small" download>BibTeX</a>
+        <a href="/content/rand/pubs/research_reports/RRA853-1/_jcr_content/par/product.RRA853-1.ris" class="icon-before icon-before-citation sans small" download>RIS</a>
+      </div>
+    </div>
+  </div></div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="full-bg-sand full-bg-bottom">
+  <div class="conducted">
+	<h2 class="eyebrow-heading">Research conducted by</h2>
+	<ul class="upc">
+<li class="nsrd c6"><a href="/nsrd.html"><span class="rand">RAND</span> National Security Research Division</a></li>
+</ul>
+
+  </div>
+<div id="indicia" class="sans small">
+<div class="print-indicia"><p>This research was sponsored by Office of Net Assessment in the Office of the Secretary of Defense and conducted within the <a href="/nsrd/isdp.html">International Security and Defense Policy Program</a> of the <a href="/nsrd.html">RAND National Security Research Division</a> (NSRD).</p></div><p>This publication is part of the RAND research report series. Research reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND research reports undergo rigorous peer review to ensure high standards for research quality and objectivity.</p><p>This document and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to this product page is encouraged. Permission is required from RAND to reproduce, or reuse in another form, any of its research documents for commercial purposes. For information on reprint and reuse permissions, please visit <a href='/pubs/permissions.html'>www.rand.org/pubs/permissions</a>.</p>
+<p>RAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.</p>
+</div>
+
+
+
+</div>
+</div>
+
+
+
+	</main>
+</div>
+</div>
+	
+
+<footer id="footer" class="global-footer" lang="en" dir="ltr"><div class="footer-inner">
+			
+<div class="footer footerContent">
+<div class="foot-row border-right">
+	<div class="foot-column about">
+    <div class="brand-wrap"><a href="/" class="logo"><img src="/etc.clientlibs/rand/designs/common/images/resources/logo-corp.svg" alt="RAND" width="64" height="64"></a><div class="tag-line c6">Objective Analysis. Effective Solutions.</div></div>
+		<div class="footerAbout htmlBlock">
+  
+	<p class="small">RAND is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest.</p>
+
+<div class="loc">
+<h2 class="c8">RAND Headquarters</h2>
+<p class="c8 adr">P.O. Box 2138 <br>1776 Main Street<br>Santa Monica, CA 90401-2138</p>
+
+<p class="c8">RAND has offices across the U.S., in Europe, and in Australia</p>
+<a href="/about/contacts.html" class="c8  underline">See all RAND locations</a>
+</div>
+
+
+    
+</div>
+
+	</div>
+  <div class="foot-column nav-links">
+    <div class="footerLinks htmlBlock">
+  <ul>
+  <li><a href="/about.html">About</a></li>
+  <li><a href="/about/leadership.html">Leadership</a></li>
+  <li><a href="/about/research-integrity.html">Research Integrity</a></li>
+  <li><a href="https://www.rand.edu">Graduate School</a></li>
+  <li><a href="/support-us.html">Support RAND</a></li>
+  <li><a href="/jobs.html">Careers</a></li>
+  <li><a href="/about/contacts.html">Contact</a></li>
+  <li class="spacer-after"><a href="/services-and-impact/work-with-us.html">Work with Us</a></li>
+  <li><a href="/news.html">For Media</a></li>
+  <li><a href="/congress.html">For Congress</a></li>
+</ul>
+
+
+
+    
+</div>
+
+  </div>
+  <div class="foot-column stay-informed corp">
+    <div class="footer-subscribe-par parsys"><div class="headingTag parbase section"><h2 id="subscribe-footer-heading">Subscribe to the Policy Currents Newsletter</h2>
+</div>
+<div class="htmlBlock section">
+  <p class="small">And stay on top of the issues that matter most.</p>
+
+
+    
+</div>
+<div class="subscribeNoAccount section">
+
+
+<aside aria-label="Newsletter Subscription: Policy Currents newsletter" class="newsletter-subscription-box-wrapper" data-subscription-name="Policy Currents newsletter">
+  <div class="newsletter-subscription-box  pc">
+    
+    <div class="text"></div><form class="subscribeForm" method="post" data-component-path="/content/admin/rand-footer/jcr:content/par/footer/footer-subscribe-par/footer-subscribe" data-subscription-path="/content/rand/newsletters/rand-news-bulletin">
+        <label for="emailfooter-subscribe" class="access">Email</label><input type="email" name="emailfooter-subscribe" id="emailfooter-subscribe" class="email" required placeholder="Email Address">
+        <button class="btn btn-sm signup-recaptcha recaptcha-init " data-sitekey="6Lej1OkfAAAAACl4nbglyfLqKdV5PjWQHXCz_9Tc" data-size="invisible">Subscribe</button><div class="recaptcha-error error"></div>
+        </form><a href="/newsletters.html" class="standalone mono small">View all newsletters</a></div>
+</aside>
+</div>
+
+</div>
+
+    <div class="follow-rand">
+		<ul class="horizontal">
+			<li><a class="linkedin external" href="https://www.linkedin.com/company/rand-corporation"><span class="access">RAND on LinkedIn</span></a></li>
+			<li><a class="twitter external" href="https://x.com/RANDCorporation/"><span class="access">RAND on X</span></a></li>
+			<li><a class="instagram external" href="https://www.instagram.com/randcorporation/"><span class="access">RAND on Instagram</span></a></li>
+			<li><a class="facebook external" href="https://www.facebook.com/RANDCorporation"><span class="access">RAND on Facebook</span></a></li>
+			<li><a class="youtube external" href="https://www.youtube.com/user/TheRANDCorporation"><span class="access">RAND on YouTube</span></a></li>
+			<li><a class="bluesky external" href="https://bsky.app/profile/rand.org"><span class="access">RAND on Bluesky</span></a></li>
+			<li><a class="threads external" href="https://www.threads.net/@randcorporation"><span class="access">RAND on Threads</span></a></li>
+			<li><a class="policy-minded external" href="/pubs/podcasts.html"><span class="access">Policy Minded: RAND's Flagship Podcast</span></a></li>
+		</ul>
+</div>
+
+  </div>
+</div>
+<div class="sub-footer">
+  <div class="inner">
+    <div class="sub-flex">
+      <p>RAND® is a registered trademark. © 2026 RAND Corporation.</p>
+      <p class="legal-links"><a href="/site_info/privacy.html">Privacy Policy</a><a href="/site_info/terms-and-conditions.html">Terms and Conditions</a></p>
+      <dl class="internat">
+        <dt class="access">International Websites:</dt>
+        <dd class="zh"><a href="/zh-hans.html" lang="zh">中文</a></dd>
+        <dd class="ar"><a href="/ar.html" dir="rtl" lang="ar">العربية</a></dd>
+      </dl>
+    </div>
+    <p class="g-links">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.</p>
+  </div>
+</div>
+</div>
+
+
+		
+
+
+
+	
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","G-M182E1GBSR");RAND.analyticsExtendDataObject({"content":[{"id":"RRA853-1","hasMicrocontent":true,"productSeries":"Research Reports","divisions":["RAND National Security Research Division","International Security and Defense Policy Program"]}],"page":{"id":"RRA853-1","isProduction":true,"language":"en","siteName":"rand","randDate":1685624400000,"contentType":"research","tags":["Intelligence Community","Research","Psychological Warfare","Military Strategy","China","Information Operations","Cyber Warfare","Emerging Technologies"]}});RAND.analyticsExtendDataObject("pageTimestamp", 1793453537);if(typeof(pageDataTracker) == 'object'){pageDataTracker.trackPageLoad();}
+</script>
+  
+<script async src="https://www.google.com/recaptcha/api.js?onload=randRecaptchaCallback&render=explicit"></script>
+<script defer src="/etc.clientlibs/rand/support/js/core.min.1bee33ace434d5e341e0858e0f7ef812.js"></script>
+<script defer src="/etc.clientlibs/rand/support/js/product.min.dc5b89273c5195bd3d3d6b43856a694f.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M182E1GBSR"></script>
+
+</div></footer>
+
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+# The Spectator (UK #4)
+
+| Field | Value |
+|---|---|
+| Method | email |
+| To / URL | wmoore@spectator.co.uk |
+| Piece | Russia State-Guided Capitalism (Proof Is in the Puddin', neutral) |
+| Type | PITCH (EXCLUSIVE) |
+| Angle | UK sanctions policy: judge measures by outcomes |
+| Image | none |
+| Limit | pitch ~230 |
+| Word count (body) | 206 |
+| Status | ready - NOT SENT |
+
+**Subject / headline:** Pitch: Russia's economy was supposed to collapse. Why didn't it?
+
+---
+
+Dear Mr Moore,
+
+I'd like to pitch a feature of 1,200-1,500 words for The Spectator on a question British policy has avoided: why Russia's state-guided economy has absorbed sanctions far better than Western forecasters predicted.
+
+In April 2022 the IMF expected Russia's economy to shrink 8.5%. Its current figures show a 1.4% contraction that year, then growth in 2023 and 2024. The piece would trace the model back to the 1990s collapse, explain how the state reasserted control over strategic sectors after 2000, and set the record under sanctions, using IMF, World Bank and Rosstat figures, against the costs: persistent inflation, a punishing key rate, slowing growth and a heavy military burden. It would close with what the miss means for Britain, which has sanctioned more Russian individuals and entities than almost anyone and rarely asks whether the measures meet their goals.
+
+My commentary on the subject is here: https://medium.com/@williamaaronturner/the-proof-is-in-the-puddin-sanctions-proof-war-proof-and-chaos-proof-fee512d49e94. The Spectator piece would be original and exclusive.
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best wishes,
+William Aaron Turner
+Founder & President, Infinitum Corporation (Washington, DC)
++1 202-729-9509 | info@theinfinitumcorporation.com

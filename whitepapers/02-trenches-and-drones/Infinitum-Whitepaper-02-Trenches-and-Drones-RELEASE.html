@@ -1,0 +1,1260 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><title>Trenches and Drones: Network Defense for a War of Attrition | Infinitum Whitepaper 02</title>
+<meta name="author" content="William Aaron Turner"/><meta name="description" content="Practical, Integrated Steps for Mid-Size Organizations"/>
+<style>@font-face{font-family:'PoppinsBrand';font-weight:300;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-Light.ttf');}
+@font-face{font-family:'PoppinsBrand';font-weight:400;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-Regular.ttf');}
+@font-face{font-family:'PoppinsBrand';font-weight:500;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-Medium.ttf');}
+@font-face{font-family:'PoppinsBrand';font-weight:600;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-SemiBold.ttf');}
+@font-face{font-family:'PoppinsBrand';font-weight:700;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-Bold.ttf');}
+
+.cv{position:relative;width:8.5in;height:11in;background:#000 url('file:///workspace/whitepapers/02-trenches-and-drones/assets/cover-bg.png') center/cover no-repeat;
+    color:#fff;font-family:'PoppinsBrand',sans-serif;overflow:hidden;page-break-after:always}
+.cv .fade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.95) 0,rgba(0,0,0,.0) 38%,rgba(0,0,0,0) 100%)}
+.cv .top{position:absolute;left:.62in;right:.62in;top:.62in;display:flex;align-items:center}
+.cv .wm{font-weight:600;font-size:15pt;letter-spacing:.24em;white-space:nowrap}
+.cv .rule{flex:1;height:0;border-top:1.5pt solid #fff;margin-left:.3in}
+.cv .tb{position:absolute;left:.62in;right:.9in;top:4.0in}
+.cv h1{font-weight:700;font-size:58pt;line-height:1.06;letter-spacing:-.01em;margin:0 0 .28in 0}
+.cv h2{text-wrap:balance;font-weight:600;font-size:25pt;line-height:1.2;letter-spacing:-.005em;margin:-.08in 0 .22in 0;color:#fff}
+.cv .sub{font-weight:300;font-size:19pt;line-height:1.35;color:#b8b8b8;margin:0;max-width:6.2in;hyphens:none}
+.cv .tag{font-weight:600;font-size:9.5pt;letter-spacing:.3em;text-transform:uppercase;color:#fff;margin:.38in 0 0 0;padding-top:.14in;border-top:.75pt solid #6a6a6a;display:inline-block}
+.cv .bot{position:absolute;left:.62in;right:.62in;bottom:.6in;display:flex;justify-content:space-between;align-items:flex-end}
+.cv .lab{font-weight:700;font-size:13pt}
+.cv .lab small{display:block;font-weight:400;font-size:7.5pt;letter-spacing:.22em;color:#8a8a8a;margin-top:6pt;text-transform:uppercase}
+.cv .ct{font-weight:400;font-size:8.5pt;line-height:1.65;color:#cfcfcf;text-align:right}
+
+
+:root{--ink:#161616;--muted:#666;--rule:#d9d9d9;--tint:#f2f2f2;--dk:#0d0d0d;--dk2:#2b2b2b;--mid:#777}
+@page{size:Letter;margin:.95in .9in .9in .9in;
+ @top-left{content:"INFINITUM CORPORATION  ·  WHITEPAPER 02";font:600 7.5pt PoppinsBrand;letter-spacing:.14em;color:var(--muted);vertical-align:bottom;padding-bottom:6pt;border-bottom:.5pt solid var(--rule)}
+ @top-right{content:string(chapter);font:400 7.5pt PoppinsBrand;color:var(--muted);vertical-align:bottom;padding-bottom:6pt;border-bottom:.5pt solid var(--rule)}
+ @bottom-left{content:"Trenches and Drones";font:400 7.5pt PoppinsBrand;color:var(--muted)}
+ @bottom-right{content:counter(page);font:600 8.5pt PoppinsBrand;color:var(--dk)}}
+@page cover{size:Letter;margin:0;@top-left{content:none;border:none}@top-right{content:none;border:none}@bottom-left{content:none}@bottom-right{content:none}}
+@page front{@top-right{content:""}}
+html{font-family:"Source Serif Pro","Source Serif 4",Georgia,serif;font-size:10.6pt;line-height:1.5;color:var(--ink)}
+body{margin:0}a{color:var(--dk2);text-decoration:none}
+.cv{page:cover}
+.cv h1{color:#fff!important;break-before:avoid;padding-top:0;string-set:none;font-family:PoppinsBrand;font-weight:700;font-size:58pt;line-height:1.06;margin:0 0 .28in 0}
+.cv h2{color:#fff!important;font-family:PoppinsBrand;margin:-.08in 0 .22in 0;font-size:25pt;font-weight:600}
+.cv p{margin:0}
+.cv,.cv *{hyphens:none!important}
+.legal{page:front;break-after:page;height:8.9in;position:relative}
+.legal-inner{position:absolute;bottom:0;font-size:8.6pt;line-height:1.5;color:#333}
+.legal-title{font:700 11pt PoppinsBrand;color:var(--dk);margin-bottom:4pt}
+.legal-h{font:700 8pt PoppinsBrand;letter-spacing:.15em;text-transform:uppercase;color:var(--dk);margin:14pt 0 2pt 0}
+.legal-note{margin-top:16pt;font-style:italic}
+.toc{page:front;break-after:page}.toc-title{string-set:none}
+.toc-list{list-style:none;padding:0;margin:18pt 0 0 0}.toc-list li{margin:0}
+.toc-list li a{color:var(--ink)}.toc-list li a::after{content:leader(dotted) " " target-counter(attr(href),page);color:var(--muted)}
+.toc-l1{font:600 10pt PoppinsBrand;margin-top:9pt!important}.toc-l1 a{color:var(--dk)!important}
+.toc-l2{font:400 9.6pt "Source Serif Pro";padding-left:16pt;margin-top:3pt!important}
+h1{font:700 23pt/1.14 PoppinsBrand;color:var(--dk);letter-spacing:-.01em;margin:0 0 18pt 0;padding-top:6pt;break-before:page;string-set:chapter content()}
+main h1::before{content:"";display:block;width:.8in;height:3pt;background:var(--dk);margin-bottom:14pt}
+h2{font:600 14.5pt/1.22 PoppinsBrand;color:var(--dk);margin:22pt 0 8pt 0;break-after:avoid}
+h3{font:600 11pt/1.25 PoppinsBrand;color:var(--dk2);margin:16pt 0 5pt 0;break-after:avoid}
+p{margin:0 0 7pt 0;orphans:2;widows:2;hyphens:auto}
+ul,ol{margin:4pt 0 9pt 0;padding-left:18pt}li{margin-bottom:3pt}strong{color:#000}
+blockquote{margin:10pt 0 12pt 0;padding:6pt 12pt 6pt 14pt;border-left:2.5pt solid var(--dk2);background:var(--tint);font-style:italic;color:#2b2b2b}
+blockquote p{margin:0}
+blockquote.pull{hyphens:manual;border:none;background:none;padding:10pt .35in;margin:14pt 0;font:600 14.5pt/1.32 "Source Serif Pro";font-style:italic;color:var(--dk);border-top:.8pt solid var(--dk);border-bottom:.8pt solid var(--dk);break-inside:avoid}
+blockquote.pull p::before{content:"“";font:700 30pt/0 PoppinsBrand;color:var(--mid);vertical-align:-10pt;margin-right:4pt}
+.callout{background:var(--dk);color:#fff;padding:12pt 16pt;margin:14pt 0;break-inside:avoid}
+.callout p{color:#eee;margin:0;font-size:11pt}
+.callout-lead{font:600 8pt PoppinsBrand!important;letter-spacing:.2em;text-transform:uppercase;color:#bbb!important;margin-bottom:4pt!important}
+table{width:100%;border-collapse:collapse;margin:10pt 0 6pt 0;font:400 8.2pt/1.35 PoppinsBrand;break-inside:auto}
+thead{display:table-header-group}
+th{background:var(--dk);color:#fff;font-weight:600;text-align:left;padding:5pt 6pt;vertical-align:bottom}
+td{padding:5pt 6pt;border-bottom:.5pt solid var(--rule);vertical-align:top}tr{break-inside:avoid}
+tbody tr:nth-child(even) td{background:#f6f6f6}
+p.source{font:400 8pt PoppinsBrand;color:var(--muted);margin-top:2pt}
+h2[id^="part-"]{string-set:chapter content()}
+.scenario{border:.8pt solid #ccc;border-left:4pt solid var(--dk);background:#fafafa;padding:10pt 14pt 6pt 14pt;margin:12pt 0 14pt 0}
+.scenario-tag{font:600 7.5pt PoppinsBrand;letter-spacing:.2em;text-transform:uppercase;color:#555;margin-bottom:4pt!important}
+.scenario p{font-size:9.8pt}
+ul.checklist{list-style:none;padding-left:4pt}ul.checklist li{margin-bottom:4pt;font-size:10pt}
+#about+p{font-size:11pt}
+.refs ol{padding-left:20pt}.refs li{font-size:8.8pt;line-height:1.4;margin-bottom:5pt;overflow-wrap:anywhere}
+.glossary p{font-size:9.4pt;margin-bottom:5pt}
+</style></head><body>
+
+<div class="cv"><div class="fade"></div>
+ <div class="top"><div class="wm">INFINITUM CORPORATION</div><div class="rule"></div></div>
+ <div class="tb"><h1>Trenches and Drones</h1><h2>Network Defense for a War of Attrition</h2><p class="sub">Practical, Integrated Steps for Mid-Size Organizations</p><p class="tag">Dig in. Spread out. Keep going.</p></div>
+ <div class="bot"><div class="lab">Whitepaper &nbsp;02<small>November 2026</small></div>
+ <div class="ct">William Aaron Turner, Founder &amp; President<br>Infinitum Corporation, Washington, DC<br>t.me/infinitumcorporation<br>www.theinfinitumcorporation.com<br>info@theinfinitumcorporation.com</div></div>
+</div><section class="legal"><div class="legal-inner">
+<p class="legal-title">Trenches and Drones: Network Defense for a War of Attrition<br/>Practical, Integrated Steps for Mid-Size Organizations</p>
+<p>Infinitum Corporation Whitepaper No. 2 &middot; November 2026 &middot; <strong>Released November 2, 2026</strong></p>
+<p class="neutral"><strong>Neutrality statement.</strong> This paper draws general lessons about technology and conflict from public sources. It takes no side and makes no claim about any party.</p>
+<p>&copy; 2026 Infinitum Corporation. All rights reserved. No part of this publication may be reproduced or distributed without written permission, except for brief quotations with attribution.</p>
+<p class="legal-h">Disclaimer</p>
+<p>This whitepaper is provided for general information only. It is not legal, regulatory or professional advice for any specific situation, and it does not create a client relationship. Statistics are taken from the public sources cited and remain the property of their publishers; they describe the samples studied by those publishers and are not benchmarks or predictions for any particular organization. Infinitum Corporation makes no promise or guarantee about the security outcome any organization will achieve.</p>
+<p>This paper is strictly analytical and defensive. References to irregular warfare, gray-zone competition and hybrid threats are used as an analytic lens for defense and resilience. Nothing in this paper is instruction for offensive activity. Any security testing referred to here means authorized, scoped testing performed with the written permission of the system owner.</p>
+<p>Scenarios in Part VIII are illustrative and hypothetical. They do not describe any real organization, client or incident.</p>
+<p>Trademarks and framework names belong to their respective owners. Citation of a source does not imply that its publisher endorses this paper or Infinitum Corporation.</p>
+<p class="legal-h">Contact</p>
+<p>Infinitum Corporation, Washington, DC &middot; 1629 K Street NW, Suite 300<br/>https://www.theinfinitumcorporation.com<br/>info@theinfinitumcorporation.com<br/>Telegram: https://t.me/infinitumcorporation &middot; X: https://x.com/infinitumceo</p>
+<p class="legal-note">All data comes from the public record. All conclusions are mine. &mdash; W.A.T.</p>
+</div></section><section class="toc"><h1 class="toc-title" id="contents">Contents</h1><ul class="toc-list"><li class="toc-l1"><a href="#executive-summary">Executive summary</a></li><li class="toc-l1"><a href="#the-problem">The problem: they do not need to beat you once</a></li><li class="toc-l1"><a href="#the-modern-battlefield">The modern battlefield, read by a security analyst</a></li><li class="toc-l1"><a href="#analysis">Analysis: five fronts and two cross-cutting concerns</a></li><li class="toc-l2"><a href="#part-i-trenches">Part I: Trenches. Depth beats a hard shell</a></li><li class="toc-l2"><a href="#part-ii-drones">Part II: Drones. Cheap mass against your attention</a></li><li class="toc-l2"><a href="#part-iii-electronic-warfare">Part III: Electronic warfare. When the signal lies</a></li><li class="toc-l2"><a href="#part-iv-sensors">Part IV: Sensors. Assume you are being watched</a></li><li class="toc-l2"><a href="#part-v-supply-lines">Part V: Supply lines. The rear is part of the front</a></li><li class="toc-l2"><a href="#part-vi-command">Part VI: Command. Decide faster than the grind</a></li><li class="toc-l2"><a href="#part-vii-people">Part VII: People. Endurance is the strategy</a></li><li class="toc-l2"><a href="#part-viii-scenarios">Part VIII: Three scenarios</a></li><li class="toc-l1"><a href="#recommendations">Recommendations</a></li><li class="toc-l1"><a href="#conclusion">Conclusion</a></li><li class="toc-l1"><a href="#about">About Infinitum Corporation</a></li><li class="toc-l1"><a href="#references">References</a></li><li class="toc-l1"><a href="#glossary">Glossary</a></li></ul></section><main><!-- BODY-START -->
+
+<h1 id="executive-summary">Executive summary</h1>
+<p>By William Aaron Turner, Founder and President, Infinitum Corporation.</p>
+<p>Nobody wins this fight in a day.</p>
+<p>That is the first thing to understand about defending a network. The contest is not one big battle. It is a long grind of small, cheap, constant pressure. Scans that never stop. Phishing waves that arrive in bursts. Floods of junk traffic that last nine minutes and come back tomorrow. A device at the edge of your network that has been waiting for a patch for six weeks.</p>
+<p>Attrition is the right word for it. Attrition means wearing the other side down. It is a contest of cost, endurance and replacement. The side that can absorb losses, repair, adapt and keep operating outlasts the side that cannot.</p>
+<p>This paper is about how a mid-size organization stays in that contest. It is a practical look at network defense when the pressure is persistent, automated and cheap for the people applying it.</p>
+<p>I read security problems through one lens: irregular warfare. That is the study of how states and other groups compete through indirect, non-attributable or asymmetric means, and how to counter them. Joint doctrine says irregular warfare &ldquo;seeks to create dilemmas and increase risk and costs to adversaries&rdquo; (JP 1 Vol 1, 2023, as quoted in U.S. Army CALL, 2025). You don&rsquo;t need to care about doctrine to benefit from it. You only need to notice that the people working against your network behave the way it describes.</p>
+<p>Then add the picture public analysts paint of the modern battlefield. My shorthand for it: trench-style grind fused with science fiction. Defense in depth and dug-in positions. Cheap drones in huge numbers. Jammed and spoofed signals. Sensors everywhere. Supply lines under constant observation (CSIS, 2025a; CSIS, 2025b; CSIS, 2025c).</p>
+<p>That is a comparison, not a claim that your network is a front line. Nobody is shooting at your servers. <strong>This paper draws general lessons about technology and conflict from public sources. It takes no side and makes no claim about any party.</strong> It leaves out casualty, loss and performance figures for every side, because they are contested and because a security team does not need them. The lessons sit at the level of technology and phenomena, and each one comes back to a decision you can make on Monday.</p>
+<h2 id="five-fronts-one-war">Five fronts, one war</h2>
+<p>The paper walks through five fronts. Each pairs a feature of the modern battlefield, as public sources describe it, with the same feature on your network.</p>
+<ul>
+<li><strong>Trenches: depth.</strong> CSIS says defenders who can dig in with effective counter-drone measures hold a significant advantage over those who must cross open land (CSIS, 2025a). On a network, that means segmentation, identity checks at every line, and an implicit trust zone kept &ldquo;as small as possible&rdquo; (NIST SP 800-207, 2020).</li>
+<li><strong>Drones: cheap mass.</strong> CSIS puts the economics in one line: &ldquo;If a $500 drone can destroy a multimillion-dollar tank, so, too, can a USV swarm destroy a fleet of ships&rdquo; (CSIS, 2025a). Your version is automated scanning, credential stuffing and flood traffic. In Verizon&rsquo;s data, the median breached entity facing distributed denial of service (DDoS) contended with 17 distinct attacks over a year, and half of all attacks lasted less than nine minutes (Verizon, 2026).</li>
+<li><strong>Electronic warfare: trust under attack.</strong> Jamming and spoofing target the signals that machines trust. IATA data, cited in a joint release with the European aviation regulator EASA, shows GPS signal loss events up 220% between 2021 and 2024 (EASA and IATA, 2025). Your network has signals too: time sources, name resolution, identities, voices on the phone. NIST lists logging software and certificate management among the things that depend on synchronized time (NIST IR 8323r1, 2023).</li>
+<li><strong>Sensors: you are watched.</strong> CSIS says forces &ldquo;must assume that they will be seen and their movements and emissions detected&rdquo; (CSIS, 2025b). Assume the same about your internet-facing surface. Edge devices act as boundaries, and unsecured, they make it easier for &ldquo;even unskilled malicious cyber actors&rdquo; (NSA, 2025).</li>
+<li><strong>Supply lines: the rear is not safe.</strong> CSIS warns that logistics chains &ldquo;will be in constant peril&rdquo; (CSIS, 2025a). IBM found supply chain compromise was the second most common initial attack vector in breaches it studied, and that those breaches took 258 days on average to identify and contain (IBM and Ponemon Institute, 2026).</li>
+</ul>
+<h2 id="what-the-evidence-says">What the evidence says</h2>
+<p>Three findings stand out.</p>
+<p>First, the pressure is constant, and mostly cheap. ENISA analyzed 4,875 incidents in the EU over a twelve-month period. DDoS made up 77% of reported incidents. Only 2% of the hacktivism incidents, which were primarily low-impact DDoS, resulted in service disruption (ENISA, 2025). Cheap does not mean harmless, and it does not mean pointless. It means the attacker is spending your attention.</p>
+<p>Second, the real damage comes from gaps that stay open. Verizon found only 26% of known-exploited vulnerabilities in its dataset were fully remediated, down from 38% the year before, and the median time to fully patch rose to 43 days from 32 (Verizon, 2026). In its analysis of small and medium-sized businesses, Verizon says many ransomware attacks are opportunistic, and victims were hit because they had compromised credentials (38%) or unpatched vulnerabilities in edge devices (29%) (Verizon, 2026).</p>
+<p>Third, endurance is a cost. IBM reports the global average cost of a data breach reached a record USD 4.99 million, and the mean time to identify and contain a breach rose to 247 days. Breaches with lifecycles longer than 200 days cost more on average than shorter ones (USD 5.65 million against USD 4.32 million) (IBM and Ponemon Institute, 2026). Every day an intruder spends inside your lines is a day you pay for.</p>
+<h2 id="what-to-do">What to do</h2>
+<p>The recommendations come in seven moves, built to be sequenced by a team of a few people.</p>
+<ol>
+<li><strong>Map the ground.</strong> Inventory your edge, your crown assets and your dependencies. You cannot defend what you cannot see.</li>
+<li><strong>Dig in.</strong> Build depth: segmentation, per-session access, phishing-resistant authentication, and a small implicit trust zone.</li>
+<li><strong>Close the cheap doors.</strong> Patch known-exploited vulnerabilities on the edge first. Put DDoS protection and automation where the volume is.</li>
+<li><strong>Keep a second source.</strong> Verify out of band. Run more than one trusted time source. Test what happens when the primary fails.</li>
+<li><strong>Reduce your signature.</strong> Shrink what the internet can see. Build your own sensors. Place decoys with legal sign-off.</li>
+<li><strong>Plan for the rear to burn.</strong> Map suppliers and platforms. Keep offline copies and manual fallbacks that you have actually rehearsed.</li>
+<li><strong>Decentralize the decisions.</strong> Write down who may act without asking. Keep a comms channel that does not depend on the network you are defending. Share lessons within hours, not months.</li>
+</ol>
+<p>None of these moves needs a miracle product. All of them need a campaign mindset: staffing for year two, measuring against your own baseline, and testing the plan until the plan breaks in a rehearsal instead of a real incident.</p>
+<p>This paper includes a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment, and three illustrative scenarios that are hypothetical and say so.</p>
+<p>Every figure in this paper belongs to the source cited. I make no claim about the results any organization will achieve. Don&rsquo;t take my word for it. Read the sources, then decide.</p>
+<h1 id="the-problem">The problem: they do not need to beat you once</h1>
+<p>Here is the uncomfortable math.</p>
+<p>An attacker sends ten thousand messages. One person clicks. An attacker scans a million addresses. One appliance is a year behind on patches. An attacker floods a website for nine minutes, then does it again at lunch. None of that costs much. All of it costs you something.</p>
+<p>IBM states the imbalance in a sentence: attacks &ldquo;can be launched for thousands while breaches cost millions&rdquo; (IBM and Ponemon Institute, 2026). That is the whole problem in a line. The attacker&rsquo;s cost per attempt is low and falling. Your cost per defended attempt is not.</p>
+<p>That is attrition. Not a single decisive blow. A steady drain on attention, people, money and nerve, until something gives.</p>
+<h2 id="what-the-evidence-shows">What the evidence shows</h2>
+<p>I will keep this section to numbers I can trace to a source I opened. Every figure below belongs to the publisher named.</p>
+<p><strong>Most of the pressure is volume.</strong> ENISA analyzed 4,875 incidents across the European Union between July 2024 and June 2025. DDoS was the dominant incident type, 77% of reported incidents, mostly from hacktivists. Hacktivism represented almost 80% of all incidents, primarily low-impact DDoS campaigns, and only 2% of hacktivism incidents resulted in service disruption (ENISA, 2025).</p>
+<p>Read that twice. Almost all of it was noise. Almost none of it broke anything. And ENISA still names ransomware as the most impactful threat in the EU (ENISA, 2025). The loud thing and the dangerous thing are not the same thing, and the loud thing is designed to make you forget it.</p>
+<p><strong>The volume is real, and it comes in bursts.</strong> Verizon&rsquo;s 2026 Data Breach Investigations Report (DBIR) recorded 5,514 denial-of-service incidents. The median attack size has fluctuated between 4.2 and 6 Gbps over recent years, and 50% of attacks lasted less than nine minutes. The largest attacks grew 198% in bits per second and 156% in packets per second compared with the prior year (Verizon, 2026).</p>
+<p>Verizon also looked at how often organizations get hit. In a sample of 217 victim organizations, 2% saw periodic, predictable attacks, 40% saw bursts of activity, and 57% saw attacks at seemingly random intervals. The &ldquo;bursty&rdquo; victims faced a median of about 17 different attacks over the year, with about one day between attacks. Half of them faced at least 10 different attack types (Verizon, 2026).</p>
+<p>Picture the load. Seventeen separate hits, many types, a day apart. That is not an event. It is a posture.</p>
+<p><strong>The way in is usually old and cheap.</strong> ENISA found phishing was the leading intrusion route at about 60%, followed by vulnerability exploitation at 21.3% (ENISA, 2025). Verizon found exploitation of vulnerabilities is now the most prominent initial access vector in its dataset at 31%, up from 20% the year before (Verizon, 2026).</p>
+<p>And the vulnerabilities stay open. Verizon reports that only 26% of the vulnerabilities in the CISA Known Exploited Vulnerabilities (KEV) catalog found in its partners&rsquo; scans were fully remediated, a drop from 38% a year earlier. The median time to fully patch rose to 43 days from 32. The median number of KEV vulnerabilities an organization had to patch in a year rose to 16 from 11 (Verizon, 2026).</p>
+<p><strong>The small and mid-size get hit too.</strong> Verizon found about 96% of ransomware victims, among cases where organization size was known, were small and medium-sized businesses. In its SMB analysis, it describes many of these attacks as opportunistic: victims were chosen because they had compromised credentials (38%) or unpatched vulnerabilities in edge devices (29%) (Verizon, 2026).</p>
+<p><strong>The pain lasts.</strong> IBM puts the global average cost of a breach at a record USD 4.99 million, and the mean time to identify and contain at 247 days. Ransomware showed up in 39% of breached organizations in its sample, up from 34%. The most common tactic shifted: threatening brand reputation was cited by 41% of those hit by ransomware, ahead of encryption at 23% (IBM and Ponemon Institute, 2026).</p>
+<p>Pressure on your trust and your public standing, not only on your files.</p>
+<p><strong>And AI is turning the dial.</strong> ENISA reports that AI-supported phishing campaigns reportedly represented more than 80% of observed social engineering activity worldwide by early 2025 (ENISA, 2025). IBM reports more than one in four organizations that experienced a malicious attack said it was AI-driven (IBM and Ponemon Institute, 2026). Verizon reports roughly 15% of non-malicious bot traffic in the third quarter of 2025 was AI bots, and describes security teams scrambling to automate the handling of AI scanning bots and AI-driven traffic (Verizon, 2026).</p>
+<h2 id="the-three-drains">The three drains</h2>
+<p>Attrition drains three things. Name them, because each one needs its own defense.</p>
+<p><strong>Attention.</strong> Every alert, every flood, every phishing report pulls a person&rsquo;s eyes. Attention is finite. Attackers know it. Volume is a way of buying it.</p>
+<p><strong>People.</strong> ISC2&rsquo;s 2024 workforce study found 67% of respondents reported a staffing shortage, and 90% reported one or more skills gaps (ISC2, 2024). Tired people miss things. People who quit take the map with them.</p>
+<p><strong>Money.</strong> Budgets are annual. Campaigns are not. A program built to survive one audit cycle will not survive three years of steady pressure.</p>
+<h2 id="four-ways-a-mid-size-organization-loses">Four ways a mid-size organization loses</h2>
+<p>I see four failure modes. This is my analysis. It is not a measured result.</p>
+<ol>
+<li><strong>Exhaustion.</strong> The team is so busy with the volume that nobody has time for the slow, important things: patching the edge, testing backups, writing the plan.</li>
+<li><strong>Blind spots.</strong> You cannot see the whole position. A forgotten appliance. A supplier connection nobody mapped. An old account.</li>
+<li><strong>Single points of failure.</strong> One identity provider, one firewall pair, one clock, one administrator who knows how it works. When it goes, everything goes.</li>
+<li><strong>Slow adaptation.</strong> The adversary changes a technique in weeks. Your annual policy review does not.</li>
+</ol>
+<p>Hold those four in your head. The rest of this paper is a response to them.</p>
+<h2 id="what-this-paper-is-and-is-not">What this paper is, and is not</h2>
+<p>It is a defensive, practical guide for security and IT leaders in mid-size organizations. It uses the modern battlefield as a lens, and every lesson ends in something you can do.</p>
+<p>It is not a weapons paper. It does not describe how to build, buy, aim or defeat any weapon. It contains no targeting content and no training content. When it speaks of testing, it means authorized, scoped testing of your own systems, performed with written permission. It does not recommend striking back at anyone. Responses to attackers belong to law enforcement and to people with authority and evidence.</p>
+<p>It is not a vendor list. It makes no promise that any product, or any plan in this paper, will produce a particular result for you.</p>
+<h1 id="the-modern-battlefield">The modern battlefield, read by a security analyst</h1>
+<p>Let me be plain about what I am doing here, and what I am not.</p>
+<p>I am reading public analysis of modern conflict for general lessons about technology. I am not assessing any government, army or leader. I make no claim about any party. This paper draws general lessons about technology and conflict from public sources. It takes no side and makes no claim about any party.</p>
+<p>I leave out casualty, loss and performance figures for every side. They are contested. They are estimates. And they are not what a security team needs to make a decision. I also leave out the attribution that some sources attach to specific events. That is not because it does not matter. It is because I am not the right author to judge it, and the lesson does not depend on it.</p>
+<p>What I keep are the phenomena. Drone saturation. Jamming and spoofing. Sensor transparency. Cheap mass. Logistics under observation. Decentralized decisions.</p>
+<h2 id="the-framing">The framing</h2>
+<p>My shorthand: trench-style grind fused with science fiction.</p>
+<p>Think of the first world war&rsquo;s long stalemate, the lines of dug-in positions where nothing moved fast. Now add cheap drones overhead, signals jammed and spoofed, satellites and commercial sensors watching the ground, and a cycle of measure and countermeasure that turns over in weeks.</p>
+<p>CSIS opens its chapter on technological evolution with the point that new technology drives tactics in unprecedented ways, and that &ldquo;the party that innovates, procures, and adapts first secures an often insurmountable edge.&rdquo; It gives an example from the first world war: the development of the first rudimentary tank to break the stalemate of trench warfare (CSIS, 2025a).</p>
+<p>It then offers the line I keep coming back to: &ldquo;the next generation of warfare will not be defined solely by who possesses the most advanced technology, but by who can integrate, adapt, and counter it the fastest&rdquo; (CSIS, 2025a).</p>
+<p>Integrate. Adapt. Counter. That is a good description of a security program.</p>
+<h2 id="what-public-analysis-describes">What public analysis describes</h2>
+<p>Here are the features I draw on, with the source for each.</p>
+<p><strong>Cheap, flexible sensing and strike.</strong> CSIS says the most marked change has been cheap, flexible and highly maneuverable intelligence, surveillance and reconnaissance (ISR) drones. It says cover and concealment are &ldquo;of the utmost importance,&rdquo; and that large, highly visible formations are more vulnerable to drone strikes (CSIS, 2025a).</p>
+<p><strong>A cat-and-mouse cycle.</strong> CSIS describes &ldquo;a highly iterative game of cat and mouse, with advancements in electronic warfare meeting drone advancements step for step&rdquo; (CSIS, 2025a). It quotes an analyst describing a &ldquo;six week learning cycle on the battlefield&rdquo; (CSIS, 2025a).</p>
+<p><strong>Electronic warfare as the norm.</strong> In its chapter on space, CSIS calls the pervasiveness of electronic warfare (EW) &ldquo;one of the most dominant features of the modern battlefield.&rdquo; It describes EW as a &ldquo;temporary and reversible way&rdquo; to target satellite navigation, communications signals and ISR collection, and says &ldquo;going forward, EW will be the norm&rdquo; (CSIS, 2025b). It also warns that regions outside conflict zones will experience greater electromagnetic interference, risking harm to civil and commercial transportation and public safety (CSIS, 2025b).</p>
+<p><strong>Transparency.</strong> CSIS says commercial space capabilities have introduced &ldquo;a new level of transparency&rdquo; and that &ldquo;all militaries must adapt to a world where movements, emissions, and signatures are constantly monitored&rdquo; (CSIS, 2025b). A separate CSIS chapter on intelligence says wars of the future will be fought &ldquo;in conditions of near transparency,&rdquo; and that &ldquo;information is cheap. Processing it is expensive, and sense-making is exquisite&rdquo; (CSIS, 2025c).</p>
+<p><strong>Logistics under pressure.</strong> CSIS says logistics chains &ldquo;will be in constant peril&rdquo; and that modern armies &ldquo;need to anticipate that only a fraction of supplies will get through&rdquo; (CSIS, 2025a).</p>
+<p><strong>Decentralized units.</strong> CSIS says the future is shifting toward &ldquo;smaller, highly mobile, adaptable units, where field commanders are empowered to make decisions&rdquo; while minimizing their communications signature (CSIS, 2025a).</p>
+<p><strong>No clean front line.</strong> CSIS warns that as commercial providers take on greater roles in military operations, the line between combatants and noncombatants will blur, and that civilian service providers such as those supplying power, cloud storage and internet connectivity could increasingly be seen as military targets (CSIS, 2025a). That is CSIS&rsquo;s forecast, and it is contested ground in law and policy. I cite it as a warning about dependency, not as a statement of law.</p>
+<p><strong>Overdependence.</strong> CSIS says militaries &ldquo;will need to incorporate technology without depending on it,&rdquo; and that &ldquo;a force multiplier is a high-priority target for an opponent&rdquo; (CSIS, 2025a).</p>
+<h2 id="five-fronts">Five fronts</h2>
+<p>I organize the lessons into five fronts, and add two more that cut across all of them: command and people.</p>
+<table>
+<thead>
+<tr>
+<th>Front</th>
+<th>What public analysis describes</th>
+<th>The same feature on your network</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trenches</td>
+<td>Defenders who can dig in with effective counter-drone measures hold an advantage; cover and concealment matter</td>
+<td>Depth: segmentation, identity at every line, a small trust zone</td>
+</tr>
+<tr>
+<td>Drones</td>
+<td>Cheap, numerous, flexible; economics favor the cheap</td>
+<td>Automated scanning, credential stuffing, floods, bots; cheap automated controls in reply</td>
+</tr>
+<tr>
+<td>Electronic warfare</td>
+<td>Jamming and spoofing of signals; EW is the norm</td>
+<td>Spoofed identities, time, names and voices; verify out of band; keep a second source</td>
+</tr>
+<tr>
+<td>Sensors</td>
+<td>Near-transparency; assume you are seen</td>
+<td>Exposed surface; edge devices; your own telemetry; deception</td>
+</tr>
+<tr>
+<td>Supply lines</td>
+<td>Logistics in constant peril; commercial dependencies</td>
+<td>Suppliers, cloud, platforms; offline copies; manual fallbacks</td>
+</tr>
+<tr>
+<td>Command</td>
+<td>Decentralized units; fast learning cycles</td>
+<td>Decision rights; out-of-band comms; short lessons-learned loops</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Endurance, integrated technology without overdependence</td>
+<td>Staffing, rotation, skill; AI as a helper, not a crutch</td>
+</tr>
+</tbody>
+</table>
+<h2 id="where-the-comparison-breaks">Where the comparison breaks</h2>
+<p>I owe you the limits.</p>
+<p>A network is not terrain. You cannot dig a trench in an IP range. And you can restore a server from a backup, which is not something a lost position allows.</p>
+<p>Your adversaries are not armies. Most of the pressure on a mid-size organization comes from criminals, opportunists and automated tools. Some comes from more capable actors. The lens helps with the shape of the contest. It does not tell you who is on the other end.</p>
+<p>Statistics do not transfer. A figure from a battlefield study tells you nothing about your firewall. That is why I use no battlefield statistics at all. My numbers come from breach and incident research, and I cite them to their sources.</p>
+<p>Do not mistake analogy for instruction. This paper does not tell you to take any action against any adversary. Offensive action by private organizations raises legal and safety problems, and it is not what this paper recommends.</p>
+<p>Finally, a caution about the analogy itself. The point of the lens is not drama. The point is that long, cheap, constant pressure is a different problem from a single dramatic attack, and it needs a different kind of plan.</p>
+<p>Now the fronts, one at a time.</p>
+<h1 id="analysis">Analysis: five fronts and two cross-cutting concerns</h1>
+<p>The next seven parts take the fronts in turn. Each part follows the same pattern: what public sources describe, what it means for your network, what to do, and what to measure.</p>
+<h2 id="part-i-trenches">Part I: Trenches. Depth beats a hard shell</h2>
+<p><strong>What public analysis describes.</strong> CSIS says that &ldquo;defenders who can dig in with effective counter-drone measures will have a significant advantage, and those who must cross open land will be at a significant disadvantage&rdquo; (CSIS, 2025a). It adds that cover and concealment are of the utmost importance (CSIS, 2025a).</p>
+<p>Two ideas there. Depth. And making the attacker cross open ground.</p>
+<p><strong>What it means for you.</strong> For thirty years, many networks were built like a shell. Hard outside. Soft inside. One firewall and a VPN. Get past the wall and you can walk anywhere.</p>
+<p>NIST&rsquo;s zero trust guidance describes the problem with a picture from an airport. All passengers pass a security checkpoint, then mill about the terminal, &ldquo;and all the individuals are considered trusted.&rdquo; That boarding area is what NIST calls the &ldquo;implicit trust zone.&rdquo; NIST then makes the point that matters: &ldquo;the implicit trust zone must be as small as possible&rdquo; for the policy decision point to be as specific as it can be (NIST SP 800-207, 2020).</p>
+<p>Shrink the zone where everyone is trusted. That is the whole idea.</p>
+<p>NIST defines zero trust as &ldquo;an evolving set of cybersecurity paradigms that move defenses from static, network-based perimeters to focus on users, assets, and resources.&rdquo; It assumes &ldquo;no implicit trust granted to assets or user accounts based solely on their physical or network location&rdquo; (NIST SP 800-207, 2020).</p>
+<p>Its tenets read like a field order for a defender who expects to be penetrated:</p>
+<ul>
+<li>All communication is secured regardless of network location. Network location alone does not imply trust.</li>
+<li>Access to individual resources is granted on a per-session basis, with the least privileges needed.</li>
+<li>Access is determined by dynamic policy, including client identity, application and the requesting asset, and may include behavioral and environmental attributes.</li>
+<li>The enterprise monitors and measures the integrity and security posture of all owned and associated assets. No asset is inherently trusted.</li>
+<li>Authentication and authorization are dynamic and strictly enforced before access is allowed.</li>
+<li>The enterprise collects as much information as possible about the current state of assets, network infrastructure and communications, and uses it to improve its security posture (NIST SP 800-207, 2020).</li>
+</ul>
+<p>NIST is honest about the limits: these tenets are &ldquo;the ideal goal,&rdquo; and not all may be fully implemented in their purest form (NIST SP 800-207, 2020).</p>
+<h2 id="why-depth-matters-in-a-war-of-attrition">Why depth matters in a war of attrition</h2>
+<p>An attacker with persistence will eventually get a foothold. A phished account. An exposed edge device. A stolen credential. Verizon notes that attackers are &ldquo;increasingly blending in with normal operations by using the same access paths as legitimate users,&rdquo; such as desktop-sharing tools and virtual private networks (Verizon, 2026). It adds that threat actors seem to be dialing back reliance on traditional tools such as Cobalt Strike as defenders get better at detecting and blocking them (Verizon, 2026).</p>
+<p>That is measure and countermeasure in your own logs. The contest moved. Your design has to assume the first line will be crossed.</p>
+<p>NIST&rsquo;s cyber resiliency guidance names the design moves. Among its techniques:</p>
+<ul>
+<li><strong>Coordinated protection.</strong> &ldquo;Require a threat event to overcome multiple safeguards,&rdquo; increasing the cost to the adversary and the likelihood of detection.</li>
+<li><strong>Segmentation.</strong> Contain adversary activity to the enclave, segment or facility where it has established a presence, limiting where malware can propagate.</li>
+<li><strong>Realignment.</strong> Minimize connections between mission-critical and non-critical services, so that a failure in the latter does not reach the former.</li>
+<li><strong>Privilege restriction.</strong> Make the adversary invest more time and effort obtaining credentials, and curtail what stolen credentials can do.</li>
+<li><strong>Diversity.</strong> Use heterogeneity to minimize common-mode failures and make the adversary build tools for more than one target type (NIST SP 800-160 Vol. 2 Rev. 1, 2021).</li>
+</ul>
+<p>The same document is candid about costs. It notes that &ldquo;diversity and segmentation can each make analytic monitoring and contextual awareness more difficult,&rdquo; because diverse systems need tools that can handle the variety, and segmentation can limit visibility (NIST SP 800-160 Vol. 2 Rev. 1, 2021).</p>
+<p>Depth is not free. Each line you dig has to be manned, watched and maintained. A trench line nobody patrols is a ditch.</p>
+<h2 id="the-trench-map">The trench map</h2>
+<p>Here is a simple way to lay it out. I call these lines. They are my own organizing device, drawn from the NIST and CISA material above. They are not a standard.</p>
+<table>
+<thead>
+<tr>
+<th>Line</th>
+<th>Question it answers</th>
+<th>Typical controls</th>
+<th>What to watch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. The edge</td>
+<td>What does the internet touch?</td>
+<td>Inventory of internet-facing assets; patching of edge devices; removal of unused services; management interfaces off the internet</td>
+<td>Exposure count; time to patch known-exploited flaws</td>
+</tr>
+<tr>
+<td>1. Identity</td>
+<td>Who or what is asking?</td>
+<td>Phishing-resistant multifactor authentication; per-session access; least privilege; service-account inventory</td>
+<td>Privileged accounts; dormant accounts; unusual sign-ins</td>
+</tr>
+<tr>
+<td>2. Segments</td>
+<td>How far can one foothold travel?</td>
+<td>Network and application segmentation; separate management network; restricted east-west traffic</td>
+<td>Cross-segment flows; new connections between systems that never talk</td>
+</tr>
+<tr>
+<td>3. Crown assets</td>
+<td>What cannot be lost?</td>
+<td>Data classification; stronger controls and logging around critical systems; separate admin paths</td>
+<td>Access to crown data; unusual bulk reads</td>
+</tr>
+<tr>
+<td>4. Recovery</td>
+<td>How do we come back?</td>
+<td>Tested, isolated backups; rebuild runbooks; alternate communications</td>
+<td>Restore time actually achieved in rehearsal</td>
+</tr>
+</tbody>
+</table>
+<p>Four of those five lines do not stop the attacker. They slow, contain, expose and survive. That is the point. In attrition, nothing is impenetrable. The goal is to make every step cost more than it is worth, and to see it happening.</p>
+<h2 id="a-maturity-ladder-you-can-borrow">A maturity ladder you can borrow</h2>
+<p>CISA&rsquo;s Zero Trust Maturity Model is written for federal agencies, but its structure helps anyone. It organizes zero trust into five pillars: Identity, Devices, Networks, Applications and Workloads, and Data. It adds three cross-cutting capabilities: Visibility and Analytics, Automation and Orchestration, and Governance. It describes maturity in four stages: Traditional, Initial, Advanced and Optimal. Each pillar can progress at its own pace (CISA ZTMM, 2023).</p>
+<p>In the Networks pillar, the model&rsquo;s progression runs from large perimeter or macro-segmentation, through isolation of critical workloads and expanded ingress and egress micro-perimeters, toward micro-segmentation around application profiles (CISA ZTMM, 2023).</p>
+<p>For a mid-size organization, treat &ldquo;Optimal&rdquo; as a direction, not a deadline. Move each pillar one stage at a time. The stage you are in matters less than whether you know it, and whether you can show movement from quarter to quarter.</p>
+<h2 id="what-to-do_1">What to do</h2>
+<ol>
+<li><strong>Draw your real lines.</strong> Take the five lines above and write, for each, what you have today. Be blunt. Mark each as strong, partial or absent.</li>
+<li><strong>Shrink the implicit trust zone.</strong> Start with the most valuable segment. Move administrative access onto a separate path. Require phishing-resistant authentication for administrators and remote access first.</li>
+<li><strong>Segment before you buy.</strong> Segmentation that exists on a diagram does not count. Test it. Try to reach a crown system from an ordinary workstation, with permission, and write down what happens.</li>
+<li><strong>Pay the monitoring cost.</strong> For every line you add, decide what telemetry crosses it and who looks at it.</li>
+<li><strong>Keep it boring.</strong> Simple designs that people understand survive staff turnover. Elaborate ones decay.</li>
+</ol>
+<h2 id="what-to-measure">What to measure</h2>
+<ul>
+<li>Number of segments that contain crown assets, and number of rules allowing traffic into them.</li>
+<li>Share of administrator and remote-access accounts using phishing-resistant authentication.</li>
+<li>Number of systems in the implicit trust zone: those a single compromised workstation can reach.</li>
+<li>Time to restore a crown system from backup, in a rehearsal.</li>
+</ul>
+<p>Do not compare your numbers with a survey median. Compare them with your own last quarter.</p>
+<h2 id="part-ii-drones">Part II: Drones. Cheap mass against your attention</h2>
+<p><strong>What public analysis describes.</strong> The economics come first. CSIS puts them in one line: &ldquo;If a $500 drone can destroy a multimillion-dollar tank, so, too, can a USV swarm destroy a fleet of ships&rdquo; (CSIS, 2025a). That is a statement about cost asymmetry, not a measurement of how often it happens. CSIS also says &ldquo;counter-drone solutions will be decisive on the future battlefield&rdquo; (CSIS, 2025a), and describes the most marked change as cheap, flexible and highly maneuverable ISR drones (CSIS, 2025a).</p>
+<p>Cheap. Many. Flexible. The answer to it is not one exquisite shield. It is a layered, cheap, repeatable defense, and a way to keep from running out of it.</p>
+<p><strong>What it means for you.</strong> Your drones are not aircraft. They are software. Automated scanning for exposed services. Credential stuffing against login pages. Bot traffic. Floods. Commodity phishing kits sold as a service. ENISA describes Phishing-as-a-Service as &ldquo;automation that paves the way for attackers regardless of their experience&rdquo; (ENISA, 2025). The same logic as the drone: low cost, low skill, high volume.</p>
+<p>The 2026 Verizon DBIR gives a sense of the scale on the flooding side. Its year-in-review timeline records a botnet of 300,000 internet-of-things hosts launching a record 29.7 Tbps DDoS attack, nearly doubling previous peaks (Verizon, 2026). Meanwhile, the median attack size has stayed between 4.2 and 6 Gbps, and half of all attacks last under nine minutes (Verizon, 2026). Both things are true. The peaks grow. The routine stays small and cheap.</p>
+<p>For an organization your size, the peak is a vendor problem. The routine is yours.</p>
+<h2 id="the-cost-exchange">The cost exchange</h2>
+<p>Here is the exchange in plain terms. The left column is the attacker&rsquo;s cheap move. The right column is the defender&rsquo;s cheap answer. This is my summary, built on the sources cited in this part. It is not a measured result.</p>
+<table>
+<thead>
+<tr>
+<th>Cheap move against you</th>
+<th>What it costs you if unanswered</th>
+<th>Cheap answer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Automated login attempts using stolen credentials</td>
+<td>Account takeover; investigation time</td>
+<td>Multifactor authentication on externally exposed applications and remote access; lockout and rate limits</td>
+</tr>
+<tr>
+<td>Mass phishing and pretexting</td>
+<td>Analyst time per report; a successful click</td>
+<td>Phishing-resistant authentication; reporting button; verification rules for payment and identity requests</td>
+</tr>
+<tr>
+<td>Scans for old, exposed services</td>
+<td>One unpatched edge device is a way in</td>
+<td>Inventory of the edge; automated patching; remove what you do not use</td>
+</tr>
+<tr>
+<td>Short flood bursts, repeated</td>
+<td>Outage minutes; staff pulled off other work</td>
+<td>Upstream DDoS protection; a rehearsed runbook; clear thresholds for escalation</td>
+</tr>
+<tr>
+<td>AI bot traffic hitting sites and APIs</td>
+<td>Bandwidth, content exposure, noise</td>
+<td>Rate limits; bot management; robots rules; monitoring</td>
+</tr>
+</tbody>
+</table>
+<p>Notice what is in the right column. No miracle. Authentication, patching, inventory, capacity and a plan.</p>
+<p>Verizon&rsquo;s mitigation guidance for exploited vulnerabilities and stolen credentials lines up with the table: require MFA for externally exposed applications and for remote network access, and perform automated operating system and application patch management (Verizon, 2026).</p>
+<h2 id="plan-for-the-tail-not-the-average">Plan for the tail, not the average</h2>
+<p>Verizon gives numbers worth building a runbook around. For the repeatedly attacked DDoS victims in its sample, Verizon reports a median attack duration of 24 minutes. At the higher end of the distribution, it puts duration at around 88 minutes at the 90th percentile and 101 minutes at the 95th (Verizon, 2026).</p>
+<p>So design for roughly two hours. Ask three questions.</p>
+<ol>
+<li>Which customer-facing or revenue-critical services would be unavailable for two hours, and what would that cost?</li>
+<li>Who decides when to switch to the upstream mitigation or the backup path, and what do they need to know?</li>
+<li>What does the rest of the team do during a flood? Verizon&rsquo;s own question is the right one: &ldquo;What would be the impact to your business if your business was affected?&rdquo; (Verizon, 2026).</li>
+</ol>
+<p>One caution, and it is my judgment, not a finding. Treat any flood as a possible distraction. While your eyes are on the loud problem, check the quiet ones. Make sure someone is assigned to do exactly that.</p>
+<h2 id="counter-drone-for-the-network-four-layers">Counter-drone for the network: four layers</h2>
+<p><strong>Absorb.</strong> Put capacity between the flood and your service. For most mid-size organizations, that means buying protection from an upstream provider rather than building it. Ask for written answers on how it works, how fast it engages, and what it costs when attacks run long.</p>
+<p><strong>Filter.</strong> Rate limits, bot management, geo and reputation rules where they make sense, and strong authentication on every login surface. Verizon notes that defenders have to &ldquo;maintain our footing and use collaboration and partnerships&rdquo; against growing attacker capability (Verizon, 2026). Sharing with peers and providers counts as a layer.</p>
+<p><strong>Automate.</strong> Cheap and repeatable. Patch automation. Configuration baselines. Alert enrichment. IBM found that security teams extensively using AI and automation shortened breach times by 65 days and lowered average costs by USD 1.93 million compared with those that did not. Only 36% of breached organizations said they used these tools extensively across the security lifecycle (IBM and Ponemon Institute, 2026). That is an association in a benchmark study. It is not proof of what a tool will do for you. But the direction is clear: volume answered by automation.</p>
+<p><strong>Intercept, with a human on the trigger.</strong> Automated response can contain a compromised account or isolate a host faster than a person can. It can also cause an outage faster than any attacker. Start every automated action in recommend-only mode. Widen authority as evidence supports it. Keep a clear off switch and a named owner.</p>
+<p>CSIS gives the right caution from the battlefield side: when both sides have AI-enabled systems, &ldquo;the incentive will lean heavily toward deferring as much as possible to the AI&rsquo;s capability,&rdquo; and &ldquo;for now, that surely will lead to mistakes&rdquo; (CSIS, 2025a). Replace &ldquo;targeting&rdquo; with &ldquo;triage&rdquo; and the warning still holds. Do not let your people turn into a stamp of approval.</p>
+<h2 id="the-next-turn-of-the-cycle">The next turn of the cycle</h2>
+<p>CSIS offers a forecast, flagged as a forecast. It says sophisticated adversaries will probably find ways to combine AI and cyberattacks, with &ldquo;offense likely outstripping defense at first,&rdquo; and that AI agents will be able to find vulnerabilities and exploit them &ldquo;without phoning home and raising alarms&rdquo; (CSIS, 2025a). Treat that as a planning assumption, not as a fact.</p>
+<p>What follows from it? Shorter patch windows on the edge. More weight on detection of behavior over indicators. More automation on your side, built on the same cheap controls.</p>
+<h2 id="what-to-do_2">What to do</h2>
+<ol>
+<li><strong>Write the cost-exchange table for your own organization.</strong> Five rows. Their move, your cost, your cheap answer. Fill in the missing right-hand cells and fund the gaps.</li>
+<li><strong>Put MFA on every externally exposed login and every remote access path.</strong> Administrators and remote access first.</li>
+<li><strong>Automate patching on the edge.</strong> Set a target time for known-exploited vulnerabilities on internet-facing systems, and track it.</li>
+<li><strong>Buy absorption, do not build it.</strong> Get upstream flood protection in writing, and run a rehearsal.</li>
+<li><strong>Run the two-hour drill.</strong> Simulate a two-hour outage of one customer-facing service and note what breaks.</li>
+<li><strong>Start automation in recommend-only mode,</strong> and review overrides weekly.</li>
+</ol>
+<h2 id="what-to-measure_1">What to measure</h2>
+<ul>
+<li>Median time to remediate known-exploited vulnerabilities on internet-facing systems (your baseline, not a survey median).</li>
+<li>Share of external login surfaces protected by multifactor authentication.</li>
+<li>Mean time from flood detection to mitigation engagement, in rehearsal.</li>
+<li>Analyst hours spent per week on repetitive triage, and the share handled by automation with human review.</li>
+</ul>
+<h2 id="part-iii-electronic-warfare">Part III: Electronic warfare. When the signal lies</h2>
+<p><strong>What public analysis describes.</strong> Jamming blocks a signal. Spoofing sends a false one. A note from three EU member states to the Council of the EU defines them plainly: jamming is deliberate radio interference &ldquo;when information about an aircraft location, altitude, and time is not received,&rdquo; and spoofing is deliberate interference in which wrong signals are sent &ldquo;and aircraft location, altitude, and time are displayed incorrectly&rdquo; (Council of the EU, 2025).</p>
+<p>CSIS calls the pervasiveness of EW one of the most dominant features of the modern battlefield, and a &ldquo;temporary and reversible way&rdquo; to degrade satellite navigation and communications. It says EW will be the norm, and that militaries will place &ldquo;a premium on operating effectively in degraded environments&rdquo; (CSIS, 2025b).</p>
+<p>The effects reach civilians. IATA data, cited in a joint release with the European Union Aviation Safety Agency (EASA), says GPS signal loss events increased 220% between 2021 and 2024 (EASA and IATA, 2025). EASA&rsquo;s Flight Standards Director put the strategic shift this way: &ldquo;We are no longer just containing GNSS interference — we must build resilience&rdquo; (EASA and IATA, 2025). The Finnish Transport and Communications Agency reported that disruptions in the Gulf of Finland had &ldquo;already caused near misses,&rdquo; that signal disruptions &ldquo;may cause unexpected malfunctions, for example in vessels&rsquo; autopilot functions,&rdquo; and that spoofing of the Automatic Identification System, where incorrect data is fed in, &ldquo;has also become more frequent&rdquo; (Traficom, 2025).</p>
+<p>And note what it says next: &ldquo;alongside AIS, other systems are also used to verify data on the location and movement of ships&rdquo; (Traficom, 2025). A second source.</p>
+<p><strong>What it means for you.</strong> This is the part of the battlefield that travels furthest into your network. Not the jammer. The principle. When the thing a machine trusts can be falsified, every decision built on it is exposed.</p>
+<p>The Council note adds the point that matters for your clocks. Satellite navigation systems provide positioning, navigation and timing. The timing services &ldquo;also serve for time synchronization of telecommunication networks, and, thus, are vital to enable seamless communication, synchronize financial transactions, stabilize power grids, etc.&rdquo; (Council of the EU, 2025).</p>
+<h2 id="your-time-is-a-signal">Your time is a signal</h2>
+<p>Most security teams do not think about time as a dependency. They should.</p>
+<p>NIST&rsquo;s Foundational Positioning, Navigation and Timing (PNT) profile tells organizations to identify all software, applications and systems that depend on PNT data, including those that rely on distributed time. Its examples of dependent applications include &ldquo;test and measurement tools, kernels, databases, logging software, cryptography/certificate management, and other software that rely on synchronized clocks or positioning information&rdquo; (NIST IR 8323r1, 2023).</p>
+<p>Read that again with your own stack in mind. Logging. Certificates. Databases. If your time source is wrong, your logs are out of order, your certificates may fail validation, and your incident timeline is fiction.</p>
+<p>The profile&rsquo;s advice on testing is concrete. For systems with redundant or complementary time sources, validate by &ldquo;removing the primary time source and confirming that the time accuracy and precision&rdquo; meet pre-defined requirements for the time server and downstream applications (NIST IR 8323r1, 2023). It also says to prioritize &ldquo;maintaining essential functions despite system disruption or manipulation&rdquo; (NIST IR 8323r1, 2023).</p>
+<p>Test it. Pull the primary time source in a controlled window, with change approval, and see what breaks.</p>
+<h2 id="other-signals-that-can-lie">Other signals that can lie</h2>
+<p>Time is the least visible. The rest are more familiar.</p>
+<p><strong>Identity.</strong> A login that is valid, from a device that looks right, by someone who is not who they say. Verizon found credential abuse is pervasive: considering all instances of credential abuse at any point in a breach, it sits at 39% (Verizon, 2026).</p>
+<p><strong>Voice and text.</strong> Verizon draws a line between phishing, which it describes as an essentially asynchronous social action, and pretexting, which &ldquo;intrinsically involves a synchronous component&rdquo;: someone on the other end of a call or thread, trying to convince a person to do something they should not. It warns that the countermeasures and training for the two are distinct (Verizon, 2026). Help-desk impersonation is a live example. IBM reports that social engineering such as impersonating help desk staff was used in 13% of attacks and led to average breach costs of USD 5.23 million, and that voice and SMS phishing, used in 17% of attacks, led to the highest average costs among attack vectors at USD 5.29 million (IBM and Ponemon Institute, 2026).</p>
+<p><strong>Synthetic media.</strong> CSIS says adversaries are already employing AI for deepfakes meant to sow doubt and confusion, and forecasts that the next iteration &ldquo;could entail deepfake military orders&rdquo; and realistic denial and deception operations designed to sow tactical chaos (CSIS, 2025a). It adds that, with adversarial AI generating deception at machine speeds, &ldquo;trust in such information will be tested&rdquo; (CSIS, 2025b). Your version is a deepfaked executive voice asking finance for an urgent transfer. That is a scenario, not a statistic. The controls are not exotic.</p>
+<h2 id="the-second-source">The second source</h2>
+<p>Dead reckoning, the theme of the first paper in this series, is the habit of navigating without a signal: last known position, heading, speed, time and a second source. Here is the network version.</p>
+<table>
+<thead>
+<tr>
+<th>Signal you trust</th>
+<th>What can go wrong</th>
+<th>Second source</th>
+<th>Drill</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time</td>
+<td>Drift or false time from a single source</td>
+<td>At least two independent time sources; alert on divergence</td>
+<td>Remove the primary source in a change window and check logs, certificates and authentication</td>
+</tr>
+<tr>
+<td>Identity</td>
+<td>Stolen or replayed credentials; impersonated help-desk requests</td>
+<td>Device posture; a second factor that resists phishing; call-back to a known number for sensitive requests</td>
+<td>Test the help-desk verification procedure with an authorized, scoped exercise</td>
+</tr>
+<tr>
+<td>Voice and video</td>
+<td>Synthetic or impersonated speakers</td>
+<td>Out-of-band verification through a known channel; pre-agreed words for urgent requests</td>
+<td>Run a payment-approval drill in which the &ldquo;boss&rdquo; is not real</td>
+</tr>
+<tr>
+<td>Name and routing data</td>
+<td>Altered answers from systems you rely on</td>
+<td>Cross-check against an independent resolver or source; log and alert on changes</td>
+<td>Compare answers from two sources on critical names during a review</td>
+</tr>
+<tr>
+<td>Alerts and logs</td>
+<td>A tool that goes silent, or a log source that stops</td>
+<td>Heartbeat checks; a second detection path for crown assets</td>
+<td>Silence one sensor and see how long it takes anyone to notice</td>
+</tr>
+</tbody>
+</table>
+<p>I will not describe how to carry out any of these attacks. The point of the table is the right-hand columns.</p>
+<h2 id="degraded-operations">Degraded operations</h2>
+<p>CSIS says the future will require using technology &ldquo;without depending on it.&rdquo; It gives the example of a force that depends entirely on satellite navigation, which could find itself &ldquo;toothless&rdquo; if the signal goes dark, and notes that one academy is teaching navigation by the stars as a coping mechanism. It says that if a drone swarm is taken down by electronic warfare, the unit &ldquo;must be able to fight on&rdquo; (CSIS, 2025a).</p>
+<p>Your version: what do we do when the tool is down? Not the SIEM is slow. The SIEM is gone. Not the VPN is flaky. The VPN is the problem.</p>
+<p>CSIS also describes a technical adaptation: fiber-optic tethers, which it calls &ldquo;impervious to jamming&rdquo; (CSIS, 2025a) and which &ldquo;eliminate reliance on wireless signals&rdquo; (CSIS, 2025b). The defender&rsquo;s analog is simple. Keep a wired, separate, out-of-band path to manage your most important systems. If the path you use to fix the network is the network you are fixing, you have one point of failure.</p>
+<h2 id="what-to-do_3">What to do</h2>
+<ol>
+<li><strong>List your signals.</strong> Time, identity, names, voice, alerts. For each, name the second source.</li>
+<li><strong>Run two independent time sources,</strong> and alert when they disagree. Then test removing the primary one.</li>
+<li><strong>Set verification rules</strong> for payment, credential reset and access requests. Use a callback to a number you already hold. Make the rule easy to follow and impossible to skip, even for the most senior person.</li>
+<li><strong>Rehearse degraded operations.</strong> Once a quarter, run one critical process with a tool unavailable. Use the old checklist. Write down what was missing.</li>
+<li><strong>Build an out-of-band management path</strong> for your most critical systems and keep it separate from daily use.</li>
+<li><strong>Treat synthetic media as a normal risk.</strong> Train the people who move money and reset accounts, and give them the authority to say no.</li>
+</ol>
+<h2 id="what-to-measure_2">What to measure</h2>
+<ul>
+<li>Number of independent time sources per critical system, and time to detect drift between them.</li>
+<li>Share of sensitive requests verified through an out-of-band channel.</li>
+<li>Time for the team to notice a silenced log source in a drill.</li>
+<li>Time to complete a critical business process in degraded mode, against normal mode.</li>
+</ul>
+<h2 id="part-iv-sensors">Part IV: Sensors. Assume you are being watched</h2>
+<p><strong>What public analysis describes.</strong> CSIS says commercial sensors have changed the battlefield. &ldquo;All militaries must adapt to a world where movements, emissions, and signatures are constantly monitored.&rdquo; It adds that forces, &ldquo;especially those at fixed sites and massed in central locations, must assume that they will be seen and their movements and emissions detected.&rdquo; Its prescription is &ldquo;renewed emphasis on operational security, deception tactics, and electromagnetic spectrum discipline,&rdquo; with exercises that &ldquo;simulate conditions where adversaries possess near-real-time ISR capabilities&rdquo; (CSIS, 2025b).</p>
+<p>A second CSIS chapter makes the human point. &ldquo;Information is cheap. Processing it is expensive, and sense-making is exquisite.&rdquo; It also warns that rival services can use video data and a person&rsquo;s &ldquo;digital dust&rdquo; to reveal an identity that was meant to stay hidden (CSIS, 2025c).</p>
+<p>Two lessons. Your signature is visible. And your own sensors only help if you can make sense of what they tell you.</p>
+<p><strong>What it means for you.</strong> Start from the adversary&rsquo;s side of the glass. MITRE&rsquo;s ATT&amp;CK framework opens its list of tactics with Reconnaissance: &ldquo;The adversary is trying to gather information they can use to plan future operations.&rdquo; The tactic covers adversaries &ldquo;actively or passively gathering information that can be used to support targeting,&rdquo; and the information &ldquo;may include details of the victim organization, infrastructure, or staff/personnel&rdquo; (MITRE ATT&amp;CK, TA0043). Its technique list includes active scanning of IP blocks and vulnerabilities, gathering host, identity and network information, and searching open websites and technical databases.</p>
+<p>You are scanned all day. Most of it is noise. Some of it is a survey.</p>
+<h2 id="your-signature">Your signature</h2>
+<p>Your signature is everything an outsider can learn about you without breaking in. Think in five layers.</p>
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>What an outsider can see</th>
+<th>The question to ask</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Network</td>
+<td>Address ranges, open services, certificate names, old test systems</td>
+<td>Does every internet-facing service have an owner and a reason?</td>
+</tr>
+<tr>
+<td>Software</td>
+<td>Product names and versions in banners, headers and file paths</td>
+<td>Does the outside need to know which product and version we run?</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Names, roles, email formats, job postings, public social media</td>
+<td>What does our public staff information say about who holds the keys?</td>
+</tr>
+<tr>
+<td>Code and cloud</td>
+<td>Public repositories, storage buckets, files left shared</td>
+<td>What did we publish by accident, and who checks?</td>
+</tr>
+<tr>
+<td>Behavior</td>
+<td>Working hours, response times, vendor relationships</td>
+<td>What does our rhythm tell a patient observer?</td>
+</tr>
+</tbody>
+</table>
+<p>This is not about hiding. Visibility is how business gets done. The goal is to know your signature and make deliberate choices about it, the way a unit chooses where to be seen.</p>
+<p>CSIS frames this for militaries as emissions and signature discipline (CSIS, 2025b). Your civilian equivalent is attack surface management. Inventory what is exposed. Remove what is not needed. Patch what must stay. Then look at it again next month, because it will have changed.</p>
+<h2 id="count-what-you-can-see-then-cut">Count what you can see, then cut</h2>
+<p>The most valuable signature exercise costs almost nothing. Ask your team to produce a list of everything on the internet that is yours, using the same public sources an outsider would. Compare it with your asset register. The gap between the two lists is the work.</p>
+<p>Joint guidance on network edge devices, released by CISA, NSA and partner agencies in February 2025, points the same way. NSA lists seven mitigation strategies, starting with &ldquo;know the edge,&rdquo; and including disabling unneeded features and ports and securing management interfaces (NSA, 2025; CISA, 2025). An NSA expert explains why the edge matters: &ldquo;if left unsecured, even unskilled malicious cyber actors have an easier time finding and exploiting vulnerabilities in their software or configurations&rdquo; (NSA, 2025).</p>
+<h2 id="deception-with-limits">Deception, with limits</h2>
+<p>NIST&rsquo;s cyber resiliency guidance includes a Deception technique: &ldquo;Mislead, confuse, hide critical assets from, or expose covertly tainted assets to the adversary.&rdquo; It says deception can lead the adversary to waste effort and reveal tactics, techniques and procedures. It also says deception can complicate analytic monitoring and contextual awareness, and that these techniques &ldquo;come at a cost to some other cyber resiliency objectives&rdquo; (NIST SP 800-160 Vol. 2 Rev. 1, 2021).</p>
+<p>Remember that when a vendor sells you a deception product. The idea has a long record in adversarial fields. NIST itself notes that Deception, Dynamic Positioning and Unpredictability are cyber adaptations of concepts from adversarial disciplines such as medicine, military and sports (NIST SP 800-160 Vol. 2 Rev. 1, 2021). Used well, a few decoy credentials, files or services that no legitimate user would ever touch give you a near-zero-noise alarm. Used badly, they are one more system to maintain and one more source of confusion.</p>
+<p>My advice is modest. Start with a small number of decoys in places that matter. Make sure each one raises an alert that a human will see. Do not build a maze you cannot monitor.</p>
+<h2 id="your-own-sensors-the-problem-of-sense-making">Your own sensors: the problem of sense-making</h2>
+<p>Now the other direction. What do you see?</p>
+<p>IBM&rsquo;s 2026 study found that the mean time to identify and contain a breach was 247 days (IBM and Ponemon Institute, 2026). That is a sense-making number. The evidence was there. Someone had to find it, read it and decide.</p>
+<p>CSIS&rsquo;s line applies exactly: information is cheap, processing it is expensive (CSIS, 2025c). Most mid-size organizations are not short of logs. They are short of attention. Three failure patterns recur:</p>
+<ol>
+<li><strong>Everything collected, nothing asked.</strong> Terabytes of logs with no question attached.</li>
+<li><strong>Alerts without owners.</strong> Detections that fire into a queue nobody is accountable for.</li>
+<li><strong>Sensors without a heartbeat.</strong> A source that quietly stops, and nobody knows.</li>
+</ol>
+<p>NIST&rsquo;s incident response guidance (SP 800-61r3) is now written to sit inside the CSF 2.0 functions: Govern, Identify, Protect, Detect, Respond and Recover (NIST SP 800-61r3, 2025; NIST CSF 2.0, 2024). That helps. It puts detection beside governance and recovery in one loop, not in a silo.</p>
+<h2 id="a-small-sensor-philosophy">A small-sensor philosophy</h2>
+<p>Build detection from decisions, not from data.</p>
+<ul>
+<li>Start with the five or six decisions you must make fast in an incident. Isolate a host. Disable an account. Take a service offline. Notify a customer or regulator. Call counsel and law enforcement.</li>
+<li>For each decision, name the signals you need to make it with confidence.</li>
+<li>Collect and retain those signals first. Add more only when a question demands it.</li>
+<li>For each signal, assign an owner, a response time and a heartbeat check.</li>
+</ul>
+<p>Fewer sensors, better understood, beat a sprawl nobody can read.</p>
+<h2 id="keep-your-own-secrets-from-the-wire">Keep your own secrets from the wire</h2>
+<p>CSIS&rsquo;s phrase &ldquo;digital dust&rdquo; belongs on a poster in your office. Staff leave trails. Contractors leave trails. Old test systems leave trails. Cloud sharing links live forever unless someone ends them. A few steps pay off quickly:</p>
+<ul>
+<li>Review public repositories, shared drives and storage for exposed secrets and files.</li>
+<li>Set expiry on sharing links and temporary access.</li>
+<li>Rotate any credential that has ever appeared in a ticket, chat or document.</li>
+<li>Give staff clear guidance on what not to post about internal systems.</li>
+</ul>
+<h2 id="what-to-do_4">What to do</h2>
+<ol>
+<li><strong>Make the outside-in list.</strong> Everything public that belongs to you. Reconcile with your asset register. Fix the gaps.</li>
+<li><strong>Pick your signature rules.</strong> Decide what must be public, what can be reduced, and who approves exceptions.</li>
+<li><strong>Define your six decisions</strong> and the signals behind each one. Retire collection that serves no decision.</li>
+<li><strong>Give every alert an owner and a clock.</strong></li>
+<li><strong>Add heartbeats</strong> to every critical log source, and test that silence raises an alert.</li>
+<li><strong>Start small on decoys,</strong> with legal and privacy sign-off, and only where a human will see the alarm.</li>
+<li><strong>Exercise with a watcher in mind.</strong> Run one tabletop a year that assumes the adversary has seen your public footprint for months.</li>
+</ol>
+<h2 id="what-to-measure_3">What to measure</h2>
+<ul>
+<li>Number of internet-facing assets without a named owner.</li>
+<li>Gap between the outside-in list and your asset register.</li>
+<li>Median time from alert to first human action.</li>
+<li>Share of critical log sources with a working heartbeat check.</li>
+<li>Share of alerts that lead to a decision, versus alerts closed as noise.</li>
+</ul>
+<h2 id="part-v-supply-lines">Part V: Supply lines. The rear is part of the front</h2>
+<p><strong>What public analysis describes.</strong> CSIS says supplying front lines &ldquo;will be more challenging—and likely deadlier—than ever,&rdquo; and that modern forces &ldquo;need to anticipate that only a fraction of supplies will get through.&rdquo; Forces will therefore &ldquo;seek to minimize deliveries to the front lines&rdquo; and adopt technologies that increase self-sufficiency, such as on-site production of parts (CSIS, 2025a). It also says that as commercial providers take on more of the work, the line between combatants and noncombatants blurs: providers of power, cloud storage and internet connectivity could increasingly be seen as legitimate targets (CSIS, 2025a). Read that as a statement about shared infrastructure. In your world, the shared infrastructure is the cloud and the carrier.</p>
+<p>Keep your own parallels in view, and keep them modest. Supply lines are long. They run through other people. They are watched, and they break.</p>
+<p><strong>What it means for you.</strong> Your supply lines are your vendors, your software dependencies, your cloud providers, your connectivity, your managed service providers, your payment processors and your power. Most of it lives outside your walls. You rely on it. You cannot patch it.</p>
+<h2 id="the-numbers-on-dependence">The numbers on dependence</h2>
+<p>Verizon&rsquo;s 2026 DBIR reports that breaches with third-party involvement increased by 60% from the prior year&rsquo;s dataset, reaching 48% of total breaches (Verizon, 2026). It describes root causes in many cloud-based third-party incidents that &ldquo;boil down to insecure authentication (absence of MFA, improper credential rotation) or lack of least privilege enforcement for users or service accounts&rdquo; (Verizon, 2026). In a survival analysis of third-party cloud exposures, only 23% of organizations had fully remediated missing or improperly secured multifactor authentication, though half of findings were resolved within a month (Verizon, 2026).</p>
+<p>IBM&rsquo;s 2026 report ranks supply chain compromise as the second most common initial attack vector, and the second slowest to resolve, taking 258 days to identify and contain (IBM and Ponemon Institute, 2026). ENISA observes that attackers abuse cyber dependencies, creating a &ldquo;ripple effect across the supply chain&rdquo; (ENISA, 2025).</p>
+<p>Read those numbers as direction, not precision. Each study defines &ldquo;third party&rdquo; and counts breaches differently. The direction is consistent: the more you rely on others, the more their weaknesses become yours.</p>
+<h2 id="the-ordinary-mistakes">The ordinary mistakes</h2>
+<p>Most supply line failures are dull.</p>
+<ul>
+<li><strong>No list.</strong> You cannot defend dependencies you have not named.</li>
+<li><strong>Trust by contract.</strong> A security questionnaire, filed once, and never looked at again.</li>
+<li><strong>Flat access.</strong> A vendor account that can reach more than the vendor&rsquo;s job needs.</li>
+<li><strong>One route.</strong> A single connectivity provider, a single cloud region, a single identity provider, a single payment rail.</li>
+<li><strong>No exit.</strong> No plan for the day a supplier is breached, suspended or simply gone.</li>
+</ul>
+<p>NIST&rsquo;s CSF 2.0 turns this into a category of its own: Cybersecurity Supply Chain Risk Management (GV.SC) under the Govern function. Its outcomes include that &ldquo;suppliers are known and prioritized by criticality,&rdquo; that requirements are &ldquo;integrated into contracts and other types of agreements,&rdquo; that supplier risks are &ldquo;understood, recorded, prioritized, assessed, responded to, and monitored over the course of the relationship,&rdquo; that relevant suppliers are &ldquo;included in incident planning, response, and recovery activities,&rdquo; and that plans cover what happens &ldquo;after the conclusion of a partnership or service agreement&rdquo; (NIST CSF 2.0, 2024).</p>
+<p>That list is the best brief I know. Map it onto your own contracts and see which lines are blank.</p>
+<h2 id="triage-the-supply-line">Triage the supply line</h2>
+<p>You cannot treat every supplier alike. Sort them.</p>
+<table>
+<thead>
+<tr>
+<th>Tier</th>
+<th>Who sits here</th>
+<th>What you do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Cannot operate without</td>
+<td>Identity provider, core cloud platform, primary connectivity, payment processing, the one software package that runs the business</td>
+<td>Written security requirements; incident contact; right to be told; a tested fallback plan; an owner at senior level</td>
+</tr>
+<tr>
+<td>2. Painful to lose</td>
+<td>Collaboration tools, CRM, HR systems, specialist SaaS</td>
+<td>Standard security terms; access limited to what the job needs; a data export you have tested</td>
+</tr>
+<tr>
+<td>3. Replaceable</td>
+<td>Everything else</td>
+<td>Basic review; do not give broad access</td>
+</tr>
+</tbody>
+</table>
+<p>For tier 1, ask hard questions in writing. How would you tell us about an incident, and how fast? What do you do if your own supplier is breached? Where does our data live? How do we leave?</p>
+<h2 id="keep-the-rear-from-burning">Keep the rear from burning</h2>
+<p>CSIS offers a principle you can borrow from logistics: self-sufficiency (CSIS, 2025a). For networks, this means the ability to operate through a failure upstream, for a while.</p>
+<ul>
+<li><strong>A second route for what matters.</strong> A second connectivity path. A second DNS provider. A backup identity path for administrators. Not for everything.</li>
+<li><strong>Local copies of what you need.</strong> Data exports of the systems that run the business, kept where you control them, in formats you can read without the vendor.</li>
+<li><strong>Manual procedures,</strong> printed and tested, for critical operations.</li>
+<li><strong>Limits on blast radius.</strong> Treat vendor connections as untrusted. Give each its own segment, its own account and its own logging.</li>
+</ul>
+<p>NIST&rsquo;s cyber resiliency guidance adds a warning that fits here. Redundancy-supporting approaches such as backup, surplus capacity and replication &ldquo;are not sufficient to protect against&rdquo; an advanced persistent threat. A threat actor might choose backup servers as &ldquo;optimum locations to implant malware&rdquo; if they are not sufficiently protected, and remote backup servers built with the same architecture as the primary may share its weakness (NIST SP 800-160 Vol. 2 Rev. 1, 2021). A second copy that shares the first copy&rsquo;s weaknesses is the same line drawn twice. That is why diversity appears in the same list.</p>
+<h2 id="software-dependencies">Software dependencies</h2>
+<p>Treat software like any other supply: know what is in it. For critical applications, keep a software bill of materials, track which versions you run, and know who to ask when a component is announced as vulnerable. For the edge, the joint guidance lists &ldquo;procure secure-by-design devices&rdquo; among its seven strategies (NSA, 2025). You cannot always do that. When you cannot, the compensating control is to limit and monitor what the product can reach.</p>
+<h2 id="exercise-the-break">Exercise the break</h2>
+<p>NIST&rsquo;s guidance on incident response says incidents &ldquo;occur frequently and cause far more damage,&rdquo; and recovery &ldquo;often takes weeks or months.&rdquo; It also urges that lessons be shared as soon as they are identified, &ldquo;not delayed until after recovery concludes&rdquo; (NIST SP 800-61r3, 2025). For supply lines, that means exercising the day a tier 1 supplier fails or is breached. Who calls whom? What do we switch off? What do we tell customers? How long can we last?</p>
+<p>Run it once a year. Invite the supplier if they will come.</p>
+<h2 id="what-to-do_5">What to do</h2>
+<ol>
+<li><strong>Build the supplier list.</strong> Name every tier 1 and tier 2 dependency. Record owner, data held, access given and exit path.</li>
+<li><strong>Tier them.</strong> Apply different rules to each tier.</li>
+<li><strong>Review vendor access.</strong> Remove accounts and permissions that are not needed. Put multifactor authentication and logging on the rest.</li>
+<li><strong>Close the dullest gaps first.</strong> A single route, no exit plan, no incident contact.</li>
+<li><strong>Test one fallback.</strong> Pick the highest-impact tier 1 supplier and rehearse running without it.</li>
+<li><strong>Put incident duties in contracts</strong> at renewal. Notification timelines, cooperation, data return.</li>
+<li><strong>Share lessons early.</strong> Hold a short review after any supplier incident, before the dust settles.</li>
+</ol>
+<h2 id="what-to-measure_4">What to measure</h2>
+<ul>
+<li>Share of tier 1 suppliers with a named internal owner, a tested fallback and a documented incident contact.</li>
+<li>Number of vendor accounts with access beyond their stated purpose.</li>
+<li>Time to run a critical process in fallback mode, in rehearsal.</li>
+<li>Share of tier 1 and tier 2 contracts that carry incident notification terms.</li>
+</ul>
+<h2 id="part-vi-command">Part VI: Command. Decide faster than the grind</h2>
+<p><strong>What public analysis describes.</strong> CSIS says the future is &ldquo;shifting toward smaller, highly mobile, adaptable units, where field commanders are empowered to make decisions about cover, concealment, and tactics while minimizing their communications signature&rdquo; (CSIS, 2025a). It says fast cycles of adaptation mean fronts may evolve at different paces, &ldquo;necessitating central nodes to facilitate sharing lessons learned,&rdquo; and that &ldquo;units will need resilient mesh networks to ensure continuous communication even if multiple nodes go dark&rdquo; (CSIS, 2025a). It reports a &ldquo;six week learning cycle&rdquo; attributed to a RUSI analyst, in which measures and countermeasures follow each other in weeks, not years (CSIS, 2025a). Another chapter says drone developers pushed innovation cycles to &ldquo;weeks rather than months or years&rdquo; (CSIS, 2025b).</p>
+<p>Three ideas: decisions pushed to the edge, lessons pulled to the center, and communications that survive losing a node.</p>
+<p><strong>What it means for you.</strong> Command is the cross-cutting concern that decides whether all five fronts work together. It is not a rank. It is how decisions are made, how fast, by whom, and what happens when the person who normally decides is unreachable.</p>
+<h2 id="the-decision-clock">The decision clock</h2>
+<p>Compare two clocks.</p>
+<p>IBM&rsquo;s 2026 study puts the mean time to identify and contain a breach at 247 days (IBM and Ponemon Institute, 2026). Verizon&rsquo;s 2026 DBIR puts the median time to fully patch known-exploited vulnerabilities at 43 days, up from 32 (Verizon, 2026). Attack bursts, as shown in Part II, run in minutes and hours.</p>
+<p>An organization whose decisions run on a slower clock than the pressure on it loses ground even when it is doing the right things. The target is not speed at any cost. The target is that no routine decision waits for a meeting.</p>
+<h2 id="pre-decided-authority">Pre-decided authority</h2>
+<p>In an incident you do not want to discover who can approve what. Decide it in advance.</p>
+<ul>
+<li><strong>Pre-authorized actions.</strong> A short list of actions that on-call staff may take without asking: disable an account, isolate a host, block an address range, revoke a token. Write down the conditions. Review them after use.</li>
+<li><strong>Escalation triggers.</strong> Clear lines for when a decision moves up: a crown system, customer data, a regulator notice, a public statement, a payment.</li>
+<li><strong>Delegation if unreachable.</strong> Every decision-maker has a named deputy with the same authority. The deputy has the numbers, the access, and the standing to act.</li>
+<li><strong>Intent, not scripts.</strong> State what must be protected and what may be sacrificed. Let those closest to the problem choose the method.</li>
+</ul>
+<p>That last point is my own recommendation, drawn from the shape of the CSIS description. It is not a quotation from any doctrine. But the logic is the same as CSIS&rsquo;s: distant, slow, centralized decisions fail under pressure, and local authority must be bounded by clear limits (CSIS, 2025a).</p>
+<p>The cost of delegation is mistakes. Accept some. Review them without punishing the people who acted in good faith. Otherwise nobody will act next time.</p>
+<h2 id="lessons-to-the-center-fast">Lessons to the center, fast</h2>
+<p>CSIS says a more widespread battlefield may see fronts evolve at different paces, &ldquo;necessitating central nodes to facilitate sharing lessons learned&rdquo; (CSIS, 2025a). NIST SP 800-61r3 says to share lessons &ldquo;as soon as they are identified, not delayed until after recovery concludes&rdquo; (NIST SP 800-61r3, 2025).</p>
+<p>For you that means:</p>
+<ul>
+<li><strong>A running log</strong> kept during every incident and every near miss, with a short note on what worked and what did not.</li>
+<li><strong>A weekly fifteen-minute review</strong> of the log. One owner. Output: at most three changes.</li>
+<li><strong>A change channel</strong> where findings turn into tickets, with an owner and a date.</li>
+<li><strong>Outside sources.</strong> Join an information-sharing community in your sector. Verizon&rsquo;s own advice for the growing capability of attackers is to &ldquo;maintain our footing and use collaboration and partnerships&rdquo; (Verizon, 2026).</li>
+</ul>
+<p>Keep the loop short. A lesson that waits for the quarterly meeting is a lesson that gets forgotten.</p>
+<h2 id="communications-that-survive-a-lost-node">Communications that survive a lost node</h2>
+<p>CSIS&rsquo;s mesh-network idea has a plain analog: crisis communications that do not depend on the thing that failed (CSIS, 2025a). If email is down, how do you reach each other? If chat is down? If your identity provider is down and nobody can log in?</p>
+<p>Build a short communications plan:</p>
+<ol>
+<li><strong>A primary channel,</strong> the one you normally use.</li>
+<li><strong>An out-of-band channel</strong> that does not depend on your identity provider or primary network. Agree in advance which one, and who has the credentials.</li>
+<li><strong>A phone tree</strong> on paper, kept current, with deputies.</li>
+<li><strong>A rule</strong> for confirming that a message is real before acting on it, including voice and video, as in Part III.</li>
+</ol>
+<p>Test it quarterly. Ask the question: who did not get the message?</p>
+<h2 id="governance-without-ceremony">Governance without ceremony</h2>
+<p>NIST&rsquo;s CSF 2.0 places Govern at the center of its six functions, alongside Identify, Protect, Detect, Respond and Recover (NIST CSF 2.0, 2024). That framing helps in practice. Governance is not paperwork. It is the set of decisions leadership has made, in advance, about what to protect, what to tolerate, and who decides.</p>
+<p>For a mid-size organization, a one-page &ldquo;risk appetite and decision rights&rdquo; sheet may be the most useful governance document you can write. Name your crown assets. Name the maximum downtime you can accept for each. Name who may approve a deviation. Revisit it every six months.</p>
+<h2 id="what-to-do_6">What to do</h2>
+<ol>
+<li><strong>Write the pre-authorized action list.</strong> Five to ten actions. Conditions. Owner. Review date.</li>
+<li><strong>Name deputies</strong> for every decision-maker, and give them access and authority.</li>
+<li><strong>Draw the escalation triggers</strong> on one page.</li>
+<li><strong>Start the lessons log</strong> and the weekly fifteen-minute review.</li>
+<li><strong>Build and test the out-of-band communications plan.</strong></li>
+<li><strong>Write the one-page decision rights sheet</strong> and have leadership sign it.</li>
+</ol>
+<h2 id="what-to-measure_5">What to measure</h2>
+<ul>
+<li>Time from detection to first containment action, in incidents and exercises.</li>
+<li>Share of incident decisions made within pre-authorized limits.</li>
+<li>Time from a lesson identified to the change deployed.</li>
+<li>Share of the response team reached through the out-of-band channel within ten minutes, in a drill.</li>
+</ul>
+<h2 id="part-vii-people">Part VII: People. Endurance is the strategy</h2>
+<p><strong>What public analysis describes.</strong> CSIS notes that new drone units &ldquo;require a vastly different skill set than traditional infantry&rdquo; and that recruitment and training programs had to be intensified to build them (CSIS, 2025a). That sentence is generic. It says something every security leader knows: when the nature of the work changes, the people have to change with it, and it takes time.</p>
+<p>CSIS also warns of leaning on technology as a crutch: &ldquo;Using technology as a crutch happens today,&rdquo; and that militaries &ldquo;must be ready to lose those tools and keep fighting&rdquo; (CSIS, 2025a). The same chapter says the human tendency to defer to machine recommendations is a hazard in itself (CSIS, 2025a).</p>
+<p><strong>What it means for you.</strong> People are the second cross-cutting concern, and in a war of attrition they are the scarcest resource. Tools can be bought. Experience cannot.</p>
+<p>ISC2&rsquo;s 2024 workforce study found 67% of respondents reported a staffing shortage and 90% reported one or more skills gaps (ISC2, 2024). Verizon&rsquo;s analysis of small and medium-sized organizations found that most ransomware victims, among cases where size was known, were small or mid-size (Verizon, 2026). The ones with the smallest teams face the same cheap pressure as the ones with the largest.</p>
+<p>I do not cite burnout or turnover statistics here. The sources I opened for this paper do not measure them. I will say only what any security manager can see on their own team: sustained pressure, with no end date, wears people down.</p>
+<h2 id="design-the-team-for-endurance">Design the team for endurance</h2>
+<p>A short fight can be won with heroics. A long grind cannot. The practical rules are not glamorous.</p>
+<p><strong>Rotate.</strong> Put on-call duty on a rota with real recovery time after a heavy shift. Do not let the same two people carry every incident.</p>
+<p><strong>Cross-train.</strong> For each critical function, name at least two people who can do it. Test it by having the second person do it, with the first person watching, once a quarter.</p>
+<p><strong>Write it down.</strong> Runbooks for the ten things that go wrong most often, and the five that go wrong worst. Plain language. Tested by someone who did not write them.</p>
+<p><strong>Protect attention.</strong> Cut alerts that never lead to action (see Part IV). Automate repetitive triage where you can, with human review (Part II). IBM found that extensive use of AI and automation in security was associated with a shorter breach lifecycle and lower costs (IBM and Ponemon Institute, 2026). Whatever you automate, keep a person accountable.</p>
+<p><strong>Keep a bench.</strong> An incident response retainer, a managed detection provider, or a mutual-aid arrangement with a peer organization. Agree terms before you need them. Know who answers the phone at 3 a.m.</p>
+<p><strong>Train in the open.</strong> Exercises should include non-technical staff. Finance, legal, communications and executive assistants are part of the line. CSIS&rsquo;s guidance on exercises is for militaries, but the principle carries over: simulate conditions where the adversary has good information (CSIS, 2025b). Assume they know your org chart.</p>
+<h2 id="skills-that-matter-now">Skills that matter now</h2>
+<p>The mix of skills changes as the fronts shift. A few that I would grow in a mid-size team:</p>
+<ul>
+<li><strong>Identity and access.</strong> The craft of making access narrow and short-lived.</li>
+<li><strong>Cloud and third-party risk.</strong> Reading a provider&rsquo;s responsibility model and finding where it leaves you exposed.</li>
+<li><strong>Detection engineering.</strong> Turning a decision into a signal (Part IV).</li>
+<li><strong>Resilience engineering.</strong> Backups, restores, failover and degraded operations (Parts III and V).</li>
+<li><strong>Communication.</strong> Plain, calm writing and speaking under pressure. Underrated.</li>
+</ul>
+<p>You will not hire all of them. Train, contract and partner.</p>
+<h2 id="humans-and-machines">Humans and machines</h2>
+<p>CSIS&rsquo;s cautionary note on AI is about judgment: when both sides use AI, the incentive is to defer to it, and for now that will lead to mistakes (CSIS, 2025a). Applied to security operations, it is a rule worth writing down:</p>
+<ul>
+<li>AI recommends. A named human decides, for anything that affects customers, access or money.</li>
+<li>Each automated action has a log, an owner and an off switch.</li>
+<li>People review a sample of automated decisions every week and write down what they find.</li>
+<li>Nobody is judged by how often they agree with the tool.</li>
+</ul>
+<h2 id="morale-is-operational">Morale is operational</h2>
+<p>I will keep this short. Say thank you. Name what went well in every post-incident review. Make sure people can take leave. Make sure the person who raised the alarm is thanked, not blamed. Those are cheap. They also decide whether your best people are still there in a year.</p>
+<h2 id="what-to-do_7">What to do</h2>
+<ol>
+<li><strong>Build the rota.</strong> Include recovery time. Name deputies.</li>
+<li><strong>Map single points of human failure.</strong> For every critical function, name two people.</li>
+<li><strong>Write and test ten runbooks.</strong></li>
+<li><strong>Sign a bench.</strong> Retainer, partner or mutual-aid agreement, with a tested contact path.</li>
+<li><strong>Run a cross-functional exercise</strong> with finance, legal, communications and executives.</li>
+<li><strong>Write the human-in-the-loop rule</strong> for AI and automation, and review a sample every week.</li>
+</ol>
+<h2 id="what-to-measure_6">What to measure</h2>
+<ul>
+<li>Number of critical functions with fewer than two trained people.</li>
+<li>Share of runbooks tested by someone other than their author in the last six months.</li>
+<li>Distribution of on-call load across the team.</li>
+<li>Time to reach your outside bench in a test call.</li>
+</ul>
+<h2 id="part-viii-scenarios">Part VIII: Three scenarios</h2>
+<p>These three scenarios are <strong>hypothetical</strong>. They are not reports of real incidents, real organizations or real results. They contain no statistics. They exist to show how the fronts interact, and to give your team something to rehearse.</p>
+<p>Each scenario is a mid-size organization, roughly a few hundred staff, with a small security team and several outside providers. Use them as prompts for a tabletop exercise. Replace the details with your own.</p>
+<h2 id="scenario-one-the-long-week">Scenario one: The long week</h2>
+<p><em>A regional services company. Monday to Friday.</em></p>
+<p><strong>Monday.</strong> The edge. A vendor publishes a notice about a flaw in a remote access appliance. It is on the list of known-exploited vulnerabilities. The company runs that appliance. The patch window is scheduled for the following weekend because of a customer deadline.</p>
+<p><strong>Tuesday.</strong> Drones. A flood hits the customer portal for twenty minutes, stops, then returns an hour later. The on-call engineer spends the afternoon on the upstream mitigation. Meanwhile, a wave of phishing messages reaches finance and the help desk.</p>
+<p><strong>Wednesday.</strong> Sensors. The scanning traffic against the appliance rises. The log source for the appliance has been quiet for days. Nobody noticed, because nobody was asked to watch it.</p>
+<p><strong>Thursday.</strong> Command. A help-desk call, convincingly polite, asks for a password reset for a senior manager who is traveling. The help-desk agent is under pressure and has no verification rule for resets.</p>
+<p><strong>What good looks like.</strong></p>
+<ul>
+<li>The edge appliance is on the list of tier-1 internet-facing assets. The known-exploited flaw triggers a pre-authorized emergency patch outside the normal window. A named owner decides in hours, not days.</li>
+<li>The flood runbook is rehearsed. The on-call engineer engages upstream protection by the book, and a second person checks the quiet systems while the loud one is being handled.</li>
+<li>A heartbeat check on the appliance&rsquo;s logs fires on Tuesday, not after the fact.</li>
+<li>The help-desk rule requires a call-back to a known number for any reset of a privileged or traveling executive&rsquo;s account. The agent follows the rule, and nobody criticizes the delay.</li>
+<li>By Friday the team has reviewed what happened, changed three things, and rested.</li>
+</ul>
+<p><strong>Questions for your tabletop.</strong> Who can approve an emergency patch outside the window? What do we turn off if the appliance cannot be patched in time? Who is watching the quiet log source?</p>
+<h2 id="scenario-two-the-quiet-clock">Scenario two: The quiet clock</h2>
+<p><em>A professional services firm. A bad afternoon.</em></p>
+<p><strong>Situation.</strong> A time source used by several internal systems begins to drift. The drift is small at first. Log timestamps no longer line up between systems. A certificate validation error appears on one internal service, then another. The help desk begins to receive reports of failed sign-ins.</p>
+<p>At the same time, someone calls the finance team using a voice that sounds like the managing partner. It asks for an urgent payment to a new account, citing a confidential deal. The caller says not to discuss it by email.</p>
+<p><strong>Pressure points by front.</strong></p>
+<ul>
+<li><strong>Electronic warfare, in the sense of Part III.</strong> Time and voice are both signals. Both can be wrong. The two events may be unrelated, or one may be covering for the other. The team does not know.</li>
+<li><strong>Sensors.</strong> Logs with inconsistent time make it hard to build a timeline. Analysts lose confidence in the data.</li>
+<li><strong>Command.</strong> Who decides whether to take an authentication service offline to investigate? Who decides whether the payment is real?</li>
+<li><strong>People.</strong> The finance clerk is junior. The caller is senior.</li>
+</ul>
+<p><strong>What good looks like.</strong></p>
+<ul>
+<li>Two independent time sources are configured, and an alert fires when they disagree. The team switches to the second source under a runbook, rather than debating which clock is right.</li>
+<li>The finance team has a rule: new payee, urgent request, any channel, requires out-of-band verification through a known number, and a second approver. The clerk follows it. The managing partner, called back on a number from the directory, knows nothing about it.</li>
+<li>Incident notes record the time source and the drift, so the timeline can be rebuilt later.</li>
+<li>Leadership has told the team, in advance, that following the rule is correct even when the person asking is the most senior in the firm.</li>
+</ul>
+<p><strong>Questions for your tabletop.</strong> Which of our systems would fail first if time were wrong? Who can stop a payment at 4:55 p.m. on a Friday? Have we tested this rule against someone who sounds exactly like the boss?</p>
+<h2 id="scenario-three-the-vendor-goes-dark">Scenario three: The vendor goes dark</h2>
+<p><em>A distribution business. A supplier fails.</em></p>
+<p><strong>Situation.</strong> A cloud service that handles the company&rsquo;s orders is unavailable. The provider&rsquo;s first notice is vague. Hours pass. Later, the provider states that it is investigating a security incident and that customer data may be affected. Staff cannot take orders. The managed service provider that administers part of the network is also affected, and its support line is overloaded.</p>
+<p><strong>Pressure points by front.</strong></p>
+<ul>
+<li><strong>Supply lines.</strong> One provider carries a critical process. There is no second route.</li>
+<li><strong>Trenches.</strong> The provider&rsquo;s connection into the company&rsquo;s systems uses an account with broad permissions.</li>
+<li><strong>Command.</strong> The incident has no owner inside the company. Customers are asking questions. The sales team wants to promise dates.</li>
+<li><strong>People.</strong> Staff have been working through the night. The one person who understands the integration is on leave.</li>
+</ul>
+<p><strong>What good looks like.</strong></p>
+<ul>
+<li>The supplier is on the tier-1 list. The company holds a recent export of order data in a readable format, and a manual procedure for taking orders by phone and spreadsheet for a limited time. Staff have practiced it once.</li>
+<li>The vendor connection runs through its own segment with its own account, restricted to what the integration needs. The company disables the connection on its own authority while the vendor investigates.</li>
+<li>A named incident owner decides what to tell customers and when. A short holding statement goes out early and is updated at set times.</li>
+<li>The contract with the provider contains incident notification duties, which the company invokes. The company asks the provider written questions and logs the answers.</li>
+<li>A second person has been trained on the integration. The rota gives the first person leave.</li>
+</ul>
+<p><strong>Questions for your tabletop.</strong> If this supplier were gone for a week, what would we do? Who may disable the connection? What would we say to customers in the first two hours?</p>
+<h2 id="what-the-scenarios-share">What the scenarios share</h2>
+<p>None of these events is exotic. Each is ordinary pressure applied from several directions. In every one, the organization that does well has done unglamorous work in advance: a list, a rule, a rehearsal, a named owner. The organization that does badly usually has the same tools. It has not decided what to do.</p>
+<p>Run one scenario a quarter. Change the details. Write down what you find.</p>
+<h1 id="recommendations">Recommendations</h1>
+<p>Here is the plan.</p>
+<p>It is not glamorous. It is a campaign built around depth, cheap layers, second sources, a small signature, a rear that can burn, and decisions that do not wait for permission. The seven parts above each end with their own actions. This section puts them in order.</p>
+<p>Add capability only when the controls and the evidence are in place. Timelines depend on your team size, your tooling and your risk appetite. The phases below are a sequence first and a schedule second.</p>
+<h2 id="the-seven-moves">The seven moves</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Move</th>
+<th>Front it answers</th>
+<th>First proof that it is working</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Map the ground.</strong> Inventory the edge, crown assets and dependencies.</td>
+<td>Sensors; Supply lines</td>
+<td>The outside-in list matches your asset register</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Dig in.</strong> Segment, shrink the implicit trust zone, and move administrators onto a separate path.</td>
+<td>Trenches</td>
+<td>A test from an ordinary workstation cannot reach a crown system</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Close the cheap doors.</strong> MFA on exposed logins, automated patching on the edge, upstream flood protection.</td>
+<td>Drones</td>
+<td>Known-exploited flaws on the edge are fixed within your target time</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Keep a second source.</strong> Two time sources, out-of-band verification, a heartbeat on every critical log.</td>
+<td>Electronic warfare</td>
+<td>A drill with the primary source removed shows no surprise</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Reduce your signature.</strong> Shrink what the outside sees, build detection from decisions, and place a few decoys with legal sign-off.</td>
+<td>Sensors</td>
+<td>Every alert has an owner and a clock</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Plan for the rear to burn.</strong> Tier your suppliers, keep exports and manual procedures, and rehearse the break.</td>
+<td>Supply lines</td>
+<td>One tier 1 fallback has been run end to end</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Decentralize the decisions.</strong> Write down who may act, keep an out-of-band communications path, and share lessons within days.</td>
+<td>Command; People</td>
+<td>A pre-authorized action was used and reviewed</td>
+</tr>
+</tbody>
+</table>
+<div class="callout"><p class="callout-lead">The takeaway</p><p>Map first. Dig in second. Close the cheap doors before you buy anything exotic. Keep a second source for every signal you trust. Plan for the rear to burn. Decide before you have to.</p></div>
+
+<h2 id="what-the-battlefield-teaches-the-plan">What the battlefield teaches the plan</h2>
+<p>Each lesson from The modern battlefield maps to a part of the plan. Use this as a check on your own program.</p>
+<table>
+<thead>
+<tr>
+<th>Battlefield lesson</th>
+<th>What it teaches</th>
+<th>Where it lands in the plan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Depth beats a hard shell</td>
+<td>Assume the first line is crossed; make every step cost more</td>
+<td>Segmentation; per-session access; recovery rehearsals</td>
+</tr>
+<tr>
+<td>Cheap mass versus exquisite systems</td>
+<td>Answer volume with cheap, repeatable, automated layers</td>
+<td>MFA; edge patching; upstream flood protection; automation with human review</td>
+</tr>
+<tr>
+<td>Signals can be jammed and spoofed</td>
+<td>Verify out of band; keep a second source</td>
+<td>Time sources; call-back rules; heartbeat checks</td>
+</tr>
+<tr>
+<td>You are being watched</td>
+<td>Know your signature; make sense of your own sensors</td>
+<td>Outside-in list; decision-led detection; decoys with limits</td>
+</tr>
+<tr>
+<td>The rear area is not safe</td>
+<td>Suppliers and platforms are terrain</td>
+<td>Tiered supplier list; exports; manual fallbacks; contract terms</td>
+</tr>
+<tr>
+<td>Decentralize decisions, protect communications</td>
+<td>Pre-authorize; keep a channel that does not depend on what you defend</td>
+<td>Decision rights; deputies; out-of-band channel; lessons loop</td>
+</tr>
+<tr>
+<td>Endurance decides</td>
+<td>Staff for year two, not week two</td>
+<td>Rotas; cross-training; runbooks; a bench</td>
+</tr>
+</tbody>
+</table>
+<p>And a check to run each quarter. Five questions:</p>
+<ol>
+<li><strong>Where are the lines?</strong> Is your trench map current, with strong, partial and absent marked honestly?</li>
+<li><strong>What can the outside see?</strong> When did you last compare the outside-in list with your register?</li>
+<li><strong>What is the second source?</strong> For time, identity and every critical signal, is there an independent check?</li>
+<li><strong>What if the rear burns?</strong> When did you last rehearse a tier 1 supplier failing?</li>
+<li><strong>Who may act?</strong> Does everyone on the rota know what they can do without asking?</li>
+</ol>
+<h2 id="the-first-90-days">The first 90 days</h2>
+<h3 id="days-1-to-30-map-and-baseline">Days 1 to 30: Map and baseline</h3>
+<ul>
+<li>Assemble the outside-in list of everything internet-facing that belongs to you. Reconcile it with the asset register and assign an owner to every item.</li>
+<li>Draw the trench map with five lines. Mark each strong, partial or absent.</li>
+<li>List your top signals (time, identity, names, voice, alerts) and note the second source for each, or the gap.</li>
+<li>Write down today&rsquo;s baseline: time to patch known-exploited flaws on the edge, share of exposed logins with MFA, time to restore a crown system, time from alert to first human action.</li>
+<li>Build the supplier list and tier it.</li>
+<li>Write the pre-authorized action list and name deputies.</li>
+</ul>
+<h3 id="days-31-to-60-close-the-cheap-doors">Days 31 to 60: Close the cheap doors</h3>
+<ul>
+<li>Patch the edge. Remove services nobody can justify. Put management interfaces behind a separate path.</li>
+<li>Require MFA on every external login and remote access path, starting with administrators.</li>
+<li>Confirm upstream flood protection in writing. Run the two-hour drill.</li>
+<li>Add heartbeat checks to critical log sources.</li>
+<li>Set verification rules for payments, credential resets and access requests. Brief the people who handle them.</li>
+<li>Stand up the out-of-band communications path and test it once.</li>
+</ul>
+<h3 id="days-61-to-90-rehearse-and-decide">Days 61 to 90: Rehearse and decide</h3>
+<ul>
+<li>Run one scenario from Part VIII as a tabletop.</li>
+<li>Run a controlled test of removing the primary time source in a change window.</li>
+<li>Test the first fallback for your most important tier 1 supplier.</li>
+<li>Start the lessons log and the weekly review.</li>
+<li>Write the one-page decision rights sheet and have leadership sign it.</li>
+<li>Re-measure the baseline. Report the change to leadership, including what did not move.</li>
+</ul>
+<h2 id="the-first-12-months">The first 12 months</h2>
+<table>
+<thead>
+<tr>
+<th>Quarter</th>
+<th>Focus</th>
+<th>What you deliver</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Q1 (days 1 to 90)</td>
+<td>Map, close, rehearse</td>
+<td>Everything in the 90-day plan</td>
+</tr>
+<tr>
+<td>Q2</td>
+<td>Dig deeper</td>
+<td>Segment your most valuable systems; separate administrator access; extend phishing-resistant authentication to all staff who touch crown assets</td>
+</tr>
+<tr>
+<td>Q3</td>
+<td>See and decide</td>
+<td>Decision-led detection for the six key decisions; first decoys; automation in recommend-only mode, then limited authority; second tabletop with finance, legal and communications</td>
+</tr>
+<tr>
+<td>Q4</td>
+<td>Survive and adapt</td>
+<td>A full tier 1 supplier failure exercise; contract terms updated at renewal; re-run the self-assessment; set next year&rsquo;s targets from your own results</td>
+</tr>
+</tbody>
+</table>
+<p>Throughout the year:</p>
+<ul>
+<li><strong>Every widening of authority is a decision,</strong> made by a named owner, documented and reversible.</li>
+<li><strong>Every incident and near miss feeds the lessons log.</strong></li>
+<li><strong>Every quarter, report to leadership</strong> on the metrics and on what went wrong.</li>
+<li><strong>Every year, re-run the self-assessment</strong> below.</li>
+</ul>
+<h2 id="self-assessment-checklist">Self-assessment checklist</h2>
+<p>Use this checklist with your security, IT and leadership teams. Answer honestly. A &ldquo;no&rdquo; is not a failure. It is a work item.</p>
+<p>Score each item: 0 = not in place, 1 = partly in place, 2 = fully in place and evidenced. The levels at the end are my rough guide, not a formal standard.</p>
+<h3 id="trenches">Trenches</h3>
+<ul class="checklist">
+<li>☐&nbsp; The trench map exists and is reviewed at least twice a year.</li>
+<li>☐&nbsp; Administrators use a separate access path with phishing-resistant authentication.</li>
+<li>☐&nbsp; Crown systems sit in segments that an ordinary workstation cannot reach, and this has been tested.</li>
+<li>☐&nbsp; A restore of a crown system from isolated backup has been rehearsed in the last year.</li>
+</ul>
+<h3 id="drones">Drones</h3>
+<ul class="checklist">
+<li>☐&nbsp; MFA protects every externally exposed login and every remote access path.</li>
+<li>☐&nbsp; Known-exploited vulnerabilities on internet-facing systems have a target patch time, and it is measured.</li>
+<li>☐&nbsp; Upstream flood protection is in place, with a written runbook and a rehearsal.</li>
+<li>☐&nbsp; Automated actions run under a human-in-the-loop rule, with logs and an off switch.</li>
+</ul>
+<h3 id="electronic-warfare">Electronic warfare</h3>
+<ul class="checklist">
+<li>☐&nbsp; Critical systems use at least two independent time sources, and disagreement raises an alert.</li>
+<li>☐&nbsp; Requests to move money, reset credentials or grant access follow an out-of-band verification rule.</li>
+<li>☐&nbsp; A critical process has been run in degraded mode in the last year.</li>
+<li>☐&nbsp; An out-of-band management path exists for the most critical systems.</li>
+</ul>
+<h3 id="sensors">Sensors</h3>
+<ul class="checklist">
+<li>☐&nbsp; An outside-in list of internet-facing assets exists and has been reconciled with the asset register.</li>
+<li>☐&nbsp; Every alert has an owner and a response time.</li>
+<li>☐&nbsp; Every critical log source has a heartbeat check.</li>
+<li>☐&nbsp; Public repositories, shared links and storage have been reviewed for exposed secrets and files in the last six months.</li>
+</ul>
+<h3 id="supply-lines">Supply lines</h3>
+<ul class="checklist">
+<li>☐&nbsp; A supplier list exists, with tiers, owners, data held and access granted.</li>
+<li>☐&nbsp; Vendor accounts are limited to what each integration needs, with MFA and logging.</li>
+<li>☐&nbsp; Data exports for tier 1 and tier 2 systems are kept where you control them, in formats you can read.</li>
+<li>☐&nbsp; A tier 1 supplier failure has been exercised in the last year.</li>
+<li>☐&nbsp; Tier 1 contracts contain incident notification and cooperation terms.</li>
+</ul>
+<h3 id="command">Command</h3>
+<ul class="checklist">
+<li>☐&nbsp; A pre-authorized action list exists, with conditions and review dates.</li>
+<li>☐&nbsp; Every decision-maker has a named deputy with access and authority.</li>
+<li>☐&nbsp; A lessons log is kept, with a weekly review and an owner.</li>
+<li>☐&nbsp; An out-of-band communications path exists, and it has been tested in the last quarter.</li>
+</ul>
+<h3 id="people">People</h3>
+<ul class="checklist">
+<li>☐&nbsp; The on-call rota includes recovery time, and load is shared.</li>
+<li>☐&nbsp; Every critical function has at least two trained people.</li>
+<li>☐&nbsp; Runbooks exist for the ten most likely and five worst failures, and someone other than the author has tested them.</li>
+<li>☐&nbsp; An outside bench (retainer, partner or mutual aid) exists, with a tested contact path.</li>
+<li>☐&nbsp; Exercises include finance, legal, communications and executives.</li>
+</ul>
+<h3 id="reading-your-score">Reading your score</h3>
+<p>There are 30 items, for a maximum of 60 points.</p>
+<ul>
+<li><strong>0–19: Foundational.</strong> Map the ground, close the cheap doors, and fix single points of failure before anything else.</li>
+<li><strong>20–39: Developing.</strong> The basics are partly in place. Prioritize second sources, supplier fallbacks and decision rights.</li>
+<li><strong>40–60: Established.</strong> Deepen segmentation, automate with care, and keep rehearsing.</li>
+</ul>
+<p>Whatever your score, the next step is the same: pick the three lowest items that matter most to your risk, assign owners and dates, and re-score in a quarter.</p>
+<h2 id="a-starter-scorecard">A starter scorecard</h2>
+<p>Report these to leadership each quarter. Compare against your own baseline. Do not compare with a survey median.</p>
+<table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Front</th>
+<th>Direction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time to patch known-exploited flaws on the edge</td>
+<td>Drones</td>
+<td>Down</td>
+</tr>
+<tr>
+<td>Share of external logins with MFA</td>
+<td>Drones</td>
+<td>Up</td>
+</tr>
+<tr>
+<td>Systems in the implicit trust zone</td>
+<td>Trenches</td>
+<td>Down</td>
+</tr>
+<tr>
+<td>Time to restore a crown system, in rehearsal</td>
+<td>Trenches</td>
+<td>Down</td>
+</tr>
+<tr>
+<td>Independent time sources per critical system</td>
+<td>Electronic warfare</td>
+<td>Up</td>
+</tr>
+<tr>
+<td>Internet-facing assets without an owner</td>
+<td>Sensors</td>
+<td>Down</td>
+</tr>
+<tr>
+<td>Median time from alert to first human action</td>
+<td>Sensors</td>
+<td>Down</td>
+</tr>
+<tr>
+<td>Tier 1 suppliers with a tested fallback</td>
+<td>Supply lines</td>
+<td>Up</td>
+</tr>
+<tr>
+<td>Time from detection to first containment action</td>
+<td>Command</td>
+<td>Down</td>
+</tr>
+<tr>
+<td>Critical functions with fewer than two trained people</td>
+<td>People</td>
+<td>Down</td>
+</tr>
+</tbody>
+</table>
+<h1 id="conclusion">Conclusion</h1>
+<p>The sources agree on direction.</p>
+<p>Exploitation of known flaws is still a leading way in. Credentials still get stolen and used. Floods and bots arrive every day. Suppliers carry more of your risk each year. Breaches that run long cost more. Teams are short of people and skills (Verizon, 2026; IBM and Ponemon Institute, 2026; ISC2, 2024).</p>
+<p>The public analysis of the modern battlefield points the same way. Depth. Cheap mass. Spoofed and jammed signals. Constant observation. Supply lines that are never safe. Fast cycles of measure and countermeasure (CSIS, 2025a; CSIS, 2025b; CSIS, 2025c). Your organization is not at a front line. But it works in the same electromagnetic and informational weather, and it faces the same economics: cheap pressure against costly defense.</p>
+<p>You will not win that by matching them effort for effort. You win it the way resilient institutions do.</p>
+<p>Dig in, so the first breach is not the last line. Spread out, so one failure does not take everything. Keep a second source, so a false signal does not steer you. Know what the outside can see, and make sense of what your own sensors tell you. Keep the rear from burning, and know how to fight when it does. Push decisions to the people closest to the problem, and learn faster than the grind wears you down.</p>
+<p>Above all, keep going. This is a long contest, and the organizations that do well in it are the ones that are still doing the boring work in year three.</p>
+<p>Infinitum Corporation helps organizations take these steps in a way that fits their size, systems and risk appetite. I make no promise about the outcome any organization will achieve, and every figure in this paper belongs to the source cited.</p>
+<p>Don&rsquo;t take my word for it. Read the sources, then decide.</p>
+<p>This is the second paper in a series. The first is <em>Dead Reckoning: AI for Security Operations in a Jammed, Spoofed, Watched World</em>. The next is <em>Break It Before They Do: Authorized Hacking for Organizations Under Siege</em>.</p>
+<p>Let&rsquo;s stay engaged. Visit https://www.theinfinitumcorporation.com. Dialogue is key.</p>
+<!-- BODY-END -->
+
+<h1 id="about">About Infinitum Corporation</h1>
+<p>Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC, delivering practical, integrated security solutions.</p>
+<p>Our work spans cybersecurity consulting, network architecture and defense, vulnerability assessment and ethical hacking, IT security, AI for security operations, strategic risk assessment and emerging defense technology advisory. Our ethical hacking work is always authorized, scoped and approved in writing, and performed for defense.</p>
+<p>William Aaron Turner is Founder and President.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Website</td>
+<td><a href="https://www.theinfinitumcorporation.com">https://www.theinfinitumcorporation.com</a></td>
+</tr>
+<tr>
+<td>Email</td>
+<td>info@theinfinitumcorporation.com</td>
+</tr>
+<tr>
+<td>Telegram</td>
+<td><a href="https://t.me/infinitumcorporation">https://t.me/infinitumcorporation</a></td>
+</tr>
+<tr>
+<td>X</td>
+<td><a href="https://x.com/infinitumceo">https://x.com/infinitumceo</a></td>
+</tr>
+<tr>
+<td>Address</td>
+<td>1629 K Street NW, Suite 300, Washington, DC</td>
+</tr>
+</tbody>
+</table>
+<h1 id="references">References</h1>
+<div class="refs">
+<ol>
+<li>CISA (Cybersecurity and Infrastructure Security Agency). (2023, April). <em>Zero Trust Maturity Model, Version 2.0.</em> <a href="https://www.cisa.gov/zero-trust-maturity-model">https://www.cisa.gov/zero-trust-maturity-model</a></li>
+<li>CISA, NSA, and partner agencies. (2025, February 4). <em>Guidance and Strategies to Protect Network Edge Devices.</em> <a href="https://www.cisa.gov/resources-tools/resources/guidance-and-strategies-protect-network-edge-devices">https://www.cisa.gov/resources-tools/resources/guidance-and-strategies-protect-network-edge-devices</a></li>
+<li>Council of the European Union (General Secretariat). (2025, May 21). <em>Call for common actions in response to Global Satellite Navigation Systems (GNSS) jamming and spoofing threats</em> (note 9188/25, from three member states; used here only for its general definitions and its description of timing services). <a href="https://data.consilium.europa.eu/doc/document/ST-9188-2025-INIT/en/pdf">https://data.consilium.europa.eu/doc/document/ST-9188-2025-INIT/en/pdf</a></li>
+<li>CSIS (Pusztaszeri, A., &amp; Harding, E.). (2025, September 16). <em>Technological Evolution on the Battlefield</em>, in the CSIS report <em>War and the Modern Battlefield</em> (subtitle omitted to keep this paper party-neutral). Center for Strategic and International Studies. <a href="https://www.csis.org/analysis/chapter-9-technological-evolution-battlefield">https://www.csis.org/analysis/chapter-9-technological-evolution-battlefield</a> (cited as CSIS, 2025a)</li>
+<li>CSIS (Bingen, K. A.). (2025, September 16). <em>Extending the Battlespace to Space</em>, in the CSIS report <em>War and the Modern Battlefield</em> (subtitle omitted to keep this paper party-neutral). Center for Strategic and International Studies. <a href="https://www.csis.org/analysis/chapter-8-extending-battlespace-space">https://www.csis.org/analysis/chapter-8-extending-battlespace-space</a> (cited as CSIS, 2025b)</li>
+<li>CSIS (Harding, E.). (2025, September 16). <em>Intelligence in a Transparent World</em>, in the CSIS report <em>War and the Modern Battlefield</em> (subtitle omitted to keep this paper party-neutral). Center for Strategic and International Studies. <a href="https://www.csis.org/analysis/chapter-7-intelligence-transparent-world">https://www.csis.org/analysis/chapter-7-intelligence-transparent-world</a> (cited as CSIS, 2025c)</li>
+<li>EASA and IATA. (2025, June 18). <em>EASA and IATA outline comprehensive plan to mitigate GNSS interference risks.</em> <a href="https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-iata-outline-comprehensive-plan-mitigate-gnss">https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-iata-outline-comprehensive-plan-mitigate-gnss</a></li>
+<li>ENISA. (2025, October 1). <em>EU consistently targeted by diverse yet convergent threat groups</em> (ENISA Threat Landscape 2025 press release). <a href="https://www.enisa.europa.eu/news/etl-2025-eu-consistently-targeted-by-diverse-yet-convergent-threat-groups">https://www.enisa.europa.eu/news/etl-2025-eu-consistently-targeted-by-diverse-yet-convergent-threat-groups</a></li>
+<li>IBM and Ponemon Institute. (2026). <em>Cost of a Data Breach Report 2026.</em> <a href="https://assets.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf">https://assets.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf</a></li>
+<li>ISC2. (2024, October 31). <em>2024 ISC2 Cybersecurity Workforce Study.</em> <a href="https://www.isc2.org/Insights/2024/10/ISC2-2024-Cybersecurity-Workforce-Study">https://www.isc2.org/Insights/2024/10/ISC2-2024-Cybersecurity-Workforce-Study</a></li>
+<li>MITRE. <em>ATT&amp;CK, Reconnaissance (TA0043).</em> <a href="https://attack.mitre.org/tactics/TA0043/">https://attack.mitre.org/tactics/TA0043/</a></li>
+<li>NIST. (2024, February 26). <em>The NIST Cybersecurity Framework (CSF) 2.0</em> (NIST CSWP 29). <a href="https://doi.org/10.6028/NIST.CSWP.29">https://doi.org/10.6028/NIST.CSWP.29</a></li>
+<li>NIST (Rose, S., Borchert, O., Mitchell, S., &amp; Connelly, S.). (2020, August). <em>Zero Trust Architecture</em> (SP 800-207). <a href="https://csrc.nist.gov/pubs/sp/800/207/final">https://csrc.nist.gov/pubs/sp/800/207/final</a></li>
+<li>NIST (Ross, R., Pillitteri, V., Graubart, R., Bodeau, D., &amp; McQuaid, R.). (2021, December). <em>Developing Cyber-Resilient Systems: A Systems Security Engineering Approach</em> (SP 800-160 Vol. 2 Rev. 1). <a href="https://csrc.nist.gov/pubs/sp/800/160/v2/r1/final">https://csrc.nist.gov/pubs/sp/800/160/v2/r1/final</a></li>
+<li>NIST (Nelson, A., Rekhi, S., Souppaya, M., &amp; Scarfone, K.). (2025, April). <em>Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile</em> (SP 800-61 Rev. 3). <a href="https://csrc.nist.gov/pubs/sp/800/61/r3/final">https://csrc.nist.gov/pubs/sp/800/61/r3/final</a></li>
+<li>NIST (Bartock, M., et al.). (2023, January). <em>Foundational PNT Profile: Applying the Cybersecurity Framework for the Responsible Use of Positioning, Navigation, and Timing (PNT) Services</em> (NIST IR 8323 Rev. 1). <a href="https://csrc.nist.gov/pubs/ir/8323/r1/final">https://csrc.nist.gov/pubs/ir/8323/r1/final</a></li>
+<li>NSA. (2025, February 4). <em>Joint Publications Focus on Mitigation Strategies for Edge Devices</em> (press release). <a href="https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/">https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/</a></li>
+<li>Traficom (Finnish Transport and Communications Agency). (2025, June 13). <em>Finland and Estonia warn vessels in the Gulf of Finland of an increase in GNSS disruptions.</em> <a href="https://traficom.fi/en/news/finland-and-estonia-warn-vessels-gulf-finland-increase-gnss-disruptions">https://traficom.fi/en/news/finland-and-estonia-warn-vessels-gulf-finland-increase-gnss-disruptions</a></li>
+<li>U.S. Army Center for Army Lessons Learned. (2025, July). <em>Understanding Irregular Warfare</em> (No. 25-897), quoting JP 1 Vol 1, <em>Joint Warfighting</em> (2023, August 27). <a href="https://www.army.mil/article/286976/understanding_irregular_warfare">https://www.army.mil/article/286976/understanding_irregular_warfare</a></li>
+<li>Verizon. (2026). <em>2026 Data Breach Investigations Report.</em> <a href="https://www.verizon.com/business/resources/Te26/reports/2026-dbir-data-breach-investigations-report.pdf">https://www.verizon.com/business/resources/Te26/reports/2026-dbir-data-breach-investigations-report.pdf</a></li>
+</ol>
+</div>
+<p><em>Note on in-text tags.</em> Short tags such as (Verizon, 2026), (IBM and Ponemon Institute, 2026), (ISC2, 2024), (ENISA, 2025), (CSIS, 2025a), (CSIS, 2025b), (CSIS, 2025c), (Council of the EU, 2025), (Traficom, 2025), (EASA and IATA, 2025), (NIST SP 800-207, 2020), (NIST SP 800-160 Vol. 2 Rev. 1, 2021), (NIST SP 800-61r3, 2025), (NIST IR 8323r1, 2023), (NIST CSF 2.0, 2024), (CISA ZTMM, 2023), (CISA, 2025), (NSA, 2025), (MITRE ATT&amp;CK, TA0043) and (U.S. Army CALL, 2025) refer to the entries above. Sources were opened and read between October 25 and 26, 2026. Where a source is quoted, the words are the source&rsquo;s own. Where a number is cited, it belongs to that source and describes that source&rsquo;s dataset.</p>
+<p><em>Note on neutrality.</em> This paper draws general lessons about technology and conflict from public sources. It takes no side and makes no claim about any party. Where a source attributes events or reports figures about specific parties, those attributions and figures are left out here. Titles of the CSIS report and chapters are shortened to keep this paper party-neutral. The URLs lead to the full originals.</p>
+<h1 id="glossary">Glossary</h1>
+<div class="glossary">
+<p><strong>ATT&amp;CK.</strong> MITRE&rsquo;s knowledge base of adversary tactics and techniques based on real-world observations, used to map detections and find coverage gaps.</p>
+<p><strong>Attrition.</strong> A contest won by endurance and cost exchange, not by a single decisive event.</p>
+<p><strong>Blast radius.</strong> How far the damage from one compromised account, device or supplier can spread.</p>
+<p><strong>CSF 2.0.</strong> The NIST Cybersecurity Framework version 2.0, organized around six functions: Govern, Identify, Protect, Detect, Respond and Recover.</p>
+<p><strong>Crown assets.</strong> The systems and data whose loss would most damage the organization.</p>
+<p><strong>DDoS (distributed denial of service).</strong> An attack that floods a service with traffic from many sources so that legitimate users cannot reach it.</p>
+<p><strong>Deception (defensive).</strong> Placing decoy assets, credentials or data inside your own environment so that intruders who interact with them reveal themselves. Always with legal sign-off.</p>
+<p><strong>Edge device.</strong> A firewall, router, VPN gateway or other system that sits between your internal network and the internet.</p>
+<p><strong>Electronic warfare (EW).</strong> The use of the electromagnetic spectrum to jam, spoof or otherwise disrupt signals, and the defense against that.</p>
+<p><strong>GNSS.</strong> Global navigation satellite systems, such as GPS, which provide location and timing.</p>
+<p><strong>Implicit trust zone.</strong> An area in which every entity is trusted because of where it sits, not because of what it has proved. NIST says it should be as small as possible.</p>
+<p><strong>Irregular warfare.</strong> Joint doctrine describes it as &ldquo;indirect, non-attributable, or asymmetric&rdquo; competition. Used in this paper as an analytic lens only.</p>
+<p><strong>ISR.</strong> Intelligence, surveillance and reconnaissance.</p>
+<p><strong>Jamming.</strong> Deliberate interference that blocks a radio signal.</p>
+<p><strong>KEV.</strong> CISA&rsquo;s Known Exploited Vulnerabilities catalog: flaws with evidence of active exploitation.</p>
+<p><strong>MFA (multifactor authentication).</strong> Requiring more than a password to sign in. Phishing-resistant forms resist being relayed to an attacker.</p>
+<p><strong>Out-of-band.</strong> Using a separate channel, such as a known phone number, to verify a request or to manage a system, so that one failure does not take out both.</p>
+<p><strong>PNT.</strong> Positioning, navigation and timing.</p>
+<p><strong>Segmentation.</strong> Dividing a network into zones so that a compromise in one does not spread freely to others.</p>
+<p><strong>Spoofing.</strong> Deliberately sending false signals or data so that a system displays or accepts something incorrect.</p>
+<p><strong>Tabletop exercise.</strong> A discussion-based rehearsal in which a team walks through a scenario and decides what it would do.</p>
+<p><strong>Zero trust.</strong> In NIST&rsquo;s words, an evolving set of cybersecurity paradigms that move defenses from static, network-based perimeters to a focus on users, assets and resources.</p>
+</div></main></body></html>

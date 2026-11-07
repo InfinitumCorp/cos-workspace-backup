@@ -1,0 +1,36 @@
+# FFXnow (US-DC #22)
+
+| Field | Value |
+|---|---|
+| Method | email |
+| To / URL | news@ffxnow.com |
+| Piece | In-Q-Tel Explained |
+| Type | press release (PRs only) |
+| Angle | Fairfax County: profile of Tysons-based In-Q-Tel by a DC-region analyst |
+| Image | /workspace/press/local-news-2026-11/img/in-q-tel.jpg |
+| Limit | ~400 |
+| Word count (body) | 356 |
+| Status | ready - NOT SENT |
+
+**Subject / headline:** DC Analyst Publishes Sourced Profile of Tysons-Based In-Q-Tel, the CIA-Founded Venture Fund
+
+---
+
+# DC Analyst Publishes Sourced Profile of Tysons-Based In-Q-Tel, the CIA-Founded Venture Fund
+
+WASHINGTON, DC, November 3, 2026 - William Aaron Turner, founder and president of Washington, DC-based Infinitum Corporation, has published "In-Q-Tel Explained," a sourced profile of the Tysons-based venture capital firm, covering its structure, public filings, portfolio and the defense-technology companies it has backed.
+
+The article profiles In-Q-Tel (IQT), the not-for-profit venture capital firm the CIA established in 1999, which is headquartered in the Tysons area of Fairfax County. It cites public filings showing fiscal-2025 revenue of about $132.1 million, most of it from government grants and contributions, and more than 800 investments since 1999.
+
+It describes how the In-Q-Tel Interface Center translates intelligence-community requirements into commercial problem sets for startups, typically through technology-development agreements of roughly $500,000 to $3 million. Holdings lean toward enterprise software, AI and data analytics, followed by cybersecurity, semiconductors, space, energy, biotech and robotics, and the article recounts In-Q-Tel's early investment in Palantir. It also reviews public reporting on Capella Space, ICEYE, Palantir's work in Ukraine and In-Q-Tel's documented investment in Anduril.
+
+The article states that there is no open-source evidence of In-Q-Tel subsidiaries operating inside Ukraine, marks one Russian Ministry of Defense allegation as not independently verified and includes a full reference list.
+
+"My argument is about funding and technology, not boots on the ground. Everything in the article is sourced so readers can check it," said William Aaron Turner, Founder & President, Infinitum Corporation.
+
+Read the article: https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.

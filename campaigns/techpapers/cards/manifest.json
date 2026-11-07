@@ -1,0 +1,72 @@
+[
+  {
+    "id": "DR",
+    "title": "Dead Reckoning: AI for Security Operations (Whitepaper No. 1)",
+    "subtitle": "AI security operations, governance and cyber defense for mid-size organizations.",
+    "source_cover_or_flyer": "/workspace/whitepapers/01-ai-for-security-operations/assets/cover-hi.png",
+    "files": [
+      "/workspace/campaigns/techpapers/cards/dr-dead-reckoning-1200x627.png",
+      "/workspace/campaigns/techpapers/cards/dr-dead-reckoning-1080x1080.png"
+    ]
+  },
+  {
+    "id": "TD",
+    "title": "Trenches and Drones: Network Defense for a War of Attrition (Whitepaper No. 2)",
+    "subtitle": "Defense in depth, segmentation and cyber resilience through a battlefield lens.",
+    "source_cover_or_flyer": "/workspace/whitepapers/02-trenches-and-drones/assets/cover-v2-black.png",
+    "files": [
+      "/workspace/campaigns/techpapers/cards/td-trenches-and-drones-1200x627.png",
+      "/workspace/campaigns/techpapers/cards/td-trenches-and-drones-1080x1080.png"
+    ]
+  },
+  {
+    "id": "CCW",
+    "title": "Corporate Cognitive Warfare™: Irregular Warfare for Market Supremacy (Expanded Edition)",
+    "subtitle": "Irregular-warfare concepts applied to corporate competition and communications risk.",
+    "source_cover_or_flyer": "/workspace/whitepapers/corporate-cognitive-warfare/cover.jpg",
+    "files": [
+      "/workspace/campaigns/techpapers/cards/ccw-corporate-cognitive-warfare-1200x627.png",
+      "/workspace/campaigns/techpapers/cards/ccw-corporate-cognitive-warfare-1080x1080.png"
+    ]
+  },
+  {
+    "id": "BCH",
+    "title": "Battlefield Cyber Hygiene: A Modern Warfighter's Digital Survival Guide",
+    "subtitle": "Digital hygiene and OPSEC for personnel in contested environments.",
+    "source_cover_or_flyer": "/workspace/academia-promo/flyers/19-battlefield-cyber-hygiene.png",
+    "files": [
+      "/workspace/campaigns/techpapers/cards/bch-battlefield-cyber-hygiene-1200x627.png",
+      "/workspace/campaigns/techpapers/cards/bch-battlefield-cyber-hygiene-1080x1080.png"
+    ]
+  },
+  {
+    "id": "CDH",
+    "title": "Counter-Drone Handbook: Modern Warfare Soldier's Guide to UAS Defense",
+    "subtitle": "Defending against unmanned aircraft systems at unit level.",
+    "source_cover_or_flyer": "/workspace/academia-promo/flyers/18-counter-drone-handbook.png",
+    "files": [
+      "/workspace/campaigns/techpapers/cards/cdh-counter-drone-handbook-1200x627.png",
+      "/workspace/campaigns/techpapers/cards/cdh-counter-drone-handbook-1080x1080.png"
+    ]
+  },
+  {
+    "id": "RFH",
+    "title": "Reconnaissance Fusion Handbook: FPV Drone, Social Media and OSINT Integration",
+    "subtitle": "Fusing FPV drone, social media and open-source intelligence.",
+    "source_cover_or_flyer": "/workspace/academia-promo/flyers/16-reconnaissance-fusion.png",
+    "files": [
+      "/workspace/campaigns/techpapers/cards/rfh-reconnaissance-fusion-handbook-1200x627.png",
+      "/workspace/campaigns/techpapers/cards/rfh-reconnaissance-fusion-handbook-1080x1080.png"
+    ]
+  },
+  {
+    "id": "DD",
+    "title": "Decentralized Disinformation: The Art of Weaponizing Organic Narratives",
+    "subtitle": "How organic narratives spread and are exploited in influence operations.",
+    "source_cover_or_flyer": "/workspace/academia-promo/flyers/17-decentralized-disinformation.png",
+    "files": [
+      "/workspace/campaigns/techpapers/cards/dd-decentralized-disinformation-1200x627.png",
+      "/workspace/campaigns/techpapers/cards/dd-decentralized-disinformation-1080x1080.png"
+    ]
+  }
+]

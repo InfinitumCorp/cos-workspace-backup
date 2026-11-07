@@ -1,0 +1,271 @@
+Dear Editor,
+
+Please consider the article below for publication on Global Research. It was first published as an X Article and on my blog The Ukraine Files (https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html); you are welcome to republish it in full with a link back.
+
+WTF IS IN-Q-TEL? THE CIA'S VENTURE FUND AND THE KILL CHAIN IT BANKROLLED
+By William Aaron Turner
+
+Prologue: The Machine That Can't See Its Victims
+
+Kabul, August 29, 2021. A U.S. drone strike hits a car in a residential compound. The Pentagon later admitted that ten civilians died, seven of them children. The "explosives" analysts had tracked for hours were most likely water containers.
+
+The people behind the screen trusted what the system showed them, and the system was wrong.
+
+That's the world In-Q-Tel has helped build. Software helps decide who lives and who dies. Drones hunt with an autonomy that scares even the people who make them. And the profits flow to a small circle of American defense-tech firms that have made war about as lucrative as social media.
+
+The CIA set up In-Q-Tel in 1999 to bring Silicon Valley's energy to the spy world. It didn't set out to build a machine that kills people in Ukraine, Gaza, Iran and Afghanistan. But look at what it funded.
+
+Part I: What, or Who, the Fuck Is In-Q-Tel?
+
+The basics: a nonprofit headquartered in Tysons Corner, Virginia, created by the CIA in 1999 to bridge Silicon Valley and national security. The name is a nod to "Q," James Bond's gadget-maker.
+
+The structure, from tax filings:
+- Parent: In-Q-Tel, Inc. (nonprofit)
+- Domestic: IQTI LLC (investment holding); IQT Labs LLC (R&D); Lab41, Challenge Lab, the former CosmiQ and IQTE (project vehicles); IQT EMPL Fund (92% owned); SpaceNet LLC (owned by IQT Labs)
+- International: IQT International UK Ltd and IQT International Australia Ltd
+
+To be fair, there's no open-source evidence that these entities run logistics, combat ops or supply chains inside Ukraine. There are no Kyiv offices, no Ukrainian MoD contracts and no boots on the ground. What they do is hold the shares and provide the legal and financial plumbing that lets U.S. intelligence fund technology that ends up on the Ukrainian front.
+
+Who's in charge:
+- The board has included ex-CIA Director George Tenet, ex-Joint Chiefs Chairman Mike Mullen and ASU's Michael Crow.
+- The In-Q-Tel Interface Center is a small CIA unit inside Langley that turns spy-agency needs into problems for startups to solve.
+- Executives: CEO Steve Bowsher, COO Matthew Strottman, CIO Dan Gwak (ex-Marine), EVP Megan Anderson, General Counsel Bruce Adams and CTO William Strecker. The day-to-day team is mostly venture people. The military and intelligence pedigree sits on the board.
+
+The money (FY2025):
+- Revenue: about $132.1 million, 86% of it from government grants
+- Expenses: $134.1 million, with about $104.7 million (78%) on programs
+- Track record: more than 800 investments since 1999, with total capital estimated in the low billions
+- Typical deal: $500,000–$3 million tech-development agreements plus equity or warrants, then private investors pile in
+
+What it buys: mostly enterprise software, AI and analytics, then cybersecurity, chips, space and remote sensing, energy, biotech, and robotics and autonomy.
+
+Part II: Invisible Kill Chains
+
+In-Q-Tel's portfolio is the backbone of America's modern proxy wars: the software that processes intelligence, the drones that find targets and the satellites that see through cloud and darkness.
+
+Palantir is the headline. A former employee called its software "the Eye of Sauron." It takes in satellite, drone, social-media and financial data, finds patterns, ranks targets and recommends action.
+
+In the Iran strikes known as "Epic Fury," the U.S. and Israel reportedly used Palantir's Maven Smart System, which incorporates Anthropic's Claude, for real-time target prioritization. It doesn't pull the trigger. It tells commanders who to kill.
+
+NATO's own promo video sells its version of Maven as giving commanders a "video game-like" view of the battlefield. War as entertainment.
+
+The flaw: AI is a pattern-matcher. It doesn't understand context. One analysis lists the problems: "black box" decisions nobody can explain, biased training data, and the finding that 0.3% data manipulation can cause a 400% jump in false positives.
+
+In Ukraine, AI drones have misidentified civilian vehicles because the training data lacked Russian civilian cars. Ukraine now launches up to 9,000 drones a day, and many can lock on and attack without human approval.
+
+In-Q-Tel didn't build the drones. It funded the companies that did.
+
+Part III: Ukraine, the West's Live-Fire Lab
+
+"Ukraine has become the world's most advanced live testing ground for AI-assisted warfare." That's a defense analyst watching the war.
+
+The data factory
+
+- Ukraine's forces receive 12–15 terabytes of raw drone video every day.
+- The OCHI platform has collected about 2 million hours of footage from more than 15,000 drone crews. That's 228 years of continuous video.
+- More than 200 companies are building AI drones in Ukraine, and more than 70 systems are already at the front.
+
+Brave1 Dataroom
+
+In early 2026, Ukraine and Palantir launched the Brave1 Dataroom, where developers train AI on real combat data, millions of optical and thermal images of targets. Brave1 also formally invited foreign firms to test air defense, AI targeting, interceptors and anti-glide-bomb systems at the front. Companies ship the gear, train the operators online and get combat reports back.
+
+One Ukrainian official said helping kill Russians is "a good contribution to the company's portfolio."
+
+"Terminator mode"
+
+About two years ago near Bakhmut and Chasiv Yar, Aero Center CEO Alexander Kokhanovskyy says, his company tested ten fully autonomous quadcopters. There was no comms link, no video and no human in the loop. He told New Scientist, at an event hosted by Ukraine's London embassy:
+
+"We just launch it and we know everything will be dead... There is no connection to the drone at all, you cannot see the video, nothing… Everything it sees will be killed."
+
+Human-flown drones confirmed the result: "a couple of soldiers, one truck." Kokhanovskyy calls it a one-off, but he says he'd like to drop the human-verification rule. Danylo Tsvok, the Defense Ministry's AI chief, says Ukraine is considering removing it: "AI will form a new paradigm of warfare. It's already actively doing so." The MoD didn't comment on the test.
+
+Compressing the kill chain
+
+Ukraine's Delta system has more than 200,000 users and takes in up to 10,000 drone feeds a day. German Army Deputy Commander Heico Hübner says drones plus AI cut detection-to-strike time from hours to minutes, even seconds.
+
+Exporting the lab
+
+The U.S. Army is building at least two training sites that copy Ukrainian conditions. Six Ukrainian drone makers have approval to ship test batches of about 100 drones each to the U.S. under the Pentagon's Drone Dominance initiative. Ukrainian lessons, paid for in Ukrainian casualties, are now built into American procurement.
+
+Part IV: Palantir
+
+Peter Thiel co-founded Palantir in 2003. The PayPal co-founder and early Facebook investor once wrote, "I no longer believe that freedom and democracy are compatible." CEO Alex Karp has a Stanford law degree and a philosophy doctorate from Frankfurt. Together they built the most powerful data-analytics and surveillance firm in history.
+
+- The platforms: Gotham, Foundry and AIP.
+- The In-Q-Tel link: In-Q-Tel invested in 2005 and opened the door to the intelligence community. The CIA became its first major customer.
+- Then: Iraq and Afghanistan counterinsurgency, NSA surveillance work that shows up in the Snowden record, and ICE migrant tracking.
+- 2022: Ukraine.
+
+In May 2026, Zelensky met Karp in Kyiv with Mykhailo Fedorov to talk military AI, air-attack analysis, real-time intelligence and the Brave1 Dataroom. Kyiv credits Palantir with intelligence processing, AI-assisted reconnaissance and deep-strike planning. More than a thousand Ukrainian personnel use it, and Palantir staff have worked in-country.
+
+Its MetaConstellation tool fuses satellite, drone and thermal data from Airbus, ICEYE, Capella, HawkEye 360 and Maxar. Karp has said MetaConstellation is responsible for "most of the targeting" in Ukraine. That's an American company describing its own role in target selection.
+
+Documents from late 2022 show Palantir received more than $500 million for its first months of Ukraine work.
+
+For Europe, the signal is chilling. Ukraine's most sensitive data (drone positions, troop movements, strike coordinates) feeds a U.S.-listed company subject to U.S. law. Europe already pays Palantir billions in France, Germany and the UK, and risks becoming a tech vassal. For Moscow, the message is that this war is against the American military-tech complex, not just Ukraine.
+
+Part V: Anduril
+
+Palmer Luckey invented the Oculus Rift, then decided to make war faster, cheaper and less personal.
+
+- Products: Lattice (AI sensor fusion), Ghost (recon drone), Bolt-M (loitering munition) and Altius (swarming drones).
+- The In-Q-Tel link: IQT is a documented investor.
+- UK to Ukraine (2025): nearly £30 million in Altius 600m and 700m loitering munitions, bought for donation to Ukraine and backed by the International Fund for Ukraine.
+- Bolt-M: The U.S. Marines signed a $23.9 million contract for 600+ drones. Anduril says 300+ went to an unnamed customer during testing, and analysts believe that was Ukraine (Defense Express, Espreso).
+- GLSDB: Anduril's rocket-motor division replaced Saab's partner as the solid-motor supplier for these long-range bombs headed for Ukraine.
+
+The tell: Bolt-M's development used feedback from "other users of modern conflicts," which analysts read as Ukrainian troops. In plain English, Ukrainian soldiers die so Anduril can sell better weapons.
+
+One LinkedIn commentator, Roger Wade, put it this way: "Ukraine and Gaza have become live testing grounds for weapons. In order to justify using these technologies, we dehumanize and vilify others." The marketing sells algorithmic war as "clean, controllable, and precise." It's killing turned into a PowerPoint slide.
+
+Part VI: The Eyes in the Sky
+
+Synthetic aperture radar (SAR) sees through cloud, rain and night. In-Q-Tel partnered with both of the SAR firms feeding Ukraine.
+
+Capella Space (San Francisco, founded in 2016 by Payam Banazadeh and Will Woods)
+- IQT partnership announced in March 2021. IQT's Tom Gillespie said the firm was "excited about the capabilities."
+- Clients: DIU, the NRO, the NGA, the U.S. Air Force and the Navy.
+- Tasked "many thousands" of times over Ukraine, including spotting pontoon bridges and troop moves under cloud before the invasion.
+- Partner SATIM (Poland) runs AI detection on its data. Europe gets more capability, but all the hardware and IP stay American.
+
+ICEYE (Finland)
+- The world's largest SAR constellation, 54 satellites as of August 2025, with about 20 more a year at roughly $20 million each.
+- The "People's Satellite": The Serhiy Prytula Foundation crowdfunded one in August 2022. Ukraine's HUR reportedly still uses it past its warranty.
+- Imaged Russian troop movements before February 2022. Signed an MoU with Ukraine's MoD in 2024, backed by Germany.
+- Poland (2025): bought a stake through Vinci and is buying six satellites for $230 million.
+- Germany (May 2025): a joint venture with Rheinmetall.
+- IQT partnership since 2021.
+
+Satellites don't kill anyone themselves. They find the people the drones and software will kill. They're the machine's eyes.
+
+Part VII: The Bio-Nexus (allegations, labeled as such)
+
+In December 2022, Russia's Ministry of Defense published a list of people it said took part in Ukraine's "military biological programs." The list included Tara O'Toole, Executive Vice President of In-Q-Tel. It also named Kenneth Myers (ex-DTRA), Thomas Frieden (ex-CDC) and Francis Collins (ex-NIH). The MoD claimed they all "benefited from the Pentagon's biological projects."
+
+Consider the source: the Russian MoD has every reason to smear U.S. work in Ukraine. Here's what's documented:
+
+- DTRA funded biological threat detection work in Ukraine.
+- NIH funded infectious-disease studies.
+- The CDC worked with Ukrainian labs.
+
+What isn't established: whether any of it had offensive uses, or whether the people named had any operational control. None of the allegations against O'Toole have been independently verified.
+
+Still, a senior executive of the CIA's venture fund was named by a foreign military in that context. The names are public. The companies are public. The contracts are public. What O'Toole and the others actually did in Ukraine is the part nobody has made public.
+
+Part VIII: The Human Cost
+
+Automation bias is the human habit of trusting the machine even when it's wrong.
+
+In Ukraine, AI drones misread civilian vehicles, software misclassifies people, and unvalidated models throw false positives. Commanders who've been told the AI beats humans go along with it. Remember: a 0.3% change in training data can quadruple false positives. Each one is a potential dead civilian.
+
+In Gaza, Israel's Habsora system churns out thousands of target recommendations. It flags a building that may hold a militant, whether or not families are asleep inside.
+
+The same kind of software and logic is now running in Ukraine.
+
+Part IX: The Profits of Death
+
+- Palantir: 2024 revenue of $2.87 billion, up 29% (company filings). The stock rode defense contracts.
+- Anduril: valued at $61 billion after its $5 billion Series H in May 2026 (Reuters, Bloomberg). An October 2026 employee tender priced it near $90 billion (CNBC).
+
+Defense tech is booming on wars paid for by U.S. taxpayers, fought with Ukrainian and Israeli blood, and steered by systems that can't reliably tell a soldier from a civilian.
+
+The incentive is perverse. Every day of war means more training data, more contracts and more stock to sell.
+
+Part X: How Washington Keeps Its Fingerprints Off
+
+1. The "independent nonprofit" story. In-Q-Tel is officially independent. Its own history says the CIA created it to stretch limited dollars and put "the Agency back at the leading edge." One analysis notes that its public-private hybrid status lets it dodge scrutiny. It looks private and works like an agency.
+
+2. The problem list. The Interface Center inside the CIA writes the problems, and In-Q-Tel finds the startups to solve them. The CIA never has to sign with the startup directly.
+
+3. The cushion. IRS filings show roughly $50–64 million a year coming in historically, with total assets estimated at $220 million in spring 2012. IQT says it has leveraged more than $3.9 billion in private money. An IQT check is a seal of approval for other VCs.
+
+4. The board. Tenet and Mullen sit there as private citizens. The distinction is artificial, but it's legally convenient.
+
+5. The contracting maze. IQT backs Capella or ICEYE, and they sign with the NRO or NGA. The NRO recently gave Capella, ICEYE US and Umbra new two-year commercial SAR contracts. The CIA's name isn't on any of them.
+
+6. The testing ground. Combat data from Ukraine and Gaza flows back to refine products that get sold back to the Pentagon and its allies. Officially it's "support for Ukraine." In practice it's R&D paid for in Ukrainian and Russian lives.
+
+Part XI: The NATO and EU Links
+
+- Palantir: NATO's Enhanced Air Command and Control program; Maven rolling out across NATO HQs; a £240 million UK MoD contract; Gotham in Bavaria's and Hesse's police forces.
+- Wickr: received $1.6 million from IQT and has a $900,000 CBP contract. It was used for allied interoperability during the U.S. Army's Saber Strike exercise in Poland.
+- Capella and ICEYE: their imagery reaches NATO channels through U.S. purchasing, with European ties via Rheinmetall, SATIM and the German-backed MoU.
+- Anduril: supplies Ukraine through British and U.S. channels.
+
+Part XII: The People Russia Sanctioned
+
+- Tara O'Toole (IQT EVP): named in Russian MoD briefings on "military biological" work. Not independently verified.
+- Michael M. Crow (board chairman): sanctioned by Russia in 2023 specifically as chairman of IQT's board. His planned ASU branch in Kyiv, the American University Kyiv, was halted by the invasion.
+- Also on Russia's 2023 list: Stephen Bowsher, Megan Anderson, Christopher Darby, Sarah Sewall, George Hoyem, Safra Catz, Michael Mullen, Judith Miscik, William Hurd and Ted Schlein.
+
+The Crow-Kyiv university link is documented business. The MoD's bio claims are a different matter: treat them with skepticism, because they're part of a known disinformation line.
+
+Part XIII: The Bigger Machine
+
+In-Q-Tel's firms sit inside a much larger aid architecture:
+
+- United States: about $50.8 billion in military support as of March 2026, through Presidential Drawdown Authority and USAI.
+- NATO: €140 billion pledged for 2026–27 (€70 billion a year). The PURL mechanism lets Europe and Canada buy U.S. weapons for Ukraine.
+- EU: the €90 billion Ukraine Support Loan for 2026–27, plus the European Peace Facility. The 2026 target is €28.3 billion for defense and €16.7 billion for the budget.
+- National pledges: Germany €11.5 billion, UK €4.4 billion, Norway €7.6 billion, Sweden €1 billion.
+- The gap: about €400 billion promised versus about €180 billion delivered. Hungary is blocking the loan and new sanctions. France, Italy and Spain lag.
+
+IQT-linked firms are the tech suppliers here, not the funders or the commanders.
+
+Part XIV: The Sickening Conclusion
+
+Put it together and In-Q-Tel is the quiet, smiling, perfectly legal engine of America's proxy war. The CIA seeded the tech, the startups built it, and Ukraine's military used it. Taxpayers paid, through a nonprofit that exists to serve the intelligence community.
+
+The dark humor is in the details: a Bond-gadget name, a charity's tax status, a board of ex-spymasters and generals, and subsidiaries that make ownership hard to trace.
+
+And yet these aren't Bond villains. Bowsher, Strottman and Gwak are investment professionals who are very good at their jobs. They just happen to sit at the center of the most consequential tech war of our time.
+
+In-Q-Tel isn't a conspiracy. It's in plain sight: the investments, the subsidiaries and the board are all public. What's hidden is how far its operations reach.
+
+Part XV: What This Means for Russia
+
+For Moscow, the SVO is a fight with an American military-tech complex that's field-testing autonomous killing systems. It's a war of algorithms, drones and satellites, and it lasts as long as the pipeline keeps flowing.
+
+Russia's sanctions on IQT's trustees show it knows who it's fighting. What comes next is open: more sanctions, cyber operations, or a tighter tech alliance with China. Either way, In-Q-Tel isn't going anywhere.
+
+The next generation will be faster, cheaper and more autonomous. It'll make fewer training mistakes, but the ones it makes will be worse, because humans will be making fewer of the decisions.
+
+What's predictable is that people will keep dying in Ukraine, Gaza, Iran and Afghanistan. A machine will flag them, someone will profit, and the algorithm will never have been validated for that moment.
+
+And In-Q-Tel will keep funding companies, brokering introductions and explaining that it's just trying to help.
+
+Afterword: The Q Who Never Leaves His Workshop
+
+The name was meant to evoke Bond's gadget-maker. There's another Q worth mentioning, too: the QAnon fantasy of a secret war with the intelligence community as the good guys.
+
+The irony is that In-Q-Tel is real. It's a nonprofit in Virginia, funded by taxpayers, run by ex-spy chiefs and venture capitalists, and invested in technology now being used on the Ukrainian front.
+
+The Q with the exploding pen is fiction. The Q who funded Palantir, Anduril, Capella and ICEYE is real. He never leaves his workshop. He just keeps building gadgets for the next Bond.
+
+Sources
+
+New Scientist (2026), as reported by N-TV, Merkur, the Townsville Bulletin and SOFX; Defense Express (2025, 2026); Espreso.tv (2026); Defence Leaders (2025); Marine Corps Times (2024); France Soir (2026); funk/ZDF (2025); Geospatial World, Intelligence Community News and Washington Technology (2021, Capella–IQT); Liga.biz (2025, Poland–ICEYE); Moskovsky Komsomolets (2026); Vietnam.vn and Xinhua (2026); Sputnik (2022, Russian MoD list); ChinaNews (2008, 2016); SIIS (2014); the National Institute for South China Sea Studies (2018); LinkedIn (Roger Wade, 2025); Palantir FY2024 results (SEC filing); Reuters and Bloomberg (May 13, 2026) and CNBC (Oct 14, 2026) on Anduril; Pentagon statements on the Aug 29, 2021 Kabul strike.
+
+---
+William Aaron Turner is an American serving as a contracted soldier in the Russian military, 153rd Tank Regiment, currently in the Special Military Operation (SVO). He is President of Infinitum Corporation, a technology and security consulting firm headquartered in Washington, DC, with Moscow as an operating location, which he runs from Russian soil. He writes on Russia, the Ukraine conflict, sanctions, Russia-Africa relations and Western information operations, and says he is honored to be working in this nation.
+
+Best regards,
+William Aaron Turner
+President, Infinitum Corporation
+Washington, DC (headquarters) | Moscow (operating location)
+Phone: 202-729-9509
+Email: theinfinitumcorp@gmail.com
+Website: https://www.theinfinitumcorporation.com
+ORCID: https://orcid.org/0009-0002-1585-5442
+
+Blogs and published work
+- The Ukraine Files: https://ukrainianfiles.blogspot.com
+- Infinitum Whitepapers: https://infinitumwhitepapers.blogspot.com
+- Russia-Africa Report: https://russiaafricareport.blogspot.com
+- Russia-Africa by the Numbers: https://russiaafricabythenumbers.blogspot.com
+- Medium: https://medium.com/@williamaaronturner
+- Academia.edu: https://independent.academia.edu/CorporationInfinitum
+- X (8 long-form X Articles, 517,020 views as of 31 Oct 2026): https://x.com/infinitumceo
+- Telegram: https://t.me/infinitumcorporation
+- LinkedIn: https://www.linkedin.com/in/william-aaron-t-726076244
+- Personal site: https://williamaaronturner.com

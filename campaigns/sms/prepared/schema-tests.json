@@ -1,0 +1,13 @@
+{
+  "schema_tables": 7,
+  "schema_load_passed": true,
+  "all_tables_empty": true,
+  "source_hashes_unchanged": true,
+  "optional_M2": {
+    "characters": 117,
+    "encoding": "GSM-7",
+    "units": 117,
+    "segments": 1,
+    "non_gsm": []
+  }
+}

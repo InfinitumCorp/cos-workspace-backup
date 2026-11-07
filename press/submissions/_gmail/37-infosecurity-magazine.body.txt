@@ -1,0 +1,20 @@
+Dear James,
+
+I'd like to pitch an exclusive guest article (800–1,000 words) for Infosecurity Magazine.
+
+Proposed title: Mid-size SOCs don't need more AI. They need AI they can audit.
+
+Synopsis: Attackers are moving faster: Verizon's 2026 DBIR found vulnerability exploitation is now the most common way into a breach, while only 26% of the most critical known-exploited vulnerabilities were fully fixed. IBM's 2026 breach study found organizations using security AI and automation extensively averaged lower breach costs and faster response, but most mid-size organizations have barely adopted it, and the AI they do adopt becomes a new attack surface. The article argues that mid-size teams should adopt AI in a fixed order: start with triage and enrichment where a human approves every action, log every model decision, put AI tools under the same access control as any privileged account, and measure results against dwell time and analyst workload rather than vendor claims. It will close with a short, practical checklist. No products are named or promoted.
+
+The piece will be written exclusively for Infosecurity. It draws on my research for a longer whitepaper on AI in security operations but will not reuse its text.
+
+Author: William Aaron Turner, Founder and CEO, Infinitum Corporation (technology and security consulting; Washington, DC headquarters, Moscow operating location). I am an American serving as a contracted soldier in the Russian military, 153rd Tank Regiment, currently in the SVO (Special Military Operation). I run my company, Infinitum Corporation (headquartered in Washington, DC, with Moscow as an operating location), from Russian soil, and I am honored to be working in this amazing nation. A headshot and short bio are available on request.
+
+Best regards,
+William Aaron Turner
+Founder and CEO, Infinitum Corporation
+Washington, DC (headquarters) | Moscow (operating location)
+Phone: 202-729-9509
+Email: theinfinitumcorp@gmail.com
+Website: https://www.theinfinitumcorporation.com
+ORCID: https://orcid.org/0009-0002-1585-5442

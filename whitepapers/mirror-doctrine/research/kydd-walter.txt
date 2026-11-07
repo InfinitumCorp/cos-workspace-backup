@@ -1,0 +1,1412 @@
+The Strategies of Terrorism
+
+
+
+
+                              The Strategies of Andrew  H. Kydd and
+                                                Barbara F. Walter
+                                     Terrorism
+
+
+                                                                            T
+                                                            errorism often works.
+Extremist organizations such as al-Qaida, Hamas, and the Tamil Tigers engage
+in terrorism because it frequently delivers the desired response. The October
+1983 suicide attack against the U.S. Marine barracks in Beirut, for example,
+convinced the United States to withdraw its soldiers from Lebanon.1 The
+United States pulled its soldiers out of Saudi Arabia two years after the terror-
+ist attacks of September 11, 2001, even though the U.S. military had been build-
+ing up its forces in that country for more than a decade.2 The Philippines
+recalled its troops from Iraq nearly a month early after a Filipino truck driver
+was kidnapped by Iraqi extremists.3 In fact, terrorism has been so successful
+that between 1980 and 2003, half of all suicide terrorist campaigns were closely
+followed by substantial concessions by the target governments.4 Hijacking
+planes, blowing up buses, and kidnapping individuals may seem irrational
+and incoherent to outside observers, but these tactics can be surprisingly effec-
+tive in achieving a terrorist group’s political aims.
+   Despite the salience of terrorism today, scholars and policymakers are only
+beginning to understand how and why it works. Much has been written on the
+origins of terror, the motivations of terrorists, and counterterror responses, but
+little has appeared on the strategies terrorist organizations employ and the
+conditions under which these strategies succeed or fail. Alan Krueger, David
+Laitin, Jitka Maleckova, and Alberto Abadie, for example, have traced the ef-
+fects of poverty, education, and political freedom on terrorist recruitment.5
+
+Andrew H. Kydd is Associate Professor of Political Science at the University of Pennsylvania. Barbara F.
+Walter is Associate Professor at the Graduate School of International Relations and Paciªc Studies at the
+University of California, San Diego. This article is the second installment in a collaborative project, and the
+order of the authors’ names was determined by alphabetical order.
+
+The authors would like to thank the participants at the Project on International Affairs seminar at
+the University of California, San Diego, for helpful comments on an earlier draft.
+
+1. Thomas L. Friedman, “Marines Complete Beirut Pullback: Moslems Move In,” New York Times,
+February 27, 2004.
+2. Don Van Natta Jr., “The Struggle for Iraq: Last American Combat Troops Quit Saudi Arabia,”
+New York Times, September 22, 2003.
+3. James Glanz, “Hostage Is Freed after Philippine Troops Are Withdrawn from Iraq,” New York
+Times, July 21, 2004.
+4. Robert A. Pape, Dying to Win: The Strategic Logic of Suicide Terrorism (New York: Random House,
+2005), p. 65.
+5. Alan B. Krueger and David D. Laitin, “Kto Kogo? A Cross-Country Study of the Origins and
+
+International Security, Vol. 31, No. 1 (Summer 2006), pp. 49–80
+© 2006 by the President and Fellows of Harvard College and the Massachusetts Institute of Technology.
+
+
+                                                                            49
+                                International Security 31:1 50
+
+
+
+
+Jessica Stern has examined the grievances that give rise to terrorism and the
+networks, money, and operations that allow terrorist organizations to thrive.6
+What is lacking, however, is a clear understanding of the larger strategic
+games terrorists are playing and the ways in which state responses help or hin-
+der them.
+   Effective counterstrategies cannot be designed without ªrst understanding
+the strategic logic that drives terrorist violence. Terrorism works not simply
+because it instills fear in target populations, but because it causes governments
+and individuals to respond in ways that aid the terrorists’ cause. The Irish
+Republican Army (IRA) bombed pubs, parks, and shopping districts in Lon-
+don because its leadership believed that such acts would convince Britain to
+relinquish Northern Ireland. In targeting the World Trade Center and the Pen-
+tagon on September 11, al-Qaida hoped to raise the costs for the United States
+of supporting Israel, Saudi Arabia, and other Arab regimes, and to provoke the
+United States into a military response designed to mobilize Muslims around
+the world. That so many targeted governments respond in the way that terror-
+ist organizations intend underscores the need for understanding the reasoning
+behind this type of violence.
+   In this article we seek answers to four questions. First, what types of goals
+do terrorists seek to achieve? Second, what strategies do they pursue to
+achieve these goals? Third, why do these strategies work in some cases but not
+in others? And fourth, given these strategies, what are the targeted govern-
+ments’ best responses to prevent terrorism and protect their countries from
+future attacks?
+   The core of our argument is that terrorist violence is a form of costly signal-
+ing. Terrorists are too weak to impose their will directly by force of arms. They
+are sometimes strong enough, however, to persuade audiences to do as they
+wish by altering the audience’s beliefs about such matters as the terrorist’s
+ability to impose costs and their degree of commitment to their cause. Given
+the conºict of interest between terrorists and their targets, ordinary communi-
+cation or “cheap talk” is insufªcient to change minds or inºuence behavior. If
+al-Qaida had informed the United States on September 10, 2001, that it would
+
+
+Targets of Terrorism,” Princeton University and Stanford University, 2003; Alan B. Krueger and
+Jitka Maleckova, “Education, Poverty, and Terrorism: Is There a Causal Connection?” Journal of
+Economic Perspectives, Vol. 17, No. 4 (November 2003), pp. 119–144; and Alberto Abadie, “Poverty,
+Political Freedom, and the Roots of Terrorism,” Faculty Research Working Papers Series, RWP04-
+043 (Cambridge, Mass.: John F. Kennedy School of Government, Harvard University, 2004).
+6. Jessica Stern, Terror in the Name of God: Why Religious Militants Kill (New York: Ecco-
+HarperCollins, 2003).
+                                The Strategies of Terrorism 51
+
+
+
+
+kill 3,000 Americans unless the United States withdrew from Saudi Arabia, the
+threat might have sparked concern, but it would not have had the same impact
+as the attacks that followed. Because it is hard for weak actors to make credible
+threats, terrorists are forced to display publicly just how far they are willing to
+go to obtain their desired results.
+   There are ªve principal strategic logics of costly signaling at work in terror-
+ist campaigns: (1) attrition, (2) intimidation, (3) provocation, (4) spoiling, and
+(5) outbidding. In an attrition strategy, terrorists seek to persuade the enemy
+that the terrorists are strong enough to impose considerable costs if the enemy
+continues a particular policy. Terrorists using intimidation try to convince the
+population that the terrorists are strong enough to punish disobedience and
+that the government is too weak to stop them, so that people behave as the
+terrorists wish. A provocation strategy is an attempt to induce the enemy to re-
+spond to terrorism with indiscriminate violence, which radicalizes the popula-
+tion and moves them to support the terrorists. Spoilers attack in an effort to
+persuade the enemy that moderates on the terrorists’ side are weak and un-
+trustworthy, thus undermining attempts to reach a peace settlement. Groups
+engaged in outbidding use violence to convince the public that the terrorists
+have greater resolve to ªght the enemy than rival groups, and therefore are
+worthy of support. Understanding these ªve distinct strategic logics is crucial
+not only for understanding terrorism but also for designing effective antiterror
+policies.7
+   The article is divided into two main sections. The ªrst discusses the goals
+terrorists pursue and examines the forty-two groups currently on the U.S.
+State Department’s list of foreign terrorist organizations (FTOs).8 The second
+section develops the costly signaling approach to terrorism, analyzes the ªve
+strategies that terrorists use to achieve their goals, discusses the conditions in
+which each of these strategies is likely to be successful, and draws out the
+implications for the best counterterror responses.
+
+The Goals of Terrorism
+
+For years the press has portrayed terrorists as crazy extremists who commit in-
+discriminate acts of violence, without any larger goal beyond revenge or a de-
+
+7. Of course, terrorists will also be seeking best responses to government responses. A pair of
+strategies that are best responses to each other constitutes a Nash equilibrium, the fundamental
+prediction tool of game theory.
+8. Ofªce of Counterterrorism, U.S. Department of State, “Foreign Terrorist Organizations,” fact
+sheet, October 11, 2005, http://www.state.gov/s/ct/rls/fs/3719.htm.
+                                  International Security 31:1 52
+
+
+
+
+sire to produce fear in an enemy population. This characterization derives
+some support from statements made by terrorists themselves. For example, a
+young Hamas suicide bomber whose bomb failed to detonate said, “I know
+that there are other ways to do jihad. But this one is sweet—the sweetest. All
+martyrdom operations, if done for Allah’s sake, hurt less than a gnat’s bite!”9
+Volunteers for a suicide mission may have a variety of motives—obtaining re-
+wards in the afterlife, avenging a family member killed by the enemy, or sim-
+ply collecting ªnancial rewards for their descendants. By contrast, the goals
+driving terrorist organizations are usually political objectives, and it is these
+goals that determine whether and how terrorist campaigns will be launched.
+   We deªne “terrorism” as the use of violence against civilians by nonstate ac-
+tors to attain political goals.10 These goals can be conceptualized in a variety of
+ways. Individuals and groups often have hierarchies of objectives, where
+broader goals lead to more proximate objectives, which then become speciªc
+goals in more tactical analyses.11 For the sake of simplicity, we adopt the com-
+mon distinction between goals (or ultimate desires) and strategies (or plans of
+action to attain the goals).
+   Although the ultimate goals of terrorists have varied over time, ªve have
+had enduring importance: regime change, territorial change, policy change, so-
+cial control, and status quo maintenance. Regime change is the overthrow of a
+government and its replacement with one led by the terrorists or at least one
+more to their liking.12 Most Marxist groups, including the Shining Path
+(Sendero Luminoso) in Peru have sought this goal. Territorial change is taking
+territory away from a state either to establish a new state (as the Tamil Tigers
+seek to do in Tamil areas of Sri Lanka) or to join another state (as Lashkar-e
+Tayyiba would like to do by incorporating Indian Kashmir into Pakistan).
+
+
+9. Quoted in Nasra Hassan, “An Arsenal of Believers: Talking to the ‘Human Bombs,’” New Yorker,
+November 19, 2001, p. 37.
+10. For discussion of differing deªnitions of terrorism, see Alex P. Schmid and Albert J. Jongman,
+Political Terrorism: A New Guide to Actors, Authors, Concepts, Data Bases, Theories, and Literature (New
+Brunswick, N.J.: Transaction, 1988), pp. 1–38. We do not focus on state terrorism because states
+face very different opportunities and constraints in their use of violence, and we do not believe the
+two cases are similar enough to be proªtably analyzed together.
+11. For the distinction between goals and strategies, see David A. Lake and Robert Powell, eds.,
+Strategic Choice and International Relations (Princeton, N.J.: Princeton University Press, 1999), espe-
+cially chap. 1.
+12. On revolutionary terrorism, see Martha Crenshaw Hutchinson, “The Concept of Revolution-
+ary Terrorism,” Journal of Conºict Resolution, Vol. 16, No. 3 (September 1972), pp. 383–396; Martha
+Crenshaw Hutchinson, Revolutionary Terrorism: The FLN in Algeria, 1954–1962 (Stanford, Calif.:
+Hoover Institution Press, 1978); and H. Edward Price Jr., “The Strategy and Tactics of Revolution-
+ary Terrorism,” Comparative Studies in Society and History, Vol. 19, No. 1 (January 1977), pp. 52–66.
+                                  The Strategies of Terrorism 53
+
+
+
+
+Policy change is a broader category of lesser demands, such as al-Qaida’s
+demand that the United States drop its support for Israel and corrupt Arab re-
+gimes such as Saudi Arabia. Social control constrains the behavior of individu-
+als, rather than the state. In the United States, the Ku Klux Klan sought the
+continued oppression of African Americans after the Civil War. More recently,
+antiabortion groups have sought to kill doctors who perform abortions to de-
+ter other doctors from providing this service. Finally, status quo maintenance
+is the support of an existing regime or a territorial arrangement against politi-
+cal groups that seek to change it. Many right-wing paramilitary organizations
+in Latin America, such as the United Self-Defense Force of Colombia, have
+sought this goal.13 Protestant paramilitary groups in Northern Ireland sup-
+ported maintenance of the territorial status quo (Northern Ireland as British
+territory) against IRA demands that the territory be transferred to Ireland.14
+   Some organizations hold multiple goals and may view one as facilitating an-
+other. For instance, by seeking to weaken U.S. support for Arab regimes
+(which would represent a policy change by the United States), al-Qaida is
+working toward the overthrow of those regimes (or regime change). As an-
+other example, Hamas aims to drive Israel out of the occupied territories (terri-
+torial change) and then to overthrow it (regime change).
+   A cross section of terrorist organizations listed in Table 1 illustrates the range
+of goals and their relative frequency. Of the forty-two groups currently desig-
+nated as FTOs by the U.S. State Department, thirty-one seek regime change,
+nineteen seek territorial change, four seek policy change, and one seeks to
+maintain the status quo.15 The list is neither exhaustive nor representative of
+all terrorist groups, and it does not reºect the frequency of goals in the uni-
+verse of cases. None of the FTOs appear to pursue social control, but some do-
+mestic groups, which are by deªnition not on the list, are more interested in
+
+
+13. This group has recently surrendered its weapons.
+14. Some analysts argue that many terrorist organizations have degenerated into little more than
+self-perpetuating businesses that primarily seek to enhance their own power and wealth, and only
+articulate political goals for rhetorical purposes. See, for example, Stern, Terror in the Name of God,
+pp. 235–236. This suggests that power and wealth should be considered goals in their own right.
+All organizations, however, seek power and wealth to further their political objectives, and these
+are better viewed as instrumental in nature.
+15. A difªcult coding issue arises in determining when a group is a nonstate actor engaged in
+status quo maintenance and when it is simply a covert agent of the state. Some death squads were
+linked to elements in the armed forces, yet were not necessarily responsive to the chief executive
+of the country. Others were tied to right-wing parties and are more clearly nonstate, unless that
+party is the party in power. See Bruce D. Campbell and Arthur D. Brenner, eds., Death Squads in
+Global Perspective: Murder with Deniability (New York: Palgrave Macmillan, 2002).
+Table 1. Foreign Terrorist Organizations and Their Goals
+Name                                              Ultimate Goals                                           RC   TC   PC   SC   SQM
+Abu Nidal Organization                            Destroy Israel; establish Palestinian state              X    X
+Abu Sayyaf Group                                  Secede from Philippines                                       X
+Al-Aqsa Martyrs’ Brigade                          Destroy Israel; establish Palestinian state              X    X
+Ansar al-Islam                                    Evict United States from Iraq; establish Islamic state   X         X
+Armed Islamic Group                               Establish Islamic state in Algeria                       X
+Asbat al-Ansar                                    Establish Islamic state in Lebanon                       X
+Aum Shinrikyo                                     Seize power in Japan; hasten the Apocalypse              X
+Basque Fatherland and Liberty (ETA)               Secede from Spain                                             X
+Communist Party of the Philippines/New            Establish Communist state in Philippines                 X
+ People’s Army
+Continuity Irish Republican Army                  Evict Britain from Northern Ireland; unite with Eire          X
+Al-Gama’a al-Islamiyya (Islamic Group)            Establish Islamic state in Egypt                         X
+Hamas (Islamic Resistance Movement)               Destroy Israel; establish Palestinian Islamic state      X    X
+Harakat ul-Mujahidin                              Evict India from Kashmir; unite with Pakistan                 X
+Hezbollah (Party of God)                          Originally: evict Israel from Lebanon; now: destroy      X    X
+                                                  Israel and establish Palestinian Islamic state
+Islamic Jihad Group                               Establish Islamic state in Uzbekistan; reduce U.S.       X         X
+                                                  influence
+Islamic Movement of Uzbekistan                    Establish Islamic state in Uzbekistan                    X
+Jaish-e-Mohammed (Army of Mohammed)               Evict India from Kashmir; unite with Pakistan                 X
+Jemaah Islamiya                                   Establish Islamic state in Indonesia                     X
+Al-Jihad (Egyptian Islamic Jihad)                 Establish Islamic state in Egypt                         X
+Kahane Chai (Kach)                                Expand Israel                                                 X
+                                                                                                                                     International Security 31:1 54
+
+
+
+
+Kongra-Gel (formerly Kurdistan Workers’ Party)    Secede from Turkey                                            X
+Lashkar-e Tayyiba (Army of the Righteous)         Evict India from Kashmir; unite with Pakistan                 X
+Lashkar i Jhangvi                                 Establish Islamic state in Pakistan                      X
+Liberation Tigers of Tamil Eelam                  Secede from Sri Lanka                                         X
+Libyan Islamic Fighting Group                     Establish Islamic state in Libya                         X
+Moroccan Islamic Combatant Group                  Establish Islamic state in Morocco                       X
+Mujahedin-e Khalq Organization                    Overthrow Iranian government                             X
+National Liberation Army                          Establish Marxist government in Colombia                 X
+Palestine Liberation Front                        Destroy Israel; establish Palestinian state              X    X
+Palestinian Islamic Jihad                         Destroy Israel; establish Palestinian state              X    X
+Table 1. continued
+Name                                             Ultimate Goals                                           RC   TC   PC   SC   SCM
+Popular Front for the Liberation of Palestine    Destroy Israel; establish Palestinian state              X    X
+Popular Front for the Liberation of Palestine—   Destroy Israel; establish Palestinian state              X    X
+ General Command
+Al-Qaida                                         Establish Islamic states in Middle East; destroy         X    X    X
+                                                 Israel; reduce U.S. influence
+Al-Qaida in Iraq (Zarqawi group)                 Evict United States from Iraq; establish Islamic state   X         X
+Real Irish Republican Army                       Evict Britain from Northern Ireland; unite with Eire          X
+Revolutionary Armed Forces of Colombia           Establish Marxist state in Colombia                      X
+Revolutionary Nuclei (formerly Revolutionary     Establish Marxist state in Greece                        X
+ People’s Struggle)
+Revolutionary Organization 7 November            Establish Marxist state in Greece                        X
+Revolutionary People’s Liberation Party/Front    Establish Marxist state in Turkey                        X
+
+
+Salafist Group for Call and Combat               Establish Islamic state in Algeria                       X
+Shining Path (Sendero Luminoso)                  Establish Marxist state in Peru                          X
+United Self-Defense Forces of Colombia           Preserve Colombian state                                                      X
+Total                                                                                                     31   19   4    0     1
+
+SOURCE: Office of Counterterrorism, U.S. Department of State, “Foreign Terrorist Organizations,” fact sheet, October 11, 2005.
+NOTE: RC: regime change; TC: territorial change; PC: policy change; SC: social control; and SQM: status quo maintenance. Coding of
+  goals is the authors’.
+                                                                                                                                     The Strategies of Terrorism 55
+                                 International Security 31:1 56
+
+
+
+
+this goal.16 What Table 1 reveals, however, is the instrumental nature of terror-
+ist violence and some of the more popular political objectives being sought.
+
+The Strategies of Terrorist Violence
+
+To achieve their long-term objectives, terrorists pursue a variety of strategies.
+Scholars have suggested a number of typologies of terrorist strategies and tac-
+tics over the years. In a pathbreaking early analysis of terrorism, Thomas
+Thornton offered ªve proximate objectives: morale building, advertising, dis-
+orientation (of the target population), elimination of opposing forces, and
+provocation.17 Martha Crenshaw also identiªes advertising and provocation
+as proximate objectives, along with weakening the government, enforcing
+obedience in the population, and outbidding.18 David Fromkin argues that
+provocation is the strategy of terrorism.19 Edward Price writes that terrorists
+must delegitimize the regime and impose costs on occupying forces, and he
+identiªes kidnapping, assassination, advertising, and provocation as tactics.20
+Although these analyses are helpful in identifying strategies of terrorism, they
+fail to derive them from a coherent framework, spell out their logic in detail,
+and consider best responses to them.
+   A fruitful starting point for a theory of terrorist strategies is the literature on
+uncertainty, conºict, and costly signaling. Uncertainty has long been under-
+stood to be a cause of conºict. Geoffrey Blainey argued that wars begin when
+states disagree about their relative power, and they end when states agree
+again.21 James Fearon and other theorists built upon this insight and showed
+
+16. The Taliban, which is not listed, does pursue social control; and the Israeli group Kach, which
+seeks to maintain the subordinate status of Palestinians in Israel and eventually to expel them,
+may also be considered to seek it. The Memorial Institute for the Prevention of Terrorism main-
+tains a database of terrorist organizations that includes more than forty groups based in the United
+States. Some of these can be considered to seek social control, such as the Army of God, which tar-
+gets doctors who provide abortions. See http://www.tkb.org.
+17. Thomas Perry Thornton, “Terror as a Weapon of Political Agitation,” in Harry Eckstein, ed.,
+Internal War: Problems and Approaches (London: Free Press of Glencoe, 1964), p. 87.
+18. Martha Crenshaw, “The Causes of Terrorism,” Comparative Politics, Vol. 13, No. 4 (July 1981),
+pp. 379–399.
+19. David Fromkin, “The Strategy of Terrorism,” Foreign Affairs, Vol. 53, No. 4 (July 1975), pp. 683–
+698.
+20. Price, “The Strategy and Tactics of Revolutionary Terrorism,” pp. 54–58. Other related discus-
+sions include Paul Wilkinson, “The Strategic Implications of Terrorism,” in M.L. Sondhi, ed.,
+Terrorism and Political Violence: A Sourcebook (New Delhi: Har-anand Publications, 2000); Paul
+Wilkinson, Terrorism and the Liberal State (New York: New York University Press, 1986), pp. 110–
+118; and Schmid and Jongman, Political Terrorism, pp. 50–59.
+21. Geoffrey Blainey, The Causes of War, 3d ed. (New York: Free Press, 1988), p. 122.
+                                 The Strategies of Terrorism 57
+
+
+
+
+that uncertainty about a state’s willingness to ªght can cause conºict.22 If states
+are unsure what other states will ªght for, they may demand too much in ne-
+gotiations and end up in conºict. This uncertainty could reºect a disagreement
+about power, as Blainey understood, or a disagreement over resolve, will-
+power, or the intensity of preferences over the issue. The United States and
+North Vietnam did not disagree over their relative power, but the United
+States fatally underestimated North Vietnamese determination to achieve
+victory.
+   Uncertainty about trustworthiness or moderation of preferences can also
+cause conºict. Thomas Hobbes argued that if individuals mistrust each other,
+they have an incentive to initiate an attack rather than risk being attacked by
+surprise.23 John Herz, Robert Jervis, and others have developed this concept in
+the international relations context under the heading of the security dilemma
+and the spiral model.24 States are often uncertain about each other’s ultimate
+ambitions, intentions, and preferences. Because of this, anything that increases
+one side’s belief that the other is deceitful, expansionist, risk acceptant, or
+hostile increases incentives to ªght rather than cooperate.
+   If uncertainty about power, resolve, and trustworthiness can lead to vio-
+lence, then communication on these topics is the key to preventing (or instigat-
+ing) conºict. The problem is that simple verbal statements are often not
+credible, because actors frequently have incentives to lie and bluff. If by saying
+“We’re resolved,” the North Vietnamese could have persuaded the United
+States to abandon the South in 1965, then North Vietnam would have had
+every incentive to say so even if it was not that resolute. In reality, they had to
+ªght a long and costly war to prove their point. Similarly, when Mikhail
+Gorbachev wanted to reassure the West and end the Cold War, verbal declara-
+tions of innocent intentions were insufªcient, because previous Soviet leaders
+had made similar statements. Instead, real arms reductions, such as the 1987
+Intermediate-Range Nuclear Forces Treaty, were necessary for Western opinion
+to change.
+
+
+22. James D. Fearon, “Rationalist Explanations for War,” International Organization, Vol. 49, No. 3
+(Summer 1995), pp. 379–414; and Robert Powell, “Bargaining Theory and International Conºict,”
+Annual Review of Political Science, Vol. 5 (June 2002), pp. 1–30.
+23. Thomas Hobbes, Leviathan (New York: Penguin, [1651] 1968), pp. 184.
+24. John H. Herz, “Idealist Internationalism and the Security Dilemma,” World Politics, Vol. 2, No.
+2 (January 1950), pp. 157–180; Robert Jervis, Perception and Misperception in International Politics
+(Princeton, N.J.: Princeton University Press, 1976); Robert Jervis, “Cooperation under the Security
+Dilemma,” World Politics, Vol. 30, No. 2 (January 1978), pp. 167–214; and Charles L. Glaser, “The
+Security Dilemma Revisited,” World Politics, Vol. 50, No. 1 (October 1997), pp. 171–202.
+                                  International Security 31:1 58
+
+
+
+
+   Because talk is cheap, states and terrorists who wish to inºuence the behav-
+ior of an adversary must resort to costly signals.25 Costly signals are actions so
+costly that bluffers and liars are unwilling to take them.26 In international cri-
+ses, mobilizing forces or drawing a very public line in the sand are examples of
+strategies that less resolved actors might ªnd too costly to take.27 War itself, or
+the willingness to endure it, can serve as a forceful signal of resolve and pro-
+vide believable information about power and capabilities.28 Costly signals sep-
+arate the wheat from the chaff and allow honest communication, although
+sometimes at a terrible price.
+   To obtain their political goals, terrorists need to provide credible information
+to the audiences whose behavior they hope to inºuence. Terrorists play to two
+key audiences: governments whose policies they wish to inºuence and indi-
+viduals on the terrorists’ own side whose support or obedience they seek to
+gain.29 The targeted governments are central because they can grant conces-
+sions over policy or territory that the terrorists are seeking. The terrorists’ do-
+mestic audience is also important, because they can provide resources to the
+terrorist group and must obey its edicts on social or political issues.
+   Figure 1 shows how the three subjects of uncertainty (power, resolve, and
+trustworthiness) combine with the two targets of persuasion (the enemy
+government and the domestic population) to yield a family of ªve signaling
+strategies. These strategies form a theoretically cohesive set that we believe
+represents most of the commonly used strategies in important terrorist cam-
+paigns around the world today.30 A terrorist organization can of course pursue
+
+
+25. Andrew H. Kydd, Trust and Mistrust in International Relations (Princeton, N.J.: Princeton Uni-
+versity Press, 2005).
+26. John G. Riley, “Silver Signals: Twenty-ªve Years of Screening and Signaling,” Journal of Eco-
+nomic Literature, Vol. 39, No. 2 (June 2001), pp. 432–478.
+27. James D. Fearon, “Signaling Foreign Policy Interests: Tying Hands vs. Sunk Costs,” Journal of
+Conºict Resolution, Vol. 41, No. 1 (February 1977), pp. 68–90.
+28. Dan Reiter, “Exploring the Bargaining Model of War,” Perspectives on Politics, Vol. 1, No. 1
+(March 2003), pp. 27–43; and Robert Powell, “Bargaining and Learning While Fighting,” American
+Journal of Political Science, Vol. 48, No. 2 (April 2004), pp. 344–361.
+29. Rival terrorist or moderate groups are also important, but terrorism is not often used to signal
+such groups. Sometimes rival groups are targeted in an effort to eliminate them, but this violence
+is usually thought of as internecine warfare rather than terrorism. The targeted government may
+also be divided into multiple actors, but these divisions are not crucial for a broad understanding
+of terrorist strategies.
+30. This list is not exhaustive. In particular, it omits two strategies that have received attention in
+the literature: advertising and retaliation. Advertising may play a role in the beginning of some
+conºicts, but it does not sustain long-term campaigns of terrorist violence. Retaliation is a motiva-
+tion for some terrorists, but terrorism would continue even if the state did not strike at terrorists,
+because terrorism is designed to achieve some goal, not just avenge counterterrorist attacks.
+                                 The Strategies of Terrorism 59
+
+
+
+
+Figure 1. Strategies of Terrorist Violence
+
+
+
+
+more than one strategy at a time. The September 11 terrorist attacks, for exam-
+ple, were probably part of both an attrition strategy and a provocation strat-
+egy. By targeting the heart of the United States’ ªnancial district, al-Qaida may
+have been attempting to increase the cost of the U.S. policy of stationing sol-
+diers in Saudi Arabia. But by targeting prominent symbols of American eco-
+nomic and military power, al-Qaida may also have been trying to goad the
+United States into an extreme military response that would serve al-Qaida’s
+larger goal of radicalizing the world’s Muslim population. The challenge for
+policymakers in targeted countries is to calibrate their responses in ways that
+do not further any of the terrorists’ goals.
+   Below we analyze the ªve terrorist strategies in greater detail, discuss the
+conditions under which each is likely to succeed, and relate these conditions to
+the appropriate counterterrorism strategies.
+
+attrition: a battle of wills
+The most important task for any terrorist group is to persuade the enemy that
+the group is strong and resolute enough to inºict serious costs, so that the en-
+emy yields to the terrorists’ demands.31 The attrition strategy is designed to ac-
+complish this task.32 In an attrition campaign, the greater the costs a terrorist
+
+31. Per Baltzer Overgaard, “The Scale of Terrorist Attacks as a Signal of Resources,” Journal of
+Conºict Resolution, Vol. 38, No. 3 (September 1994), pp. 452–478; and Harvey E. Lapan and Todd
+Sandler, “Terrorism and Signaling,” European Journal of Political Economy, Vol. 9, No. 3 (August
+1993), pp. 383–398.
+32. J. Maynard Smith, “The Theory of Games and Evolution in Animal Conºicts,” Journal of Theo-
+retical Biology, Vol. 47 (1974), pp. 209–211; John J. Mearsheimer, Conventional Deterrence (Ithaca,
+                                International Security 31:1 60
+
+
+
+
+organization is able to inºict, the more credible its threat to inºict future costs,
+and the more likely the target is to grant concessions. During the last years of
+the British Empire, the Greeks in Cyprus, Jews in Palestine, and Arabs in Aden
+used a war of attrition strategy against their colonizer. By targeting Britain
+with terrorist attacks, they eventually convinced the political leadership that
+maintaining control over these territories would not be worth the cost in
+British lives.33 Attacks by Hezbollah and Hamas against Israel, particularly
+during the second intifada, also appear to be guided by this strategy. In a letter
+written in the early 1990s to the leadership of Hamas, the organization’s mas-
+ter bomb maker, Yahya Ayyash, said, “We paid a high price when we used
+only sling-shots and stones. We need to exert more pressure, make the cost of
+the occupation that much more expensive in human lives, that much more
+unbearable.”34
+   Robert Pape presents the most thorough exposition of terrorism as a war of
+attrition in his analysis of suicide bombing.35 Based on a data set of all suicide
+attacks from 1980 to 2003 (315 in total), Pape argues that suicide terrorism is
+employed by weak actors for whom peaceful tactics have failed and conven-
+tional military tactics are infeasible because of the imbalance of power. The
+strategy is to inºict costs on the enemy until it withdraws its occupying forces:
+the greater the costs inºicted, the more likely the enemy is to withdraw. Pape
+asserts that terrorists began to recognize the effectiveness of suicide terrorism
+with the 1983 Hezbollah attack against U.S. Marines in Beirut that killed 241
+people. Since then, suicide terrorism has been employed in nationalist strug-
+gles around the world.
+   conditions favorable to attrition. A war of attrition strategy is more
+effective against some targets than others. Three variables are likely to ªgure
+in the outcome: the state’s level of interest in the issue under dispute, the con-
+straints on its ability to retaliate, and its sensitivity to the costs of violence.
+   The ªrst variable, the state’s degree of interest in the disputed issue, is fun-
+damental. States with only peripheral interests at stake often capitulate to
+terrorist demands; states with more important interests at stake rarely do. The
+
+
+N.Y.: Cornell University Press, 1983), pp. 33–35; and James D. Fearon, “Bargaining, Enforcement,
+and International Cooperation,” International Organization, Vol. 52, No. 2 (Spring 1998), pp. 269–
+305.
+33. Bernard Lewis, “The Revolt of Islam,” New Yorker, November 19, 2001, p. 61.
+34. Quoted in Hassan, “An Arsenal of Believers,” p. 38.
+35. Robert A. Pape, “The Strategic Logic of Suicide Terrorism,” American Political Science Review,
+Vol. 97, No. 3 (August 2003), pp. 343–361; and Pape, Dying to Win.
+                                 The Strategies of Terrorism 61
+
+
+
+
+United States withdrew from Lebanon following the bombing of the marine
+barracks because it had only a marginal interest in maintaining stability and
+preventing Syrian domination of that country. In that case, the costs of the at-
+tack clearly outweighed the U.S. interests at stake. Similarly, Israel withdrew
+from southern Lebanon in 2000 because the costs of the occupation out-
+stripped Israel’s desire to maintain a buffer zone in that region. In contrast, the
+United States responded to the September 11 attacks by launching offensive
+wars in Afghanistan and Iraq rather than withdrawing U.S. troops from the re-
+gion, as al-Qaida demanded (though U.S. troops did ultimately leave Saudi
+Arabia for Iraq). Similarly, Israel is unlikely to withdraw from East Jerusalem,
+much less allow itself to become an Islamic state as Hamas has demanded.
+   The second variable, constraints on retaliation, affects the costs paid by the
+terrorists for pursuing a war of attrition. Terrorist organizations almost always
+are weaker than the governments they target and, as a result, are vulnerable to
+government retaliation. The more constrained the government is in its use of
+force, the less costly an attrition strategy is, and the longer the terrorists can
+hold out in the hopes of achieving their goal. For instance, the Israelis have the
+military means to commit genocide against the Palestinian people or to expel
+them to surrounding Arab countries. Israel, however, depends for its long-
+term survival on close ties with Europe and the United States. Western support
+for Israel would plummet in response to an Israeli strategy designed to inºict
+mass casualties, making such a strategy prohibitively costly. This constraint
+makes a war of attrition strategy less costly (and more attractive) for the
+Palestinians.
+   Democracies may be more constrained in their ability to retaliate than au-
+thoritarian regimes. Pape ªnds that suicide bombers target democracies exclu-
+sively and argues that this is in part because of constraints on their ability to
+strike back.36 Capable authoritarian regimes are able to gather more informa-
+tion on their populations than democracies and can more easily round up
+suspected terrorists and target those sympathetic to them. They are also less
+constrained by human rights considerations in their interrogation and
+retaliation practices.37
+   The ease with which a terrorist organization can be targeted also inºuences
+
+
+36. Pape, Dying to Win, p. 44. Krueger and Laitin also ªnd that targets of terrorism tend to be dem-
+ocratic. See Krueger and Laitin, “Kto Kogo?”
+37. The U.S. program of extraordinary rendition, for example, is an effort to evade the restrictions
+usually faced by democracies by outsourcing the dirty work.
+                           International Security 31:1 62
+
+
+
+
+a country’s ability to retaliate forcefully. Terrorist organizations such as al-
+Qaida that are widely dispersed, difªcult to identify, or otherwise hard to tar-
+get are at an advantage in a war of attrition because their enemies will have
+difªculty delivering punishment. Israel has, through superior intelligence
+gathering, been able to assassinate top members of Hamas’s leadership at will,
+including its founder and spiritual leader, Sheik Ahmed Yassin, as well as his
+successor, Abdel Aziz Rantisi. The United States, by contrast, has been unable
+to locate Osama bin Laden and his top deputy, Ayman al-Zawahiri.
+   The third variable is a target’s cost tolerance. Governments that are able to
+absorb heavier costs and hold out longer are less inviting targets for an attri-
+tion strategy. Terrorist organizations are likely to gauge a target’s cost toler-
+ance based on at least two factors: the target’s regime type and the target’s past
+behavior toward other terrorists. Regime type is important because democra-
+cies may be less able to tolerate the painful effects of terrorism than non-
+democracies. Citizens of democracies, their fears stoked by media reports and
+warnings of continued vulnerability, are more likely to demand an end to the
+attacks. In more authoritarian states, the government exerts more control over
+the media and can disregard public opinion to a greater extent. The Russian
+government’s heavy-handed response to hostage situations, for example, sug-
+gests a higher tolerance for casualties than a more fully democratic govern-
+ment would have. Additionally, because terrorist organizations operate more
+freely in democracies and politicians must interact with the public to maintain
+political support, terrorists have an easier time targeting prominent indiv-
+iduals for assassination. Of four leaders assassinated by terrorists in the past
+quarter century—Indira Gandhi, Rajiv Gandhi, Yitzak Rabin, and Anwar
+Sadat—three were leaders of democracies.
+   Among democratic states, sensitivity to costs may vary with the party in
+power. When more dovish parties are in charge, the target may be perceived to
+have lower cost tolerances than if a more hawkish party were at the helm. The
+dove-hawk dimension may correlate with the left-right dimension in domestic
+politics, leading left-wing parties to be more likely to grant terrorist demands.
+This traditional divide between peace and security has characterized Israeli
+politics for years. Labor Party Prime Minister Ehud Barak was elected on a
+platform of withdrawing Israeli forces from Lebanon and making peace with
+the Palestinians; in contrast, Likud Party Prime Minister Ariel Sharon was
+elected on a platform of meeting terrorists with military force. Hoping for
+greater concessions, terrorists may preferentially attack dovish parties.
+   The number of prior concessions made to other terrorists is also likely to
+                              The Strategies of Terrorism 63
+
+
+
+
+inºuence perceptions of the target’s cost tolerance. Governments that have al-
+ready yielded to terrorist demands are more likely to experience additional
+terrorist attacks. Evidence abounds that terrorists explicitly consider the prior
+behavior of states and are encouraged by signs of weakness. Israel’s precipi-
+tous withdrawal from southern Lebanon in May 2000 convinced Hamas that
+the Israeli leadership’s resolve was weakening and encouraged Hamas leaders
+to initiate the second intifada in September 2000.38 Israelis fear the same infer-
+ence will be drawn from their withdrawal from Gaza. A Hamas leader inter-
+viewed in October 2005 declared, “When we took up arms and launched [the
+second intifada], we succeeded in less than ªve years to force the Israelis to
+withdraw from the Gaza Strip. This fulªlled everyone’s dream. I think we
+have to beneªt from this experience by applying it accordingly to the West
+Bank and other occupied areas.”39 The past behavior of a targeted government,
+therefore, also provides important information to terrorist groups about its
+likely future behavior and the success of this particular strategy.
+   Perhaps the most important example of a terrorist group pursuing an attri-
+tion strategy is al-Qaida’s war with the United States. In a November 2004
+broadcast, bin Laden boasted, “We gained experience in guerilla and attri-
+tional warfare in our struggle against the great oppressive superpower, Russia,
+in which we and the mujahidin ground it down for ten years until it went
+bankrupt, and decided to withdraw in defeat. . . . We are continuing to make
+America bleed to the point of bankruptcy.”40 Al Qaida’s goal—policy change—
+is well suited to an attrition strategy. Bin Laden has frequently argued that the
+United States lacks the resolve to ªght a long attritional war, as in his February
+1996 declaration of jihad:
+Where was this false courage of yours when the explosion in Beirut took place
+in 1983 a.d.? You were transformed into scattered bits and pieces; 241 soldiers
+were killed, most of them Marines. And where was this courage of yours when
+two explosions made you leave Aden in less than twenty-four hours!
+  But your most disgraceful case was in Somalia; where, after vigorous propa-
+ganda about the power of the U.S. and its post–cold war leadership of the new
+world order, you moved tens of thousands of international forces, including
+twenty-eight thousand American soldiers, into Somalia. However, when tens
+of your soldiers were killed in minor battles and one American pilot was
+
+38. Debate Goes On Over Lebanon Withdrawal, Haaretz, May 23, 2001; and Daoud Kuttab, “The
+Lebanon Lesson,” Jerusalem Post, May 25, 2000.
+39. Interview with Mahmoud Khalid al-Zahar, Al Jazeera, October 22, 2005.
+40. Osama bin Laden, Messages to the World: The Statements of Osama bin Laden, trans. James
+Howarth, ed. Bruce Lawrence (London: Verso, 2005), pp. 241–242.
+                                 International Security 31:1 64
+
+
+
+
+dragged in the streets of Mogadishu, you left the area in disappointment, hu-
+miliation, and defeat, carrying your dead with you. Clinton appeared in front
+of the whole world threatening and promising revenge, but these threats were
+merely a preparation for withdrawal. You had been disgraced by Allah and
+you withdrew; the extent of your impotence and weaknesses became very
+clear.41
+   Although difªcult to prove, it also appears that bin Laden believed that he
+and his organization would be hard to target with counterattacks, making a
+war of attrition strategy even more appealing. In 2001 the Taliban was on the
+verge of eliminating armed resistance in northern Afghanistan; and, as a land-
+locked country, Afghanistan must have seemed relatively invulnerable to a
+U.S. invasion. The United States had bombed al-Qaida camps before to no ef-
+fect. Even if the United States invaded, Afghanistan was both costly and dif-
+ªcult to conquer, as the Soviets discovered in the 1980s. In the end, of course,
+the Taliban would have been well advised to insist that the September 11 at-
+tacks be delayed until the Northern Alliance was defeated, but the latter’s dra-
+matic success with U.S. help was perhaps difªcult to anticipate.
+   best responses to attrition. There are at least ªve counterstrategies avail-
+able to a state engaged in a war of attrition. First, the targeted government can
+concede inessential issues in exchange for peace, a strategy that we believe is
+frequently pursued though rarely admitted.42 In some cases, the terrorists will
+genuinely care more about the disputed issue and be willing to outlast the tar-
+get. In such cases, concessions are likely to be the state’s best response. Other
+potential challengers, however, may perceive this response as a sign of weak-
+ness, which could lead them to launch their own attacks. To reduce the dam-
+age to its reputation, the target can vigorously ªght other wars of attrition over
+issues it cares more deeply about, thus signaling a willingness to bear costs if
+the matter is of sufªcient consequence.
+   Second, where the issue under dispute is important enough to the targeted
+state that it does not want to grant any concessions, the government may en-
+gage in targeted retaliation. Retaliation can target the leadership of the terrorist
+group, its followers, their assets, and other objects of value. Care must be
+taken, however, that the retaliation is precisely targeted, because the terrorist
+
+
+41. Osama bin Laden, “Declaration of War against the Americans Occupying the Land of the
+Two Holy Places,” Al-Quds Al-Arabi, August 1996, http://www.pbs.org/newshour/terrorism/
+international/fatwa_1996.html.
+42. Peter C. Sederberg, “Conciliation as Counter-terrorist Strategy,” Journal of Peace Research, Vol.
+32, No. 3 (August 1995), pp. 295–312.
+                                 The Strategies of Terrorism 65
+
+
+
+
+organization could simultaneously be pursuing a strategy of provocation. A
+harsh, indiscriminate response might make a war of attrition more costly for
+the terrorists, but it would also harm innocent civilians who might then serve
+as willing recruits for the terrorists. The Israeli policy of assassination of terror-
+ist leaders is shaped by this concern.
+   Third, a state can harden likely targets to minimize the costs the terrorist or-
+ganization can inºict. If targeted governments can prevent most attacks from
+being executed, a war of attrition strategy will not be able to inºict the costs
+necessary to convince the target to concede. The wall separating Israel from
+the West Bank and Gaza is a large-scale example of this counterstrategy. The
+United States has been less successful in hardening its own valuable targets,
+such as nuclear and chemical plants and the container shipping system, de-
+spite the creation of the Department of Homeland Security.43 Protecting these
+types of targets is essential if one seeks to deter additional attacks and discour-
+age the use of attrition.
+   Fourth, states should seek to deny terrorists access to the most destructive
+weapons, especially nuclear and biological ones. Any weapon that can inºict
+enormous costs will be particularly attractive to terrorists pursuing a war of at-
+trition. The greater the destruction, the higher the likelihood that the target
+will concede increasingly consequential issues. Particular attention should be
+placed on securing Russian stockpiles of ªssile material and on halting the
+spread of uranium enrichment technology to Iran and North Korea. No other
+country has as much material under so little government control as Russia,
+and Iran and North Korea are vital because of the links both countries have to
+terrorist organizations.44
+   Finally, states can strive to minimize the psychological costs of terrorism and
+the tendency people have to overreact. John Mueller has noted that the risks
+associated with terrorism are actually quite small; for the average U.S. citizen,
+the likelihood of being a victim of a terrorist attack is about the same as that of
+being struck by lighting.45 Government public education programs should
+therefore be careful not to overstate the threat, for this plays into the hands of
+
+43. Stephen Flynn, America the Vulnerable: How Our Government Is Failing to Protect Us from Terror-
+ism (New York: HarperCollins, 2004).
+44. Graham T. Allison, Owen R. Coté Jr., Richard A. Falkenrath, and Steven E. Miller, Avoiding Nu-
+clear Anarchy: Containing the Threat of Loose Russian Nuclear Weapons and Fissile Material (Cam-
+bridge, Mass.: MIT Press, 1996); and Graham Allison, Nuclear Terrorism: The Ultimate Preventable
+Catastrophe (New York: Times Books, 2004).
+45. John Mueller, “Six Rather Unusual Propositions about Terrorism,” Terrorism and Political Vio-
+lence, Vol. 17, No. 4 (Winter 2005), pp. 487–505.
+                                International Security 31:1 66
+
+
+
+
+the terrorists. If Americans become convinced that terrorism, while a deadly
+problem, is no more of a health risk than drunk driving, smoking, or obesity,
+then al-Qaida’s attrition strategy will be undercut. What the United States
+should seek to avoid are any unnecessary costs associated with wasteful and
+misguided counterterror programs. The more costs the United States inºicts
+on itself in the name of counterterrorism policies of dubious utility, the more
+likely a war of attrition strategy is to succeed.
+
+intimidation: the reign of terror
+Intimidation is akin to the strategy of deterrence, preventing some undesired
+behavior by means of threats and costly signals.46 It is most frequently used
+when terrorist organizations wish to overthrow a government in power or
+gain social control over a given population. It works by demonstrating that the
+terrorists have the power to punish whoever disobeys them, and that the gov-
+ernment is powerless to stop them.
+   Terrorists are often in competition with the government for the support of
+the population. Terrorists who wish to bring down a government must some-
+how convince the government’s defenders that continued backing of the gov-
+ernment will be costly. One way to do this is to provide clear evidence that the
+terrorist organization can kill those individuals who continue to sustain the re-
+gime. By targeting the government’s more visible agents and supporters, such
+as mayors, police, prosecutors, and pro-regime citizens, terrorist organizations
+demonstrate that they have the ability to hurt their opponents and that the
+government is too weak to punish the terrorists or protect future victims.
+   Terrorists can also use an intimidation strategy to gain greater social control
+over a population. Terrorists may turn to this strategy in situations where a
+government has consistently refused to implement a policy a terrorist group
+favors and where efforts to change the state’s policy appear futile. In this case,
+terrorists use intimidation to impose the desired policy directly on the popula-
+tion, gaining compliance through selective violence and the threat of future re-
+prisals. In the United States, antiabortion activists have bombed clinics to
+prevent individuals from performing or seeking abortions, and in the 1960s
+racist groups burned churches to deter African Americans from claiming their
+
+
+46. The literature on deterrence is vast. See, for example, Thomas C. Schelling, Arms and Inºuence
+(New Haven, Conn.: Yale University Press, 1966); and Christopher H. Achen and Duncan Snidal,
+“Rational Deterrence Theory and Comparative Case Studies,” World Politics, Vol. 41, No. 2 (Janu-
+ary 1989), pp. 143–169.
+                                 The Strategies of Terrorism 67
+
+
+
+
+civil rights. In Afghanistan, the Taliban beheaded the principal of a girls school
+to deter others from providing education for girls.47
+   An intimidation strategy can encompass a range of actions—from assassina-
+tions of individuals in positions of power to car bombings of police recruits,
+such as those carried out by the Zarqawi group in Iraq. It can also include mas-
+sacres of civilians who have cooperated with the government or rival groups,
+such as the 1957 massacre at Melouza by the National Liberation Front during
+the Algerian war for independence.48 This strategy was taken to an extreme by
+the Armed Islamic Group in Algeria’s civil war of the 1990s. In that war,
+Islamist guerrillas massacred thousands of people suspected of switching their
+allegiance to the government. Massacres were especially common in villages
+that had once been under ªrm rebel control but that the army was attempting
+to retake and clear of rebels. Stathis Kalyvas argues that these conditions pose
+extreme dilemmas for the local inhabitants, who usually wish to support who-
+ever will provide security, but are often left exposed when the government be-
+gins to retake an area but has not established effective control.49
+   conditions favorable to intimidation. When the goal is regime change,
+weak states and rough terrain are two factors that facilitate intimidation. James
+Fearon and David Laitin argue that civil wars are likely to erupt and continue
+where the government is weak and the territory is large and difªcult to tra-
+verse. These conditions allow small insurgent groups to carve out portions of a
+country as a base for challenging the central government.50 Intimidation is
+likely to be used against civilians on the fault lines between rebel and govern-
+ment control to deter individuals from supporting the government.
+   When the goal is social control, weak states again facilitate intimidation.
+When the justice system is too feeble to effectively prosecute crimes associated
+with intimidation, people will either live in fear or seek protection from non-
+state actors such as local militias or gangs. Penetration of the justice system by
+sympathizers of a terrorist group also facilitates an intimidation strategy, be-
+cause police and courts will be reluctant to prosecute crimes and may even be
+complicit in them.
+
+
+47. Noor Khan, “Militants Behead Afghan Principal for Educating Girls,” Boston Globe, January 5,
+2006.
+48. Crenshaw Hutchinson, “The Concept of Revolutionary Terrorism,” p. 390.
+49. Stathis N. Kalyvas, “Wanton and Senseless? The Logic of Massacres in Algeria,” Rationality and
+Society, Vol. 11, No. 3 (August 1999), pp. 243–285.
+50. James D. Fearon and David D. Laitin, “Ethnicity, Insurgency, and Civil War,” American Political
+Science Review, Vol. 97, No. 1 (February 2003), pp. 75–90.
+                                 International Security 31:1 68
+
+
+
+
+   best responses to intimidation. When the terrorist goal is regime change,
+the best response to intimidation is to retake territory from the rebels in dis-
+crete chunks and in a decisive fashion. Ambiguity about who is in charge
+should be minimized, even if this means temporarily ceding some areas to the
+rebels to concentrate resources on selected sections of territory. This response
+is embodied in the “clear-and-hold strategy” that U.S. forces are employing in
+Iraq. The 2005 National Strategy for Victory in Iraq speciªcally identiªes intim-
+idation as the “strategy of our enemies.”51 The proper response, as Secretary of
+State Condoleezza Rice stated in October 2005, “is to clear, hold, and build:
+clear areas from insurgent control, hold them securely, and build durable na-
+tional Iraqi institutions.”52 If rebels control their own zone and have no access
+to the government zone, they will have no incentive to kill the civilians they
+control and no ability to kill the civilians the government controls. In this situ-
+ation, there is no uncertainty about who is in control; the information that
+would be provided by intimidation is already known. The U.S. military devel-
+oped the clear-and-hold strategy during the ªnal years of U.S. involvement in
+Vietnam. A principal strategy of the Vietcong was intimidation—to prevent
+collaboration with the government and build up control in the countryside. In
+the early years of the war, the United States responded with search and de-
+stroy missions, essentially an attrition strategy. Given that the insurgents were
+not pursuing an attrition strategy, and were not particularly vulnerable to one,
+this initial counterstrategy was a mistake. Clear-and-hold was the more appro-
+priate response because it limited the Vietcong’s access to potential targets and
+thus undercut its strategy.53
+   Clear-and-hold has its limitations. It is usually impossible to completely
+deny terrorists entry into the government-controlled zones. In 2002 Chechen
+terrorists were able to hold a theater audience of 912 people hostage in the
+heart of Moscow, and 130 were killed in the operation to retake the building.
+The Shining Path frequently struck in Lima, far from its mountain strongholds.
+In such situations, a more effective counterstrategy would be to invest in pro-
+tecting the targets of attacks. In most states, most of the time, the majority of
+state agents do not need to worry about their physical security, because no one
+
+51. United States National Security Council, National Strategy for Victory in Iraq (Washington, D.C.:
+White House, November 2005), p. 7.
+52. Secretary of State Condoleezza Rice, “Iraq and U.S. Policy,” testimony before the U.S. Senate
+Committee on Foreign Relations, October 19, 2005, 109th Cong., 1st sess., http://www.foreign
+.senate.gov/testimony/2005/RiceTestimony051019.pdf.
+53. See Lewis Sorley, A Better War: The Unexamined Victories and the Final Tragedy of America’s Last
+Years in Vietnam (New York: Harcourt, 1999). This thesis is not without controversy. See Matt
+Steinglass, “Vietnam and Victory,” Boston Globe, December 18, 2005.
+                               The Strategies of Terrorism 69
+
+
+
+
+wants to harm them. However, certain state agents, such as prosecutors of or-
+ganized crime, are more accustomed to danger, and procedures have been de-
+veloped to protect them. These procedures should be applied to election
+workers, rural ofªcials and police, community activists, and any individual
+who plays a visible role in the support and functioning of the embattled
+government.
+  When the terrorist goal is social control, the best response is strengthening
+law enforcement. This may require more resources to enable the government
+to effectively investigate and prosecute crimes. More controversial, it may
+mean using national agencies such as the Federal Bureau of Investigation to
+bypass local ofªcials who are sympathetic to the terrorist group and investi-
+gating law enforcement agencies to purge such sympathizers if they obstruct
+justice. The state can also offer additional protection to potential targets and
+increase penalties for violence against them. For instance, the 1994 federal
+Freedom of Access to Clinic Entrances Act, passed in the wake of the 1993 kill-
+ing of a doctor at an abortion clinic in Florida, prohibits any violence designed
+to prevent people from entering such clinics.
+
+provocation: lighting the fuse
+A provocation strategy is often used in pursuit of regime change and territorial
+change, the most popular goals of the FTOs listed by the State Department. It
+is designed to persuade the domestic audience that the target of attacks is evil
+and untrustworthy and must be vigorously resisted.
+   Terrorist organizations seeking to replace a regime face a signiªcant chal-
+lenge: they are usually much more hostile to the regime than a majority of the
+state’s citizens. Al-Qaida may wish to topple the House of Saud, but if a major-
+ity of citizens do not support this goal, al-Qaida is unlikely to achieve it. Simi-
+larly, if most Tamils are satisªed living in a united Sri Lanka, the Tamil Tigers’
+drive for independence will fail. To succeed, therefore, a terrorist organization
+must ªrst convince moderate citizens that their government needs to be re-
+placed or that independence from the central government is the only accept-
+able outcome.
+   Provocation helps shift citizen support away from the incumbent regime. In
+a provocation strategy, terrorists seek to goad the target government into a
+military response that harms civilians within the terrorist organization’s home
+territory.54 The aim is to convince them that the government is so evil that the
+
+
+54. Fromkin, “The Strategy of Terrorism.”
+                                International Security 31:1 70
+
+
+
+
+radical goals of the terrorists are justiªed and support for their organization is
+warranted.55 This is what the Basque Fatherland and Liberty group (ETA)
+sought to do in Spain. For years, Madrid responded to ETA attacks with re-
+pressive measures against the Basque community, mobilizing many of its
+members against the government even if they did not condone those attacks.
+As one expert on this conºict writes, “Nothing radicalizes a people faster than
+the unleashing of undisciplined security forces on its towns and villages.”56
+   David Lake argues that moderates are radicalized because government at-
+tacks provide important information about the type of leadership in power
+and its willingness to negotiate with more moderate elements.57 Ethan Bueno
+de Mesquita and Eric Dickson develop this idea and show that if the govern-
+ment has the ability to carry out a discriminating response to terrorism but
+chooses an undiscriminating one, it reveals itself to be unconcerned with the
+welfare of the country’s citizens. Provocation, therefore, is a way for terrorists
+to force an enemy government to reveal information about itself that then
+helps the organization recruit additional members.58
+   conditions favorable to provocation. Constraints on retaliation and
+regime type are again important in determining when provocation is success-
+ful. For provocation to work, the government must be capable of middling lev-
+els of brutality. A government willing and able to commit genocide makes a
+bad target for provocation, as the response will destroy the constituency the
+terrorists represent. At the opposite pole, a government so committed to hu-
+man rights and the rule of law that it is incapable of inºicting indiscriminate
+punishment also makes a bad target, because it cannot be provoked. Such a
+government might be an attractive target for an attrition strategy if it is not
+very good at stopping attacks, but provocation will be ineffective.
+   What explains why a government would choose a less discriminating
+counterstrategy over a more precise one? In some instances, a large-scale mili-
+tary response will enhance the security of a country rather than detract from it.
+If the target government is able to eliminate the leadership of a terrorist orga-
+
+
+55. Crenshaw, “The Causes of Terrorism,” p. 387; and Price, “The Strategy and Tactics of Revolu-
+tionary Terrorism,” p. 58.
+56. Paddy Woodworth, “Why Do They Kill? The Basque Conºict in Spain,” World Policy Journal,
+Vol. 18, No. 1 (Spring 2001), p. 7.
+57. David A. Lake, “Rational Extremism: Understanding Terrorism in the Twenty-ªrst Century,”
+Dialog-IO, Vol. 56, No. 2 (Spring 2002), pp. 15–29.
+58. Ethan Bueno de Mesquita and Eric S. Dickson, “The Propaganda of the Deed: Terrorism,
+Counterterrorism, and Mobilization,” Washington University and New York University, 2005.
+Bueno de Mesquita and Dickson also argue that government violence lowers economic prosperity,
+which favors extremists in their competition with moderates.
+                                 The Strategies of Terrorism 71
+
+
+
+
+nization and its operatives, terrorism is likely to cease or be greatly reduced
+even if collateral damage radicalizes moderates to some extent. A large-scale
+military response may also enhance the security of a country, despite radicaliz-
+ing some moderates, if it deters additional attacks from other terrorist groups
+that may be considering a war of attrition. Target governments may calculate
+that the negative consequences of a provocation strategy are acceptable under
+these conditions.
+   Domestic political considerations are also likely to inºuence the type of re-
+sponse that the leadership of a target state chooses. Democracies may be more
+susceptible to provocation than nondemocracies. Populations that have suf-
+fered from terrorist violence will naturally want their government to take ac-
+tion to stop terrorism. Unfortunately, many of the more discriminating tools of
+counterterrorism, such as inªltrating terrorist cells, sharing intelligence with
+other countries, and arresting individuals, are not visible to the publics these
+actions serve to protect. Bueno de Mesquita has argued that democratic lead-
+ers may have to employ the more public and less discriminating counterterror
+strategies to prove that their government is taking sufªcient action against ter-
+rorists, even if these steps are provocative.59 Pressure for a provocative coun-
+terresponse may also be particularly acute for more hard-line administrations
+whose constituents may demand greater action.60 Counterstrategies, therefore,
+are inºuenced in part by the political system from which they emerge.
+   The United States in September 2001 was ripe for provocation, and al-Qaida
+appears to have understood this. The new administration of George W. Bush
+was known to be hawkish in its foreign policy and in its attitude toward the
+use of military power. In a November 2004 videotape, bin Laden bragged that
+al-Qaida found it “easy for us to provoke this administration.”61 The strategy
+appears to be working. A 2004 Pew survey found that international trust in the
+United States had declined signiªcantly in response to the invasion of Iraq.62
+Similarly, a 2004 report by the International Institute for Strategic Studies
+found that al-Qaida’s recruitment and fundraising efforts had been given a
+
+59. Ethan Bueno de Mesquita, “Politics and the Suboptimal Provision of Counterterror,” Interna-
+tional Organization (forthcoming).
+60. On the other hand, more dovish regimes might feel political pressure to take strong visible
+actions, whereas a regime with hawkish credentials could credibly claim that it was pursuing ef-
+fective but nonvisible tactics. For a similar logic, see Kenneth A. Schultz, “The Politics of Risking
+Peace: Do Hawks or Doves Deliver the Olive Branch?” International Organization, Vol. 59, No. 1
+(Winter 2005), pp. 1–38.
+61. Bin Laden, Messages to the World, pp. 241–242.
+62. Pew Research Center for the People and the Press, Pew Global Attitudes Project: Nine-Nation
+Survey, “A Year after the Iraq War: Mistrust of America in Europe Ever Higher, Muslim Anger Per-
+sists,” March 16, 2004.
+                                  International Security 31:1 72
+
+
+
+
+major boost by the U.S. invasion of Iraq.63 In the words of Shibley Telhami,
+“What we’re seeing now is a disturbing sympathy with al-Qaida coupled with
+resentment toward the United States.”64 The Bush administration’s eagerness
+to overthrow Saddam Hussein, a desire that predated the September 11 at-
+tacks, has, in the words of bin Laden, “contributed to these remarkable results
+for al-Qaida.”65
+   best responses to provocation. The best response to provocation is a dis-
+criminating strategy that inºicts as little collateral damage as possible. Coun-
+tries should seek out and destroy the terrorists and their immediate backers to
+reduce the likelihood of future terror attacks, but they must carefully isolate
+these targets from the general population, which may or may not be sympa-
+thetic to the terrorists.66 This type of discriminating response will require supe-
+rior intelligence capabilities. In this regard, the United States’ efforts to invest
+in information-gathering abilities in response to September 11 have been un-
+derwhelming. Even the most basic steps, such as developing a deeper pool of
+expertise in the regional languages, have been slow in coming.67 This stands in
+contrast to U.S. behavior during the Cold War, when the government spon-
+sored research centers at top universities to analyze every aspect of the Soviet
+economic, military, and political system. The weakness of the U.S. intelligence
+apparatus has been most clearly revealed in the inability of the United States
+to eliminate bin Laden and al-Zawahiri, and in the United States’ decision to
+invade Iraq.68 Faulty U.S. intelligence has simultaneously protected al-Qaida
+leaders from death and led to the destruction of thousands of Muslim
+civilians—exactly the response al-Qaida was likely seeking.
+
+spoiling: sabotaging the peace
+The goal of a spoiling strategy is to ensure that peace overtures between mod-
+erate leaders on the terrorists’ side and the target government do not suc-
+
+
+63. See International Institute for Strategic Studies, Strategic Survey, 2003/4: An Evaluation and Fore-
+cast of World Affairs (London: Routledge, 2005).
+64. Quoted in Dafna Linzer, “Poll Shows Growing Arab Rancor at U.S.,” Washington Post, July 23,
+2004.
+65. Bob Woodward, Plan of Attack (New York: Simon and Schuster, 2004), pp. 21–23; and bin
+Laden, Messages to the World, pp. 241–242.
+66. A program of economic and social assistance to these more moderate elements would provide
+counterevidence that the target is not malicious or evil as the terrorist organizations had claimed.
+67. Farah Stockman, “Tomorrow’s Homework: Reading, Writing, and Arabic,” Boston Globe, Janu-
+ary 6, 2006.
+68. For an analysis of obstacles to innovation in U.S. intelligence agencies, see Amy B. Zegart,
+“September 11 and the Adaptation Failure of U.S. Intelligence Agencies,” International Security,
+Vol. 29, No. 4 (Spring 2005), pp. 78–111.
+                                The Strategies of Terrorism 73
+
+
+
+
+ceed.69 It works by playing on the mistrust between these two groups and
+succeeds when one or both parties fail to sign or implement a settlement. It is
+often employed when the ultimate objective is territorial change.
+   Terrorists resort to a spoiling strategy when relations between two enemies
+are improving and a peace agreement threatens the terrorists’ more far-reach-
+ing goals. Peace agreements alarm terrorists because they understand that
+moderate citizens are less likely to support ongoing violence once a compro-
+mise agreement between more moderate groups has been reached. Thus,
+Iranian radicals kidnapped ªfty-two Americans in Tehran in 1979 not because
+relations between the United States and Iran were becoming more belliger-
+ent, but because three days earlier Iran’s relatively moderate prime minis-
+ter, Mehdi Bazargan, met with the U.S. national security adviser, Zbigniew
+Brzezinski, and the two were photographed shaking hands. From the perspec-
+tive of the radicals, a real danger of reconciliation existed between the two
+countries, and violence was used to prevent this.70 A similar problem has ham-
+pered Arab-Israeli peace negotiations, as well as talks between Protestants and
+Catholics in Northern Ireland.
+   A spoiling strategy works by persuading the enemy that moderates on the
+terrorists’ side cannot be trusted to abide by a peace deal. Whenever two sides
+negotiate a peace agreement, there is uncertainty about whether the deal is
+self-enforcing. Each side fears that even if it honors its commitments, the other
+side may not, catapulting it back to war on disadvantageous terms. Some
+Israelis, for example, feared that if Israel returned an additional 13 percent of
+the West Bank to the Palestinians, as mandated by the 1998 Wye accord, the
+Palestinian Authority would relaunch its struggle from an improved territorial
+base. Extremists understand that moderates look for signs that their former en-
+emy will violate an agreement and that targeting these moderates with vio-
+lence will heighten their fears that they will be exploited. Thus terrorist attacks
+are designed to persuade a targeted group that the seemingly moderate oppo-
+sition with whom it negotiated an agreement will not or cannot stop terrorism,
+and hence cannot be trusted to honor an agreement.
+   Terrorist acts are particularly effective during peace negotiations because
+opposing parties are naturally distrustful of each other’s motives and have
+limited sources of information about each other’s intentions. Thus, even if
+moderate leaders are willing to aggressively suppress extremists on their side,
+
+
+69. Stephen John Stedman, “Spoiler Problems in Peace Processes,” International Security, Vol. 22,
+No. 2 (Fall 1997), pp. 5–53.
+70. Lewis, “The Revolt of Islam,” p. 54.
+                                International Security 31:1 74
+
+
+
+
+terrorists know that isolated violence might still convince the target to reject
+the deal. A reason for this is that the targeted group may not be able to readily
+observe the extent of the crackdown and must base its judgments primarily on
+whether terrorism occurs or not. Even a sincere effort at self-policing, there-
+fore, will not necessarily convince the targeted group to proceed with a settle-
+ment if a terrorist attack occurs.
+   conditions favorable to spoiling. Terrorists pursuing a spoiling strategy
+are likely to be more successful when the enemy perceives moderates on their
+side to be strong and therefore more capable of halting terrorism.71 When an
+attack occurs, the target cannot be sure whether moderates on the other side
+can suppress their own extremists but choose not to, or are weak and lack the
+ability to stop them. Israelis, for example, frequently questioned whether
+Yasser Arafat was simply unable to stop terrorist attacks against Israel or was
+unwilling to do so. The weaker the moderates are perceived to be, the less im-
+pact a terrorist attack will have on the other side’s trust, and the less likely
+such an attack is to convince them to abandon a peace agreement.
+   The Israeli-Palestinian conºict, and in particular the Oslo peace process, has
+been plagued by spoilers. On the Palestinian side, Hamas’s violent attacks co-
+incided with the ratiªcation and implementation of accords—occasions when
+increased mistrust could thwart progress toward peace. Hamas also stepped
+up its attacks prior to Israeli elections in 1996 and 2001, in which Labor was the
+incumbent party, in an effort to persuade Israeli voters to cast their votes for
+the less cooperative and less trusting hard-line Likud Party.72 Terrorism was
+especially effective after Arafat’s 1996 electoral victory, when it became clear to
+the Israelis that Arafat was, at the time, a popular and powerful leader within
+the Palestinian community.73 This in turn suggested to the Israelis that Arafat
+was capable of cracking down aggressively on terrorist violence but was un-
+willing to do so, a sign that he could not be trusted to keep the peace.
+   best responses to spoiling. When mutual trust is high, a peace settlement
+can be implemented despite ongoing terrorist acts and the potential vulnera-
+bilities the agreement can create. Trust, however, is rarely high after long
+conºicts, which is why spoilers can strike with a reasonable chance that their
+
+
+71. Andrew Kydd and Barbara F. Walter, “Sabotaging the Peace: The Politics of Extremist Vio-
+lence,” International Organization, Vol. 56, No. 2 (Spring 2002), pp. 263–296.
+72. Claude Berrebi and Esteban F. Klor, “On Terrorism and Electoral Outcomes: Theory and Evi-
+dence from the Israeli-Palestinian Conºict,” Princeton University and Hebrew University of Jeru-
+salem, 2004.
+73. Kydd and Walter, “Sabotaging the Peace,” pp. 279–289.
+                                  The Strategies of Terrorism 75
+
+
+
+
+attack will be successful. Strategies that build trust and reduce vulnerability
+are, therefore, the best response to spoiling.
+   Vulnerabilities emerge in peace processes in two ways. Symmetric vulnera-
+bilities occur during the implementation of a deal because both sides must
+lower their guard. The Israelis, for example, have had to relax controls over the
+occupied territories, and the Palestinians were obligated to disarm militant
+groups. Such symmetric vulnerabilities can be eased by third-party monitor-
+ing and veriªcation of the peace implementation process. Monitoring can help
+reduce uncertainty regarding the behavior of the parties. Even better, third-
+party enforcement of the deal can make reneging more costly, increasing
+conªdence in the deal and its ultimate success.74
+   Vulnerabilities can also be longer term and asymmetric. In any peace deal
+between Israel and the Palestinians, the ability of the Palestinians to harm
+Israel will inevitably grow as Palestinians build their own state and acquire
+greater military capabilities. This change in the balance of power can make it
+difªcult for the side that will see an increase in its power to credibly commit
+not to take advantage of this increase later on. This commitment problem can
+cause conºicts to be prolonged even though there are possible peace agree-
+ments that both sides would prefer to war.75
+   The problem of shifting power can be addressed in at least three ways. First,
+agreements themselves can be crafted in ways that limit the post-treaty shift in
+power. Power-sharing agreements such as that between the Liberals and
+Conservatives to create a single shared presidency in Colombia in 1957 are one
+example of this. Allowing the defeated side to retain some military capa-
+bilities, as Confederate ofªcers were allowed to do after the surrender at
+Appomattox, is another example.76 Second, peace settlements can require the
+side about to be advantaged to send a costly signal of its honorable intentions,
+such as providing constitutional protections of minority rights. An example is
+the Constitutional Law on National Minorities passed in Croatia in 2002,
+
+74. Barbara F. Walter, Committing to Peace: The Successful Settlement of Civil Wars (Princeton, N.J.:
+Princeton University Press, 2002); and Holger Schmidt, “When (and Why) Do Brokers Have To Be
+Honest? Impartiality and Third-Party Support for Peace Implementation after Civil Wars, 1945–
+1999,” Georgetown University, 2004.
+75. Fearon, “Rationalist Explanations for War”; James D. Fearon, “Commitment Problems and the
+Spread of Ethnic Conºict,” in David A. Lake and Donald Rothchild, eds., The International Spread of
+Ethnic Conºict: Fear, Diffusion, and Escalation (Princeton, N.J.: Princeton University Press, 1998); and
+Robert Powell, “The Inefªcient Use of Power: Costly Conºict with Complete Information,” Ameri-
+can Political Science Review, Vol. 98, No. 2 (May 2004), pp. 231–241.
+76. As part of the terms of surrender, Confederate ofªcers were allowed to keep their sidearms
+and personal property (including their horses) and return home.
+                               International Security 31:1 76
+
+
+
+
+which protects the right of minorities to obtain an education in their own lan-
+guage. Finally, parties can credibly commit to an agreement by participating in
+international institutions that insist on the protection of minority rights. A gov-
+ernment that is willing to join the European Union effectively constrains itself
+from exploiting a minority group because of the high costs to that government
+of being ejected from the group.
+
+outbidding: zealots versus sellouts
+Outbidding arises when two key conditions hold: two or more domestic par-
+ties are competing for leadership of their side, and the general population is
+uncertain about which of the groups best represents their interests.77 The com-
+petition between Hamas and Fatah is a classic case where two groups vie for
+the support of the Palestinian citizens and where the average Palestinian is un-
+certain about which side he or she ought to back.
+   If citizens had full information about the preferences of the competing
+groups, an outbidding strategy would be unnecessary and ineffective; citizens
+would simply support the group that best aligned with their own interests. In
+reality, however, citizens cannot be sure if the group competing for power
+truly represents their preferences. The group could be a strong and resolute
+defender of the cause (zealots) or weak and ineffective stooges of the enemy
+(sellouts). If citizens support zealots, they get a strong champion but with
+some risk that they will be dragged into a confrontation with the enemy that
+they end up losing. If citizens support sellouts, they get peace but at the price
+of accepting a worse outcome than might have been achieved with additional
+armed struggle. Groups competing for power have an incentive to signal that
+they are zealots rather than sellouts. Terrorist attacks can serve this function by
+signaling that a group has the will to continue the armed struggle despite its
+costs.
+   Three reasons help to explain why groups are likely to be rewarded for be-
+ing more militant rather than less. First, in bargaining contexts, it is often use-
+ful to be represented by an agent who is more hard-line than oneself. Hard-line
+agents will reject deals that one would accept, which will force the adversary
+
+
+77. For the most extensive treatment of terrorism and outbidding, see Mia Bloom, Dying to Kill:
+The Allure of Suicide Terrorism (New York: Columbia University Press, 2005). See also Stuart J.
+Kaufman, “Spiraling to Ethnic War: Elites, Masses, and Moscow in Moldova’s Civil War,” Interna-
+tional Security, Vol. 21, No. 2 (Fall 1996), pp. 108–138.
+                                 The Strategies of Terrorism 77
+
+
+
+
+to make a better offer than one would get by representing oneself in the negoti-
+ations.78 Palestinians might therefore prefer Hamas as a negotiating agent with
+Israel because it has a reputation for resolve and will reject inferior deals.
+   Second, uncertainty may also exist about the type of adversary the popula-
+tion and its competing groups are facing. If the population believes there is
+some chance that their adversary is untrustworthy (unwilling to compromise
+under any condition), then they know that conºict may be inevitable, in which
+case being represented by zealots may be advantageous.79
+   A third factor that may favor outbidding is that ofªce-holding itself may
+produce incentives to sell out. Here, the problem lies with the beneªts groups
+receive once in ofªce (i.e., income and power). Citizens fear that their leaders,
+once in ofªce, may betray important principles and decide to settle with the
+enemy on unfavorable terms. They know that holding ofªce skews one’s pref-
+erences toward selling out, but they remain unsure about which of their lead-
+ers is most likely to give in. Terrorist organizations exploit this uncertainty by
+using violence to signal their commitment to a cause. Being perceived as more
+extreme than the median voter works to the terrorists’ beneªt because it bal-
+ances out the “tempering effect” of being in ofªce.
+   An interesting aspect of the outbidding strategy is that the enemy is only
+tangentially related to the strategic interaction. In fact, an attack motivated by
+outbidding may not even be designed to achieve any goal related to the en-
+emy, such as inducing a concession or scuttling a peace treaty. The process is
+almost entirely concerned with the signal it sends to domestic audiences un-
+certain about their own leadership and its commitment to a cause. As such,
+outbidding provides a potential explanation for terrorist attacks that continue
+even when they seem unable to produce any real results.
+   conditions favorable to outbidding. Outbidding will be favored when
+multiple groups are competing for the allegiance of a similar demographic
+base of support. In Peru, the 1970s saw the development of a number of leftist
+groups seeking to represent the poor and indigenous population. When the
+military turned over power to an elected government in 1980, the Shining Path
+took up an armed struggle to distinguish itself from groups that chose to pur-
+
+78. Abhinay Muthoo, Bargaining Theory with Applications (Cambridge: Cambridge University
+Press, 1999), p. 230.
+79. Rui J.P. de Figueiredo Jr. and Barry R. Weingast, “The Rationality of Fear: Political Opportun-
+ism and Ethnic Conºict,” in Barbara F. Walter and Jack Snyder, eds., Civil Wars, Insecurity, and In-
+tervention (New York: Columbia University Press, 1999), pp. 261–302.
+                                International Security 31:1 78
+
+
+
+
+sue electoral politics.80 It also embarked on an assassination campaign de-
+signed to weaken rival leftist groups and intimidate their followers. When
+organizations encounter less competition for the support of their main constit-
+uents, outbidding will be less appealing.
+   best responses to outbidding. One solution to the problem of outbidding
+would be to eliminate the struggle for power by encouraging competing
+groups to consolidate into a uniªed opposition. If competition among resis-
+tance groups is eliminated, the incentive for outbidding also disappears. The
+downside of this counterstrategy is that a uniªed opposition may be stronger
+than a divided one. United oppositions, however, can make peace and deliver,
+whereas divided ones may face greater structural disincentives to do so.
+   An alternative strategy for the government to pursue in the face of outbid-
+ding is to validate the strategy chosen by nonviolent groups by granting them
+concessions and attempting to satisfy the demands of their constituents. If out-
+bidding can be shown to yield poor results in comparison to playing within
+the system, groups may be persuaded to abandon the strategy. As in the case
+of the Shining Path, this may require providing physical protection to com-
+peting groups in case the outbidder turns to intimidation in its competition
+with less violent rivals. In general, any steps that can be taken to make the
+non-outbidding groups seem successful (e.g., channeling resources and gov-
+ernment services to their constituents) will also help undermine the outbid-
+ders. The high turnout in the December 2005 Iraqi election in Sunni-dominated
+regions may indicate that outbidding is beginning to fail in the communities
+most strongly opposed to the new political system.81
+
+
+Conclusion
+
+Terrorist violence is a form of costly signaling by which terrorists attempt to
+inºuence the beliefs of their enemy and the population they represent or wish
+to control. They use violence to signal their strength and resolve in an effort to
+produce concessions from their enemy and obedience and support from their
+followers. They also attack both to sow mistrust between moderates who
+
+80. James Ron, “Ideology in Context: Explaining Sendero Luminoso’s Tactical Escalation,” Journal
+of Peace Research, Vol. 38, No. 5 (September 2001), p. 582.
+81. Dexter Filkins, “Iraqis, Including Sunnis, Vote in Large Numbers on Calm Day,” New York
+Times, December 16, 2005.
+                           The Strategies of Terrorism 79
+
+
+
+
+might want to make peace and to provoke a reaction that makes the enemy ap-
+pear barbarous and untrustworthy.
+   In this article, we have laid out the ªve main goals terrorist organizations
+seek and the ªve most important terrorist strategies, and we have outlined
+when they are likely to be tried and what the best counterstrategies might look
+like. What becomes clear in this brief analysis is that a deeper study of each of
+the ªve strategies is needed to reveal the nuanced ways in which terrorism
+works, and to reªne responses to it. We conclude by highlighting two variables
+that will be important in any such analysis, and by a ªnal reºection on coun-
+terterror policies that are strategically independent or not predicated on the
+speciªc strategy being used.
+   The ªrst variable is information. It has long been a truism that the central
+front in counterinsurgency warfare is the information front. The same is true in
+terrorism. Costly signaling is pointless in the absence of uncertainty on the
+part of the recipient of the signal. Attrition is designed to convince the target
+that the costs of maintaining a policy are not worth the gains; if the target al-
+ready knew this, it would have ceded the issue without an attack being
+launched. Provocation is designed to goad the target into retaliating indiscrim-
+inately (because it lacks information to discriminate), which will persuade the
+population that the target is malevolent (because it is uncertain of the target’s
+intentions). The other strategies are similarly predicated on uncertainty, intelli-
+gence, learning, and communication. Thus, it bears emphasizing that the prob-
+lem of terrorism is not a problem of applying force per se, but one of acquiring
+intelligence and affecting beliefs. With the right information, the proper appli-
+cation of force is comparatively straightforward. The struggle against terror-
+ism is, therefore, not usefully guided by the metaphor of a “war on terrorism”
+any more than policies designed to alleviate poverty are usefully guided by
+the metaphor of a “war on poverty” or narcotics policy by a “war on drugs.”
+The struggle against terrorism can more usefully be thought of as a struggle to
+collect and disseminate reliable information in environments fraught with
+uncertainty.
+   The second important variable is regime type. Democracies have been the
+sole targets of attritional suicide bombing campaigns, whereas authoritarian
+regimes such as those in Algeria routinely face campaigns by rebel groups pur-
+suing an intimidation strategy. Democracies also seem to be more susceptible
+to attrition and provocation strategies. This type of variation cries out for
+deeper analysis of the strengths and weakness of different regime types in the
+                            International Security 31:1 80
+
+
+
+
+face of different terrorist strategies. Our analysis suggests that democracies are
+more likely to be sensitive to the costs of terrorist attacks, to grant concessions
+to terrorists so as to limit future attacks, to be constrained in their ability to
+pursue a lengthy attritional campaign against an organization, but also to be
+under greater pressure to “do something.” This does not mean that all democ-
+racies will behave incorrectly in the face of terrorist attacks all the time. Demo-
+cratic regimes may possess certain structural features, however, that make
+them attractive targets for terrorism.
+   Finally, we realize that our discussion is only a beginning and that further
+elaboration of each of the strategies and their corresponding counterstrategies
+awaits future research. We also understand that not all counterterrorism poli-
+cies are predicated on the speciªc strategy terrorists pursue. Our analysis is at
+the middling level of strategic interaction. At the tactical level are all the tools
+of intelligence gathering and target defense that make sense no matter what
+the terrorist’s strategy is. At the higher level are the primary sources of terror-
+ism such as poverty, education, international conºict, and chauvinistic indoc-
+trination that enable terrorist organizations to operate and survive in the ªrst
+place. Our aim in this article has been to try to understand why these organiza-
+tions choose certain forms of violence, and how this violence serves their
+larger purposes. The United States has the ability to reduce the likelihood of
+additional attacks on its territory and citizens. But it will be much more suc-
+cessful if it ªrst understands the goals terrorists are seeking and the underly-
+ing strategic logic by which a plane ºying into a skyscraper might deliver the
+desired response.
+

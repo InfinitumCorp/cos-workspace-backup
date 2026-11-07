@@ -1,0 +1,31 @@
+# William Aaron Turner Publishes Analysis of Russia's Economy Under Sanctions
+
+**Summary:** A research article by Infinitum Corporation founder William Aaron Turner reviews official GDP forecasts, shipping and trade data, and Western funding figures for the war in Ukraine.
+
+**Dateline:** WASHINGTON, DC, November 2, 2026
+
+William Aaron Turner, founder and president of Infinitum Corporation, has published "Russia's Economy Under Sanctions: GDP, Aid, Stalemate," Part 2 of his research series The Ukraine Files. The article brings together official forecasts, trade and shipping data, and published estimates on the course of the war.
+
+What the article reviews
+
+- Forecasts: the European Commission's revision of its 2026 Russian GDP growth forecast from 1.1 to 1.3 percent, and the Russian Ministry of Economic Development's outlook of 0.4 percent for 2026 and 1.4 percent for 2027.
+- Shipping and trade: EU sanctions on 632 vessels by May 2026 and the shift of Russian trade toward China, India and other Asian buyers.
+- Costs to Europe: the EU's own assessment that macroeconomic imbalances have widened.
+- The course of the war: territorial-change figures and published casualty estimates from the Institute for the Study of War and CSIS.
+- Western funding: German support since 2022, NATO and EU funding proposals, and differences among member states.
+
+The article presents its conclusion as the author's argument, notes that the mainstream view differs, and closes with a reference list organized by theme so readers can review the sources directly.
+
+"I wanted one place where the forecasts, the trade data and the funding figures sit side by side, each with its source." said William Aaron Turner, Founder & President, Infinitum Corporation.
+
+**Read the original:** https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html (Ukrainian Files blog)
+
+## About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+**Media contact:** William Aaron Turner, Infinitum Corporation, 202-729-9509, info@theinfinitumcorporation.com
+
+---
+Image: /workspace/press/pr-campaign-2026-11/rewrites/img/russias-economy-under-sanctions.jpg (neutral Infinitum cover, no watermark)
+Keywords: Russia economy, sanctions, GDP forecast, European Commission, trade, research, William Aaron Turner, Infinitum Corporation
+Replaces removed PressLiftoff URL: https://pressliftoff.com/press-release/russias-economy-under-sanctions-william-aaron-turner-reviews-gdp-forecasts-trade-shifts-an (410)

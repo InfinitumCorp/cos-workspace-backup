@@ -1,0 +1,9 @@
+EXACT URL: https://dev.to/enter (free account, Create Post)
+GUIDELINES: https://dev.to/guidelines-for-ai-assisted-articles-on-dev
+NO account has been created. Log any login in the vault.
+
+Post: "Dead Reckoning: AI for Security Operations at Mid-Size Organizations (summary)".
+Body: the whitepaper's executive summary from /workspace/whitepapers/01-ai-for-security-operations.md (section "Executive summary"), then link to https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html and https://doi.org/10.5281/zenodo.23836365.
+Front matter: canonical_url: https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html ; tags: security, ai, devops, career
+AI disclosure: set to "some AI" (assisted) per DEV guidelines.
+Do NOT use the Academia Technical Note (under journal review).

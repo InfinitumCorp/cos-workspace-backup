@@ -1,0 +1,20 @@
+# Website title and meta description copy (theinfinitumcorporation.com)
+
+Counts are computed (title <= 60 chars so Google rarely truncates; description <= 160). Apply in the site builder (needs CTO TechBot / William login). Page paths are from the live sitemap.xml (fetched 2026-10-26). Current live title on every page ends with 'IT Consultant in Washington, D.C.'; current descriptions lead with 'Searching for IT Consultancy in Washington, D.C.?'.
+
+| Page | Path | Title | chars | Meta description | chars |
+|---|---|---|---|---|---|
+| Home | `/` | Cybersecurity Consulting in Washington, DC | Infinitum | 54 | Infinitum Corporation: cybersecurity, ethical hacking, network defense and defense technology advisory. HQ Washington, DC. Mon–Fri 9–9. 202-729-9509. | 151 |
+| About | `/about-us/private-intelligence-and-security-consultant-6343230` | About Infinitum Corporation | Washington, DC Security Firm | 58 | Washington, DC security and technology consulting firm led by founder William Aaron Turner. Cybersecurity, risk and defense technology advisory. Mon–Fri 9–9. | 159 |
+| Our services | `/about-us/our-services-6343231` | Security and IT Consulting Services | Infinitum Corp | 52 | Cybersecurity consulting, network defense, ethical hacking, AI for security operations and strategic risk assessment from Washington, DC. Mon–Fri 9–9. | 152 |
+| Experts in IT | `/about-us/experts-in-it-6343232` | IT and Security Experts, Washington, DC | Infinitum | 51 | Meet the IT and security experts at Infinitum Corporation: network defense, vulnerability assessment and secure systems for government and business. | 148 |
+| IT consulting | `/services/consulting-services/information-technology-consulting-150186338` | IT Consulting in Washington, DC | Infinitum Corporation | 55 | IT consulting for government and business from Washington, DC: systems design, secure architecture and AI-assisted operations. Call 202-729-9509. | 145 |
+| Security consulting | `/services/consulting-services/security-consulting-150186339` | Security Consulting in Washington, DC | Infinitum Corp | 54 | Security consulting from Washington, DC: risk assessment, network defense and secure systems for government and business. Mon–Fri 9–9. 202-729-9509. | 150 |
+| Ethical hacking | `/services/consulting-services/ethical-hacking-150186341` | Ethical Hacking and Pen Testing, Washington DC | Infinitum | 58 | Ethical hacking and vulnerability assessment: we find your system's failure points and report how to fix them. Washington, DC. Mon–Fri 9–9. | 141 |
+| Computer engineering | `/services/consulting-services/computer-engineering-150186340` | Computer Engineering Consulting | Infinitum Corporation | 55 | One-to-one computer engineering consulting: we define your challenges and build achievable plans. Washington, DC. Mon–Fri 9–9. 202-729-9509. | 142 |
+| Reviews | `/reviews` | Client Reviews | Infinitum Corporation, Washington, DC | 54 | Read client reviews of Infinitum Corporation, a Washington, DC cybersecurity and technology consulting firm. Mon–Fri 9–9. Call 202-729-9509. | 142 |
+| Booking | `/booking` | Book a Security Consultation | Infinitum Corporation | 52 | Book a consultation with Infinitum Corporation in Washington, DC. Cybersecurity, IT and defense technology advisory. Mon–Fri 9–9. 202-729-9509. | 145 |
+
+Leave the other builder pages (commercial construction, facility management, logistics, healthcare IT, procurement, advanced surveillance, policies) for a second pass: the wording of 'advanced surveillance' should be reviewed by William before it is optimized (directories note: avoid weapons/surveillance-heavy wording on listings).
+
+Home H1 currently 'INFINITUM CORPORATION'; H2 'A Washington, D.C. Based Private Intelligence and Security Contractor, Powered by AI.' Suggested H1: 'Infinitum Corporation: Cybersecurity and Technology Consulting in Washington, DC'. Add one visible line in the footer: '1629 K Street NW, Suite 300, Washington, DC 20006 | 202-729-9509 | Mon–Fri 9 AM–9 PM, Sat–Sun closed | info@theinfinitumcorporation.com' plus links to Telegram, X, Discord.

@@ -1,0 +1,35 @@
+Disclosures
+
+Manuscript: Adversary-aware evaluation of large language model assistants for security alert triage (Technical Note, Academia AI and Applications)
+
+Author: William Aaron Turner, President, Infinitum Corporation, Washington, DC, USA (info@theinfinitumcorporation.com)
+
+1. Conflict of interest
+
+W.A.T. is the President of Infinitum Corporation, a security consulting firm. Infinitum Corporation did not sponsor or fund this work. The author declares no other financial or personal competing interests.
+
+2. Funding
+
+This research received no external funding. Infinitum Corporation did not sponsor or fund this work.
+
+3. Data availability statement
+
+No new data was created or analyzed in this study. Data sharing is not applicable to this article.
+
+4. Use of AI tools
+
+Approach section (Section 2): AI-based writing tools were used during preparation to assist with drafting and editing the text. Every cited source was checked against its publisher, standards body, or preprint record, and the definitions, arguments, and conclusions reflect the author's own judgment. The author reviewed all content and takes full responsibility for it (see Acknowledgments).
+
+Acknowledgments, AI use: The author acknowledges the use of AI-based writing tools for language editing, as well as for drafting assistance as declared in the Approach section. These tools were applied to enhance clarity and scholarly tone, and all drafted and edited text was carefully reviewed and validated by the author to ensure accuracy, compliance with academic standards, and research integrity. The author takes full responsibility for all content of this manuscript. The author fully supports Academia.edu Journals’ adherence to COPE guidelines on AI in publication ethics and confirms that this use has been managed responsibly and ethically.
+
+5. Author contributions (CRediT; sole author)
+
+Conceptualization, W.A.T.; methodology, W.A.T.; investigation, W.A.T.; writing—original draft preparation, W.A.T.; writing—review and editing, W.A.T.; visualization, W.A.T.; project administration, W.A.T. The author has read and agreed to the published version of the manuscript.
+
+6. Institutional review board and informed consent
+
+Not applicable. This study did not involve human or animal participants, human data, or identifiable information.
+
+7. Originality and submission status
+
+The manuscript is original, has not been published elsewhere in whole or in part, and is not under consideration by another journal. The author has approved the manuscript and its submission. It contains no reused third-party figures or tables and can be published under a CC BY 4.0 license.

@@ -1,0 +1,26 @@
+Corporate Cognitive Warfare, édition augmentée : William Aaron Turner publie une étude de 15 000 mots sur la compétition loyale pour la perception
+
+Infinitum Corporation publie l'édition augmentée de « Corporate Cognitive Warfare », la discipline conçue par William Aaron Turner, désormais disponible gratuitement sur Academia.edu et Zenodo.
+
+WASHINGTON, DC, 2 novembre 2026 – Infinitum Corporation annonce aujourd'hui la parution de l'édition augmentée de « Corporate Cognitive Warfare: Irregular Warfare for Market Supremacy », un livre blanc gratuit signé William Aaron Turner, fondateur et président d'Infinitum Corporation, à l'origine du terme Corporate Cognitive Warfare (« guerre cognitive d'entreprise »).
+
+Cette édition porte le texte original à environ 15 000 mots sur 38 pages. Elle conserve les définitions d'origine et le cadre en six phases – Comprendre, Façonner, Semer, Amplifier, Exploiter et Protéger – et y ajoute quatre nouveaux volets destinés aux dirigeants, aux communicants et aux responsables de la sécurité.
+
+Premièrement, un socle doctrinal neutre. Le livre blanc passe en revue les travaux publiés sur la théorie russe du contrôle réflexif, les opérations chinoises dans le domaine cognitif et les « trois guerres », ainsi que les travaux de l'OTAN sur la guerre cognitive. Il s'appuie sur des sources du Foreign Military Studies Office, de la Naval Postgraduate School, de la RAND Corporation, du China Aerospace Studies Institute et du département de la Défense des États-Unis. Chaque tradition est présentée de manière analytique, avec les réserves formulées par ses propres analystes.
+
+Deuxièmement, des applications détaillées en entreprise. Le marketing de guérilla, la psychologie éthique de la persuasion, l'optimisation algorithmique, l'influence sociale et la publicité ciblée sont chacun replacés dans le cadre réglementaire qui les encadre : règles de la FTC sur les recommandations, RGPD, règlement européen sur les services numériques (DSA), CCPA/CPRA et politiques des plateformes.
+
+Troisièmement, douze cas d'usage illustratifs, de la marque challenger qui redéfinit sa catégorie à la riposte face à une fausse information virale, en passant par la défense contre une attaque de faux avis, la réponse à un hypertrucage (deepfake) visant un dirigeant et le maintien de la visibilité dans les réponses générées par l'IA.
+
+Quatrièmement, un guide défensif : une taxonomie des menaces, le vocabulaire commun DISARM, la veille narrative, la pré-réfutation (prebunking), une hygiène décisionnelle face aux provocations, des niveaux de réponse gradués et des exercices réguliers.
+
+Le livre blanc trace une ligne nette : faux comptes, réseaux de bots, astroturfing, faux avis et désinformation y sont traités uniquement comme des menaces à détecter et à neutraliser, jamais comme des outils.
+
+Le livre blanc est publié sous licence Creative Commons Attribution 4.0, avec le DOI 10.5281/zenodo.23838097.
+
+Lire et télécharger :
+Zenodo (DOI 10.5281/zenodo.23838097) : https://zenodo.org/records/23838097
+Academia.edu : https://www.academia.edu/179983771/Corporate_Cognitive_Warfare_Irregular_Warfare_for_Market_Supremacy_Whitepaper_Expanded_Edition_
+Blog des livres blancs : https://infinitumwhitepapers.blogspot.com/
+
+« Toute entreprise est en concurrence sur deux marchés : celui de ses produits et celui de la perception. J'ai forgé le terme Corporate Cognitive Warfare pour désigner la discipline qui consiste à concourir loyalement sur ce second marché, et à le défendre. Un principe guide l'ensemble : gagner par la vérité, la transparence et de meilleurs arguments », a déclaré William Aaron Turner, fondateur et président d'Infinitum Corporation.

@@ -1,0 +1,47 @@
+# Maryland Matters (commentary) (US-DC #20)
+
+| Field | Value |
+|---|---|
+| Method | email |
+| To / URL | info@marylandmatters.org (subject must be "commentary") |
+| Piece | Trenches and Drones (Whitepaper 02) |
+| Type | op-ed (EXCLUSIVE) |
+| Angle | Maryland: Fort Meade/NSA/CYBERCOM state; counties, schools and hospitals under attrition pressure |
+| Image | HEADSHOT REQUIRED - none on file (only logos); BLOCKER |
+| Limit | <=750 |
+| Word count (body) | 665 |
+| Status | ready (blocked: see note) - NOT SENT |
+
+**Subject / headline:** commentary: Maryland's cyber defenders are fighting a war of attrition. They should plan like it.
+
+---
+
+# Maryland's cyber defenders are fighting a war of attrition. They should plan like it.
+
+Maryland likes to call itself a cybersecurity capital, and with reason. Fort Meade is home to the National Security Agency and U.S. Cyber Command, and the state's universities and contractors train and employ thousands of defenders. But the organizations most Marylanders depend on every day, county governments, school systems, hospitals, utilities and the mid-size businesses that employ most of the workforce, do not have the NSA's budget. They face the same attackers anyway.
+
+What those organizations face is not one big battle. It is a long grind of small, cheap and constant pressure: scanning that never stops, phishing that arrives in waves, short floods of junk traffic and internet-facing devices left waiting weeks for a patch. Each incident is minor. Together they wear defenders down. The side that can absorb losses, repair, adapt and keep operating is the side that lasts.
+
+Military analysts have a word for that kind of contest: attrition. Public analysis of modern conflict, from groups such as the Center for Strategic and International Studies, describes a battlefield that fuses trench-style grind with cheap drones, electronic interference and sensors everywhere. Nobody is shooting at a county's servers, and the comparison has limits. But the lessons translate surprisingly well to network defense, and they point to five fronts Maryland's public and private organizations should plan around.
+
+Depth. Attackers will get through the first line. The question is what stops them at the second and third. That means segmenting networks and checking identity at every step, keeping the zone of implicit trust as small as possible, as the federal government's own zero-trust guidance, NIST SP 800-207, recommends.
+
+Cheap mass. Attacks are cheap and automated. Defense has to be, too. Routine tasks such as patching, account reviews and alert triage should be automated wherever possible, so that the cost of defending stays below the cost of attacking.
+
+Resilience. Signals can be spoofed and degraded. Systems should be designed to keep working when a single sensor, vendor or connection fails, and staff should know how to operate in a degraded mode.
+
+Sensors. You cannot defend what you cannot see. Logging and detection are not luxuries for big companies; they are what makes every other investment measurable.
+
+Supply lines. Many of the worst incidents of recent years arrived through a trusted vendor or a software update. Every organization should know which suppliers can touch its systems and what happens if one is compromised.
+
+None of this is exotic, and much of it is cheap. What is missing is the mindset. Too many organizations still plan for a single catastrophic breach rather than for sustained pressure, and budget accordingly: a big purchase after an incident, then neglect.
+
+The state can help without new mandates. Maryland already funds cybersecurity support for local governments and has a deep talent pool. A practical next step would be a shared, plain-language baseline for counties and school districts built around those five fronts, with a 30/60/90-day plan and a simple self-assessment that boards and county councils can actually read. Small and mid-size businesses could use the same tool through the state's business-assistance programs.
+
+Equally important is honesty about limits. No organization can stop every intrusion. The realistic goal is to absorb hits, recover quickly and keep serving residents and customers. That is a goal elected officials can fund and measure, and one that residents can understand.
+
+Attrition is the right word for what Maryland's defenders face. The question is not whether they will be hit. It is whether they can absorb it, repair and keep operating, and every lesson comes back to decisions an organization can make on Monday morning.
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).

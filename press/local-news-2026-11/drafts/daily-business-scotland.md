@@ -1,0 +1,34 @@
+# Daily Business (Scotland) (UK #13)
+
+| Field | Value |
+|---|---|
+| Method | email |
+| To / URL | dailybusiness@hme.global |
+| Piece | Corporate Cognitive Warfare (Expanded Edition) |
+| Type | press release |
+| Angle | Scottish/UK firms: deepfake & fake-review defence (weak Scottish tie) |
+| Image | /workspace/press/local-news-2026-11/img/ccw-expanded.jpg |
+| Limit | ~420 |
+| Word count (body) | 394 |
+| Status | ready - NOT SENT |
+
+**Subject / headline:** Free Playbook Gives Scottish and UK Firms a Defence Against Deepfakes and Fake-Review Attacks
+
+---
+
+# Free Playbook Gives Scottish and UK Firms a Defence Against Deepfakes and Fake-Review Attacks
+
+WASHINGTON, DC, 3 November 2026 - Scottish and UK businesses exposed to deepfake fraud, impersonation and fake-review campaigns can draw on the expanded edition of "Corporate Cognitive Warfare," a free paper by William Aaron Turner, Founder & President of Infinitum Corporation, which sets out a lawful playbook relevant to firms working under UK GDPR and the UK's ban on fake reviews.
+
+The expanded edition runs to about 15,000 words across 38 pages. It keeps the original six-phase framework of Understand, Shape, Seed, Amplify, Exploit and Protect and adds four bodies of material: a neutral review of published research on Russian reflexive control, Chinese cognitive domain operations and NATO's work on cognitive warfare, drawing on RAND, the Naval Postgraduate School and the Foreign Military Studies Office; corporate applications placed inside the rules that govern them, including FTC endorsement rules, GDPR, the EU Digital Services Act and CCPA/CPRA; twelve illustrative use cases, from countering a viral falsehood to responding to an executive deepfake; and a defensive playbook built on narrative sensing, prebunking, response tiers and regular exercises.
+
+The paper draws a firm line. Fake accounts, bot networks, astroturfing, fabricated reviews and disinformation are treated only as threats to detect and defeat, never as tools.
+
+"Every company competes in two markets: the one for its products and the one for perception. I coined the term Corporate Cognitive Warfare for the discipline of competing in that second market lawfully, and defending it. One principle runs through all of it: win with truth, disclosure and better arguments," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+The paper is free under a Creative Commons Attribution 4.0 license: https://zenodo.org/records/23838097 (DOI 10.5281/zenodo.23838097).
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, Washington, DC. Phone +1 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM (US Eastern).

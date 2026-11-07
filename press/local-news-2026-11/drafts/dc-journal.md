@@ -1,0 +1,47 @@
+# InsideSources / DC Journal (US-DC #1)
+
+| Field | Value |
+|---|---|
+| Method | email |
+| To / URL | michael@insidesources.com (page: https://dcjournal.com/submit-an-op-ed/) |
+| Piece | Dead Reckoning (Whitepaper 01) |
+| Type | op-ed (EXCLUSIVE) |
+| Angle | DC founder on federal/agency AI adoption in security ops |
+| Image | none (images not stated; offer cover on request) |
+| Limit | 600-800 |
+| Word count (body) | 703 |
+| Status | ready - NOT SENT |
+
+**Subject / headline:** Op-ed submission (exclusive): AI in the security operations center needs a navigator's discipline
+
+---
+
+# AI in the security operations center needs a navigator's discipline
+
+When satellite signals fail, a navigator does not guess. He fixes his position from what he can verify: last known position, heading, speed, time and, wherever possible, a second source. Sailors call it dead reckoning. Security teams rushing to adopt artificial intelligence need the same habit, because a confident answer from an AI tool is not the same as a correct one.
+
+The pressure to adopt is real. According to Verizon's 2026 Data Breach Investigations Report, exploiting vulnerabilities is now the top way into a breach, at 31% of cases, up from 20%. IBM and the Ponemon Institute report that the mean time to identify and contain a breach rose to 247 days. Defenders are outnumbered by alerts and short on staff, and AI tools promise to triage, summarize and respond faster than any analyst.
+
+Some of that promise is borne out. IBM's research found that organizations using security AI and automation extensively averaged $4.00 million per breach, against $5.93 million for those using none. But that is an association, not a guarantee. Organizations that invest heavily in automation tend to invest heavily in everything else, too. The figure tells us AI can be part of a mature program. It does not tell us that buying a tool makes a program mature.
+
+The risk is that security teams treat AI output the way an inexperienced navigator treats a GPS fix: as truth. Modern networks are noisy, contested environments. Logs are incomplete, attackers deliberately mimic normal behavior and models trained on yesterday's traffic drift as the environment changes. An AI that was right last quarter can be quietly wrong this quarter, and nobody notices until an incident review.
+
+The answer is not to avoid AI. It is to govern it the way we govern any other critical system, in three stages.
+
+Govern first. Before a pilot, decide who owns the tool, what decisions it may make on its own and what data it may touch. Write that down.
+
+Measure a baseline. If you don't know your current detection rate, false-positive rate and time to respond, you cannot tell whether a new tool helped. Most teams skip this step because it is tedious. It is the step that makes everything else meaningful.
+
+Pilot with analysts in the loop. Let the tool recommend, and let people decide, until the evidence shows where it can be trusted to act alone. Then expand only what proves itself, over a realistic horizon of a year rather than a quarter.
+
+The final step is the one most organizations miss: a recurring check. Every quarter, compare the tool's results against the baseline and against an independent source for every critical signal. If an AI triage system says an alert is benign, how often does a second method agree? If the answer is drifting, you want to know before an attacker does.
+
+This is not only a private-sector problem. Federal agencies and contractors are adopting AI in security operations under the same pressures, and policymakers are writing guidance as they go. The simplest, most durable rule they could adopt is the navigator's rule: trust no single signal. Any AI system that informs a security decision should be measured against a baseline and checked against an independent source on a fixed schedule, with the results available to the people accountable for the system.
+
+Vendors will object that their tools are already validated. Perhaps. But validation in a vendor's lab is not validation on your network, this quarter, against the attackers you face. Navigators did not abandon the compass when they got satellites. The best ones kept both and checked one against the other.
+
+Security leaders should do the same. Govern first, measure a baseline, keep analysts in the loop and keep an independent check on every critical signal. And don't take anyone's word for the numbers, including mine. Read the sources.
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).

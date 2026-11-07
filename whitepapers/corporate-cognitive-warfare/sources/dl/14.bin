@@ -1,0 +1,1079 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1734385-15"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+	</script>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PDVVHXRDE6"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-PDVVHXRDE6');
+	</script>
+
+	<meta charset="utf-8" />
+	<meta name="version" content="v11.0.3" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="https://www.law.cornell.edu/sites/www.law.cornell.edu/files/favicon_0.ico"
+		type="image/vnd.microsoft.icon" />
+	<link rel="canonical" href="https://www.law.cornell.edu/uscode/text/15/1125">
+
+	<meta property="og:site_name" content="LII / Legal Information Institute" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.law.cornell.edu/uscode/text/15/1125" />
+	<meta property="og:title" content="15 U.S. Code &sect; 1125 - False designations of origin, false descriptions, and dilution forbidden" />
+	<meta property="og:image" content="https://www.law.cornell.edu/images/liibracketlogo.gif" />
+	
+	<meta name="twitter:card" content="US Code - Title 15 > CHAPTER 22 > SUBCHAPTER III > § 1125" />
+	<meta name="twitter:site" content="@LIICornell" />
+	<meta name="twitter:url" content="https://www.law.cornell.edu/uscode/text/15/1125" />
+	<meta name="twitter:title" content="15 U.S. Code &sect; 1125 - False designations of origin, false descriptions, and dilution forbidden" />
+	<meta name="twitter:image" content="https://www.law.cornell.edu/images/liibracketlogo.gif" />
+	<meta name="dcterms.title" content="15 U.S. Code &sect; 1125 - False designations of origin, false descriptions, and dilution forbidden" />
+
+
+	<title>15 U.S. Code &sect; 1125 - False designations of origin, false descriptions, and dilution forbidden | U.S. Code | US Law | LII / Legal Information Institute</title>
+	
+
+	<!-- schema.org metadata -->
+	<script type="application/ld+json">
+		{"@context": "http://schema.org", "@graph": [{"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@id": "https://www.law.cornell.edu", "name": "LII"}}, {"@type": "ListItem", "position": 2, "item": {"@id": "https://www.law.cornell.edu/uscode/text", "name": "U.S. Code"}}, {"@type": "ListItem", "position": 3, "item": {"@id": "https://www.law.cornell.edu/uscode/text/15", "name": "Title 15"}}, {"@type": "ListItem", "position": 4, "item": {"@id": "https://www.law.cornell.edu/uscode/text/15/chapter-22", "name": "CHAPTER 22"}}, {"@type": "ListItem", "position": 5, "item": {"@id": "https://www.law.cornell.edu/uscode/text/15/chapter-22/subchapter-III", "name": "SUBCHAPTER III"}}, {"@type": "ListItem", "position": 6, "item": {"@id": "https://www.law.cornell.edu/uscode/text/15/1125", "name": "\u00a7\u202f1125"}}]}, {"@type": "WebSite", "url": "https://www.law.cornell.edu/uscode/text/15/1125", "name": "\u00a7\u202f1125", "author": {"@type": "Organization", "name": "Office of the Law Revision Counsel", "url": "http://uscode.house.gov/about_office.xhtml"}, "description": "US Code - Title 15 > CHAPTER 22 > SUBCHAPTER III > \u00a7\u202f1125", "publisher": {"@type": "Organization", "name": "LII / Legal Information Institute", "url": "https://www.law.cornell.edu"}}]}
+	</script>
+	<!-- /schema.org -->
+
+	<!-- API url -->
+	<script>
+		SEARCH_URL = 'https://api.law.cornell.edu/lii/search';
+	</script>
+
+	<script src="/js/jquery-3.6.1.min.js"></script>
+	<script src="/js/js.cookie.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="/fonts/open-sans.css">
+
+	
+	<link rel="stylesheet" type="text/css" href="/staticsite_styles/lii_stylenator_v48.min.css" />
+	 
+
+	
+
+	<!-- include adcode -->
+	<script type='text/javascript'>
+		!function (a) { var b = /iPhone/i, c = /iPod/i, d = /iPad/i, e = /(?=.*\bAndroid\b)(?=.*\bMobile\b)/i, f = /Android/i, g = /(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i, h = /(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i, i = /IEMobile/i, j = /(?=.*\bWindows\b)(?=.*\bARM\b)/i, k = /BlackBerry/i, l = /BB10/i, m = /Opera Mini/i, n = /(CriOS|Chrome)(?=.*\bMobile\b)/i, o = /(?=.*\bFirefox\b)(?=.*\bMobile\b)/i, p = new RegExp('(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)', 'i'), q = function (a, b) { return a.test(b) }, r = function (a) { var r = a || navigator.userAgent, s = r.split('[FBAN'); return 'undefined' != typeof s[1] && (r = s[0]), s = r.split('Twitter'), 'undefined' != typeof s[1] && (r = s[0]), this.apple = { phone: q(b, r), ipod: q(c, r), tablet: !q(b, r) && q(d, r), device: q(b, r) || q(c, r) || q(d, r) }, this.amazon = { phone: q(g, r), tablet: !q(g, r) && q(h, r), device: q(g, r) || q(h, r) }, this.android = { phone: q(g, r) || q(e, r), tablet: !q(g, r) && !q(e, r) && (q(h, r) || q(f, r)), device: q(g, r) || q(h, r) || q(e, r) || q(f, r) }, this.windows = { phone: q(i, r), tablet: q(j, r), device: q(i, r) || q(j, r) }, this.other = { blackberry: q(k, r), blackberry10: q(l, r), opera: q(m, r), firefox: q(o, r), chrome: q(n, r), device: q(k, r) || q(l, r) || q(m, r) || q(o, r) || q(n, r) }, this.seven_inch = q(p, r), this.any = this.apple.device || this.android.device || this.windows.device || this.other.device || this.seven_inch, this.phone = this.apple.phone || this.android.phone || this.windows.phone, this.tablet = this.apple.tablet || this.android.tablet || this.windows.tablet, 'undefined' == typeof window ? this : void 0 }, s = function () { var a = new r; return a.Class = r, a }; 'undefined' != typeof module && module.exports && 'undefined' == typeof window ? module.exports = r : 'undefined' != typeof module && module.exports && 'undefined' != typeof window ? module.exports = s() : 'function' == typeof define && define.amd ? define('isMobile', [], a.isMobile = s()) : a.isMobile = s() }(this);
+	</script>
+
+	<!-- mobile: vignettes and page-level -->
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'>
+	</script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: 'ca-pub-6351434937294517',
+			enable_page_level_ads: true,
+
+		});
+	</script>
+
+	<!-- adsense -->
+	<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function () {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+	<script type='text/javascript'>
+		function makeDefs() {
+			var width = window.innerWidth || document.documentElement.clientWidth;
+			if (width >= 1200) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[728,90]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 992) && (width < 1199)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 768) && (width < 992)) {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+			else if ((width >= 576) && (width < 768)) {
+				var topsize = '[180,150]';
+				var midsize = '[[1,1],[180,150]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[180,15]]';
+			}
+			else if ((width >= 360) && (width < 576)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[300,250],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+
+			var topdefp1 = 'googletag.defineSlot(';
+			var topdefp2 = "'/1519273/USC_ROC_TopRight_300x250', ".concat(topsize, ',');
+			var topdef = topdefp1.concat(topdefp2, '\'', 'div-gpt-ad-top', '\'', ').addService(googletag.pubads());   ');
+
+			var middefp1 = 'googletag.defineSlot(';
+			var middefp2 = "'/1519273/USC_ROC_MidRight_300x250', ".concat(midsize, ',');
+			var middef = middefp1.concat(middefp2, '\'', 'div-gpt-ad-middle', '\'', ').addService(googletag.pubads());   ');
+
+			var bottomdefp1 = 'googletag.defineSlot(';
+			var bottomdefp2 = "'/1519273/USC_ROC_Footer_728x90', ".concat(bottomsize, ',');
+			var bottomdef = bottomdefp1.concat(bottomdefp2, '\'', 'div-gpt-ad-bottom', '\'', ').addService(googletag.pubads());   ');
+
+			var sponsorcaptiondefp1 = 'googletag.defineSlot(';
+			var sponsorcaptiondefp2 = "'/1519273/USC_ROC_SponsorCaption', ".concat(sponsorcaptionsize, ',');
+			var sponsorcaptiondef = sponsorcaptiondefp1.concat(sponsorcaptiondefp2, '\'', 'div-gpt-ad-sponsorcaption', '\'', ').addService(googletag.pubads());   ');
+
+			var defs = topdef + middef + bottomdef + sponsorcaptiondef
+			return defs;
+
+		};
+
+
+
+		googletag.cmd.push(function () {
+			{
+				mydefs = makeDefs();
+				eval(mydefs);
+			};
+
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+			//-->
+	</script>
+	<!-- /adsense -->
+	<!-- /include adcode -->
+
+</head>
+
+
+
+<body>
+	
+
+	
+<div id="liisurveymodal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="liisurveymodal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+                <div class="modal-title-box">Please help us improve our site!</div>	
+            <div class="modal-header">
+                <button type="button" class="close" onclick="snooze_survey()" data-dismiss="modal">&times;</button>
+            </div>			
+            <div class="modal-body">	  
+                <iframe title="Survey Frame" class="survey-content" id="iframeHolder"></iframe>
+            </div>		
+            <div class="modal-footer">
+                <a href="#" class="btn btn-primary" class="close" data-dismiss="modal" onclick="snooze_survey()">No thank you</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+	<header id="conannav" class="navbar navbar-fixed-top active">
+		<a href="#content" class="skip">Skip to main content</a>
+
+		<div id="cu-identity">
+			<div class="container-fluid">
+				<a href="https://www.cornell.edu" id="insignialink" title="Cornell University">
+					<img class="img-responsive"
+						src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif"
+						alt="Cornell University insignia" />
+				</a>
+				<a href="https://www.lawschool.cornell.edu/" id="clslink" title="Cornell Law School">Cornell Law
+					School</a>
+				<a href="https://www.cornell.edu/search/" id="cusearch" title="Search Cornell University">Search
+					Cornell</a>
+			</div>
+		</div>
+
+		<div id="lii-identity" class="col-12 identity-header">
+			<div id="liiheader" class="container-fluid">
+				<nav id="liiallnav" class="navbar" aria-label="Main">
+					<div id="liibanner" class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#liinav"
+							href="#liinav">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<div id="liilogodiv">
+							<a id="liilogo" class="navbar-brand" href="/" aria-label="lii logo"></a>
+						</div>
+						<div class="navbar-right" id="liinavbarstuff">
+							
+							<button id="survey" class="btn btn-primary icon-pencil icon-white"
+								style="display: none; margin-bottom: 10px; margin-top:-20px; height: 42px">Please help
+								us improve our site!</button>
+
+							<div id="liidonatewrap">
+								<a id="liidonate" class="navbar-link mdblueinv" href="/donate"
+									aria-label="Donate to LII">
+									<span class="glyphicon glyphicon-gift"></span>
+									<span class="gltxt">Support Us!</span>
+								</a>
+							</div>
+
+							<div id="liisearchlinkwrap">
+								<a id="liisearchlink" href="#" class="navbar-link cured" aria-label="Search LII">
+									<span class="glyphicon glyphicon-search"></span>
+									<span class="gltxt">Search</span>
+								</a>
+							</div>
+
+							<div id="liisearch" href="#">
+								<div class="input-group" id="adv-search" role="search">
+									<input label="Enter the terms you wish to search for." placeholder="Search"
+										class="form-control form-text" type="text" id="edit-keys" name="keys" value=""
+										list="autocomplete_list" aria-label="Enter search terms text box">
+									<datalist id="autocomplete_list">
+									</datalist>
+									<div class="input-group-btn">
+										<div class="btn-group" role="group" aria-label="Filter and search buttons">
+											<button type="button" class="btn btn-primary" onclick="findNowClickEvent()"
+												aria-label="Find now"><span class="glyphicon glyphicon-search"
+													aria-hidden="true" role="button"></span></button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="liinav" class="collapse navbar-collapse">
+							<ul id="liiheadernav" class="nav navbar-nav" role="menubar" aria-hidden="false">
+								<li role="menuitem" aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/about/about_lii" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">About
+										LII</a>
+									<ul role="menu" aria-hidden="true" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a href="/lii/about/who_we_are">Who We Are</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/what_we_do">What We Do</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/who_pays_for_this">Who Pays For This</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/about/contact_us">Contact Us</a>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem" aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/get_the_law" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Get the
+										law</a>
+									<ul role="menu" aria-hidden="true" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a title="U.S. Constitution" href="/constitution">Constitution</a>
+										</li>
+										<li role="menuitem">
+											<a title="Supreme Court" href="/supremecourt/text/home">Supreme Court</a>
+										</li>
+										<li role="menuitem">
+											<a title="U.S. Code" href="/uscode/text">U.S. Code</a>
+										</li>
+										<li role="menuitem">
+											<a title="C.F.R." href="/cfr/text">CFR</a>
+										</li>
+										<li role="menuitem" aria-haspopup="true"
+											class="menu-item dropdown dropdown-submenu">
+											<a title="Federal Rules" href="/rules" class="dropdown-toggle"
+												data-toggle="dropdown" aria-expanded="false">Federal Rules</a>
+											<ul role="menu" aria-hidden="true" class="dropdown-menu submenu-menu">
+												<li role="menuitem">
+													<a href="/rules/frap">Federal Rules of Appellate Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frcp">Federal Rules of Civil Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frcrmp">Federal Rules of Criminal Procedure</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/fre">Federal Rules of Evidence</a>
+												</li>
+												<li role="menuitem">
+													<a href="/rules/frbp">Federal Rules of Bankruptcy Procedure</a>
+												</li>
+											</ul>
+										</li>
+										<li role="menuitem">
+											<a title="U.C.C." href="/ucc">U.C.C.</a>
+										</li>
+										<li aria-haspopup="true" class="menu-item dropdown dropdown-submenu">
+											<a title="Law by jurisdiction" href="#" class="dropdown-toggle"
+												data-toggle="dropdown" aria-expanded="false">Law by jurisdiction</a>
+											<ul role="menu" class="dropdown-menu submenu-menu">
+												<li role="menuitem">
+													<a href="/states">State law</a>
+												</li>
+												<li role="menuitem">
+													<a href="/uniform">Uniform laws</a>
+												</li>
+												<li role="menuitem">
+													<a href="/federal">Federal law</a>
+												</li>
+												<li role="menuitem">
+													<a href="/world">World law</a>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem">
+									<a href="https://lawyers.law.cornell.edu/">Lawyer directory</a>
+								</li>
+								<li role="menuitem" class="menu-item dropdown dropdown-submenu">
+									<a href="/wex" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Legal encyclopedia</a>
+									<ul role="menu" class="dropdown-menu sub-menu">
+										<li role="menuitem">
+											<a href="/wex/category/business_law">Business law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/constitutional_law">Constitutional law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/criminal_law_and_procedure">Criminal law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/family_law">Family law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/employment_law">Employment law</a>
+										</li>
+										<li role="menuitem">
+											<a href="/wex/category/money_and_financial_problems">Money and Finances</a>
+										</li>
+
+										<li role="menuitem">
+											<a href="/wex/wex_articles">More...</a>
+										</li>
+									</ul>
+								</li>
+								<li role="menuitem" class="menu-item dropdown dropdown-submenu">
+									<a href="/lii/help_out" class="dropdown-toggle" data-toggle="dropdown"
+										aria-expanded="false">Help out</a>
+									<ul role="menu" class="dropdown-menu sub-menu">
+										<li role="menuitem" aria-hidden="true">
+											<a href="/donate">Give</a>
+										</li>
+										<li role="menuitem" aria-hidden="true">
+											<a href="/lii/help_out/sponsor">Sponsor</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/advertise">Advertise</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/create">Create</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/promote">Promote</a>
+										</li>
+										<li role="menuitem">
+											<a href="/lii/help_out/join_directory">Join Lawyer Directory</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+							<ul id="liinavsoc" class="nav navbar-nav navbar-right">
+								<li>
+									
+									<div class="addthis_horizontal_follow_toolbox"></div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					
+				</nav>
+			</div>
+		</div>
+		
+		
+	</header>
+	<br><br>
+	
+	<div id="breadcrumb" class="container-fluid">
+		<div class="row">
+			<div class="navbar-header">
+				<nav aria-label="breadcrumb" class="bc-icons-2">
+					<ol class="breadcrumb">
+						
+						
+						
+						<li class="breadcrumb-item"><a href="/">LII</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item" aria-label="U.S. Code table of contents"><a
+								href="/uscode/text">U.S. Code</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item"><a href="/uscode/text/15">Title 15</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item"><a href="/uscode/text/15/chapter-22">CHAPTER 22</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item"><a href="/uscode/text/15/chapter-22/subchapter-III">SUBCHAPTER III</a></li>
+						
+						 
+						
+						<li class="breadcrumb-item breadcrumb-last">§ 1125</li>
+						
+						 
+					</ol>
+				</nav>
+			</div>
+		</div>
+	</div>
+	
+
+	<main id="main" class="container-fluid">
+		<div id="content" class="col-sm-8">
+			<div class="pagewrapper">
+				<div class="container-fluid">
+					<div class="row">
+						
+						<div title="Definitions Frame"></div>
+						
+<small id="titleHelp" class="form-text">Quick search by citation:</small>
+<form class="form-inline">
+    <div class="form-group mb-2">
+        <label for="titleinput">Title</label>
+        <input type="number" name="quicksearch" class="form-control" id="titleinput" aria-describedby="titleHelp" placeholder="enter title"
+            title="US Code Title number" type="number" value="">
+    </div>
+    <div class="form-group mx-sm-3 mb-2">
+        <label for="sectioninput">Section</label>
+        <input type="text" name="quicksearch" class="form-control" id="sectioninput" pattern="[A-Za-z0-9]+" placeholder="section"
+            title="US Code Section number" value="">
+    </div>
+    <button id="RedirectUSC" type="submit" class="btn btn-primary">Go!</button>
+</form>
+
+						
+						
+						<h1 class="title" id="page_title"> 15 U.S. Code § 1125 - False designations of origin, false descriptions, and dilution forbidden </h1>
+<div class="tabbable-panel">
+<div class="tabbable-line">
+<ul class="nav nav-tabs">
+<li class="active">
+<a data-toggle="tab" href="#tab_default_1">
+                        U.S. Code </a>
+</li>
+<li>
+<a data-toggle="tab" href="#tab_default_2">
+                        Notes </a>
+</li>
+<li>
+<a data-toggle="tab" href="#tab_default_3">
+                    			
+                        Authorities (CFR)
+                     
+                </a>
+</li>
+</ul>
+<div class="tab-content">
+<div id="prevnext">
+<a href="/uscode/text/15/1124" title=" Importation of goods bearing infringing marks or names forbidden">prev</a> | <a href="/uscode/text/15/1126" title=" International conventions">next</a>
+</div>
+<div class="tab-pane active" id="tab_default_1">
+<!-- 'text' content area -->
+<text><div class="text">
+<div class="section">
+<div class="subsection indent2 firstIndent-2"><a name="a"></a><span class="num bold" value="a">(a)</span><span class="heading bold"> Civil action</span>
+<div class="paragraph indent0"><a name="a_1"></a><span class="num" value="1">(1)</span><span class="chapeau"> <a aria-label="Definitions - Any person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1068185591-1168934806&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">Any person</a> who, on or in connection with any goods or services, or any container for goods,<a aria-label="Definitions -  uses " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> uses </a>in<a aria-label="Definitions -  commerce " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-602412325-1913738695&amp;term_occur=999&amp;term_src="> commerce </a>any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—</span>
+<div class="subparagraph indent1"><a name="a_1_A"></a><span class="num" value="A">(A)</span>
+<div class="content"> is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> with another <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>, or</div>
+</div>
+<div class="subparagraph indent1"><a name="a_1_B"></a><span class="num" value="B">(B)</span>
+<div class="content"> in commercial advertising or promotion, misrepresents the nature, characteristics, qualities, or geographic origin of his or her or another <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>’s goods, services, or commercial activities,</div>
+</div>
+<div class="continuation indent0 firstIndent0">shall be liable in a civil action by <a aria-label="Definitions - any person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1068185591-1168934806&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">any person</a> who believes that he or she is or is likely to be damaged by such act.</div>
+</div>
+<div class="paragraph indent0"><a name="a_2"></a><span class="num" value="2">(2)</span>
+<div class="content"> As used in this subsection, the term “<a aria-label="Definitions - any person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1068185591-1168934806&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">any person</a>” includes any State, instrumentality of a State or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.</div>
+</div>
+<div class="paragraph indent0"><a name="a_3"></a><span class="num" value="3">(3)</span>
+<div class="content"> In a civil action for trade dress infringement under this chapter for trade dress not registered on the principal register, the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> who asserts trade dress protection has the burden of proving that the matter sought to be protected is not functional.</div>
+</div>
+</div>
+<div class="subsection indent2 firstIndent-2"><a name="b"></a><span class="num bold" value="b">(b)</span><span class="heading bold"> Importation</span>
+<div class="content">
+<p>Any goods marked or labeled in contravention of the provisions of this section shall not be imported into the United States or admitted to entry at any customhouse of the United States. The owner, importer, or consignee of goods refused entry at any customhouse under this section may have any recourse by protest or appeal that is given under the customs revenue laws or may have the remedy given by this chapter in cases involving goods refused entry or seized.</p>
+</div>
+</div>
+<div class="subsection indent2 firstIndent-2"><a name="c"></a><span class="num bold" value="c">(c)</span><span class="heading bold"> Dilution by blurring; dilution by tarnishment</span>
+<div class="paragraph indent3 firstIndent-2"><a name="c_1"></a><span class="num bold" value="1">(1)</span><span class="heading bold"> Injunctive relief</span>
+<div class="content">
+<p>Subject to the principles of equity, the owner of a famous <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> that is distinctive, inherently or through acquired distinctiveness, shall be entitled to an injunction against another <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> who, at any time after the owner’s<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>has become famous, commences<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>of a<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>or <a aria-label="Definitions - trade name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1817294791-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trade name</a> in<a aria-label="Definitions -  commerce " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-602412325-1913738695&amp;term_occur=999&amp;term_src="> commerce </a>that is likely to cause dilution by blurring or dilution by tarnishment of the famous<a aria-label="Definitions -  mark," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark,</a> regardless of the presence or absence of actual or likely confusion, of competition, or of actual economic injury.</p>
+</div>
+</div>
+<div class="paragraph indent3 firstIndent-2"><a name="c_2"></a><span class="num bold" value="2">(2)</span><span class="heading bold"> Definitions</span>
+<div class="subparagraph indent1"><a name="c_2_A"></a><span class="num" value="A">(A)</span><span class="chapeau"> For purposes of paragraph (1), a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> is famous if it is widely recognized by the general consuming public of the United States as a designation of source of the goods or services of the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>’s owner. In determining whether a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> possesses the requisite degree of recognition, the court may consider all relevant factors, including the following:</span>
+<div class="clause indent2"><a name="c_2_A_i"></a><span class="num" value="i">(i)</span>
+<div class="content"> The duration, extent, and geographic reach of advertising and publicity of the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>, whether advertised or publicized by the owner or third parties.</div>
+</div>
+<div class="clause indent2"><a name="c_2_A_ii"></a><span class="num" value="ii">(ii)</span>
+<div class="content"> The amount, volume, and geographic extent of sales of goods or services offered under the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>.</div>
+</div>
+<div class="clause indent2"><a name="c_2_A_iii"></a><span class="num" value="iii">(iii)</span>
+<div class="content"> The extent of actual recognition of the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>.</div>
+</div>
+<div class="clause indent2"><a name="c_2_A_iv"></a><span class="num" value="iv">(iv)</span>
+<div class="content"> Whether the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> was registered under the Act of <span class="date" date="1881-03-03">March 3, 1881</span>, or the Act of <span class="date" date="1905-02-20">February 20, 1905</span>, or on the principal register.</div>
+</div>
+</div>
+<div class="subparagraph indent1"><a name="c_2_B"></a><span class="num" value="B">(B)</span><span class="chapeau"> For purposes of paragraph (1), “dilution by blurring” is association arising from the similarity between a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> or <a aria-label="Definitions - trade name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1817294791-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trade name</a> and a famous<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>that impairs the distinctiveness of the famous<a aria-label="Definitions -  mark." class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark.</a> In determining whether a<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>or <a aria-label="Definitions - trade name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1817294791-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trade name</a> is likely to cause dilution by blurring, the court may consider all relevant factors, including the following:</span>
+<div class="clause indent2"><a name="c_2_B_i"></a><span class="num" value="i">(i)</span>
+<div class="content"> The degree of similarity between the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> or <a aria-label="Definitions - trade name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1817294791-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trade name</a> and the famous<a aria-label="Definitions -  mark." class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark.</a></div>
+</div>
+<div class="clause indent2"><a name="c_2_B_ii"></a><span class="num" value="ii">(ii)</span>
+<div class="content"> The degree of inherent or acquired distinctiveness of the famous <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>.</div>
+</div>
+<div class="clause indent2"><a name="c_2_B_iii"></a><span class="num" value="iii">(iii)</span>
+<div class="content"> The extent to which the owner of the famous <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> is engaging in substantially exclusive<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>of the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>.</div>
+</div>
+<div class="clause indent2"><a name="c_2_B_iv"></a><span class="num" value="iv">(iv)</span>
+<div class="content"> The degree of recognition of the famous <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>.</div>
+</div>
+<div class="clause indent2"><a name="c_2_B_v"></a><span class="num" value="v">(v)</span>
+<div class="content"> Whether the user of the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> or <a aria-label="Definitions - trade name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1817294791-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trade name</a> intended to create an association with the famous<a aria-label="Definitions -  mark." class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark.</a></div>
+</div>
+<div class="clause indent2"><a name="c_2_B_vi"></a><span class="num" value="vi">(vi)</span>
+<div class="content"> Any actual association between the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> or <a aria-label="Definitions - trade name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1817294791-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trade name</a> and the famous<a aria-label="Definitions -  mark." class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark.</a></div>
+</div>
+</div>
+<div class="subparagraph indent1"><a name="c_2_C"></a><span class="num" value="C">(C)</span>
+<div class="content"> For purposes of paragraph (1), “dilution by tarnishment” is association arising from the similarity between a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> or <a aria-label="Definitions - trade name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1817294791-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trade name</a> and a famous<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>that harms the reputation of the famous<a aria-label="Definitions -  mark." class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark.</a></div>
+</div>
+</div>
+<div class="paragraph indent3 firstIndent-2"><a name="c_3"></a><span class="num bold" value="3">(3)</span><span class="heading bold"> Exclusions</span><span class="chapeau indent1">The following shall not be actionable as dilution by blurring or dilution by tarnishment under this subsection:</span>
+<div class="subparagraph indent2"><a name="c_3_A"></a><span class="num" value="A">(A)</span><span class="chapeau"> Any fair <a aria-label="Definitions - use" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=">use</a>, including a nominative or descriptive fair <a aria-label="Definitions - use" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=">use</a>, or facilitation of such fair <a aria-label="Definitions - use" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=">use</a>, of a famous <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> by another <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> other than as a designation of source for the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>’s own goods or services, including<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>in connection with—</span>
+<div class="clause indent3"><a name="c_3_A_i"></a><span class="num" value="i">(i)</span>
+<div class="content"> advertising or promotion that permits consumers to compare goods or services; or</div>
+</div>
+<div class="clause indent3"><a name="c_3_A_ii"></a><span class="num" value="ii">(ii)</span>
+<div class="content"> identifying and parodying, criticizing, or commenting upon the famous <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> owner or the goods or services of the famous <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> owner.</div>
+</div>
+</div>
+<div class="subparagraph indent2"><a name="c_3_B"></a><span class="num" value="B">(B)</span>
+<div class="content"> All forms of news reporting and news commentary.</div>
+</div>
+<div class="subparagraph indent2"><a name="c_3_C"></a><span class="num" value="C">(C)</span>
+<div class="content"> Any noncommercial <a aria-label="Definitions - use" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=">use</a> of a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>.</div>
+</div>
+</div>
+<div class="paragraph indent3 firstIndent-2"><a name="c_4"></a><span class="num bold" value="4">(4)</span><span class="heading bold"> Burden of proof</span><span class="chapeau indent1">In a civil action for trade dress dilution under this chapter for trade dress not registered on the principal register, the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> who asserts trade dress protection has the burden of proving that—</span>
+<div class="subparagraph indent2"><a name="c_4_A"></a><span class="num" value="A">(A)</span>
+<div class="content"> the claimed trade dress, taken as a whole, is not functional and is famous; and</div>
+</div>
+<div class="subparagraph indent2"><a name="c_4_B"></a><span class="num" value="B">(B)</span>
+<div class="content"> if the claimed trade dress includes any <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> or <a aria-label="Definitions - marks" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">marks</a> registered on the principal register, the unregistered matter, taken as a whole, is famous separate and apart from any fame of such <a aria-label="Definitions - registered marks" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-528718251-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">registered marks</a>.</div>
+</div>
+</div>
+<div class="paragraph indent3 firstIndent-2"><a name="c_5"></a><span class="num bold" value="5">(5)</span><span class="heading bold"> Additional remedies</span><span class="chapeau indent1">In an action brought under this subsection, the owner of the famous <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> shall be entitled to injunctive relief as set forth in <a href="/uscode/text/15/1116">section 1116 of this title</a>. The owner of the famous<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity if—</span>
+<div class="subparagraph indent2"><a name="c_5_A"></a><span class="num" value="A">(A)</span>
+<div class="content"> the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> or <a aria-label="Definitions - trade name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1817294791-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trade name</a> that is likely to cause dilution by blurring or dilution by tarnishment was first used in<a aria-label="Definitions -  commerce " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-602412325-1913738695&amp;term_occur=999&amp;term_src="> commerce </a>by the<a aria-label="Definitions -  person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person </a>against whom the injunction is sought after <span class="date" date="2006-10-06">October 6, 2006</span>; and</div>
+</div>
+<div class="subparagraph indent2"><a name="c_5_B"></a><span class="num" value="B">(B)</span><span class="chapeau"> in a claim arising under this subsection—</span>
+<div class="clause indent3"><a name="c_5_B_i"></a><span class="num" value="i">(i)</span>
+<div class="content"> by reason of dilution by blurring, the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> against whom the injunction is sought willfully intended to trade on the recognition of the famous<a aria-label="Definitions -  mark;" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark;</a> or</div>
+</div>
+<div class="clause indent3"><a name="c_5_B_ii"></a><span class="num" value="ii">(ii)</span>
+<div class="content"> by reason of dilution by tarnishment, the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> against whom the injunction is sought willfully intended to harm the reputation of the famous<a aria-label="Definitions -  mark." class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark.</a></div>
+</div>
+</div>
+</div>
+<div class="paragraph indent3 firstIndent-2"><a name="c_6"></a><span class="num bold" value="6">(6)</span><span class="heading bold"> Ownership of valid registration a complete bar to action</span><span class="chapeau indent1">The ownership by a <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> of a valid registration under the Act of <span class="date" date="1881-03-03">March 3, 1881</span>, or the Act of <span class="date" date="1905-02-20">February 20, 1905</span>, or on the principal register under this chapter shall be a complete bar to an action against that<a aria-label="Definitions -  person," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person,</a> with respect to that<a aria-label="Definitions -  mark," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark,</a> that—</span>
+<div class="subparagraph indent2"><a name="c_6_A"></a><span class="num" value="A">(A)</span>
+<div class="content"> is brought by another <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> under the common law or a statute of a State; and</div>
+</div>
+<div class="subparagraph indent2"><a name="c_6_B"></a><span class="num" value="B">(B)</span>
+<div class="clause indent2"><a name="c_6_B_i"></a><span class="num" value="i">(i)</span>
+<div class="content"> seeks to prevent dilution by blurring or dilution by tarnishment; or</div>
+</div>
+<div class="clause indent2"><a name="c_6_B_ii"></a><span class="num" value="ii">(ii)</span>
+<div class="content"> asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>, label, or form of advertisement.</div>
+</div>
+</div>
+</div>
+<div class="paragraph indent3 firstIndent-2"><a name="c_7"></a><span class="num bold" value="7">(7)</span><span class="heading bold"> Savings clause</span>
+<div class="content">
+<p>Nothing in this subsection shall be construed to impair, modify, or supersede the applicability of the patent laws of the United States.</p>
+</div>
+</div>
+</div>
+<div class="subsection indent2 firstIndent-2"><a name="d"></a><span class="num bold" value="d">(d)</span><span class="heading bold"> Cyberpiracy prevention</span>
+<div class="paragraph indent0"><a name="d_1"></a><span class="num" value="1">(1)</span>
+<div class="subparagraph indent0"><a name="d_1_A"></a><span class="num" value="A">(A)</span><span class="chapeau"> A <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> shall be liable in a civil action by the owner of a<a aria-label="Definitions -  mark," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark,</a> including a personal name which is protected as a<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>under this section, if, without regard to the goods or services of the parties, that <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>—</span>
+<div class="clause indent1"><a name="d_1_A_i"></a><span class="num" value="i">(i)</span>
+<div class="content"> has a bad faith intent to profit from that <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>, including a personal name which is protected as a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> under this section; and</div>
+</div>
+<div class="clause indent1"><a name="d_1_A_ii"></a><span class="num" value="ii">(ii)</span><span class="chapeau"> registers, <a aria-label="Definitions - traffics in" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1635014801-1168937688&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">traffics in</a>, or<a aria-label="Definitions -  uses " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> uses </a>a<a aria-label="Definitions -  domain name " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src="> domain name </a>that—</span>
+<div class="subclause indent2"><a name="d_1_A_ii_I"></a><span class="num" value="I">(I)</span>
+<div class="content"> in the case of a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> that is distinctive at the time of registration of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a>, is identical or confusingly similar to that<a aria-label="Definitions -  mark;" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark;</a></div>
+</div>
+<div class="subclause indent2"><a name="d_1_A_ii_II"></a><span class="num" value="II">(II)</span>
+<div class="content"> in the case of a famous <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> that is famous at the time of registration of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a>, is identical or confusingly similar to or dilutive of that<a aria-label="Definitions -  mark;" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark;</a> or</div>
+</div>
+<div class="subclause indent2"><a name="d_1_A_ii_III"></a><span class="num" value="III">(III)</span>
+<div class="content"> is a <a aria-label="Definitions - trademark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-753641009-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trademark</a>, word, or name protected by reason of <a href="/uscode/text/18/706">section 706 of title 18</a> or <a href="/uscode/text/36/220506">section 220506 of title 36</a>.</div>
+</div>
+</div>
+</div>
+<div class="subparagraph indent0"><a name="d_1_B"></a><span class="num" value="B">(B)</span>
+<div class="clause indent0"><a name="d_1_B_i"></a><span class="num" value="i">(i)</span><span class="chapeau"> In determining whether a <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> has a bad faith intent described under subparagraph (A), a court may consider factors such as, but not limited to—</span>
+<div class="subclause indent1"><a name="d_1_B_i_I"></a><span class="num" value="I">(I)</span>
+<div class="content"> the <a aria-label="Definitions - trademark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-753641009-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">trademark</a> or other intellectual property rights of the<a aria-label="Definitions -  person," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person,</a> if any, in the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a>;</div>
+</div>
+<div class="subclause indent1"><a name="d_1_B_i_II"></a><span class="num" value="II">(II)</span>
+<div class="content"> the extent to which the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> consists of the legal name of the<a aria-label="Definitions -  person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person </a>or a name that is otherwise commonly used to identify that<a aria-label="Definitions -  person;" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> person;</a></div>
+</div>
+<div class="subclause indent1"><a name="d_1_B_i_III"></a><span class="num" value="III">(III)</span>
+<div class="content"> the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>’s prior<a aria-label="Definitions -  use," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> use,</a> if any, of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> in connection with the bona fide offering of any goods or services;</div>
+</div>
+<div class="subclause indent1"><a name="d_1_B_i_IV"></a><span class="num" value="IV">(IV)</span>
+<div class="content"> the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>’s bona fide noncommercial or fair<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>of the<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>in a site accessible under the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a>;</div>
+</div>
+<div class="subclause indent1"><a name="d_1_B_i_V"></a><span class="num" value="V">(V)</span>
+<div class="content"> the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>’s intent to divert consumers from the<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>owner’s online location to a site accessible under the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> that could harm the goodwill represented by the<a aria-label="Definitions -  mark," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark,</a> either for commercial gain or with the intent to tarnish or disparage the<a aria-label="Definitions -  mark," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark,</a> by creating a likelihood of confusion as to the source, sponsorship, affiliation, or endorsement of the site;</div>
+</div>
+<div class="subclause indent1"><a name="d_1_B_i_VI"></a><span class="num" value="VI">(VI)</span>
+<div class="content"> the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>’s offer to transfer, sell, or otherwise assign the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> to the<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>owner or any third party for financial gain without having used, or having an intent to<a aria-label="Definitions -  use," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> use,</a> the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> in the bona fide offering of any goods or services, or the<a aria-label="Definitions -  person’" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> person’</a>s prior conduct indicating a pattern of such conduct;</div>
+</div>
+<div class="subclause indent1"><a name="d_1_B_i_VII"></a><span class="num" value="VII">(VII)</span>
+<div class="content"> the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>’s provision of material and misleading false contact information when applying for the registration of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a>, the<a aria-label="Definitions -  person’" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> person’</a>s intentional failure to maintain accurate contact information, or the<a aria-label="Definitions -  person’" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> person’</a>s prior conduct indicating a pattern of such conduct;</div>
+</div>
+<div class="subclause indent1"><a name="d_1_B_i_VIII"></a><span class="num" value="VIII">(VIII)</span>
+<div class="content"> the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>’s registration or acquisition of multiple <a aria-label="Definitions - domain names" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain names</a> which the<a aria-label="Definitions -  person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person </a>knows are identical or confusingly similar to<a aria-label="Definitions -  marks " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> marks </a>of others that are distinctive at the time of registration of such <a aria-label="Definitions - domain names" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain names</a>, or dilutive of famous<a aria-label="Definitions -  marks " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> marks </a>of others that are famous at the time of registration of such <a aria-label="Definitions - domain names" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain names</a>, without regard to the goods or services of the parties; and</div>
+</div>
+<div class="subclause indent1"><a name="d_1_B_i_IX"></a><span class="num" value="IX">(IX)</span>
+<div class="content"> the extent to which the <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> incorporated in the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a>’s <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registration is or is not distinctive and famous within the meaning of subsection (c).</div>
+</div>
+</div>
+<div class="clause indent0"><a name="d_1_B_ii"></a><span class="num" value="ii">(ii)</span>
+<div class="content"> Bad faith intent described under subparagraph (A) shall not be found in any case in which the court determines that the <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> believed and had reasonable grounds to believe that the<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> was a fair<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>or otherwise lawful.</div>
+</div>
+</div>
+<div class="subparagraph indent0"><a name="d_1_C"></a><span class="num" value="C">(C)</span>
+<div class="content"> In any civil action involving the registration, trafficking, or <a aria-label="Definitions - use" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=">use</a> of a <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> under this paragraph, a court may order the forfeiture or cancellation of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> or the transfer of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> to the owner of the<a aria-label="Definitions -  mark." class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark.</a></div>
+</div>
+<div class="subparagraph indent0"><a name="d_1_D"></a><span class="num" value="D">(D)</span>
+<div class="content"> A <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> shall be liable for using a <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> under subparagraph (A) only if that<a aria-label="Definitions -  person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person </a>is the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registrant or that registrant’s authorized licensee.</div>
+</div>
+<div class="subparagraph indent0"><a name="d_1_E"></a><span class="num" value="E">(E)</span>
+<div class="content"> As used in this paragraph, the term “<a aria-label="Definitions - traffics in" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1635014801-1168937688&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125">traffics in</a>” refers to transactions that include, but are not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.</div>
+</div>
+</div>
+<div class="paragraph indent0"><a name="d_2"></a><span class="num" value="2">(2)</span>
+<div class="subparagraph indent0"><a name="d_2_A"></a><span class="num" value="A">(A)</span><span class="chapeau"> The owner of a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a> may file an in rem civil action against a <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> in the judicial district in which the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registrar, <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registry, or other <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> authority that registered or assigned the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> is located if—</span>
+<div class="clause indent1"><a name="d_2_A_i"></a><span class="num" value="i">(i)</span>
+<div class="content"> the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> violates any right of the owner of a<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>registered in the Patent and<a aria-label="Definitions -  Trademark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-753641009-1913738695&amp;term_occur=999&amp;term_src="> Trademark </a>Office, or protected under subsection (a) or (c); and</div>
+</div>
+<div class="clause indent1"><a name="d_2_A_ii"></a><span class="num" value="ii">(ii)</span><span class="chapeau"> the court finds that the owner—</span>
+<div class="subclause indent2"><a name="d_2_A_ii_I"></a><span class="num" value="I">(I)</span>
+<div class="content"> is not able to obtain in personam jurisdiction over a <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> who would have been a defendant in a civil action under paragraph (1); or</div>
+</div>
+<div class="subclause indent2"><a name="d_2_A_ii_II"></a><span class="num" value="II">(II)</span><span class="chapeau"> through due diligence was not able to find a <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> who would have been a defendant in a civil action under paragraph (1) by—</span>
+<div class="item indent3"><a name="d_2_A_ii_II_aa"></a><span class="num" value="aa">(aa)</span>
+<div class="content"> sending a notice of the alleged violation and intent to proceed under this paragraph to the registrant of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> at the postal and e-mail address provided by the registrant to the registrar; and</div>
+</div>
+<div class="item indent3"><a name="d_2_A_ii_II_bb"></a><span class="num" value="bb">(bb)</span>
+<div class="content"> publishing notice of the action as the court may direct promptly after filing the action.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="subparagraph indent0"><a name="d_2_B"></a><span class="num" value="B">(B)</span>
+<div class="content"> The actions under subparagraph (A)(ii) shall constitute service of process.</div>
+</div>
+<div class="subparagraph indent0"><a name="d_2_C"></a><span class="num" value="C">(C)</span><span class="chapeau"> In an in rem action under this paragraph, a <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> shall be deemed to have its situs in the judicial district in which—</span>
+<div class="clause indent1"><a name="d_2_C_i"></a><span class="num" value="i">(i)</span>
+<div class="content"> the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registrar, registry, or other <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> authority that registered or assigned the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> is located; or</div>
+</div>
+<div class="clause indent1"><a name="d_2_C_ii"></a><span class="num" value="ii">(ii)</span>
+<div class="content"> documents sufficient to establish control and authority regarding the disposition of the registration and <a aria-label="Definitions - use" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=">use</a> of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> are deposited with the court.</div>
+</div>
+</div>
+<div class="subparagraph indent0"><a name="d_2_D"></a><span class="num" value="D">(D)</span>
+<div class="clause indent0"><a name="d_2_D_i"></a><span class="num" value="i">(i)</span><span class="chapeau"> The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> or the transfer of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> to the owner of the<a aria-label="Definitions -  mark." class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark.</a> Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a<a aria-label="Definitions -  mark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=title:15:chapter:22:subchapter:III:section:1125"> mark </a>in a United States district court under this paragraph, the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registrar, <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registry, or other <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> authority shall—</span>
+<div class="subclause indent1"><a name="d_2_D_i_I"></a><span class="num" value="I">(I)</span>
+<div class="content"> expeditiously deposit with the court documents sufficient to establish the court’s control and authority regarding the disposition of the registration and <a aria-label="Definitions - use" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=">use</a> of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> to the court; and</div>
+</div>
+<div class="subclause indent1"><a name="d_2_D_i_II"></a><span class="num" value="II">(II)</span>
+<div class="content"> not transfer, suspend, or otherwise modify the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> during the pendency of the action, except upon order of the court.</div>
+</div>
+</div>
+<div class="clause indent0"><a name="d_2_D_ii"></a><span class="num" value="ii">(ii)</span>
+<div class="content"> The <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registrar or registry or other <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> authority shall not be liable for injunctive or monetary relief under this paragraph except in the case of bad faith or reckless disregard, which includes a willful failure to comply with any such court order.</div>
+</div>
+</div>
+</div>
+<div class="paragraph indent0"><a name="d_3"></a><span class="num" value="3">(3)</span>
+<div class="content"> The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy available under either such action, shall be in addition to any other civil action or remedy otherwise applicable.</div>
+</div>
+<div class="paragraph indent0"><a name="d_4"></a><span class="num" value="4">(4)</span>
+<div class="content"> The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.</div>
+</div>
+</div>
+<div class="sourceCredit">(July 5, 1946, ch. 540, title VIII, § 43, <a href="/rio/citation/60_Stat._441">60 Stat. 441</a>; <a href="/rio/citation/Pub._L._100-667">Pub. L. 100–667, title I, § 132</a>, <span class="date" date="1988-11-16">Nov. 16, 1988</span>, <a href="/rio/citation/102_Stat._3946">102 Stat. 3946</a>; <a href="/rio/citation/Pub._L._102-542">Pub. L. 102–542, § 3(c)</a>, <span class="date" date="1992-10-27">Oct. 27, 1992</span>, <a href="/rio/citation/106_Stat._3568">106 Stat. 3568</a>; <a href="/rio/citation/Pub._L._104-98">Pub. L. 104–98, § 3(a)</a>, <span class="date" date="1996-01-16">Jan. 16, 1996</span>, <a href="/rio/citation/109_Stat._985">109 Stat. 985</a>; <a href="/rio/citation/Pub._L._106-43">Pub. L. 106–43</a>, §§ 3(a)(2), 5, <span class="date" date="1999-08-05">Aug. 5, 1999</span>, <a href="/rio/citation/113_Stat._219">113 Stat. 219</a>, 220; <a href="/rio/citation/Pub._L._106-113">Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3002(a)]</a>, <span class="date" date="1999-11-29">Nov. 29, 1999</span>, <a href="/rio/citation/113_Stat._1536">113 Stat. 1536</a>, 1501A–545; <a href="/rio/citation/Pub._L._109-312">Pub. L. 109–312, § 2</a>, <span class="date" date="2006-10-06">Oct. 6, 2006</span>, <a href="/rio/citation/120_Stat._1730">120 Stat. 1730</a>; <a href="/rio/citation/Pub._L._112-190">Pub. L. 112–190, § 1(a)</a>, <span class="date" date="2012-10-05">Oct. 5, 2012</span>, <a href="/rio/citation/126_Stat._1436">126 Stat. 1436</a>.)</div>
+</div>
+</div></text>
+</div>
+<div class="tab-pane" id="tab_default_2">
+<!-- 'notes' content area -->
+<notes><div class="notes">
+</div><div class="notes">
+<div class="note" topic="editorialNotes"><span class="heading centered"><strong>Editorial Notes</strong></span></div>
+<div class="note" topic="referencesInText">
+<span class="heading centered smallCaps">References in Text</span>
+<p>Acts <span class="date" date="1881-03-03">March 3, 1881</span>, and <span class="date" date="1905-02-20">February 20, 1905</span>, referred to in subsec. (c)(2)(A)(iv), (6), are acts Mar. 3, 1881, ch. 138, <a href="/rio/citation/21_Stat._502">21 Stat. 502</a>, and Feb. 20, 1905, ch. 592, <a href="/rio/citation/33_Stat._724">33 Stat. 724</a>, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), <a href="/rio/citation/60_Stat._444">60 Stat. 444</a>. Act <span class="date" date="1905-02-20">Feb. 20, 1905</span>, was classified to sections <a href="/uscode/text/15/81">81</a> to <a href="/uscode/text/15/109">109</a> of this title.</p>
+</div>
+<div class="note" topic="constitutionality"><span class="heading centered smallCaps">Constitutionality</span>
+<p>For information regarding the constitutionality of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.<span link="https://liicornell.org/liifedent/congress" occur="1" src="named_federal_agencies">congress</span>.gov.</p>
+</div>
+<div class="note" topic="priorProvisions"><span class="heading centered smallCaps">Prior Provisions</span>
+<p>Act Mar. 19, 1920, ch. 104, § 3, <a href="/rio/citation/41_Stat._534">41 Stat. 534</a>.</p>
+</div>
+<div class="note" topic="amendments"><span class="heading centered smallCaps">Amendments</span>
+<p>2012—Subsec. (c)(6). <a href="/rio/citation/Pub._L._112-190">Pub. L. 112–190</a> added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:</p>
+<p>“(A)(i) is brought by another <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> under the common law or a statute of a State; and</p>
+<p>“(ii) seeks to prevent dilution by blurring or dilution by tarnishment; or</p>
+<p>“(B) asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a <a aria-label="Definitions - mark" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src=">mark</a>, label, or form of advertisement.”</p>
+<p>2006—Subsec. (c). <a href="/rio/citation/Pub._L._109-312">Pub. L. 109–312, § 2(1)</a>, added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous<a aria-label="Definitions -  marks." class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-3344077-1913738695&amp;term_occur=999&amp;term_src="> marks.</a></p>
+<p>Subsec. (d)(1)(B)(i)(IX). <a href="/rio/citation/Pub._L._109-312">Pub. L. 109–312, § 2(2)</a>, substituted “subsection (c)” for “subsection (c)(1)”.</p>
+<p>1999—Subsec. (a)(3). <a href="/rio/citation/Pub._L._106-43">Pub. L. 106–43, § 5</a>, added par. (3).</p>
+<p>Subsec. (c)(2). <a href="/rio/citation/Pub._L._106-43">Pub. L. 106–43, § 3(a)(2)</a>, inserted “as set forth in <a href="/uscode/text/15/1116">section 1116 of this title</a>” after “relief” in first sentence.</p>
+<p>Subsec. (d). <a href="/rio/citation/Pub._L._106-113">Pub. L. 106–113</a> added subsec. (d).</p>
+<p>1996—Subsec. (c). <a href="/rio/citation/Pub._L._104-98">Pub. L. 104–98</a> added subsec. (c).</p>
+<p>1992—Subsec. (a). <a href="/rio/citation/Pub._L._102-542">Pub. L. 102–542</a> designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).</p>
+<p>1988—Subsec. (a). <a href="/rio/citation/Pub._L._100-667">Pub. L. 100–667</a> amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: <a aria-label="Definitions - “Any person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1068185591-1168934806&amp;term_occur=999&amp;term_src=">“Any person </a>who shall affix, apply, or annex, or<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into<a aria-label="Definitions -  commerce," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-602412325-1913738695&amp;term_occur=999&amp;term_src="> commerce,</a> and<a aria-label="Definitions -  any person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1068185591-1168934806&amp;term_occur=999&amp;term_src="> any person </a>who shall with knowledge of the falsity of such designation of origin or description or representation cause or procure the same to be transported or used in<a aria-label="Definitions -  commerce " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-602412325-1913738695&amp;term_occur=999&amp;term_src="> commerce </a>or deliver the same to any carrier to be transported or used, shall be liable to a civil action by<a aria-label="Definitions -  any person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1068185591-1168934806&amp;term_occur=999&amp;term_src="> any person </a>doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by<a aria-label="Definitions -  any person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-1068185591-1168934806&amp;term_occur=999&amp;term_src="> any person </a>who believes that he is or is likely to be damaged by the<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>of any such false description or representation.”</p>
+</div>
+<div class="note" topic="statutoryNotes"><span class="heading centered"><strong>Statutory Notes and Related Subsidiaries</strong></span></div>
+<div class="note" topic="effectiveDateOfAmendment"><span class="heading centered smallCaps">Effective Date of 2012 Amendment</span>
+<p><a href="/rio/citation/Pub._L._112-190">Pub. L. 112–190, § 1(b)</a>, <span class="date" date="2012-10-05">Oct. 5, 2012</span>, <a href="/rio/citation/126_Stat._1436">126 Stat. 1436</a>, provided that: </p><div class="quotedContent" origin="/us/pl/112/190/s1/b">“The amendment made by subsection (a) [amending this section] shall apply to any action commenced on or after the date of the enactment of this Act [<span class="date" date="2012-10-05">Oct. 5, 2012</span>].”</div>
+</div>
+<div class="note" topic="effectiveDateOfAmendment"><span class="heading centered smallCaps">Effective Date of 1999 Amendment</span>
+<p>Amendment by <a href="/rio/citation/Pub._L._106-113">Pub. L. 106–113</a> applicable to all<a aria-label="Definitions -  domain names " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src="> domain names </a>registered before, on, or after <span class="date" date="1999-11-29">Nov. 29, 1999</span>, see section 1000(a)(9) [title III, § 3010] of <a href="/rio/citation/Pub._L._106-113">Pub. L. 106–113</a>, set out as a note under <a href="/uscode/text/15/1117">section 1117 of this title</a>.</p>
+</div>
+<div class="note" topic="effectiveDateOfAmendment"><span class="heading centered smallCaps">Effective Date of 1996 Amendment</span>
+<p><a href="/rio/citation/Pub._L._104-98">Pub. L. 104–98, § 5</a>, <span class="date" date="1996-01-16">Jan. 16, 1996</span>, <a href="/rio/citation/109_Stat._987">109 Stat. 987</a>, provided that: </p><div class="quotedContent" origin="/us/pl/104/98/s5">“This Act [amending this section and <a href="/uscode/text/15/1127">section 1127 of this title</a> and enacting provisions set out as a note under <a href="/uscode/text/15/1051">section 1051 of this title</a>] and the amendments made by this Act shall take effect on the date of the enactment of this Act [<span class="date" date="1996-01-16">Jan. 16, 1996</span>].”</div>
+</div>
+<div class="note" topic="effectiveDateOfAmendment"><span class="heading centered smallCaps">Effective Date of 1992 Amendment</span>
+<p>Amendment by <a href="/rio/citation/Pub._L._102-542">Pub. L. 102–542</a> effective with respect to violations that occur on or after <span class="date" date="1992-10-27">Oct. 27, 1992</span>, see <a href="/rio/citation/Pub._L._102-542">section 4 of Pub. L. 102–542</a>, set out as a note under <a href="/uscode/text/15/1114">section 1114 of this title</a>.</p>
+</div>
+<div class="note" topic="effectiveDateOfAmendment"><span class="heading centered smallCaps">Effective Date of 1988 Amendment</span>
+<p>Amendment by <a href="/rio/citation/Pub._L._100-667">Pub. L. 100–667</a> effective one year after <span class="date" date="1988-11-16">Nov. 16, 1988</span>, see <a href="/rio/citation/Pub._L._100-667">section 136 of Pub. L. 100–667</a>, set out as a note under <a href="/uscode/text/15/1051">section 1051 of this title</a>.</p>
+</div>
+<div class="note" topic="miscellaneous"><span class="heading centered smallCaps">Repeal and Effect on Existing Rights</span>
+<p>Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under <a href="/uscode/text/15/1051">section 1051 of this title</a>.</p>
+</div>
+<div class="note" topic="miscellaneous"><span class="heading centered smallCaps">Study on Abusive Domain Name Registrations Involving Personal Names</span>
+<p><a href="/rio/citation/Pub._L._106-113">Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3006]</a>, <span class="date" date="1999-11-29">Nov. 29, 1999</span>, <a href="/rio/citation/113_Stat._1536">113 Stat. 1536</a>, 1501A–550, provided that:</p><div class="quotedContent" origin="/us/pl/106/113/dB/s1000/a/9/tIII/s3006">
+<div class="subsection indent0"><span class="num" value="a">“(a)</span><span class="heading"> In General.—</span><span class="chapeau">Not later than 180 days after the date of the enactment of this Act [<span class="date" date="1999-11-29">Nov. 29, 1999</span>], the <span link="https://liicornell.org/liifedent/doc_osec_secretary" occur="1" src="named_federal_agencies">Secretary of Commerce</span>, in consultation with the Patent and<a aria-label="Definitions -  Trademark " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-753641009-1913738695&amp;term_occur=999&amp;term_src="> Trademark </a>Office and the <span link="https://liicornell.org/liifedent/federal_election_commission" occur="1" src="named_federal_agencies">Federal Election Commission</span>, shall conduct a study and report to <span link="https://liicornell.org/liifedent/congress" occur="2" src="named_federal_agencies">Congress</span> with recommendations on guidelines and procedures for resolving disputes involving the registration or<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>by a<a aria-label="Definitions -  person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person </a>of a<a aria-label="Definitions -  domain name " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src="> domain name </a>that includes the personal name of another<a aria-label="Definitions -  person," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person,</a> in whole or in part, or a name confusingly similar thereto, including consideration of and recommendations for—</span>
+<div class="paragraph indent1"><span class="num" value="1">“(1)</span>
+<div class="content"> protecting personal names from registration by another <a aria-label="Definitions - person" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src=">person</a> as a second level <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> for purposes of selling or otherwise transferring such <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> to such other<a aria-label="Definitions -  person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person </a>or any third party for financial gain;</div>
+</div>
+<div class="paragraph indent1"><span class="num" value="2">“(2)</span>
+<div class="content"> protecting individuals from bad faith <a aria-label="Definitions - uses" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=">uses</a> of their personal names as second level <a aria-label="Definitions - domain names" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain names</a> by others with malicious intent to harm the reputation of the individual or the goodwill associated with that individual’s name;</div>
+</div>
+<div class="paragraph indent1"><span class="num" value="3">“(3)</span>
+<div class="content"> protecting consumers from the registration and <a aria-label="Definitions - use" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src=">use</a> of <a aria-label="Definitions - domain names" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain names</a> that include personal names in the second level domain in manners which are intended or are likely to confuse or deceive the public as to the affiliation, connection, or association of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registrant, or a site accessible under the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a>, with such other<a aria-label="Definitions -  person," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person,</a> or as to the origin, sponsorship, or approval of the goods, services, or commercial activities of the <a aria-label="Definitions - domain name" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain name</a> registrant;</div>
+</div>
+<div class="paragraph indent1"><span class="num" value="4">“(4)</span>
+<div class="content"> protecting the public from registration of <a aria-label="Definitions - domain names" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain names</a> that include the personal names of government officials, official candidates, and potential official candidates for Federal, State, or local political office in the United States, and the<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>of such <a aria-label="Definitions - domain names" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src=">domain names</a> in a manner that disrupts the electoral process or the public’s ability to access accurate and reliable information regarding such individuals;</div>
+</div>
+<div class="paragraph indent1"><span class="num" value="5">“(5)</span>
+<div class="content"> existing remedies, whether under State law or otherwise, and the extent to which such remedies are sufficient to address the considerations described in paragraphs (1) through (4); and</div>
+</div>
+<div class="paragraph indent1"><span class="num" value="6">“(6)</span>
+<div class="content"> the guidelines, procedures, and policies of the <a aria-label="Definitions - Internet" class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-635054945-1913738695&amp;term_occur=999&amp;term_src=">Internet</a> Corporation for Assigned Names and Numbers and the extent to which they address the considerations described in paragraphs (1) through (4).</div>
+</div>
+</div>
+<div class="subsection indent0"><span class="num" value="b">“(b)</span><span class="heading"> Guidelines and Procedures.—</span>
+<div class="content">The <span link="https://liicornell.org/liifedent/doc_osec_secretary" occur="2" src="named_federal_agencies">Secretary of Commerce</span> shall, under its Memorandum of Understanding with the<a aria-label="Definitions -  Internet " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-635054945-1913738695&amp;term_occur=999&amp;term_src="> Internet </a>Corporation for Assigned Names and Numbers, collaborate to develop guidelines and procedures for resolving disputes involving the registration or<a aria-label="Definitions -  use " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-85351-1913738695&amp;term_occur=999&amp;term_src="> use </a>by a<a aria-label="Definitions -  person " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person </a>of a<a aria-label="Definitions -  domain name " class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-45936743-1913738695&amp;term_occur=999&amp;term_src="> domain name </a>that includes the personal name of another<a aria-label="Definitions -  person," class="colorbox-load definedterm" href="/definitions/uscode.php?width=840&amp;height=800&amp;iframe=true&amp;def_id=15-USC-991716523-1913738695&amp;term_occur=999&amp;term_src="> person,</a> in whole or in part, or a name confusingly similar thereto.”</div>
+</div>
+</div>
+</div>
+</div></notes>
+</div>
+<div class="tab-pane" id="tab_default_3">
+<table class="table table-striped">
+<thead>
+<tr>
+<th scope="col">CFR Title</th>
+<th scope="col">Parts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>19</td>
+<td>
+<a href="/cfr/text/19/part-133" title="PART 133—TRADEMARKS, TRADE NAMES, AND COPYRIGHTS">
+                                                133
+                                            </a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+						
+						
+					</div>
+				</div>
+			</div>
+			
+
+			<div id="page-bottom" aria-hidden="true">
+				<div class="region region-bottom">
+					<div id="block-liidfp-2" class="block block-liidfp first last odd">
+
+
+						<div class="gfs">
+							<div id="div-gpt-ad-bottom" data-google-query-id="CNH77Z7C7d8CFURLAQodp9oMpg">
+								<script type="text/javascript">
+									googletag.cmd.push(function () { googletag.display('div-gpt-ad-bottom'); });
+								</script>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+
+
+		<aside id="supersizeme" class="col-sm-4" aria-label="Sponsor Listings and Toolbox panel">
+			
+			<div class="block" id="toolbox">
+
+				<h2 class="title toolbox"><span class="glyphicon glyphicon-briefcase"></span> U.S. Code Toolbox
+				</h2>
+
+				
+<div class="clear-block wexlink">
+    <a href="/wex/wex_articles">Law about... Articles from Wex</a>
+</div>
+<div id="topnlink" class="toolboxlink">
+    <a href="/topn">Table of Popular Names</a>
+</div>
+<div id="ptoalink" class="toolboxlink">
+    <a href="/ptoa">Parallel Table of Authorities</a>
+</div>
+<div id="updatelink" class="toolboxlink">
+    <a href=/uscode/about/how-current>How
+        current is this?</a>
+</div>
+
+
+				
+				<div class="socSep">
+					<hr />
+				</div>
+
+				<div class="addthis_sharing_toolbox"></div>
+
+				<div class="socSep">
+					<hr />
+				</div>
+
+				<script type="text/javascript">
+					var addthis_config = {
+						data_track_addressbar: false,
+						data_track_clickback: true,
+						publid: 'liiadverts',
+						ui_tabindex: 0,
+						ui_508_compliant: true
+					};
+					var addthis_share = {
+						url_transforms: {
+							shorten: {
+								twitter: 'bitly'
+							}
+						},
+						shorteners: {
+							bitly: {
+								login: 'liicornell',
+								apiKey: 'R_75b99d95e1c3033c4dbea23ce04bf5d3'
+							}
+						},
+						passthrough: {
+							twitter: {
+								via: 'LIICornell'
+							}
+						}
+					};
+				</script>
+
+				<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=liiadverts"
+					async="async"></script>
+
+				
+
+			</div>
+			
+
+			<div class="block" aria-hidden="true">
+				<div class="gfs">
+					<div id='div-gpt-ad-top'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function () { googletag.display('div-gpt-ad-top'); });
+						</script>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="block" aria-hidden="true">
+				<div class="gfs">
+					<div id='div-gpt-ad-middle'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function () { googletag.display('div-gpt-ad-middle'); });
+						</script>
+					</div>
+				</div>
+
+			</div>
+
+			
+			<div id="block-lii-justia-find-lawyers-sidebar" class="block block-lii last even">
+				<div id="block-lii-justia-lawyers" class="block block-lii last even">
+					<div class="sidebar">
+						<div class="results-sponsored">
+							<div data-directive="j-find-a-lawyer" data-crosslink="seemorelawyers"
+								data-domain="lawyers.law.cornell.edu">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+		</aside>
+
+
+	</main>
+
+	<footer id="liifooter" class="container-fluid">
+		<ul id="liifooternav" class="nav navbar-nav">
+			<li class="first">
+				<a href="/lii/about/accessibility" class="nav">Accessibility</a>
+			</li>
+			<li class="first">
+				<a href="/lii/about/about_lii" class="nav">About LII</a>
+			</li>
+			<li>
+				<a href="/lii/about/contact_us" class="nav">Contact us</a>
+			</li>
+			<li>
+				<a href="/lii/help_out/sponsor">Advertise here</a>
+			</li>
+			<li>
+				<a href="/lii/help" class="nav">Help</a>
+			</li>
+			<li>
+				<a href="/lii/terms/documentation" class="nav">Terms of use</a>
+			</li>
+			<li class="last">
+				<a href="/lii/terms/privacy_policy" class="nav">Privacy</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li>
+				<a href="/" title="LII home page">
+					<img width="62" height="43"
+						src="https://www.law.cornell.edu/sites/all/themes/liizenboot/images/LII_logo_footer.gif"
+						alt="LII logo">
+				</a>
+			</li>
+		</ul>
+	</footer>
+
+	<script>
+		jQuery(document).ready(function () {
+			jQuery("#liisearchlink").click(function () {
+				jQuery("#liisearch").toggle('slide');
+				jQuery("#liinavbarstuff").toggleClass('searchboxslid');
+			});
+		});
+
+		jQuery(document).ready(function () {
+			jQuery('[data-toggle="tooltip"]').each(function () {
+				var $elem = jQuery(this);
+				$elem.tooltip({
+					html: true,
+					container: $elem,
+					delay: { hide: 400 }
+				});
+			});
+		});
+	</script>
+
+	
+	<script type="text/javascript" src="/staticsite_scripts/htmldiff.js"> </script>
+	 
+	<script type="text/javascript" src="/staticsite_scripts/lii_scriptinator.min.js"> </script>
+	 
+	
+	<script>
+		window.addEventListener("load", function () {
+			window.cookieconsent.initialise(
+				{
+					"palette": {
+						"popup": {
+							"background": "#000"
+						}, "button": {
+							"background": "#f1d600"
+						}
+					}
+				})
+		});
+	</script>
+	
+
+</body>
+</html>

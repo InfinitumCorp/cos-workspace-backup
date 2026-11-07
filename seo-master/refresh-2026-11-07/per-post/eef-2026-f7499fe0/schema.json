@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html#article",
+  "headline": "Eastern Economic Forum 2026: Is Russia Isolated?",
+  "name": "Eastern Economic Forum 2026: Is Russia Isolated?",
+  "description": "Eastern Economic Forum 2026 in Vladivostok: 80-nation turnout, Asia trade deals and what they say about Russia's isolation. By William Aaron Turner.",
+  "url": "https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html",
+  "mainEntityOfPage": "https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html",
+  "datePublished": "2026-10-25T16:06:12+03:00",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
+    "name": "William Aaron Turner",
+    "url": "https://williamaaronturner.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-1585-5442",
+      "url": "https://orcid.org/0009-0002-1585-5442"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0002-1585-5442",
+      "https://williamaaronturner.com/",
+      "https://x.com/infinitumceo",
+      "https://www.linkedin.com/in/william-aaron-t-726076244",
+      "https://umassmarine.academia.edu/WilliamAaronTurner",
+      "https://github.com/InfinitumCorp",
+      "https://ukrainianfiles.blogspot.com/"
+    ],
+    "jobTitle": "Founder and President",
+    "worksFor": {
+      "@id": "https://www.theinfinitumcorporation.com/#organization"
+    }
+  },
+  "abstract": "Eastern Economic Forum 2026 in Vladivostok: 80-nation turnout, Asia trade deals and what they say about Russia's isolation. By William Aaron Turner.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  },
+  "keywords": "Eastern Economic Forum 2026, Russia Asia trade",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Eastern Economic Forum 2026"
+    },
+    {
+      "@type": "Thing",
+      "name": "Russia Asia trade"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "The Ukraine Files",
+    "url": "https://ukrainianfiles.blogspot.com/"
+  },
+  "sameAs": [
+    "https://web.archive.org/web/2026/https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html"
+  ],
+  "genre": "Article"
+}

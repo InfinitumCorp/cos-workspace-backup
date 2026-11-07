@@ -1,0 +1,1343 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><title>Break It Before They Do: Authorized Hacking for Organizations Under Siege | Infinitum Whitepaper 03</title>
+<meta name="author" content="William Aaron Turner"/><meta name="description" content="Practical, Integrated Steps for Mid-Size Organizations"/>
+<style>@font-face{font-family:'PoppinsBrand';font-weight:300;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-Light.ttf');}
+@font-face{font-family:'PoppinsBrand';font-weight:400;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-Regular.ttf');}
+@font-face{font-family:'PoppinsBrand';font-weight:500;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-Medium.ttf');}
+@font-face{font-family:'PoppinsBrand';font-weight:600;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-SemiBold.ttf');}
+@font-face{font-family:'PoppinsBrand';font-weight:700;src:url('file:///usr/share/fonts/truetype/sand-box/google/Poppins/Poppins-Bold.ttf');}
+
+.cv{position:relative;width:8.5in;height:11in;background:#000 url('file:///workspace/whitepapers/03-break-it-before-they-do/assets/cover-bg.png') center/cover no-repeat;
+    color:#fff;font-family:'PoppinsBrand',sans-serif;overflow:hidden;page-break-after:always}
+.cv .fade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.95) 0,rgba(0,0,0,.0) 38%,rgba(0,0,0,0) 100%)}
+.cv .top{position:absolute;left:.62in;right:.62in;top:.62in;display:flex;align-items:center}
+.cv .wm{font-weight:600;font-size:15pt;letter-spacing:.24em;white-space:nowrap}
+.cv .rule{flex:1;height:0;border-top:1.5pt solid #fff;margin-left:.3in}
+.cv .tb{position:absolute;left:.62in;right:.9in;top:4.0in}
+.cv h1{font-weight:700;font-size:58pt;line-height:1.06;letter-spacing:-.01em;margin:0 0 .28in 0}
+.cv h2{text-wrap:balance;font-weight:600;font-size:25pt;line-height:1.2;letter-spacing:-.005em;margin:-.08in 0 .22in 0;color:#fff}
+.cv .sub{font-weight:300;font-size:19pt;line-height:1.35;color:#b8b8b8;margin:0;max-width:6.2in;hyphens:none}
+.cv .tag{font-weight:600;font-size:9.5pt;letter-spacing:.3em;text-transform:uppercase;color:#fff;margin:.38in 0 0 0;padding-top:.14in;border-top:.75pt solid #6a6a6a;display:inline-block}
+.cv .bot{position:absolute;left:.62in;right:.62in;bottom:.6in;display:flex;justify-content:space-between;align-items:flex-end}
+.cv .lab{font-weight:700;font-size:13pt}
+.cv .lab small{display:block;font-weight:400;font-size:7.5pt;letter-spacing:.22em;color:#8a8a8a;margin-top:6pt;text-transform:uppercase}
+.cv .ct{font-weight:400;font-size:8.5pt;line-height:1.65;color:#cfcfcf;text-align:right}
+
+
+:root{--ink:#161616;--muted:#666;--rule:#d9d9d9;--tint:#f2f2f2;--dk:#0d0d0d;--dk2:#2b2b2b;--mid:#777}
+@page{size:Letter;margin:.95in .9in .9in .9in;
+ @top-left{content:"INFINITUM CORPORATION  ·  WHITEPAPER 03";font:600 7.5pt PoppinsBrand;letter-spacing:.14em;color:var(--muted);vertical-align:bottom;padding-bottom:6pt;border-bottom:.5pt solid var(--rule)}
+ @top-right{content:string(chapter);font:400 7.5pt PoppinsBrand;color:var(--muted);vertical-align:bottom;padding-bottom:6pt;border-bottom:.5pt solid var(--rule)}
+ @bottom-left{content:"Break It Before They Do";font:400 7.5pt PoppinsBrand;color:var(--muted)}
+ @bottom-right{content:counter(page);font:600 8.5pt PoppinsBrand;color:var(--dk)}}
+@page cover{size:Letter;margin:0;@top-left{content:none;border:none}@top-right{content:none;border:none}@bottom-left{content:none}@bottom-right{content:none}}
+@page front{@top-right{content:""}}
+html{font-family:"Source Serif Pro","Source Serif 4",Georgia,serif;font-size:10.6pt;line-height:1.5;color:var(--ink)}
+body{margin:0}a{color:var(--dk2);text-decoration:none}
+.cv{page:cover}
+.cv h1{color:#fff!important;break-before:avoid;padding-top:0;string-set:none;font-family:PoppinsBrand;font-weight:700;font-size:58pt;line-height:1.06;margin:0 0 .28in 0}
+.cv h2{color:#fff!important;font-family:PoppinsBrand;margin:-.08in 0 .22in 0;font-size:25pt;font-weight:600}
+.cv p{margin:0}
+.cv,.cv *{hyphens:none!important}
+.legal{page:front;break-after:page;height:8.9in;position:relative}
+.legal-inner{position:absolute;bottom:0;font-size:8.6pt;line-height:1.5;color:#333}
+.legal-title{font:700 11pt PoppinsBrand;color:var(--dk);margin-bottom:4pt}
+.legal-h{font:700 8pt PoppinsBrand;letter-spacing:.15em;text-transform:uppercase;color:var(--dk);margin:14pt 0 2pt 0}
+.legal-note{margin-top:16pt;font-style:italic}
+.toc{page:front;break-after:page}.toc-title{string-set:none}
+.toc-list{list-style:none;padding:0;margin:18pt 0 0 0}.toc-list li{margin:0}
+.toc-list li a{color:var(--ink)}.toc-list li a::after{content:leader(dotted) " " target-counter(attr(href),page);color:var(--muted)}
+.toc-l1{font:600 10pt PoppinsBrand;margin-top:9pt!important}.toc-l1 a{color:var(--dk)!important}
+.toc-l2{font:400 9.6pt "Source Serif Pro";padding-left:16pt;margin-top:3pt!important}
+h1{font:700 23pt/1.14 PoppinsBrand;color:var(--dk);letter-spacing:-.01em;margin:0 0 18pt 0;padding-top:6pt;break-before:page;string-set:chapter content()}
+main h1::before{content:"";display:block;width:.8in;height:3pt;background:var(--dk);margin-bottom:14pt}
+h2{font:600 14.5pt/1.22 PoppinsBrand;color:var(--dk);margin:22pt 0 8pt 0;break-after:avoid}
+h3{font:600 11pt/1.25 PoppinsBrand;color:var(--dk2);margin:16pt 0 5pt 0;break-after:avoid}
+p{margin:0 0 7pt 0;orphans:2;widows:2;hyphens:auto}
+ul,ol{margin:4pt 0 9pt 0;padding-left:18pt}li{margin-bottom:3pt}strong{color:#000}
+blockquote{margin:10pt 0 12pt 0;padding:6pt 12pt 6pt 14pt;border-left:2.5pt solid var(--dk2);background:var(--tint);font-style:italic;color:#2b2b2b}
+blockquote p{margin:0}
+blockquote.pull{hyphens:manual;border:none;background:none;padding:10pt .35in;margin:14pt 0;font:600 14.5pt/1.32 "Source Serif Pro";font-style:italic;color:var(--dk);border-top:.8pt solid var(--dk);border-bottom:.8pt solid var(--dk);break-inside:avoid}
+blockquote.pull p::before{content:"“";font:700 30pt/0 PoppinsBrand;color:var(--mid);vertical-align:-10pt;margin-right:4pt}
+.callout{background:var(--dk);color:#fff;padding:12pt 16pt;margin:14pt 0;break-inside:avoid}
+.callout p{color:#eee;margin:0;font-size:11pt}
+.callout-lead{font:600 8pt PoppinsBrand!important;letter-spacing:.2em;text-transform:uppercase;color:#bbb!important;margin-bottom:4pt!important}
+table{width:100%;border-collapse:collapse;margin:10pt 0 6pt 0;font:400 8.2pt/1.35 PoppinsBrand;break-inside:auto}
+thead{display:table-header-group}
+th{background:var(--dk);color:#fff;font-weight:600;text-align:left;padding:5pt 6pt;vertical-align:bottom}
+td{padding:5pt 6pt;border-bottom:.5pt solid var(--rule);vertical-align:top}tr{break-inside:avoid}
+tbody tr:nth-child(even) td{background:#f6f6f6}
+p.source{font:400 8pt PoppinsBrand;color:var(--muted);margin-top:2pt}
+h2[id^="part-"]{string-set:chapter content()}
+.scenario{border:.8pt solid #ccc;border-left:4pt solid var(--dk);background:#fafafa;padding:10pt 14pt 6pt 14pt;margin:12pt 0 14pt 0}
+.scenario-tag{font:600 7.5pt PoppinsBrand;letter-spacing:.2em;text-transform:uppercase;color:#555;margin-bottom:4pt!important}
+.scenario p{font-size:9.8pt}
+ul.checklist{list-style:none;padding-left:4pt}ul.checklist li{margin-bottom:4pt;font-size:10pt}
+#about+p{font-size:11pt}
+.refs ol{padding-left:20pt}.refs li{font-size:8.8pt;line-height:1.4;margin-bottom:5pt;overflow-wrap:anywhere}
+.glossary p{font-size:9.4pt;margin-bottom:5pt}
+</style></head><body>
+
+<div class="cv"><img src="assets/cover-v2-white.jpg" alt="Whitepaper No. 3 cover: Break It Before They Do" style="display:block;width:8.5in;height:11in;object-fit:cover"/></div><section class="legal"><div class="legal-inner">
+<p class="legal-title">Break It Before They Do: Authorized Hacking for Organizations Under Siege<br/>Practical, Integrated Steps for Mid-Size Organizations</p>
+<p>Infinitum Corporation Whitepaper No. 3 &middot; November 2026 &middot; <strong>Released November 8, 2026</strong></p>
+<p class="neutral"><strong>Neutrality statement.</strong> This paper draws general lessons about technology and conflict from public sources. It takes no side and makes no claim about any party.</p>
+<p>&copy; 2026 Infinitum Corporation. All rights reserved. No part of this publication may be reproduced or distributed without written permission, except for brief quotations with attribution.</p>
+<p class="legal-h">Disclaimer</p>
+<p>This whitepaper is provided for general information only. It is not legal, regulatory or professional advice for any specific situation, and it does not create a client relationship. Statistics are taken from the public sources cited and remain the property of their publishers; they describe the samples studied by those publishers and are not benchmarks or predictions for any particular organization. Infinitum Corporation makes no promise or guarantee about the security outcome any organization will achieve.</p>
+<p>This paper is strictly analytical and defensive. References to irregular warfare, gray-zone competition and hybrid threats are used as an analytic lens for defense and resilience. Nothing in this paper is instruction for offensive activity. Any security testing referred to here means authorized, scoped testing performed with the written permission of the system owner.</p>
+<p>Scenarios in Part VIII are illustrative and hypothetical. They do not describe any real organization, client or incident.</p>
+<p>Trademarks and framework names belong to their respective owners. Citation of a source does not imply that its publisher endorses this paper or Infinitum Corporation.</p>
+<p class="legal-h">Contact</p>
+<p>Infinitum Corporation, Washington, DC &middot; 1629 K Street NW, Suite 300<br/>https://www.theinfinitumcorporation.com<br/>info@theinfinitumcorporation.com<br/>Telegram: https://t.me/infinitumcorporation &middot; X: https://x.com/infinitumceo</p>
+<p class="legal-note">All data comes from the public record. All conclusions are mine. &mdash; W.A.T.</p>
+</div></section><section class="toc"><h1 class="toc-title" id="contents">Contents</h1><ul class="toc-list"><li class="toc-l1"><a href="#executive-summary">Executive summary</a></li><li class="toc-l1"><a href="#the-problem">The problem: the siege is already on</a></li><li class="toc-l1"><a href="#the-siege">The siege, read by a security analyst</a></li><li class="toc-l1"><a href="#analysis">Analysis: walking your own walls</a></li><li class="toc-l2"><a href="#part-i-kinds-of-testing">Part I: Know the difference. Four kinds of looking</a></li><li class="toc-l2"><a href="#part-ii-authority">Part II: Permission first. Authority that stands up</a></li><li class="toc-l2"><a href="#part-iii-scope">Part III: Scope like the besieger. See yourself from outside</a></li><li class="toc-l2"><a href="#part-iv-method">Part IV: Demand a method you can audit</a></li><li class="toc-l2"><a href="#part-v-findings-to-fixes">Part V: From findings to fixes. Repair the wall, then check the repair</a></li><li class="toc-l2"><a href="#part-vi-detection">Part VI: Test the sentries, not just the stone</a></li><li class="toc-l2"><a href="#part-vii-buying">Part VII: Buy testing like a professional</a></li><li class="toc-l2"><a href="#part-viii-scenarios">Part VIII: Three scenarios</a></li><li class="toc-l1"><a href="#recommendations">Recommendations</a></li><li class="toc-l1"><a href="#conclusion">Conclusion</a></li><li class="toc-l1"><a href="#about">About Infinitum Corporation</a></li><li class="toc-l1"><a href="#references">References</a></li><li class="toc-l1"><a href="#glossary">Glossary</a></li></ul></section><main><!-- BODY-START -->
+
+<h1 id="executive-summary">Executive summary</h1>
+<p>By William Aaron Turner, Founder and President, Infinitum Corporation.</p>
+<p>Someone is going to test your defenses. The only question is who goes first.</p>
+<p>That is the whole argument of this paper. Every organization connected to the internet is already being probed. Scanners knock on every door, every day. Stolen passwords get tried against every login page that will accept them. Old flaws in old appliances get found by people who never had to ask permission. Nobody sends you the report.</p>
+<p>So you have a choice. You can wait for the uninvited test, or you can commission an invited one. You can find the breach in your own wall, on your schedule, with your rules, and fix it before anyone else walks through it.</p>
+<p>Key word: invited.</p>
+<p>This paper is about authorized hacking. That means vulnerability assessment, penetration testing and red teaming done with written permission from the owner of the systems, inside an agreed scope, under rules of engagement, for one purpose: defense. Nothing else qualifies. Testing without permission is not a gray area. It is an attack.</p>
+<p>I read security problems through one lens: irregular warfare. Joint doctrine describes it as a form of warfare in which state and non-state actors campaign &ldquo;through indirect, non-attributable, or asymmetric activities,&rdquo; and says the term &ldquo;seeks to create dilemmas and increase risk and costs to adversaries to achieve a position of advantage&rdquo; (JP 1 Vol 1, as quoted in U.S. Army CALL, 2025). That is an analytic lens, nothing more. You do not need to care about doctrine. You only need to notice that the people working against your network behave the way it describes. They probe indirectly. They hide who they are. They spend little and make you spend a lot.</p>
+<p>The organizing image for this paper is the siege. A city under siege is not usually taken by one great assault. It is taken because somebody found the one gate that was poorly watched, the stretch of wall that had crumbled, the guard who could be talked into opening a door. Defenders who survived sieges walked their own walls. They looked for the weak stones before the besiegers did. That is a comparison, not a claim that your office is a fortress or that anyone is shooting at it. <strong>This paper draws general lessons about technology and conflict from public sources. It takes no side and makes no claim about any party.</strong> It stays at the level of governance, scoping, rules of engagement, methodology and remediation. It contains no attack instructions, no exploit steps and no targeting content, by design.</p>
+<h2 id="why-now">Why now</h2>
+<p>Three findings from the public record stand out.</p>
+<p><strong>First, the way in has shifted toward the flaws you already know about.</strong> Verizon&rsquo;s 2026 Data Breach Investigations Report (DBIR) found that exploitation of vulnerabilities is now the most common initial access vector for breaches, at 31% of its reporting dataset, while credential abuse, the previous leader, is down to 13% (Verizon, 2026). In its analysis of small and medium-sized businesses, Verizon says many ransomware attacks are opportunistic, and that victims were hit because they had compromised credentials (38%) or unpatched vulnerabilities in edge devices (29%) (Verizon, 2026).</p>
+<p><strong>Second, the fixes are not keeping pace.</strong> Verizon reports that only 26% of the vulnerabilities in CISA&rsquo;s Known Exploited Vulnerabilities (KEV) catalog were fully remediated by organizations in 2025, down from 38% the year before. The median time to full resolution rose to 43 days from 32 (Verizon, 2026). As of the catalog version dated October 30, 2026, the KEV catalog lists 1,766 vulnerabilities with evidence of exploitation in the wild (CISA KEV, 2026).</p>
+<p>Let that sink in. These are not theoretical weaknesses. They are flaws somebody has already used. And three out of four were not fully fixed.</p>
+<p><strong>Third, the bill is large and slow to arrive.</strong> IBM and the Ponemon Institute report that the global average cost of a data breach reached a record USD 4.99 million, and that the mean time to identify and contain a breach rose to 247 days. Breaches with lifecycles longer than 200 days cost more on average than shorter ones (USD 5.65 million against USD 4.32 million) (IBM and Ponemon Institute, 2026). In the same study, offensive security testing (red teaming, penetration or vulnerability testing) was one of the factors associated with lower breach costs, about USD 211,339 below the average when each of 30 factors was measured in isolation (IBM and Ponemon Institute, 2026). That is an association in one study&rsquo;s sample, not a promise. It is still worth knowing.</p>
+<h2 id="what-authorized-testing-is-and-is-not">What authorized testing is, and is not</h2>
+<p>Testing is not one thing. The four kinds this paper covers answer four different questions.</p>
+<ul>
+<li><strong>Vulnerability scanning</strong> asks: what known weaknesses can automated tools see? It is cheap, broad and shallow.</li>
+<li><strong>Vulnerability assessment</strong> asks: of those weaknesses, which are real, and which matter most to us? It adds validation, context and ranking.</li>
+<li><strong>Penetration testing</strong> asks: could an attacker actually get through, and how far? CREST describes it as &ldquo;an ethical attack simulation intended to demonstrate or validate the effectiveness of security controls in a particular environment by highlighting risks posed by actual exploitable vulnerabilities&rdquo; (CREST, 2022).</li>
+<li><strong>Red teaming</strong> asks: would we notice, and would we respond? It tests the defenders as much as the defenses.</li>
+</ul>
+<p>The UK National Cyber Security Centre (NCSC) adds a point most buyers miss. Penetration testing &ldquo;should be viewed as a method for gaining assurance in your organisation&rsquo;s vulnerability assessment and management processes, not as a primary method for identifying vulnerabilities.&rdquo; It compares a test to a financial audit (NCSC, 2017/2022). In an ideal world, the NCSC says, &ldquo;you should know what the penetration testers are going to find, before they find it.&rdquo;</p>
+<p>Don&rsquo;t take my word for it. That is the government&rsquo;s own guidance.</p>
+<h2 id="the-seven-moves">The seven moves</h2>
+<p>The recommendations come in seven moves, sized for a mid-size organization with a small security team.</p>
+<ol>
+<li><strong>Know your walls.</strong> Build the inventory first. You cannot authorize a test of systems you cannot name.</li>
+<li><strong>Put permission in writing.</strong> Signed authorization, a clear scope, rules of engagement, legal review and a stop condition, before anyone touches a keyboard.</li>
+<li><strong>Scan continuously, assess regularly.</strong> Make scanning a daily routine and assessment a scheduled one, so that the penetration test becomes an audit rather than a discovery exercise.</li>
+<li><strong>Test what an adversary would actually do.</strong> Scope tests around your crown assets and the routes the public data says are most used: the edge, stolen credentials, people and suppliers.</li>
+<li><strong>Test the watchers, not just the walls.</strong> Use red and purple exercises to measure detection and response, not only prevention.</li>
+<li><strong>Turn findings into fixes, and prove they held.</strong> Prioritize with exploitation evidence, assign every finding an owner and a date, find the root cause, and retest.</li>
+<li><strong>Buy testing like a professional.</strong> Choose qualified providers, contract for data handling and reporting you can use, and keep the program running year after year.</li>
+</ol>
+<p>None of these moves needs an exotic product. All of them need discipline: permission before action, evidence before priority, and a retest before anyone says &ldquo;fixed.&rdquo;</p>
+<p>This paper includes a comparison of testing types, an authorization checklist, a rules-of-engagement outline, a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and three scenarios that are hypothetical and say so.</p>
+<p>Every figure in this paper belongs to the source cited. I make no claim about the results any organization will achieve. Read the sources, then decide.</p>
+<h1 id="the-problem">The problem: the siege is already on</h1>
+<p>Here is the uncomfortable truth about testing.</p>
+<p>Your systems are tested every day already. Not by you. Automated scanners sweep the internet looking for exposed services. Credential lists harvested from other breaches are replayed against your login pages. Somebody, somewhere, is reading the same vendor advisories your team is reading, and deciding which of them can be turned into a way in.</p>
+<p>None of those testers asked permission. None of them will share the findings. And they do not have to be good. They only have to be first.</p>
+<p>IBM puts the imbalance in one line: attacks &ldquo;can be launched for thousands while breaches cost millions&rdquo; (IBM and Ponemon Institute, 2026). That is the economics of a siege. The besieger can probe a hundred stretches of wall for the price of one breach. The defender has to hold all of them.</p>
+<h2 id="what-the-evidence-shows">What the evidence shows</h2>
+<p>I will keep this section to numbers I can trace to a source I opened. Every figure belongs to the publisher named, and describes that publisher&rsquo;s dataset.</p>
+<p><strong>Known flaws are now the main way in.</strong> Verizon&rsquo;s 2026 DBIR says exploitation of vulnerabilities &ldquo;is now the most common initial access vector for breaches,&rdquo; rising to 31% in its reporting dataset, while credential abuse fell to 13% as an initial access vector (Verizon, 2026). Credentials have not gone away. They have been overtaken.</p>
+<p><strong>The flaws stay open.</strong> Verizon used the CISA KEV catalog as its subset of vulnerabilities that &ldquo;all organizations are incentivized to patch.&rdquo; Only 26% of KEV vulnerabilities found in organizations&rsquo; environments had been fully remediated, &ldquo;a considerable drop from last year&rsquo;s 38%.&rdquo; The share left entirely unremediated rose to 16% from 12%. The median time to full patching rose to 43 days, &ldquo;almost two weeks longer than last year&rsquo;s 32 days&rdquo; (Verizon, 2026).</p>
+<p><strong>The pile is growing.</strong> The median number of KEV vulnerabilities an organization had to patch rose to 16 in 2025 from 11 in 2024, which Verizon calls &ldquo;almost 50% more&rdquo; (Verizon, 2026). The underlying dataset of vulnerability records grew from 68.7 million in 2022 to 527.3 million in 2025, almost eight times the volume (Verizon, 2026).</p>
+<p><strong>There may be a speed limit.</strong> Verizon found that by Day 7 after detection, somewhere between 60% and 70% of KEV vulnerabilities remain open &ldquo;regardless of year, volume or organizational maturity.&rdquo; Organizations &ldquo;at their very best only get to fix 30%–40% of KEV instances in the first week after detection, so choosing the correct ones to patch really is the key strategy&rdquo; (Verizon, 2026). Verizon itself calls this &ldquo;an initial measurement,&rdquo; not a law.</p>
+<p>Read that twice. Even the best teams cannot fix everything quickly. The winners are the ones who pick the right things to fix first. That is what good assessment is for.</p>
+<p><strong>Old flaws are not safe flaws.</strong> Verizon reports that nearly half of the KEV vulnerabilities with detectable exploitation activity in a research partner&rsquo;s data showed &ldquo;Persistent&rdquo; exploitation, meaning activity could be detected on an average of 96% of days. Only 20% of the vulnerabilities in that category were registered in the CVE database in 2024 and 2025. &ldquo;For the other 80%, organizations would have had about two years&rsquo; advance notice in which to patch&rdquo; (Verizon, 2026).</p>
+<p><strong>The opportunists favor the smaller targets.</strong> Of the ransomware cases where Verizon had information on organization size, it found about 96% of victims were small and medium-sized businesses (Verizon, 2026). It describes many of these attacks as opportunistic: victims were chosen because of compromised credentials (38%) or unpatched vulnerabilities in edge devices (29%), &ldquo;not so much about industry or the revenue of the victims&rdquo; (Verizon, 2026).</p>
+<p><strong>People remain in the path.</strong> Verizon found the human element present in 62% of breaches. Social Engineering was the third most common breach pattern at 16% of breaches. Pretexting reached 6% of all breaches, and phishing remained at 16% (Verizon, 2026). In phishing simulations, the median click rate in mobile-centric vectors, such as voice and text messaging, was 40% higher than via email (Verizon, 2026).</p>
+<p><strong>Suppliers widen the wall.</strong> Breaches with third-party involvement reached 48% of total breaches in Verizon&rsquo;s dataset, up from 30%, an increase of 60% (Verizon, 2026). IBM found that supply chain compromise was the second most common initial attack vector in the breaches it studied, and that a supply chain breach added about USD 227,250 to the average cost when measured in isolation (IBM and Ponemon Institute, 2026).</p>
+<p><strong>The defenders are stretched.</strong> ISC2 reports that 67% of respondents indicated a staffing shortage, and 90% reported one or more skills gaps on their cybersecurity teams (ISC2, 2024). In IBM&rsquo;s study, a security skills shortage was associated with about USD 179,635 in added breach cost (IBM and Ponemon Institute, 2026).</p>
+<h2 id="where-the-sources-differ">Where the sources differ</h2>
+<p>The sources do not all say the same thing, and I will not pretend they do.</p>
+<p>Verizon finds vulnerability exploitation is now the top initial access vector in its dataset (Verizon, 2026). IBM finds phishing was the top attack vector &ldquo;for the fourth year in a row&rdquo; in the breaches it studied (IBM and Ponemon Institute, 2026). Those statements are not in conflict. They describe different samples, different methods and different definitions. Verizon analyzes a large body of incidents and breaches contributed by many partners. IBM studies a set of breached organizations in depth and models cost.</p>
+<p>The lesson for testing is the same either way. Test the edge, because known flaws are the way in. Test the people and the processes around them, because social engineering is the way in. A program that tests only one is half a program.</p>
+<h2 id="the-four-failures">The four failures</h2>
+<p>Organizations of a few hundred people rarely fail at testing because they never test. They fail in four more ordinary ways.</p>
+<p><strong>They test the wrong thing.</strong> A penetration test is scoped around what was easy to put in a contract, not around what an adversary would want. The crown systems, the supplier connections and the help desk stay out of scope. The report comes back clean. Nobody learned anything.</p>
+<p><strong>They test without permission that would stand up.</strong> The person who signed did not own all the systems in scope. A cloud provider or a managed service provider was never asked. Nobody wrote down what was forbidden. When something breaks, nobody knows who carries the risk.</p>
+<p><strong>They treat the report as the finish line.</strong> CREST lists, among the top six challenges organizations report, &ldquo;assuming that by fixing vulnerabilities uncovered during a penetration test systems will then be &lsquo;secure&rsquo;&rdquo; (CREST, 2022). Findings sit in a PDF. A year later, the next test finds the same things.</p>
+<p><strong>They test once and call it assurance.</strong> The NCSC warns that a penetration test &ldquo;can only validate that your organisation&rsquo;s IT systems are not vulnerable to known issues on the day of the test,&rdquo; and that &ldquo;it&rsquo;s not uncommon for a year or more to elapse between penetration tests&rdquo; (NCSC, 2017/2022). A test is a snapshot. The siege is a film.</p>
+<h2 id="the-cost-of-the-uninvited-test">The cost of the uninvited test</h2>
+<p>The uninvited test has a price, and it arrives late. IBM puts the mean time to identify and contain a breach at 247 days (IBM and Ponemon Institute, 2026). In the United States, IBM reports average breach costs exceeded all other countries and regions in its study, at a record USD 11.5 million (IBM and Ponemon Institute, 2026).</p>
+<p>Ransom economics are shifting, too. Verizon reports ransomware present in 48% of breaches, up from 44%, while 69% of ransomware victims in its dataset did not pay, and the median ransom paid fell to USD 139,875 from USD 150,000 (Verizon, 2026). Fewer payments do not mean less damage. They mean the damage is being absorbed in downtime, recovery and lost trust instead.</p>
+<h2 id="what-this-paper-is-and-is-not">What this paper is, and is not</h2>
+<p>This paper is a practical guide to commissioning, governing and using authorized security testing in a mid-size organization. It explains the differences between testing types, how to authorize and scope a test, what good methodology looks like at the level a buyer needs, how to turn findings into fixes, how to test detection and response, and how to choose a provider.</p>
+<p>It is not a technical manual. It contains no attack techniques, exploit steps, tool instructions or targeting content. The public standards cited here, such as NIST SP 800-115, PTES, the OWASP testing guide and the CREST guide, are the right places for practitioners to go for methodology. The Penetration Testing Execution Standard itself notes that the standard &ldquo;does not provide any technical guidelines as far as how to execute an actual pentest&rdquo; and keeps those separate (PTES). I keep them out entirely.</p>
+<p>And it is not a sales pitch dressed as research. Every statistic belongs to the source cited. Where I give my own judgment, I say so.</p>
+<h1 id="the-siege">The siege, read by a security analyst</h1>
+<p>Before the analysis, the lens. I want to be precise about what the comparison claims and what it does not.</p>
+<h2 id="the-framing">The framing</h2>
+<p>Irregular warfare is my analytic lens. Current U.S. joint doctrine, as quoted by the Army&rsquo;s Center for Army Lessons Learned, defines it as &ldquo;a form of warfare where state and non-state actors campaign to assure or coerce states or other groups through indirect, non-attributable, or asymmetric activities, either as the primary approach or in concert with conventional warfare&rdquo; (U.S. Army CALL, 2025). The same source says the term &ldquo;seeks to create dilemmas and increase risk and costs to adversaries to achieve a position of advantage&rdquo; (U.S. Army CALL, 2025).</p>
+<p>Strip away the military context and three ideas are left. Indirect: work around strength rather than through it. Non-attributable: make it hard to know who did it. Asymmetric: spend little, force the other side to spend a lot.</p>
+<p>Every one of those describes the people probing your network. They go around your firewall through a supplier or a help desk. They hide behind rented infrastructure and stolen accounts. They spend pennies on scanning and make you spend weeks on recovery.</p>
+<p>The siege is the image I use to hold those ideas together. It is a comparison, not a claim. Your organization is not a fortress, and nobody is besieging it in any literal sense. But the logic of a siege maps onto defensive security in ways that are useful for a buyer of testing.</p>
+<h2 id="five-things-every-siege-teaches">Five things every siege teaches</h2>
+<p><strong>1. The wall is only as strong as its weakest stretch.</strong> A besieger does not attack the strongest gate. It walks the perimeter looking for the crumbling section, the unwatched postern, the culvert nobody thought of. Your attackers do the same with scanners and leaked credentials. Verizon&rsquo;s finding that unpatched edge devices and compromised credentials explain so many opportunistic ransomware cases among smaller businesses is the modern version (Verizon, 2026).</p>
+<p><em>For testing:</em> scope must follow the perimeter an adversary sees, not the one your asset register describes.</p>
+<p><strong>2. The besieger has time; the defender has a schedule.</strong> NIST says it plainly: testing &ldquo;often has a narrow scope because of resource limitations—particularly in the area of time. Malicious attackers, on the other hand, can take whatever time they need&rdquo; (NIST SP 800-115, 2008). Your test lasts two weeks. The siege does not end.</p>
+<p><em>For testing:</em> a single annual test cannot match a continuous adversary. Continuous scanning and scheduled assessment have to carry the load between tests.</p>
+<p><strong>3. Defenders who survive walk their own walls.</strong> The garrison that inspects its own defenses, repairs what it finds and drills its sentries holds longer than the one that trusts the stone. That is authorized testing in one sentence: you find the weak stretch first.</p>
+<p><em>For testing:</em> the goal is not a clean report. It is a list of repairs.</p>
+<p><strong>4. Most walls fall from the inside.</strong> History is full of gates opened by someone persuaded, paid or fooled. Verizon puts the human element in 62% of breaches and reports pretexting, a scheme built on a concocted trusted relationship, at 6% of all breaches (Verizon, 2026). IBM reports social engineering such as impersonating help desk staff in 13% of the attacks it studied (IBM and Ponemon Institute, 2026).</p>
+<p><em>For testing:</em> people and processes belong in scope, with careful rules, consent from leadership and respect for the staff involved.</p>
+<p><strong>5. Sentries matter as much as stone.</strong> A wall that is breached but watched is a problem. A wall that is breached and unwatched is a catastrophe. IBM&rsquo;s 247-day mean time to identify and contain is the cost of unwatched walls (IBM and Ponemon Institute, 2026).</p>
+<p><em>For testing:</em> test detection and response, not only prevention. That is what red teaming is for.</p>
+<h2 id="the-adversarys-three-advantages-and-the-testers-answer">The adversary&rsquo;s three advantages, and the tester&rsquo;s answer</h2>
+<table>
+<thead>
+<tr>
+<th>Adversary advantage</th>
+<th>What it looks like on a network</th>
+<th>What authorized testing gives back</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Indirect approach</strong></td>
+<td>Entry through a supplier, a forgotten system or a person, not through the hardened front door</td>
+<td>Scope built around realistic routes, including third parties and social engineering where authorized</td>
+</tr>
+<tr>
+<td><strong>Non-attribution</strong></td>
+<td>Activity that blends with normal administration and is hard to distinguish or trace</td>
+<td>Exercises that measure whether your monitoring can tell the difference</td>
+</tr>
+<tr>
+<td><strong>Asymmetric cost</strong></td>
+<td>Cheap, automated probing against a defense that must be right everywhere</td>
+<td>Prioritization that spends your limited effort on what is actually exploited</td>
+</tr>
+</tbody>
+</table>
+<p>The answer to each advantage is not a product. It is information you could not get any other way: a controlled, permitted look at your own defenses through hostile eyes.</p>
+<h2 id="where-the-comparison-breaks">Where the comparison breaks</h2>
+<p>Every comparison has limits. This one has four.</p>
+<p><strong>A tester is not an enemy.</strong> The whole point of authorized testing is that the tester works for you, under your rules, and stops when you say stop. Treating testers as adversaries, inside the organization or out, poisons the program. They are the scouts you send to the wall, not the army outside it.</p>
+<p><strong>Your systems are not a battlefield.</strong> No one is going to be hurt by a misconfigured server the way people are hurt in war. The comparison is about logic and economics, not about stakes.</p>
+<p><strong>Law and ethics bind you, not them.</strong> Real attackers ignore the law. Your testers cannot and must not. NIST notes that &ldquo;attackers are not bound by this constraint and use whatever techniques they feel necessary&rdquo; while organizations &ldquo;tend to avoid using testing techniques that impact systems or networks&rdquo; (NIST SP 800-115, 2008). That gap is permanent. Good scoping narrows it. Nothing closes it.</p>
+<p><strong>The paper is not about any real conflict.</strong> I use the siege as a general image. I name no state, no army and no campaign, and I make no claim about any party.</p>
+<h2 id="the-device-walk-your-own-walls">The device: walk your own walls</h2>
+<p>The rest of the paper is organized around one habit: walk your own walls before someone else does. That habit has eight parts, covered in the Analysis.</p>
+<ol>
+<li>Know the difference between the kinds of testing (Part I).</li>
+<li>Get permission that stands up (Part II).</li>
+<li>Scope the test the way an adversary would see you (Part III).</li>
+<li>Demand a method you can audit (Part IV).</li>
+<li>Turn findings into fixes, and prove they held (Part V).</li>
+<li>Test the sentries, not just the stone (Part VI).</li>
+<li>Buy testing like a professional (Part VII).</li>
+<li>Rehearse with three hypothetical scenarios (Part VIII).</li>
+</ol>
+<h1 id="analysis">Analysis: walking your own walls</h1>
+<p>The analysis has eight parts. Each ends with what to do and what to measure.</p>
+<h2 id="part-i-kinds-of-testing">Part I: Know the difference. Four kinds of looking</h2>
+<p>The most expensive mistake in testing is buying the wrong kind. CREST&rsquo;s research with organizations found that &ldquo;understanding the difference between vulnerability scanning and penetration testing&rdquo; was one of the top six challenges they reported, alongside &ldquo;identifying what type of penetration test is required&rdquo; (CREST, 2022).</p>
+<p>So start with definitions. They are not academic. They decide what you pay for and what you learn.</p>
+<h2 id="examination-and-testing">Examination and testing</h2>
+<p>NIST draws the first line. Examinations &ldquo;primarily involve the review of documents such as policies, procedures, security plans, security requirements, standard operating procedures, architecture diagrams, engineering documentation, asset inventories, system configurations, rulesets, and system logs.&rdquo; Testing &ldquo;involves hands-on work with systems and networks to identify security vulnerabilities&rdquo; (NIST SP 800-115, 2008).</p>
+<p>Both matter. NIST warns that testing &ldquo;is less likely than examinations to identify weaknesses related to security policy and configuration,&rdquo; and that &ldquo;in many cases, combining testing and examination techniques can provide a more accurate view of security&rdquo; (NIST SP 800-115, 2008). A good program reads the plans and walks the wall.</p>
+<h2 id="vulnerability-scanning">Vulnerability scanning</h2>
+<p>CREST describes vulnerability assessment, &ldquo;sometimes referred to as &lsquo;scanning&rsquo;,&rdquo; as &ldquo;the use of automated tools to identify known common vulnerabilities in a system&rsquo;s configuration.&rdquo; Such tools &ldquo;scan the information systems environment to establish whether security settings have been switched on and consistently applied – and that appropriate security patches have been deployed.&rdquo; It &ldquo;does not exploit vulnerabilities identified to replicate a real attack, nor does it consider overall security management processes and procedures that support the system&rdquo; (CREST, 2022).</p>
+<p>Scanning is the sentry on the wall. It is cheap, repeatable and broad. It is also noisy and literal. A scanner reports what it can see from where it stands. It does not know which server holds your payroll.</p>
+<p>For some organizations, scanning is available at no cost. CISA&rsquo;s Cyber Hygiene services include vulnerability scanning that &ldquo;continuously monitors and assesses internet-accessible network assets,&rdquo; with weekly reports and ad-hoc alerts on urgent findings, including known exploited vulnerabilities, and web application scanning that covers, among other things, the OWASP Top Ten (CISA Cyber Hygiene). CISA states the services are available to U.S.-based federal, state, local, tribal and territorial governments, and to public and private sector critical infrastructure organizations (CISA Cyber Hygiene). CISA also says enrolled organizations &ldquo;typically reduce their risk and exposure by 40% within the first 12 months.&rdquo; That is CISA&rsquo;s own claim about its program. I report it as such.</p>
+<h2 id="vulnerability-assessment">Vulnerability assessment</h2>
+<p>In this paper, I separate scanning from assessment, even though some sources use the terms interchangeably. Assessment is what a skilled person does with scan results and everything else: validate them, remove false positives, add business context, and rank what matters. NIST&rsquo;s example of an assessment plan for a vulnerability assessment lists activities &ldquo;such as port and service identification, vulnerability scanning, security configuration review, and password cracking&rdquo; against agreed targets (NIST SP 800-115, 2008). The point is judgment, not volume.</p>
+<p>The NIST Cybersecurity Framework 2.0 puts the outcome in one line: &ldquo;Vulnerabilities in assets are identified, validated, and recorded&rdquo; (NIST CSF 2.0, 2024, ID.RA-01). Identified, validated and recorded. Scanning does the first. Assessment does all three.</p>
+<h2 id="penetration-testing">Penetration testing</h2>
+<p>A penetration test goes a step further. It asks whether a weakness can actually be used, and what follows if it is.</p>
+<p>The NCSC defines it as &ldquo;a method for gaining assurance in the security of an IT system by attempting to breach some or all of that system&rsquo;s security, using the same tools and techniques as an adversary might&rdquo; (NCSC, 2017/2022). CREST calls it &ldquo;an ethical attack simulation&rdquo; built around a manual testing process (CREST, 2022).</p>
+<p>NIST divides a penetration test into four phases: planning, discovery, attack and reporting. In the planning phase, &ldquo;rules are identified, management approval is finalized and documented, and testing goals are set.&rdquo; NIST adds: &ldquo;No actual testing occurs in this phase&rdquo; (NIST SP 800-115, 2008). Remember that sentence. A large part of a good test happens before anyone tests anything.</p>
+<p>Penetration tests come in different shapes. The NCSC describes a range by how much the testers are told. In transparent or open box testing, &ldquo;full information about the target is shared with the testers.&rdquo; In opaque or closed box testing, &ldquo;no information is shared with the testers about the internals of the target,&rdquo; which &ldquo;more accurately models the risk faced from attackers that are unknown or unaffiliated to the target organisation,&rdquo; but &ldquo;can also result in vulnerabilities remaining undiscovered in the time allocated for testing&rdquo; (NCSC, 2017/2022). NIST makes the related distinction between external testing, conducted &ldquo;from outside the organization&rsquo;s security perimeter,&rdquo; and internal testing (NIST SP 800-115, 2008).</p>
+<p>There is a trade. The less you tell the tester, the more realistic the test, and the less of your estate it covers in the time you paid for. For most mid-size organizations, more information produces more value per day. Save the opaque test for the question it answers best: what does an unknown outsider see?</p>
+<h2 id="red-teaming">Red teaming</h2>
+<p>Red teaming is a different discipline with a different question. CREST quotes the UK Ministry of Defence Red Teaming Guide, which defines a red team as &ldquo;a team that is formed with the objective of subjecting an organisation&rsquo;s plans, programmes, ideas and assumptions to rigorous analysis and challenge&rdquo; (CREST, 2022). In security practice, the red team emulates an adversary to test whether the organization&rsquo;s people, processes and technology can detect and respond.</p>
+<p>The European TIBER-EU framework, built for the financial sector, describes &ldquo;threat intelligence-based ethical red-teaming&rdquo; that mimics &ldquo;the tactics, techniques and procedures of real-life attackers, based on bespoke threat intelligence.&rdquo; Its key line: &ldquo;The outcome is not a pass or fail.&rdquo; The test is intended &ldquo;to reveal the strengths and weaknesses of the cyber resilience measures put in place by the tested entity, with a focus on the learning effect of the test&rdquo; (ECB, TIBER-EU).</p>
+<p>Red teaming is powerful and easy to misuse. It is the last thing a young program needs, not the first. If you cannot keep up with your scan results, you are not ready to learn that your monitoring missed a simulated intruder. You already know.</p>
+<h2 id="purple-teaming">Purple teaming</h2>
+<p>Purple teaming puts the attackers and defenders in the same room, on purpose. The red side runs an agreed activity. The blue side watches what its tools saw and what they missed. Both sides fix the gap together. TIBER-EU publishes separate purple-teaming guidance for how this is managed inside its testing and closure phases (ECB, TIBER-EU).</p>
+<p>For a mid-size organization, purple exercises often deliver more learning per dollar than a covert red team, because nothing is wasted on secrecy. The goal is not to catch anyone out. It is to make the sentries better.</p>
+<h2 id="the-comparison">The comparison</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Scanning</th>
+<th>Assessment</th>
+<th>Penetration test</th>
+<th>Red team</th>
+<th>Purple exercise</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Question</strong></td>
+<td>What known weaknesses are visible?</td>
+<td>Which are real and which matter most?</td>
+<td>Could an attacker get through, and how far?</td>
+<td>Would we notice and respond?</td>
+<td>Can we see and stop this specific behavior?</td>
+</tr>
+<tr>
+<td><strong>Depth</strong></td>
+<td>Broad, shallow</td>
+<td>Broad, validated</td>
+<td>Narrow, deep</td>
+<td>Objective-driven</td>
+<td>Narrow, collaborative</td>
+</tr>
+<tr>
+<td><strong>Who knows</strong></td>
+<td>Everyone</td>
+<td>Everyone</td>
+<td>Usually IT and security</td>
+<td>A small control group</td>
+<td>Everyone involved</td>
+</tr>
+<tr>
+<td><strong>Cadence</strong></td>
+<td>Continuous</td>
+<td>Monthly or quarterly</td>
+<td>Annually and after major change</td>
+<td>When fundamentals are in place</td>
+<td>Regularly, by theme</td>
+</tr>
+<tr>
+<td><strong>Main output</strong></td>
+<td>Finding list</td>
+<td>Ranked, validated findings</td>
+<td>Exploitable paths and fixes</td>
+<td>Detection and response gaps</td>
+<td>Tuned detections</td>
+</tr>
+<tr>
+<td><strong>Readiness needed</strong></td>
+<td>An inventory</td>
+<td>A remediation process</td>
+<td>Assessment under control</td>
+<td>Detection and response in place</td>
+<td>A team willing to learn in the open</td>
+</tr>
+</tbody>
+</table>
+<p>Treat the cadence column as my judgment, not a standard. Your regulators, customers and risk appetite may require more.</p>
+<h2 id="what-to-do">What to do</h2>
+<ul>
+<li>Write a one-page testing policy that defines these five activities in your own words and says who may commission each.</li>
+<li>Start or tighten continuous external scanning before buying a deeper test. If you are eligible, consider CISA&rsquo;s no-cost services.</li>
+<li>Match each test to the question you need answered. Write that question at the top of the scope.</li>
+<li>Do not buy a red team until scanning and assessment are under control.</li>
+</ul>
+<h2 id="what-to-measure">What to measure</h2>
+<ul>
+<li>Share of internet-facing assets covered by continuous scanning.</li>
+<li>For each test, whether the stated question was answered.</li>
+<li>Share of penetration test findings that your own assessment had already identified. The NCSC&rsquo;s ideal is that you know most of them in advance (NCSC, 2017/2022).</li>
+</ul>
+<h2 id="part-ii-authority">Part II: Permission first. Authority that stands up</h2>
+<p>This is the part of the paper I care about most.</p>
+<p>Without permission, there is no such thing as ethical hacking. There is only hacking. The difference between a security test and a crime is a signature, a scope and a set of rules, made before the work starts, by people with the authority to make them.</p>
+<p>NIST&rsquo;s glossary defines rules of engagement as &ldquo;detailed guidelines and constraints regarding the execution of information security testing,&rdquo; established before the start of a test, that give the test team &ldquo;authority to conduct defined activities without the need for additional permissions&rdquo; (NIST SP 800-115, 2008). Read the last phrase again. Authority to conduct defined activities. Not any activities. Defined ones.</p>
+<h2 id="who-may-say-yes">Who may say yes</h2>
+<p>Permission has to come from someone who actually owns the risk and the systems. That sounds obvious. It is where many programs go wrong.</p>
+<p>NIST says that if an organization &ldquo;does not control part or all of its network, such as having a portion of its systems housed on a third party&rsquo;s network, the owner of the other network usually must also consent in writing to the assessment plan.&rdquo; It gives the example of shared systems, such as virtual machine platforms that serve several organizations. &ldquo;By signing the assessment plan, all parties acknowledge and approve of the assessment&rdquo; (NIST SP 800-115, 2008).</p>
+<p>In a modern mid-size organization, that list of owners is long. Cloud platforms. Software-as-a-service providers. Managed service providers. Hosting companies. Payment processors. Each has its own terms on what customers may test and how. Some publish testing policies. Some require notice. Some forbid certain activities outright. Your contract with the tester does not override your contract with them.</p>
+<p>My rule: if you do not own it outright, you get written permission from whoever does, or it is out of scope.</p>
+<h2 id="the-law-is-part-of-scope">The law is part of scope</h2>
+<p>NIST recommends that legal advisors &ldquo;always be involved for intrusive tests such as penetration testing.&rdquo; Legal departments &ldquo;may assist in reviewing the assessment plan and providing indemnity or limitation of liability clauses into contracts,&rdquo; may require nondisclosure agreements, and &ldquo;should also address any privacy concerns&rdquo; (NIST SP 800-115, 2008). NIST notes that captured data &ldquo;may include sensitive data that does not belong to the organization—or personal employee data, which may create privacy concerns&rdquo; (NIST SP 800-115, 2008).</p>
+<p>In the United States, the federal computer crime statute turns on authorization. When the Department of Justice revised its charging policy under the Computer Fraud and Abuse Act in 2022, it said that, for the first time, the policy &ldquo;directs that good-faith security research should not be charged.&rdquo; It also said that &ldquo;claiming to be conducting security research is not a free pass for those acting in bad faith,&rdquo; and that the policy focuses on cases where a defendant &ldquo;is either not authorized at all to access a computer or was authorized to access one part of a computer&rdquo; and accessed a part beyond it (DOJ, 2022).</p>
+<p>That is a prosecutorial policy, not a safe harbor, and it is not legal advice. I cite it to make one point: authorization is the legal hinge. Testing inside it is defense. Testing outside it may be a crime, whatever the intent. Other countries have their own laws, and testing across borders raises its own questions. Ask counsel in every jurisdiction involved.</p>
+<h2 id="the-authorization-package">The authorization package</h2>
+<p>NIST describes an assessment plan, rules of engagement, or both, and suggests a short memorandum that testers can show to staff &ldquo;as authorization to gain access to particular systems&rdquo; (NIST SP 800-115, 2008). Whatever you call the documents, the package should answer these questions in writing.</p>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>What the document must say</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Who authorizes?</strong></td>
+<td>Named executive owner with authority over every system in scope, plus written consent from any third-party owners</td>
+</tr>
+<tr>
+<td><strong>Who tests?</strong></td>
+<td>The provider, the named testers, their qualifications, and any background checks your policies require</td>
+</tr>
+<tr>
+<td><strong>What is in scope?</strong></td>
+<td>Systems, applications, address ranges, locations and people, listed specifically</td>
+</tr>
+<tr>
+<td><strong>What is out of scope?</strong></td>
+<td>An explicit exclusion list. NIST says the plan &ldquo;should also list specific systems &hellip; that are not authorized to be examined or tested&rdquo; (NIST SP 800-115, 2008)</td>
+</tr>
+<tr>
+<td><strong>What is allowed?</strong></td>
+<td>Types and level of testing, at a level of detail that describes &ldquo;the type of testing, approach, and tools&rdquo; (NIST SP 800-115, 2008)</td>
+</tr>
+<tr>
+<td><strong>What is forbidden?</strong></td>
+<td>Prohibited activities stated &ldquo;in a way that leaves no room for interpretation&rdquo; (NIST SP 800-115, 2008)</td>
+</tr>
+<tr>
+<td><strong>When?</strong></td>
+<td>Dates, hours, blackout periods and change freezes</td>
+</tr>
+<tr>
+<td><strong>From where?</strong></td>
+<td>Source addresses and locations of testing, so administrators can tell testing from attack (NIST SP 800-115, 2008)</td>
+</tr>
+<tr>
+<td><strong>Who is on call?</strong></td>
+<td>Primary and alternate contacts on both sides, available at short notice, and an escalation path</td>
+</tr>
+<tr>
+<td><strong>What about data?</strong></td>
+<td>Storage, encryption, transmission, retention and destruction of any data the testers touch</td>
+</tr>
+<tr>
+<td><strong>What if something breaks?</strong></td>
+<td>Stop conditions, who can call a halt, and how service is restored</td>
+</tr>
+<tr>
+<td><strong>What if they find a real intruder?</strong></td>
+<td>Whether testing stops, who is told, and who decides when it resumes</td>
+</tr>
+<tr>
+<td><strong>Who else must know?</strong></td>
+<td>Requirements to inform parent organizations, insurers, regulators or incident response providers</td>
+</tr>
+</tbody>
+</table>
+<p>That last row matters more than it looks. NIST says the plan should identify any requirements &ldquo;to inform parent organizations, law enforcement, and a computer incident response team&rdquo; and, for covert testing, define how detected test activity is handled, so that &ldquo;assessment activity does not trigger reporting of security breaches to external parties&rdquo; (NIST SP 800-115, 2008). Think about your cyber insurer and your managed security provider. A test that triggers a false breach notification is a test that went badly.</p>
+<h2 id="the-real-intruder-clause">The real intruder clause</h2>
+<p>This one deserves its own heading. Testers sometimes find evidence that someone else got there first.</p>
+<p>NIST asks the right questions: &ldquo;if the assessors discover an actual intruder or an intruder&rsquo;s footprints within the network, should testing stop? If so, when can testing recommence—and by whose authority?&rdquo; It says the plan &ldquo;should provide clear-cut instructions&rdquo; (NIST SP 800-115, 2008).</p>
+<p>Decide in advance. In my view the default should be: stop the test, preserve what was seen, hand over to incident response under your existing plan, and restart only with fresh written authority. A test that keeps running over a live intrusion can destroy evidence and confuse the response.</p>
+<h2 id="people-in-scope">People in scope</h2>
+<p>Social engineering tests touch real people. They deserve more care, not less.</p>
+<p>The NCSC&rsquo;s description of scenario-driven testing and CREST&rsquo;s note that a penetration test &ldquo;plays only a small part (despite often including social engineering tests) in reviewing the people element&rdquo; both treat people as part of the picture (NCSC, 2017/2022; CREST, 2022). If people are in scope, add these to the package:</p>
+<ul>
+<li>Explicit leadership approval and, where your policies or law require it, review by human resources and counsel.</li>
+<li>A rule that results are reported as patterns and process gaps, not as names to be disciplined.</li>
+<li>A ban on pretexts that would cause real distress, exploit personal circumstances or impersonate emergency services, regulators or law enforcement.</li>
+<li>A debrief plan, so that the people involved learn something and are not simply embarrassed.</li>
+</ul>
+<p>The purpose of testing people is to fix processes, such as how the help desk verifies a reset or how finance confirms a payment change. A test that makes staff afraid to report mistakes has made you weaker.</p>
+<h2 id="stop-means-stop">Stop means stop</h2>
+<p>Every authorization needs a stop. Name who can call it on each side, how it is communicated, and how fast testers must cease. Test the stop at the kickoff meeting. It takes two minutes and it will tell you whether the contacts actually answer.</p>
+<div class="callout"><p class="callout-lead">The takeaway</p><p>Permission is not paperwork. It is the line between defense and attack. Get it from every owner, in writing, before anyone touches anything.</p></div>
+
+<h2 id="what-to-do_1">What to do</h2>
+<ul>
+<li>Adopt a standard authorization template based on the table above and NIST&rsquo;s rules-of-engagement outline in SP 800-115 Appendix B.</li>
+<li>List every third-party platform in scope and record the written permission or published testing policy for each.</li>
+<li>Involve counsel for every intrusive test. Decide the real-intruder clause and the stop procedure before kickoff.</li>
+<li>For any test involving people, add the people safeguards above.</li>
+</ul>
+<h2 id="what-to-measure_1">What to measure</h2>
+<ul>
+<li>Share of tests with a complete, signed authorization package before the start date.</li>
+<li>Number of third-party systems tested without recorded permission. The target is zero.</li>
+<li>Time from &ldquo;stop&rdquo; to cessation in the kickoff drill.</li>
+</ul>
+<h2 id="part-iii-scope">Part III: Scope like the besieger. See yourself from outside</h2>
+<p>A test is only as good as its scope. Scope too narrow, and the report is clean and useless. Scope too broad, and the testers spend their days skimming and you learn little about anything.</p>
+<p>CREST&rsquo;s research found that &ldquo;determining the depth and breadth of coverage of the test&rdquo; was the first of the top six challenges organizations report, and &ldquo;agreeing targets and frequency of tests&rdquo; was another (CREST, 2022). This part is about getting both right.</p>
+<h2 id="start-from-the-crown-not-the-contract">Start from the crown, not the contract</h2>
+<p>Scope usually starts from what is easy to describe: a website, an address range, an office network. That is backward. Start from what you cannot afford to lose.</p>
+<p>Name your crown assets. The systems and data whose loss, disclosure or corruption would hurt the organization most. Payroll and finance. Customer records. The operational system your revenue depends on. The identity system that controls access to everything else. Then work outward: what touches them, who administers them, which suppliers connect to them, and what an outsider can see of any of it.</p>
+<p>CREST&rsquo;s guide recommends identifying target environments by considering, among other things, &ldquo;all main internal systems that support your organisation,&rdquo; &ldquo;their level of criticality to the business,&rdquo; and &ldquo;details about important third-party suppliers&rdquo; (CREST, 2022).</p>
+<h2 id="let-the-evidence-shape-the-routes">Let the evidence shape the routes</h2>
+<p>Public data tells you which routes adversaries use most. Use it to set priorities, adjusted for what you know about yourself.</p>
+<table>
+<thead>
+<tr>
+<th>Route</th>
+<th>What the public data says</th>
+<th>What to put in scope</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The edge</strong></td>
+<td>Exploitation of vulnerabilities is now the most common initial access vector in Verizon&rsquo;s dataset, at 31%. Unpatched edge devices explain 29% of the opportunistic SMB ransomware cases it describes (Verizon, 2026)</td>
+<td>Internet-facing systems: remote access gateways, firewalls, email and web services, exposed management interfaces</td>
+</tr>
+<tr>
+<td><strong>Credentials</strong></td>
+<td>Compromised credentials explain 38% of those SMB cases (Verizon, 2026). Small organizations in Verizon&rsquo;s data experienced a median of seven credential leak events over the year (Verizon, 2026)</td>
+<td>Login surfaces, password policy, multifactor coverage, account recovery and help-desk reset processes</td>
+</tr>
+<tr>
+<td><strong>People</strong></td>
+<td>Human element in 62% of breaches; pretexting at 6% and phishing at 16% of breaches (Verizon, 2026)</td>
+<td>Authorized social engineering tests aimed at processes such as reset verification and payment changes</td>
+</tr>
+<tr>
+<td><strong>Suppliers</strong></td>
+<td>Third-party involvement in 48% of breaches (Verizon, 2026). Supply chain compromise the second most common initial attack vector in IBM&rsquo;s study (IBM and Ponemon Institute, 2026)</td>
+<td>Supplier connections and accounts, shared platforms (with the owner&rsquo;s written permission), and your own controls over supplier access</td>
+</tr>
+<tr>
+<td><strong>Web applications</strong></td>
+<td>The OWASP Top 10:2025 lists Broken Access Control first, followed by Security Misconfiguration and Software Supply Chain Failures (OWASP Top 10, 2025)</td>
+<td>Customer portals and internal applications, tested against a recognized methodology</td>
+</tr>
+<tr>
+<td><strong>Internal depth</strong></td>
+<td>CISA&rsquo;s red team, in a mature organization, gained persistent access and moved across sites before reaching systems adjacent to sensitive business systems (CISA AA23-059A, 2023)</td>
+<td>An assumed-breach test: what an attacker could reach from an ordinary workstation or account</td>
+</tr>
+</tbody>
+</table>
+<p>Verizon&rsquo;s own advice on its statistics is the right attitude. Its report says to use its data &ldquo;as your starting point, then gather evidence about your specific situation to determine if your risk is higher or lower than that baseline&rdquo; (Verizon, 2026). In its worked example, a hospital uses its last penetration test results, among other evidence, to adjust its view of its own risk (Verizon, 2026). That is exactly how test results should feed back into planning.</p>
+<h2 id="the-outside-in-view">The outside-in view</h2>
+<p>Before the test, get the besieger&rsquo;s view. What does the internet see of you? Which domains, addresses, services and cloud resources answer from outside? Compare that list to your asset register. The gaps are the forgotten gates.</p>
+<p>This is also the single best use of an opaque, external test. The NCSC notes that closed box testing &ldquo;more accurately models the risk faced from attackers that are unknown or unaffiliated to the target organisation&rdquo; (NCSC, 2017/2022). An outsider who finds a system you did not know you had has given you the most valuable finding in the report.</p>
+<h2 id="assume-the-wall-is-crossed">Assume the wall is crossed</h2>
+<p>Some of the best scope questions start inside. Suppose an attacker already has one ordinary account and one ordinary laptop. What can they reach? How far is it from there to the crown?</p>
+<p>An assumed-breach test answers that question directly, without spending your budget on the initial way in. It makes sense when you already know the way in exists. Verizon&rsquo;s numbers on credentials and edge devices suggest that, for many organizations, it does.</p>
+<h2 id="depth-versus-breadth">Depth versus breadth</h2>
+<p>Every scope trades depth against breadth for a fixed budget. The NCSC&rsquo;s model scoping output states &ldquo;the timeframe and the amount of effort necessary to deliver the testing - usually given in terms of resource days&rdquo; (NCSC, 2017/2022). Look at that number critically. Divide it by the number of systems in scope. If the answer is a few hours per system, you are buying a scan with a human signature on it.</p>
+<p>My rule of thumb: test fewer things, more deeply, more often, and rotate the scope. A three-year rotation that tests the crown every year and everything else at least once is better than an annual test that touches everything and understands nothing.</p>
+<h2 id="when-scope-changes-mid-test">When scope changes mid-test</h2>
+<p>Testers will find things outside scope. A connected system nobody listed. A supplier link that leads somewhere unexpected. The NCSC says the testing team &ldquo;may either suggest a change to the scope, which is likely to alter testing time frames and cost, or they may recommend that the exclusion of such components be recorded as a limitation on testing,&rdquo; and that the decision &ldquo;will generally be down to the risk owner&rdquo; (NCSC, 2017/2022).</p>
+<p>Write that process into the authorization. No tester should ever extend scope on their own initiative. Scope grows only with fresh written approval, and only from someone with authority over the new systems.</p>
+<h2 id="special-handling">Special handling</h2>
+<p>Some systems need extra care. Operational technology. Medical devices. Payment systems. Fragile legacy applications. NIST notes that &ldquo;any time that a test or tester directly interacts with a system or network, the potential exists for unexpected system halts and other denial of service conditions,&rdquo; and that organizations &ldquo;should determine their acceptable levels of intrusiveness&rdquo; and may exclude tests &ldquo;known to create denial of service conditions&rdquo; (NIST SP 800-115, 2008). Its example is a payroll database &ldquo;deemed too mission-critical for a particular type of testing&rdquo; placed on the exclusion list (NIST SP 800-115, 2008).</p>
+<p>Exclusion is a decision, not a safe place. If a system is too fragile to test, it may be too fragile to survive a real attacker. Record the exclusion, record who accepted the risk, and find another way to assure it, such as configuration review, architecture review or a test against a faithful copy.</p>
+<div class="callout"><p class="callout-lead">The takeaway</p><p>Scope from the crown outward. Follow the routes the evidence says are used. Test fewer things more deeply. Never let scope grow without a signature.</p></div>
+
+<h2 id="what-to-do_2">What to do</h2>
+<ul>
+<li>Name your crown assets and map what touches them before writing any scope.</li>
+<li>Compare the outside-in view with your asset register and fix the gaps.</li>
+<li>Build a multi-year rotation: crown every year, edge every year, everything else on a cycle.</li>
+<li>Include at least one assumed-breach objective in your next test.</li>
+<li>Record every exclusion with a named risk owner and an alternative form of assurance.</li>
+</ul>
+<h2 id="what-to-measure_2">What to measure</h2>
+<ul>
+<li>Share of crown assets tested in the past 12 months.</li>
+<li>Number of internet-facing assets discovered by testing that were not in the asset register.</li>
+<li>Effort per in-scope system, in tester hours.</li>
+<li>Number of exclusions without an alternative assurance method.</li>
+</ul>
+<h2 id="part-iv-method">Part IV: Demand a method you can audit</h2>
+<p>You do not need to know how to run a penetration test to buy a good one. You do need to know what a good method looks like from the outside, so you can tell a disciplined engagement from an improvised one.</p>
+<p>The NCSC warns that, by their nature, &ldquo;penetration tests cannot be entirely procedural, an exhaustive set of test cases cannot be drawn up. Therefore, the quality of a penetration test is closely linked to the abilities of the penetration testers involved&rdquo; (NCSC, 2017/2022). Skill matters. A recognized method is what makes skill consistent, repeatable and auditable.</p>
+<p>This part stays at the buyer&rsquo;s level. It describes the shape of the major public methodologies and what each should produce for you. It contains no techniques.</p>
+<h2 id="the-public-standards">The public standards</h2>
+<p><strong>NIST SP 800-115.</strong> NIST&rsquo;s <em>Technical Guide to Information Security Testing and Assessment</em> was published in September 2008. Its stated purpose is &ldquo;to provide guidelines for organizations on planning and conducting technical information security testing and assessments, analyzing findings, and developing mitigation strategies.&rdquo; NIST says it is &ldquo;not intended to present a comprehensive information security testing or assessment program,&rdquo; but &ldquo;an overview of the key elements&rdquo; (NIST SP 800-115, 2008). It is old in technology terms. Its governance guidance, on planning, rules of engagement, legal review, data handling and post-test mitigation, has aged well. It includes a rules-of-engagement template in Appendix B.</p>
+<p><strong>PTES.</strong> The Penetration Testing Execution Standard organizes a test into seven sections: pre-engagement interactions, intelligence gathering, threat modeling, vulnerability analysis, exploitation, post exploitation and reporting (PTES). Its authors describe the arc as running &ldquo;from the initial communication and reasoning behind a pentest&rdquo; through &ldquo;reporting, which captures the entire process, in a manner that makes sense to the customer and provides the most value to it&rdquo; (PTES). Note what comes first: pre-engagement, the conversations about scope and rules. And note what comes last: a report written for the customer.</p>
+<p><strong>OWASP.</strong> For web applications, the OWASP Web Security Testing Guide (WSTG) describes itself as &ldquo;the premier cybersecurity testing resource for web application developers and security professionals.&rdquo; Version 4.2 is the current release, with version 5.0 in development (OWASP WSTG). The OWASP Top 10:2025 is &ldquo;a standard awareness document for developers and web application security&rdquo; that &ldquo;represents a broad consensus about the most critical security risks to web applications&rdquo; (OWASP Top 10, 2025). A test of your web applications should be able to say how it covered each relevant category.</p>
+<p><strong>CREST.</strong> CREST&rsquo;s <em>A Guide to Penetration Testing</em> (December 2022) frames testing as a program, not an event: three main stages, preparation, testing and follow up, supported by 22 detailed steps (CREST, 2022). In the testing stage, the steps run from agreeing testing style and type, identifying constraints and producing scope statements, through establishing a management assurance framework and using an effective testing methodology, to reporting key findings (CREST, 2022). Follow up includes remediating weaknesses and evaluating testing effectiveness.</p>
+<p><strong>NCSC.</strong> The NCSC&rsquo;s model engagement follows a simple pattern: &ldquo;Initial engagement, scoping, testing, reporting and follow up. There should be a severity rating for any issues found&rdquo; (NCSC, 2017/2022).</p>
+<p><strong>TIBER-EU.</strong> For red teaming in regulated finance, TIBER-EU guidance and templates cover phases &ldquo;such as initiation, scoping, threat intelligence, red-team testing (planning and reporting), blue team report creation and remediation plan creation&rdquo; (ECB, TIBER-EU). Even if you are not a bank, the shape is instructive. Intelligence first. Remediation plan last.</p>
+<h2 id="what-the-methods-agree-on">What the methods agree on</h2>
+<p>Read them side by side and the common shape is obvious.</p>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>NIST SP 800-115</th>
+<th>PTES</th>
+<th>NCSC model</th>
+<th>CREST</th>
+<th>What you should receive</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Before</strong></td>
+<td>Planning (no testing occurs)</td>
+<td>Pre-engagement interactions</td>
+<td>Initial engagement, scoping</td>
+<td>Preparation</td>
+<td>Signed authorization package, scope, rules of engagement, test plan</td>
+</tr>
+<tr>
+<td><strong>Understand</strong></td>
+<td>Discovery</td>
+<td>Intelligence gathering, threat modeling</td>
+<td>Scoping</td>
+<td>Research and planning</td>
+<td>A short threat picture explaining why the scope looks the way it does</td>
+</tr>
+<tr>
+<td><strong>Test</strong></td>
+<td>Attack</td>
+<td>Vulnerability analysis, exploitation, post exploitation</td>
+<td>Testing</td>
+<td>Identify and exploit vulnerabilities</td>
+<td>Immediate notice of critical findings during the test</td>
+</tr>
+<tr>
+<td><strong>Report</strong></td>
+<td>Reporting</td>
+<td>Reporting</td>
+<td>Reporting</td>
+<td>Report key findings</td>
+<td>A report written for both leadership and engineers</td>
+</tr>
+<tr>
+<td><strong>After</strong></td>
+<td>Post-testing activities</td>
+<td>—</td>
+<td>Follow up</td>
+<td>Follow up: remediate, improve</td>
+<td>Root causes, remediation plan, retest</td>
+</tr>
+</tbody>
+</table>
+<p>Every serious method begins before testing and ends after it. If a proposal from a provider jumps straight to &ldquo;testing days&rdquo; and ends at &ldquo;report delivered,&rdquo; something is missing.</p>
+<h2 id="what-a-good-report-contains">What a good report contains</h2>
+<p>The NCSC lists what a test report should include: &ldquo;any security issues uncovered,&rdquo; &ldquo;an assessment by the test team as to the level of risk that each vulnerability exposes the organisation or system to,&rdquo; &ldquo;a method of resolving each issue found,&rdquo; &ldquo;an opinion on the accuracy of your organisation&rsquo;s vulnerability assessment,&rdquo; and &ldquo;advice on how to improve your internal vulnerability assessment process&rdquo; (NCSC, 2017/2022). It recommends a debrief.</p>
+<p>The last two items are the ones most reports leave out, and they are the ones that make a test an audit of your program rather than a list of bugs.</p>
+<p>I would add four things a mid-size organization should insist on:</p>
+<ol>
+<li><strong>An executive summary in plain language</strong>, one page, saying what was tested, what was found, what it means for the business, and what to do first.</li>
+<li><strong>Evidence sufficient to reproduce and verify</strong>, handled under the data rules in your authorization, so your own engineers can confirm each finding and later confirm each fix.</li>
+<li><strong>Root causes, not just symptoms.</strong> Which process failure let each finding happen.</li>
+<li><strong>A statement of limitations</strong>: what was not tested, what time ran out on, and what scope exclusions were accepted.</li>
+</ol>
+<h2 id="severity-with-judgment">Severity, with judgment</h2>
+<p>The NCSC notes that testers commonly use the Common Vulnerability Scoring System, and that CHECK reports state risk as high, medium, low or informational. It adds an important caution: other mitigating controls &ldquo;could minimise the effectiveness of a vulnerability, or the presence of additional vulnerabilities could have a synergistic effect,&rdquo; and &ldquo;any deviation from associating a vulnerability with its standard rating should be documented and justified&rdquo; (NCSC, 2017/2022).</p>
+<p>Then it says the most important sentence in its guidance for buyers: &ldquo;risk assessment and decisions on the application of fixes are your responsibility. The test team may not have had access to all details about a specific system or the potential business impact&rdquo; (NCSC, 2017/2022).</p>
+<p>The tester rates. You decide.</p>
+<h2 id="quality-control-on-your-side">Quality control on your side</h2>
+<p>You can check method quality without technical depth. Ask these questions of every engagement.</p>
+<ul>
+<li>Was the test plan written and approved before testing started?</li>
+<li>Did the provider tell you about critical findings during the test, or wait for the report?</li>
+<li>Do the findings map to the scope? Are there findings from outside scope? If so, how did that happen?</li>
+<li>Can your engineers reproduce each high-severity finding from the evidence given?</li>
+<li>Does the report state its limitations honestly?</li>
+<li>Did the testers comment on your own vulnerability assessment&rsquo;s accuracy?</li>
+</ul>
+<div class="callout"><p class="callout-lead">The takeaway</p><p>You do not need to know how to test. You need to know what a disciplined test looks like from outside: planned before, reported for the business, followed up after.</p></div>
+
+<h2 id="what-to-do_3">What to do</h2>
+<ul>
+<li>Require providers to name the public methodology they follow, and map their phases to the table above.</li>
+<li>Write your report requirements into the contract, including the NCSC&rsquo;s five items and the four additions.</li>
+<li>Hold a debrief for every test, with engineering owners in the room.</li>
+</ul>
+<h2 id="what-to-measure_3">What to measure</h2>
+<ul>
+<li>Share of reports meeting your report requirements on first delivery.</li>
+<li>Share of high-severity findings your engineers could reproduce from the evidence provided.</li>
+<li>Number of reports with an explicit limitations section. The target is all of them.</li>
+</ul>
+<h2 id="part-v-findings-to-fixes">Part V: From findings to fixes. Repair the wall, then check the repair</h2>
+<p>A test that ends with a report has failed. A test that ends with repairs, verified, has succeeded.</p>
+<p>NIST puts it directly: &ldquo;a security test is much more valuable if it also results in a mitigation strategy being developed and implemented.&rdquo; Mitigation recommendations, &ldquo;including the outcome of the root cause analysis, should be developed for each finding&rdquo; (NIST SP 800-115, 2008). CREST&rsquo;s research found organizations struggle with &ldquo;remediating system vulnerabilities effectively&rdquo; (CREST, 2022). This is where most programs leak value.</p>
+<h2 id="the-prioritization-problem">The prioritization problem</h2>
+<p>You will always have more findings than time. Verizon&rsquo;s data makes that concrete. Even top performers fix only 30% to 40% of KEV instances in the first week after detection, &ldquo;so choosing the correct ones to patch really is the key strategy&rdquo; (Verizon, 2026).</p>
+<p>So how do you choose? Four public tools help. None is enough alone.</p>
+<p><strong>Severity: CVSS.</strong> The Common Vulnerability Scoring System, maintained by FIRST and now at version 4.0, describes the technical severity of a vulnerability (FIRST CVSS v4.0). Severity tells you how bad a flaw could be. It does not tell you whether anyone is using it.</p>
+<p><strong>Known exploitation: CISA KEV.</strong> CISA says it &ldquo;maintains the authoritative source of vulnerabilities that have been exploited in the wild&rdquo; and that organizations &ldquo;should use the KEV catalog as an input to their vulnerability management prioritization framework&rdquo; (CISA KEV, 2026). The catalog version dated October 30, 2026 lists 1,766 entries, of which 361 are flagged as known to have been used in ransomware campaigns (CISA KEV, 2026). For U.S. federal civilian agencies, Binding Operational Directive 22-01 set default remediation timelines from 2021: within six months for KEV vulnerabilities with a CVE ID assigned before 2021, and within two weeks for all others (CISA BOD 22-01). On June 10, 2026, CISA revoked it and replaced it with BOD 26-04, <em>Prioritizing Security Updates Based on Risk</em>. The new directive sets the urgency of remediation from four variables: whether the asset is publicly exposed, whether the vulnerability is on the KEV catalog, whether an adversary can automate exploitation, and whether exploitation gives partial or total control. CISA says its timeline table is &ldquo;informed by the SSVC system,&rdquo; and its most urgent tier requires action within three days plus a forensic triage to check whether the system is already compromised (CISA BOD 26-04, 2026). Private organizations are not bound by either directive. The logic of the new one is a useful model: exposure and exploitation first, everything else after.</p>
+<p><strong>Likelihood: EPSS.</strong> FIRST&rsquo;s Exploit Prediction Scoring System &ldquo;estimates the probability that a published CVE will be exploited in the wild in the next 30 days,&rdquo; published daily for every CVE as a probability between 0 and 1 (FIRST EPSS). It is an estimate from a model. Treat it as a signal, not a verdict.</p>
+<p><strong>Decision: SSVC.</strong> CISA and Carnegie Mellon&rsquo;s Software Engineering Institute developed Stakeholder-Specific Vulnerability Categorization, a methodology that &ldquo;accounts for a vulnerability&rsquo;s exploitation status, impacts to safety, and prevalence of the affected product.&rdquo; CISA&rsquo;s own decision tree sorts vulnerabilities into four decisions: Track, Track*, Attend and Act (CISA SSVC). The value of SSVC is that it ends in an action, not a number.</p>
+<h2 id="where-the-sources-point-in-different-directions">Where the sources point in different directions</h2>
+<p>The prioritization signals do not always agree, and Verizon&rsquo;s data adds a twist worth knowing.</p>
+<p>KEV is a list of things that have been exploited. Verizon calls it &ldquo;a timestamp and not a timeline&rdquo;: it &ldquo;marks when a vulnerability reaches a critical mass of exploitation in the wild&rdquo; (Verizon, 2026). Verizon&rsquo;s modeling of re-exploitation found that &ldquo;the longer it&rsquo;s been since a vulnerability has been exploited, the less likely it is to be exploited again soon&rdquo;: the probability &ldquo;drops by roughly half at 30 days, again at 90 days and again by half around nine months&rdquo; (Verizon, 2026). It suggests that, faced with a choice between an older KEV entry with no recent activity and a non-KEV vulnerability with recent exploitation in your threat intelligence, &ldquo;focusing on the one with recent activity could be a smarter bet.&rdquo; Verizon also cautions that automation of vulnerability discovery and exploit development by generative AI tooling &ldquo;could upend&rdquo; that pattern (Verizon, 2026).</p>
+<p>At the same time, Verizon found that 80% of the &ldquo;Persistent&rdquo; exploitation category were older vulnerabilities, giving about two years&rsquo; advance notice (Verizon, 2026). Old does not mean quiet.</p>
+<p>My reading: KEV tells you what must be on the list. Exploitation recency and likelihood help you order the list. Your own context decides. Is it on the edge? Does it touch a crown asset? Is there a compensating control?</p>
+<h2 id="a-simple-ordering-rule">A simple ordering rule</h2>
+<p>For a mid-size team, I suggest a plain rule, adapted from the sources above. It is my synthesis, not a standard.</p>
+<table>
+<thead>
+<tr>
+<th>Priority</th>
+<th>Condition</th>
+<th>Target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Now</strong></td>
+<td>Confirmed exploitable by your tester, or KEV-listed, <strong>and</strong> internet-facing or on a path to a crown asset</td>
+<td>Fix or isolate within days, and check whether the system is already compromised. Pre-authorize emergency change</td>
+</tr>
+<tr>
+<td><strong>2. Next</strong></td>
+<td>KEV-listed or high exploitation likelihood, internal</td>
+<td>Fix within your short service level, measured in days to a few weeks</td>
+</tr>
+<tr>
+<td><strong>3. Planned</strong></td>
+<td>High severity, no exploitation evidence, limited exposure</td>
+<td>Fix in the normal cycle</td>
+</tr>
+<tr>
+<td><strong>4. Accept or track</strong></td>
+<td>Low severity, no exposure, or fully mitigated</td>
+<td>Record a risk acceptance with an owner and a review date</td>
+</tr>
+</tbody>
+</table>
+<p>Write the targets down. Publish them to the system owners. Measure against them.</p>
+<h2 id="root-cause-fix-the-process-not-just-the-server">Root cause: fix the process, not just the server</h2>
+<p>Individual findings are symptoms. NIST says &ldquo;identifying the root cause of vulnerabilities is key to improving the organization&rsquo;s overall security posture because a root cause can often be traced to program-level weaknesses,&rdquo; and lists common root causes beginning with &ldquo;insufficient patch management, such as failing to apply patches in a timely fashion or failing to apply patches to all vulnerable systems&rdquo; (NIST SP 800-115, 2008). It notes that recommendations may be technical, such as &ldquo;applying a particular patch,&rdquo; and nontechnical, addressing &ldquo;the organization&rsquo;s processes,&rdquo; such as &ldquo;updating the patch management process&rdquo; (NIST SP 800-115, 2008).</p>
+<p>For every high-severity finding, ask three questions:</p>
+<ol>
+<li><strong>Why did it exist?</strong> A missing patch, a default setting, an over-privileged account, a process gap.</li>
+<li><strong>Why did we not know?</strong> Was it invisible to our scanners, ignored in our queue, or outside our inventory?</li>
+<li><strong>Where else does the same cause apply?</strong> If one appliance was missed, which others share its owner, its patch process or its blind spot?</li>
+</ol>
+<p>The third question is where a single finding becomes ten fixes.</p>
+<h2 id="the-remediation-register">The remediation register</h2>
+<p>Every finding goes into one register, with these fields at minimum:</p>
+<ul>
+<li>Finding, severity as reported, and your own risk rating.</li>
+<li>Affected systems and the crown assets they lead to.</li>
+<li>Root cause and the process change it implies.</li>
+<li>Named owner, not a team.</li>
+<li>Target date, based on your priority rule.</li>
+<li>Status: open, in progress, fixed pending retest, verified, or risk accepted.</li>
+<li>For risk acceptance, who accepted it, why, and when it will be reviewed.</li>
+</ul>
+<p>The NIST Cybersecurity Framework expects exactly this loop. Its Improvement category includes &ldquo;Improvements are identified from security tests and exercises, including those done in coordination with suppliers and relevant third parties&rdquo; (NIST CSF 2.0, 2024, ID.IM-02).</p>
+<h2 id="retest-the-step-most-programs-skip">Retest: the step most programs skip</h2>
+<p>&ldquo;Fixed&rdquo; is a claim. A retest is the evidence.</p>
+<p>Agree a retest in the original contract, so that it is priced and scheduled rather than negotiated later. Retest every Priority 1 and 2 finding. Where root cause analysis produced a process change, test whether the process now works, not just whether the one server was patched.</p>
+<p>Then close the loop with the next scan. A finding that reappears in three months tells you the fix did not stick. That is a process failure, and it belongs back in the register.</p>
+<h2 id="measure-the-program-not-just-the-findings">Measure the program, not just the findings</h2>
+<p>The strongest signal of a healthy program is repeat findings falling over time. CREST&rsquo;s guide lists &ldquo;evaluate penetration testing effectiveness&rdquo; as a follow-up step (CREST, 2022). The NCSC&rsquo;s ideal, that you know what testers will find before they find it, gives you a direct measure: what share of the test&rsquo;s findings were already in your register (NCSC, 2017/2022)?</p>
+<div class="callout"><p class="callout-lead">The takeaway</p><p>Rank with evidence. Fix the cause, not just the symptom. Retest before you say "fixed." Measure whether the same findings come back.</p></div>
+
+<h2 id="what-to-do_4">What to do</h2>
+<ul>
+<li>Adopt a written prioritization rule that uses KEV, exploitation likelihood and your own exposure.</li>
+<li>Put every finding in one remediation register with a named owner and date.</li>
+<li>Run root cause analysis on every high-severity finding and apply the &ldquo;where else&rdquo; question.</li>
+<li>Contract for retesting up front.</li>
+</ul>
+<h2 id="what-to-measure_4">What to measure</h2>
+<ul>
+<li>Median days to fix Priority 1 findings, against your target.</li>
+<li>Share of findings verified by retest.</li>
+<li>Repeat-finding rate from one test to the next.</li>
+<li>Share of test findings already in your own register before the test.</li>
+</ul>
+<h2 id="part-vi-detection">Part VI: Test the sentries, not just the stone</h2>
+<p>Prevention fails. Every serious framework assumes it. The question is what happens next. Does anyone notice? Does anyone act?</p>
+<p>Penetration tests mostly measure the wall. Red and purple exercises measure the sentries.</p>
+<h2 id="the-lesson-from-a-mature-organization">The lesson from a mature organization</h2>
+<p>CISA published the findings of one of its own red team assessments in 2023. It is worth reading in full by anyone who runs a security program, and I will use it here only at the level of lessons, not techniques.</p>
+<p>At the request of &ldquo;a large critical infrastructure organization with multiple geographically separated sites,&rdquo; CISA conducted a red team assessment over a three-month period in 2022. The team &ldquo;gained persistent access to the organization&rsquo;s network, moved laterally across the organization&rsquo;s multiple geographically separated sites, and eventually gained access to systems adjacent to the organization&rsquo;s sensitive business systems.&rdquo; Multifactor authentication prompts prevented access to one sensitive system (CISA AA23-059A, 2023).</p>
+<p>Then the key sentence: &ldquo;Despite having a mature cyber posture, the organization did not detect the red team&rsquo;s activity throughout the assessment, including when the team attempted to trigger a security response&rdquo; (CISA AA23-059A, 2023).</p>
+<p>Let that sink in. A mature organization, with real strengths, did not see a simulated intruder for months, even when the intruder tried to be seen.</p>
+<p>CISA&rsquo;s advisory also lists what worked. &ldquo;The organization conducts regular, proactive penetration tests and adversarial assessments and invests in hardening their network based on findings.&rdquo; From more than three million external in-scope addresses, the team found no easily exploitable services, which &ldquo;forced the team to resort to phishing to gain initial access.&rdquo; Strong service account passwords, careful file shares, multifactor authentication on some sensitive systems and strong segmentation all slowed or blocked the team (CISA AA23-059A, 2023).</p>
+<p>Two lessons. First, testing and hardening worked: the outer wall held, and the adversary had to go through people instead. Second, the sentries were the weak point. CISA&rsquo;s summary &ldquo;highlights the importance of collecting and monitoring logs for unusual activity as well as continuous testing and exercises,&rdquo; and encourages organizations to &ldquo;conduct regular testing within their security operations center&rdquo; (CISA AA23-059A, 2023). It also recommends treating endpoint management systems, which &ldquo;provide elevated access to thousands of hosts,&rdquo; as high value assets with additional restrictions and monitoring (CISA AA23-059A, 2023).</p>
+<h2 id="when-to-red-team">When to red team</h2>
+<p>Red teaming is a test of maturity. It is wasted on an organization that has not done the basics. My readiness test, in my own judgment, is three yes answers:</p>
+<ol>
+<li>Scanning and assessment are continuous, and Priority 1 findings are fixed on time.</li>
+<li>There is a monitoring capability, in-house or managed, with someone accountable for responding around the clock.</li>
+<li>Leadership is ready to hear that the monitoring missed things, and to fund the fixes.</li>
+</ol>
+<p>If any answer is no, spend the budget on the gap instead.</p>
+<h2 id="how-to-run-one-safely">How to run one safely</h2>
+<p>The governance of a red team is more demanding than a penetration test, because fewer people know it is happening.</p>
+<p>TIBER-EU&rsquo;s structure is a good model. It names five roles: the blue team, &ldquo;whose prevention, detection and response capabilities are being tested without their foreknowledge&rdquo;; a threat intelligence provider; the red-team testers; a control team, &ldquo;a small team within the target entity whose members are the only ones there who know a test is happening and who lead and manage the test&rdquo;; and, in its regulatory setting, an oversight team at the authority (ECB, TIBER-EU).</p>
+<p>A mid-size organization will not have a regulator in the room. It still needs a control group. In my view the minimum is three people: an executive sponsor with authority over the whole scope, a senior security or IT leader who can deconflict in real time, and counsel. The control group holds the authorization, the stop, and the real-intruder clause from Part II.</p>
+<p>NIST&rsquo;s guidance on covert testing applies with extra force: the plan must define how test activity detected by security staff is handled, &ldquo;including as the escalation processes to be followed,&rdquo; so that it &ldquo;does not trigger reporting of security breaches to external parties&rdquo; (NIST SP 800-115, 2008). If your monitoring is outsourced, decide in advance whether the provider is in the control group or among the tested, and make sure the contract allows either.</p>
+<h2 id="purple-learning-in-the-open">Purple: learning in the open</h2>
+<p>For many mid-size organizations, the better first step is a purple exercise. The attackers and defenders agree on a set of behaviors based on threat intelligence. The red side performs each one, safely and within authorization. The blue side records what was logged, what alerted and what was missed. Then both sides fix the gaps together and run it again.</p>
+<p>The NCSC describes a related idea: &ldquo;scenario driven testing of detection and response capability,&rdquo; in which &ldquo;the aim is to also gauge the detection and response capabilities your organisation has in place&rdquo; (NCSC, 2017/2022).</p>
+<p>The output of a purple exercise is not a report. It is a set of detections that now work, and a list of those that still do not.</p>
+<h2 id="the-detection-scorecard">The detection scorecard</h2>
+<p>Whether you run red or purple, score the sentries on the same five questions for each agreed behavior:</p>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Outcome to record</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Was it logged?</strong></td>
+<td>Yes, partly, or no, and in which system</td>
+</tr>
+<tr>
+<td><strong>Did it alert?</strong></td>
+<td>Yes or no, and how long after the activity</td>
+</tr>
+<tr>
+<td><strong>Did a person look?</strong></td>
+<td>Yes or no, and how long after the alert</td>
+</tr>
+<tr>
+<td><strong>Was the response right?</strong></td>
+<td>Contained, escalated, ignored, or misclassified</td>
+</tr>
+<tr>
+<td><strong>What changes?</strong></td>
+<td>The fix to logging, detection, process or staffing</td>
+</tr>
+</tbody>
+</table>
+<p>Track the scorecard over time. Your goal is fewer &ldquo;no&rdquo; answers each round. IBM&rsquo;s finding that breach lifecycles over 200 days cost more on average than shorter ones is the business case for every row (IBM and Ponemon Institute, 2026).</p>
+<h2 id="the-machine-speed-question">The machine-speed question</h2>
+<p>The public data hints that testing itself is changing. IBM reports that, among organizations deploying AI agents in their security operations centers, only 18% used them for vulnerability scanning and management, and that in follow-on research more organizations planned to deploy agents for penetration testing (52% against 33%) and for vulnerability scans and management (37% against 18%) (IBM and Ponemon Institute, 2026). These are stated plans, not results.</p>
+<p>Automation will make some testing faster and cheaper. It does not change any rule in this paper. An automated test still needs written authorization, a scope, rules of engagement and a stop. A tool that can act needs tighter rules, not looser ones.</p>
+<div class="callout"><p class="callout-lead">The takeaway</p><p>A wall nobody watches is only a delay. Test whether the sentries see and act. Start with purple. Red team only when the basics hold.</p></div>
+
+<h2 id="what-to-do_5">What to do</h2>
+<ul>
+<li>Score your detection with a purple exercise on three to five behaviors drawn from current threat intelligence.</li>
+<li>Define a control group and covert-test procedures before any red team.</li>
+<li>Treat systems that grant administrative access at scale, such as endpoint management, as crown assets in scope.</li>
+<li>Apply the same authorization rules to any automated or AI-assisted testing.</li>
+</ul>
+<h2 id="what-to-measure_5">What to measure</h2>
+<ul>
+<li>Share of agreed behaviors that were logged, alerted and answered, per round.</li>
+<li>Median time from simulated activity to human response.</li>
+<li>Number of detection gaps closed between rounds.</li>
+</ul>
+<h2 id="part-vii-buying">Part VII: Buy testing like a professional</h2>
+<p>Most mid-size organizations buy their testing. That is sensible. CREST notes that organizations &ldquo;can carry out penetration testing themselves, sometimes very successfully. More often, they decide to use specialist third-party penetration testing providers&rdquo; (CREST, 2022). Outside testers bring skills a small team cannot keep on staff, a fresh view, and independence.</p>
+<p>Buying well is a skill of its own. CREST&rsquo;s research found organizations reported difficulties in &ldquo;establishing a business case for a test to be undertaken,&rdquo; &ldquo;understanding the costs of external services – and determining the true overall cost,&rdquo; and &ldquo;finding a suitable penetration testing expert when required (e.g. at short notice)&rdquo; (CREST, 2022).</p>
+<h2 id="the-business-case">The business case</h2>
+<p>Do not make the business case with fear. Make it with the evidence and your own numbers.</p>
+<ul>
+<li><strong>The exposure:</strong> Verizon&rsquo;s findings on exploitation as the leading initial access vector, the 26% KEV full-remediation rate and the 43-day median (Verizon, 2026).</li>
+<li><strong>The cost of being late:</strong> IBM&rsquo;s USD 4.99 million global average, the 247-day lifecycle, and the gap between breaches resolved inside and outside 200 days (IBM and Ponemon Institute, 2026).</li>
+<li><strong>The association:</strong> IBM&rsquo;s finding that offensive security testing was associated with about USD 211,339 lower average breach cost when measured in isolation (IBM and Ponemon Institute, 2026). Present it honestly. It is a correlation in one study&rsquo;s sample, measured one factor at a time. It does not prove that testing caused lower costs, and it does not predict your result.</li>
+<li><strong>The trend:</strong> Among breached organizations in IBM&rsquo;s study that planned to increase security investment, the share naming offensive security testing as an area of investment was 26%, down from 32% the year before (IBM and Ponemon Institute, 2026). You can read that as a gap worth closing.</li>
+<li><strong>Your own data:</strong> Your outside-in view, your KEV backlog, your last test&rsquo;s repeat findings. These persuade more than any industry statistic.</li>
+</ul>
+<h2 id="choosing-a-provider">Choosing a provider</h2>
+<p>CREST lists supplier selection criteria: the ability to provide a &ldquo;solid reputation,&rdquo; &ldquo;history and ethics,&rdquo; &ldquo;high quality, value-for-money services,&rdquo; &ldquo;research and development capabilities,&rdquo; &ldquo;highly competent, technical testers,&rdquo; and &ldquo;security and risk management, supported by a strong professional accreditation and complaint process&rdquo; (CREST, 2022). The NCSC says third-party tests &ldquo;should be performed by qualified and experienced staff only,&rdquo; and recommends that UK government organizations use testers and companies in its CHECK scheme (NCSC, 2017/2022).</p>
+<p>Accreditations and certifications are useful signals. They are not guarantees. Ask about the people who will actually do your work.</p>
+<p>Questions I would ask any provider, including mine:</p>
+<ol>
+<li>Which public methodology do you follow, and how do your phases map to it?</li>
+<li>Who exactly will test, what are their qualifications, and will they be the same people named in the proposal?</li>
+<li>Show me a redacted sample report. Does it include an executive summary, root causes and limitations?</li>
+<li>How do you handle data you touch during testing, during and after the engagement?</li>
+<li>What happens if you find a critical issue mid-test? How fast will I hear?</li>
+<li>What happens if you find evidence of a real intruder?</li>
+<li>How do you avoid causing outages, and what is your record of incidents caused by testing?</li>
+<li>Is a retest included? On what terms?</li>
+<li>Do you subcontract any part of the work? If so, to whom, and under what controls?</li>
+<li>What insurance do you carry, and what liability terms do you propose?</li>
+</ol>
+<p>A provider who is uncomfortable with any of these questions has told you something.</p>
+<h2 id="contract-terms-that-matter">Contract terms that matter</h2>
+<p>NIST&rsquo;s guidance on legal review applies to every testing contract: indemnity or limitation of liability clauses for intrusive testing, nondisclosure obligations, and privacy handling (NIST SP 800-115, 2008). Beyond those, put the following in writing.</p>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reference to the signed authorization package and rules of engagement</td>
+<td>So that scope and rules are binding, not advisory</td>
+</tr>
+<tr>
+<td>Named testers and approval for substitutions</td>
+<td>So you get the skills you paid for</td>
+</tr>
+<tr>
+<td>Data handling, retention and destruction</td>
+<td>NIST lists storage, transmission and &ldquo;removal of data from systems upon conclusion of the assessment&rdquo; as plan requirements (NIST SP 800-115, 2008)</td>
+</tr>
+<tr>
+<td>Critical finding notification within an agreed time</td>
+<td>So that a serious flaw does not wait two weeks for a report</td>
+</tr>
+<tr>
+<td>Report requirements</td>
+<td>The NCSC&rsquo;s five items plus your additions (Part IV)</td>
+</tr>
+<tr>
+<td>Retest included</td>
+<td>So &ldquo;fixed&rdquo; is verified, not assumed</td>
+</tr>
+<tr>
+<td>Confidentiality of findings</td>
+<td>Findings describe your weaknesses. Treat them as sensitive</td>
+</tr>
+<tr>
+<td>Stop and real-intruder procedures</td>
+<td>So the control decisions in Part II are enforceable</td>
+</tr>
+</tbody>
+</table>
+<h2 id="independence-and-rotation">Independence and rotation</h2>
+<p>Long relationships build knowledge. They also build blind spots. Many organizations rotate providers, or at least rotate testers, every few years so that fresh eyes see the wall. That is a common practice, not a rule I can cite to a standard. Weigh it against the value of a provider who knows your estate.</p>
+<p>Whatever you decide, keep the testing provider separate from the people whose work it tests. A provider who built your network should not be the only one testing it.</p>
+<h2 id="building-internal-capability">Building internal capability</h2>
+<p>Buying testing does not mean outsourcing understanding. The NCSC&rsquo;s model assumes you have &ldquo;an internal vulnerability assessment and management process&rdquo; and that &ldquo;a current vulnerability assessment should be shared with the testers&rdquo; at scoping (NCSC, 2017/2022). That internal process is yours to own.</p>
+<p>For a small team, internal capability means three things. Someone who runs and reads the scans. Someone who owns the remediation register. Someone who can read a test report critically and challenge it. ISC2 reports that 90% of respondents had one or more skills gaps on their cybersecurity teams (ISC2, 2024). If those three roles are not filled, fill them first, with staff, a managed service or a part-time advisor.</p>
+<h2 id="supplier-testing-and-your-supply-chain">Supplier testing and your supply chain</h2>
+<p>Your suppliers are part of your wall. Verizon&rsquo;s 48% third-party involvement figure makes that plain (Verizon, 2026). You usually cannot test a supplier&rsquo;s systems. You can:</p>
+<ul>
+<li>Ask key suppliers for evidence of their own independent testing and remediation, under nondisclosure.</li>
+<li>Test your side of every supplier connection: the accounts, the access paths and the controls you own.</li>
+<li>Include supplier scenarios in your tabletop exercises.</li>
+<li>Write testing and notification expectations into supplier contracts at renewal.</li>
+</ul>
+<p>The NIST Cybersecurity Framework explicitly includes &ldquo;security tests and exercises, including those done in coordination with suppliers and relevant third parties&rdquo; as a source of improvements (NIST CSF 2.0, 2024, ID.IM-02).</p>
+<h2 id="receiving-reports-from-outsiders">Receiving reports from outsiders</h2>
+<p>Sometimes the uninvited tester is friendly. A researcher finds a flaw and wants to tell you. The NIST Cybersecurity Framework includes an outcome for this: &ldquo;Processes for receiving, analyzing, and responding to vulnerability disclosures are established&rdquo; (NIST CSF 2.0, 2024, ID.RA-08).</p>
+<p>A simple, published way to report a vulnerability, a named owner, and a commitment to respond is cheap. It turns some of the people walking your walls into allies. Write it with counsel, so that it is clear what you invite and what you do not.</p>
+<div class="callout"><p class="callout-lead">The takeaway</p><p>Buy on evidence, not fear. Ask hard questions of every provider. Contract for the report, the data, the stop and the retest. Keep enough capability in-house to challenge what you are told.</p></div>
+
+<h2 id="what-to-do_6">What to do</h2>
+<ul>
+<li>Build the business case from public data and your own exposure numbers, and state the limits of the evidence.</li>
+<li>Use the ten questions and the contract terms above in your next procurement.</li>
+<li>Fill the three internal roles before expanding external testing.</li>
+<li>Publish a simple vulnerability disclosure process.</li>
+</ul>
+<h2 id="what-to-measure_6">What to measure</h2>
+<ul>
+<li>Share of engagements with named testers matching the proposal.</li>
+<li>Time from critical finding to notification, against the contract.</li>
+<li>Share of key suppliers that have provided evidence of independent testing.</li>
+</ul>
+<h2 id="part-viii-scenarios">Part VIII: Three scenarios</h2>
+<p>These three scenarios are <strong>hypothetical</strong>. They are not reports of real incidents, real organizations or real results. They contain no statistics and no techniques. They exist to show how the parts of this paper interact, and to give your team something to rehearse.</p>
+<p>Each scenario is a mid-size organization, roughly a few hundred staff, with a small security team and several outside providers. Use them as prompts for a tabletop exercise. Replace the details with your own.</p>
+<div class="scenario"><p class="scenario-tag">Illustrative &middot; Hypothetical</p>
+<h2 id="scenario-one-the-clean-report">Scenario one: The clean report</h2>
+<p><em>A regional professional services firm. One annual penetration test.</em></p>
+<p><strong>The setup.</strong> For three years, the firm has bought the same annual external test, scoped to its website and one address range. Each report comes back with a handful of medium findings. Leadership reads &ldquo;no critical issues&rdquo; and moves on.</p>
+<p><strong>The turn.</strong> A new IT manager compares the outside-in view with the asset register. She finds a remote access gateway, set up by a contractor two years earlier, that is not in the register and has never been in scope. It is running software with a flaw that appears in the KEV catalog.</p>
+<p><strong>What good looks like.</strong></p>
+<ul>
+<li>The firm isolates the gateway the same day under a pre-authorized emergency change, then patches it.</li>
+<li>Incident response checks whether anyone used the flaw before the fix. The scope of that check is decided by counsel and the incident response provider, not by the testers.</li>
+<li>The next test is rescoped from the crown outward, with the outside-in view as its starting point.</li>
+<li>Root cause analysis finds the process gap: contractor-built systems were never added to the register. The fix is a change process, not just a patch.</li>
+</ul>
+<p><strong>Questions for your tabletop.</strong> When did we last compare what the internet sees with what our register says? Who can authorize an emergency change? Would our test have found this?</p>
+</div>
+<div class="scenario"><p class="scenario-tag">Illustrative &middot; Hypothetical</p>
+<h2 id="scenario-two-the-test-that-found-someone-else">Scenario two: The test that found someone else</h2>
+<p><em>A manufacturing company. An internal assumed-breach test.</em></p>
+<p><strong>The setup.</strong> The company commissions an assumed-breach test starting from an ordinary employee laptop. The authorization package includes a real-intruder clause.</p>
+<p><strong>The turn.</strong> On day four, the testers notice an account behaving in ways their plan does not explain. It is not them. They stop, as the clause requires, and call the named contact.</p>
+<p><strong>What good looks like.</strong></p>
+<ul>
+<li>The contact answers within minutes, because the stop drill at kickoff proved the number worked.</li>
+<li>The testers preserve their notes and hand over to the company&rsquo;s incident response provider under the existing plan. They do not investigate further on their own.</li>
+<li>Leadership decides, with counsel, whom to notify. The insurer&rsquo;s requirements were already listed in the authorization.</li>
+<li>Testing resumes two weeks later under a fresh written authorization, with the scope adjusted to what the response found.</li>
+</ul>
+<p><strong>What bad looks like.</strong> No clause, no stop, no contact. The testers keep going, the intruder notices, evidence is lost, and nobody knows who was allowed to do what.</p>
+<p><strong>Questions for your tabletop.</strong> Does our authorization say what happens if testers find a real intruder? Who decides when testing restarts?</p>
+</div>
+<div class="scenario"><p class="scenario-tag">Illustrative &middot; Hypothetical</p>
+<h2 id="scenario-three-the-help-desk-call">Scenario three: The help desk call</h2>
+<p><em>A healthcare services provider. An authorized social engineering test.</em></p>
+<p><strong>The setup.</strong> Leadership, human resources and counsel approve a limited test of the help desk&rsquo;s password reset process. The rules forbid pretexts involving emergencies, regulators or personal distress. Results will be reported as process findings, not names.</p>
+<p><strong>The turn.</strong> A tester, following the approved pretext, calls the help desk asking for a reset for a senior manager said to be traveling. The agent, under time pressure and with no call-back rule, completes the reset.</p>
+<p><strong>What good looks like.</strong></p>
+<ul>
+<li>The tester reports the result to the control contact immediately. The account is restored and the reset is reversed within the hour.</li>
+<li>The debrief, with the help desk team present, focuses on the missing verification step. Nobody is blamed.</li>
+<li>The process changes: privileged and executive resets require a call-back to a number already on file, and a second approver.</li>
+<li>A retest a month later, under the same rules, confirms the new step is followed.</li>
+</ul>
+<p><strong>Questions for your tabletop.</strong> How does our help desk verify a reset for a senior or traveling user? Would our staff feel safe reporting that they were fooled?</p>
+</div>
+<h2 id="what-the-scenarios-share">What the scenarios share</h2>
+<p>Each turns on a decision made before the test. An inventory compared with the outside-in view. A real-intruder clause and a working stop. People safeguards and a no-blame debrief. None depended on a clever tester or an expensive tool. All depended on governance.</p>
+<p>Run one scenario a quarter. Change the details. Write down what you find.</p>
+<h1 id="recommendations">Recommendations</h1>
+<p>Here is the plan.</p>
+<p>It is not glamorous. It is a garrison&rsquo;s routine: know the walls, get permission, look every day, test properly, repair, check the repair, and drill the sentries. The eight parts above each end with their own actions. This section puts them in order.</p>
+<p>Timelines depend on your team size, your providers and your risk appetite. The phases below are a sequence first and a schedule second.</p>
+<h2 id="the-seven-moves_1">The seven moves</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Move</th>
+<th>Part it draws on</th>
+<th>First proof that it is working</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Know your walls.</strong> Name crown assets, build the inventory, compare it with the outside-in view.</td>
+<td>III</td>
+<td>The outside-in list matches the register</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Put permission in writing.</strong> Standard authorization package, third-party consents, legal review, stop and real-intruder clauses.</td>
+<td>II</td>
+<td>Every test in the past year started with a complete signed package</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Scan continuously, assess regularly.</strong> Daily external scanning, scheduled validated assessment.</td>
+<td>I, V</td>
+<td>Penetration test findings were mostly already in your register</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Test what an adversary would actually do.</strong> Scope from the crown outward along the routes the evidence says are used.</td>
+<td>III, IV</td>
+<td>Crown assets and the edge tested in the past 12 months</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Test the watchers, not just the walls.</strong> Purple exercises first, red team when ready.</td>
+<td>VI</td>
+<td>Detection scorecard improves round over round</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Turn findings into fixes, and prove they held.</strong> Evidence-based priority, one register, root causes, retests.</td>
+<td>V</td>
+<td>Priority 1 fixes on time and verified by retest</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Buy testing like a professional.</strong> Hard questions, strong contracts, internal capability to challenge results.</td>
+<td>VII</td>
+<td>Contracts include report, data, stop and retest terms</td>
+</tr>
+</tbody>
+</table>
+<div class="callout"><p class="callout-lead">The takeaway</p><p>Inventory before testing. Permission before action. Evidence before priority. Retest before "fixed."</p></div>
+
+<h2 id="what-the-siege-teaches-the-plan">What the siege teaches the plan</h2>
+<p>Each lesson of the siege maps to a part of the plan. Use this as a check on your own program.</p>
+<table>
+<thead>
+<tr>
+<th>Siege lesson</th>
+<th>What it teaches</th>
+<th>Where it lands in the plan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The wall is only as strong as its weakest stretch</td>
+<td>Scope to the perimeter an adversary sees</td>
+<td>Outside-in view; edge in scope every year</td>
+</tr>
+<tr>
+<td>The besieger has time; the defender has a schedule</td>
+<td>One test a year cannot match a continuous adversary</td>
+<td>Continuous scanning; scheduled assessment; rotation</td>
+</tr>
+<tr>
+<td>Defenders who survive walk their own walls</td>
+<td>Find the weak stretch first</td>
+<td>Authorized testing as routine, not event</td>
+</tr>
+<tr>
+<td>Most walls fall from the inside</td>
+<td>People and processes are in the path</td>
+<td>Authorized social engineering with safeguards</td>
+</tr>
+<tr>
+<td>Sentries matter as much as stone</td>
+<td>Detection and response decide the cost</td>
+<td>Purple and red exercises; detection scorecard</td>
+</tr>
+</tbody>
+</table>
+<h2 id="the-first-90-days">The first 90 days</h2>
+<h3 id="days-1-to-30-know-the-walls-and-set-the-rules">Days 1 to 30: Know the walls and set the rules</h3>
+<ul>
+<li>Name an accountable owner for the testing program, with authority to commission tests and to stop them.</li>
+<li>Write the one-page testing policy that defines scanning, assessment, penetration testing, red teaming and purple exercises.</li>
+<li>List crown assets. Build or refresh the inventory of internet-facing systems.</li>
+<li>Start continuous external scanning, or confirm the coverage of what you have. If you are eligible, consider CISA&rsquo;s no-cost Cyber Hygiene services.</li>
+<li>Adopt a standard authorization package based on Part II and NIST SP 800-115 Appendix B.</li>
+<li>List every third-party platform you rely on and record its testing policy or the permission you will need.</li>
+<li>Set up the remediation register and the written prioritization rule from Part V.</li>
+</ul>
+<h3 id="days-31-to-60-close-the-known-gaps">Days 31 to 60: Close the known gaps</h3>
+<ul>
+<li>Triage the scan results against the KEV catalog and your exposure. Fix or isolate Priority 1 items.</li>
+<li>Run root cause analysis on the worst ten findings and apply the &ldquo;where else&rdquo; question.</li>
+<li>Compare the outside-in view with the register. Add or retire the strays.</li>
+<li>Write the scope for your next penetration test from the crown outward. Include the edge and one assumed-breach objective.</li>
+<li>Procure the test using the questions and contract terms in Part VII. Include a retest.</li>
+</ul>
+<h3 id="days-61-to-90-test-and-learn">Days 61 to 90: Test and learn</h3>
+<ul>
+<li>Hold the kickoff. Drill the stop. Confirm the real-intruder clause and contacts.</li>
+<li>Run the test. Require same-day notice of critical findings.</li>
+<li>Hold the debrief with engineering owners present. Load every finding into the register with an owner and date.</li>
+<li>Run one tabletop based on a scenario from Part VIII.</li>
+<li>Report to leadership: what was tested, what was found, what was fixed, what remains, and what it will take.</li>
+</ul>
+<h2 id="the-first-12-months">The first 12 months</h2>
+<table>
+<thead>
+<tr>
+<th>Period</th>
+<th>Focus</th>
+<th>Key activities</th>
+<th>Gate to move on</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Months 1–3</strong></td>
+<td>Inventory, rules and baseline</td>
+<td>Policy; authorization package; continuous scanning; register; first test scoped and run</td>
+<td>Signed package for every test; Priority 1 items owned</td>
+</tr>
+<tr>
+<td><strong>Months 4–6</strong></td>
+<td>Remediation and retest</td>
+<td>Priority 1 and 2 fixes; root cause process changes; retest; disclosure process published</td>
+<td>Retest verifies Priority 1 fixes; repeat-finding rate recorded</td>
+</tr>
+<tr>
+<td><strong>Months 7–9</strong></td>
+<td>Watch the sentries</td>
+<td>First purple exercise on three to five behaviors; detection fixes; supplier evidence requests</td>
+<td>Detection scorecard baseline set and first gaps closed</td>
+</tr>
+<tr>
+<td><strong>Months 10–12</strong></td>
+<td>Widen and deepen</td>
+<td>Web application testing against OWASP guidance; authorized social engineering test of one process; decide on red team readiness</td>
+<td>Annual program review; three-year rotation agreed</td>
+</tr>
+</tbody>
+</table>
+<p>A few rules hold across the whole year.</p>
+<ul>
+<li>No test starts without a complete, signed authorization package.</li>
+<li>Every finding has a named owner and a date.</li>
+<li>Nothing is called fixed until it is retested.</li>
+<li>Every quarter, leadership sees the register, the scorecard and what went wrong.</li>
+<li>Every year, re-run the self-assessment below.</li>
+</ul>
+<h2 id="the-authorization-checklist">The authorization checklist</h2>
+<p>Use this before every test. Every box must be ticked.</p>
+<ul class="checklist">
+<li>☐&nbsp; A named executive with authority over every in-scope system has signed.</li>
+<li>☐&nbsp; Every third-party owner of in-scope systems has consented in writing, or its published testing policy has been checked and recorded.</li>
+<li>☐&nbsp; Systems, applications, address ranges, locations and people in scope are listed specifically.</li>
+<li>☐&nbsp; Systems out of scope are listed explicitly.</li>
+<li>☐&nbsp; Allowed and forbidden activities are stated in writing, without room for interpretation.</li>
+<li>☐&nbsp; Dates, hours, blackout periods and source locations of testing are recorded.</li>
+<li>☐&nbsp; Primary and alternate contacts on both sides are named and have been tested.</li>
+<li>☐&nbsp; Data handling, retention and destruction terms are agreed.</li>
+<li>☐&nbsp; Stop conditions and the person who can call a halt are named.</li>
+<li>☐&nbsp; The real-intruder clause says what happens and who decides when testing resumes.</li>
+<li>☐&nbsp; Insurers, managed providers and others who must be told have been identified.</li>
+<li>☐&nbsp; Counsel has reviewed the package for any intrusive testing.</li>
+<li>☐&nbsp; For tests involving people, leadership approval and people safeguards are in place.</li>
+</ul>
+<h2 id="maturity-self-assessment">Maturity self-assessment</h2>
+<p>Use this checklist with your security, IT and leadership teams. Answer honestly. A &ldquo;no&rdquo; is not a failure. It is a work item.</p>
+<p>Score each item: 0 = not in place, 1 = partly in place, 2 = fully in place and evidenced. The levels at the end are my rough guide, not a formal standard.</p>
+<h3 id="governance">Governance</h3>
+<ul class="checklist">
+<li>☐&nbsp; A named owner is accountable for the testing program and can commission and stop tests.</li>
+<li>☐&nbsp; A written policy defines scanning, assessment, penetration testing, red teaming and purple exercises.</li>
+<li>☐&nbsp; A standard authorization package is used for every test.</li>
+<li>☐&nbsp; Counsel reviews every intrusive test.</li>
+<li>☐&nbsp; Leadership receives a quarterly report on testing, findings and remediation.</li>
+<li>☐&nbsp; A vulnerability disclosure process is published and has an owner.</li>
+</ul>
+<h3 id="inventory-and-scope">Inventory and scope</h3>
+<ul class="checklist">
+<li>☐&nbsp; Crown assets are named and mapped.</li>
+<li>☐&nbsp; The internet-facing inventory is compared with the outside-in view at least quarterly.</li>
+<li>☐&nbsp; Third-party platforms in scope have recorded permissions or testing policies.</li>
+<li>☐&nbsp; Scope is set from the crown outward, using public data and your own evidence.</li>
+<li>☐&nbsp; A multi-year rotation ensures every significant system is tested on a cycle.</li>
+<li>☐&nbsp; Every exclusion has a named risk owner and an alternative form of assurance.</li>
+</ul>
+<h3 id="scanning-and-assessment">Scanning and assessment</h3>
+<ul class="checklist">
+<li>☐&nbsp; Internet-facing assets are scanned continuously.</li>
+<li>☐&nbsp; Internal assets are scanned on a defined schedule.</li>
+<li>☐&nbsp; Scan results are validated and ranked by a skilled person.</li>
+<li>☐&nbsp; KEV status and exploitation likelihood are used in prioritization.</li>
+<li>☐&nbsp; A current assessment is shared with penetration testers at scoping.</li>
+<li>☐&nbsp; Most findings from the last penetration test were already in the register.</li>
+</ul>
+<h3 id="testing-and-method">Testing and method</h3>
+<ul class="checklist">
+<li>☐&nbsp; Providers name and follow a recognized public methodology.</li>
+<li>☐&nbsp; Critical findings are reported during the test, within an agreed time.</li>
+<li>☐&nbsp; Reports include an executive summary, root causes and limitations.</li>
+<li>☐&nbsp; Web applications are tested against recognized OWASP guidance.</li>
+<li>☐&nbsp; Social engineering tests, if any, follow written people safeguards.</li>
+<li>☐&nbsp; Detection and response are tested with purple or red exercises.</li>
+</ul>
+<h3 id="remediation-and-improvement">Remediation and improvement</h3>
+<ul class="checklist">
+<li>☐&nbsp; Every finding is in one register with a named owner and date.</li>
+<li>☐&nbsp; A written prioritization rule sets target times by priority.</li>
+<li>☐&nbsp; High-severity findings get root cause analysis and the &ldquo;where else&rdquo; question.</li>
+<li>☐&nbsp; Priority 1 and 2 fixes are verified by retest.</li>
+<li>☐&nbsp; Repeat findings are tracked from test to test.</li>
+<li>☐&nbsp; Risk acceptances have an owner, a reason and a review date.</li>
+</ul>
+<h3 id="reading-your-score">Reading your score</h3>
+<p>There are 30 items, for a maximum of 60 points.</p>
+<ul>
+<li><strong>0–20: Foundational.</strong> Focus on inventory, authorization and continuous scanning before buying deeper tests.</li>
+<li><strong>21–40: Developing.</strong> Penetration testing is worthwhile. Prioritize remediation, retest and root cause.</li>
+<li><strong>41–60: Established.</strong> Consider purple exercises and, when ready, red teaming, with continued rotation and review.</li>
+</ul>
+<p>Whatever your score, the next step is the same: pick the three lowest items that matter most to your risk, assign owners and dates, and re-score in a quarter.</p>
+<h2 id="the-program-scorecard">The program scorecard</h2>
+<p>Report these to leadership every quarter. Measure against your own baseline, not anyone else&rsquo;s.</p>
+<table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Why it matters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Internet-facing assets found by testing that were not in the register</td>
+<td>Measures whether you know your walls</td>
+</tr>
+<tr>
+<td>Share of tests with a complete signed authorization package</td>
+<td>Measures whether permission comes first</td>
+</tr>
+<tr>
+<td>Median days to fix Priority 1 findings</td>
+<td>Measures speed where it counts</td>
+</tr>
+<tr>
+<td>Share of findings verified by retest</td>
+<td>Measures whether &ldquo;fixed&rdquo; is true</td>
+</tr>
+<tr>
+<td>Repeat-finding rate</td>
+<td>Measures whether root causes are being fixed</td>
+</tr>
+<tr>
+<td>Share of test findings already in your register</td>
+<td>Measures whether your own assessment works</td>
+</tr>
+<tr>
+<td>Detection scorecard: logged, alerted, answered</td>
+<td>Measures whether the sentries see and act</td>
+</tr>
+</tbody>
+</table>
+<h1 id="conclusion">Conclusion</h1>
+<p>The research points one way.</p>
+<p>Known flaws are now the most common way in, in Verizon&rsquo;s data. Most of the flaws already known to be exploited are not fully fixed, and the median time to fix them is rising. The opportunists favor smaller organizations, and they get in through the edge and through stolen credentials. Breaches take months to find and contain, and the long ones cost more (Verizon, 2026; IBM and Ponemon Institute, 2026).</p>
+<p>The irregular warfare lens explains why this keeps happening. Your adversaries work indirectly, avoid attribution and impose costs asymmetrically. They probe every stretch of the wall because probing is cheap. They do not need permission and they do not share the report.</p>
+<p>You cannot stop them probing. You can make sure that when they arrive, the weak stretch has already been found and repaired, by people you invited, under rules you wrote.</p>
+<p>That is what authorized testing is. Not a stunt. Not a certificate. A disciplined habit of walking your own walls: knowing what you have, getting permission before anyone touches it, looking every day, testing properly, fixing the cause, checking the fix, and drilling the sentries until they see what they are supposed to see.</p>
+<p>The public guidance agrees on the shape. NIST says testing has its greatest value when it ends in mitigation (NIST SP 800-115, 2008). The NCSC says you should know what the testers will find before they find it (NCSC, 2017/2022). CREST says a test is &ldquo;only a snapshot of a system at a point in time,&rdquo; and counts the assumption that fixing what one test found makes systems &ldquo;secure&rdquo; among the top challenges organizations face (CREST, 2022). TIBER-EU says the outcome is not a pass or fail (ECB, TIBER-EU). They are all describing a program, not an event.</p>
+<p>Break it before they do. Then fix it. Then check.</p>
+<p>Infinitum Corporation helps organizations take these steps in a way that fits their size, systems and risk appetite. Our testing work is always authorized, scoped and approved in writing, and performed for defense. I make no promise about the outcome any organization will achieve, and every figure in this paper belongs to the source cited.</p>
+<p>Don&rsquo;t take my word for it. Read the sources, then decide.</p>
+<p>This is the third paper in the series. The next is <em>Read the Enemy: Strategic Risk in the Gray Zone</em>.</p>
+<p>Let&rsquo;s stay engaged. Write to info@theinfinitumcorporation.com, or visit https://www.theinfinitumcorporation.com. Dialogue is key.</p>
+<!-- BODY-END -->
+
+<h1 id="about">About Infinitum Corporation</h1>
+<p>Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC, delivering practical, integrated security solutions.</p>
+<p>Our work spans cybersecurity consulting, network architecture and defense, vulnerability assessment and ethical hacking, IT security, AI for security operations, strategic risk assessment and emerging defense technology advisory. Our ethical hacking work is always authorized, scoped and approved in writing, and performed for defense.</p>
+<p>William Aaron Turner is Founder and President.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Website</td>
+<td><a href="https://www.theinfinitumcorporation.com">https://www.theinfinitumcorporation.com</a></td>
+</tr>
+<tr>
+<td>Email</td>
+<td>info@theinfinitumcorporation.com</td>
+</tr>
+<tr>
+<td>Telegram</td>
+<td><a href="https://t.me/infinitumcorporation">https://t.me/infinitumcorporation</a></td>
+</tr>
+<tr>
+<td>X</td>
+<td><a href="https://x.com/infinitumceo">https://x.com/infinitumceo</a></td>
+</tr>
+<tr>
+<td>Address</td>
+<td>1629 K Street NW, Suite 300, Washington, DC</td>
+</tr>
+</tbody>
+</table>
+<h1 id="references">References</h1>
+<div class="refs">
+<ol>
+<li>CISA (Cybersecurity and Infrastructure Security Agency). (2021, November 3). <em>BOD 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities</em> (revoked June 10, 2026, and superseded by BOD 26-04; archived page). <a href="https://www.cisa.gov/news-events/directives/bod-22-01-reducing-significant-risk-known-exploited-vulnerabilities">https://www.cisa.gov/news-events/directives/bod-22-01-reducing-significant-risk-known-exploited-vulnerabilities</a> (cited as CISA BOD 22-01)</li>
+<li>CISA. (2026, June 10). <em>BOD 26-04: Prioritizing Security Updates Based on Risk.</em> <a href="https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk">https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk</a> (cited as CISA BOD 26-04, 2026)</li>
+<li>CISA. (2026). <em>Known Exploited Vulnerabilities Catalog</em> (web catalog and JSON feed, catalog version 2026.10.30, released October 30, 2026; 1,766 entries). <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">https://www.cisa.gov/known-exploited-vulnerabilities-catalog</a> (cited as CISA KEV, 2026)</li>
+<li>CISA. (2023, February 28). <em>CISA Red Team Shares Key Findings to Improve Monitoring and Hardening of Networks</em> (Cybersecurity Advisory AA23-059A; used here for its findings, strengths and recommendations only, not its techniques). <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-059a">https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-059a</a> (cited as CISA AA23-059A, 2023)</li>
+<li>CISA. <em>Cyber Hygiene Services.</em> <a href="https://www.cisa.gov/cyber-hygiene-services">https://www.cisa.gov/cyber-hygiene-services</a> (cited as CISA Cyber Hygiene)</li>
+<li>CISA. <em>Stakeholder-Specific Vulnerability Categorization (SSVC).</em> <a href="https://www.cisa.gov/stakeholder-specific-vulnerability-categorization-ssvc">https://www.cisa.gov/stakeholder-specific-vulnerability-categorization-ssvc</a> (cited as CISA SSVC)</li>
+<li>CREST (Creasey, J.). (2022, December). <em>A Guide to Penetration Testing.</em> <a href="https://www.crest-approved.org/wp-content/uploads/2023/04/A-Guide-to-Penetration-Testing-2022.pdf">https://www.crest-approved.org/wp-content/uploads/2023/04/A-Guide-to-Penetration-Testing-2022.pdf</a> (cited as CREST, 2022)</li>
+<li>European Central Bank. <em>What is TIBER-EU?</em> <a href="https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html">https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html</a> (cited as ECB, TIBER-EU)</li>
+<li>FIRST (Forum of Incident Response and Security Teams). <em>Common Vulnerability Scoring System v4.0.</em> <a href="https://www.first.org/cvss/v4-0/">https://www.first.org/cvss/v4-0/</a> (cited as FIRST CVSS v4.0)</li>
+<li>FIRST. <em>Exploit Prediction Scoring System (EPSS).</em> <a href="https://www.first.org/epss/">https://www.first.org/epss/</a> (cited as FIRST EPSS)</li>
+<li>IBM and Ponemon Institute. (2026). <em>Cost of a Data Breach Report 2026.</em> <a href="https://assets.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf">https://assets.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf</a> (cost-factor figures from Figure 33; investment-area figures from Figure 39)</li>
+<li>ISC2. (2024, October 31). <em>2024 ISC2 Cybersecurity Workforce Study.</em> <a href="https://www.isc2.org/Insights/2024/10/ISC2-2024-Cybersecurity-Workforce-Study">https://www.isc2.org/Insights/2024/10/ISC2-2024-Cybersecurity-Workforce-Study</a></li>
+<li>National Cyber Security Centre (UK). (2017, August 8; reviewed 2022, January 10). <em>Penetration testing: How to get the most from penetration testing.</em> <a href="https://www.ncsc.gov.uk/guidance/penetration-testing">https://www.ncsc.gov.uk/guidance/penetration-testing</a> (cited as NCSC, 2017/2022)</li>
+<li>NIST. (2024, February 26). <em>The NIST Cybersecurity Framework (CSF) 2.0</em> (NIST CSWP 29). <a href="https://doi.org/10.6028/NIST.CSWP.29">https://doi.org/10.6028/NIST.CSWP.29</a> (cited as NIST CSF 2.0, 2024)</li>
+<li>NIST (Scarfone, K., Souppaya, M., Cody, A., &amp; Orebaugh, A.). (2008, September). <em>Technical Guide to Information Security Testing and Assessment</em> (SP 800-115). <a href="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf">https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf</a> (cited as NIST SP 800-115, 2008)</li>
+<li>OWASP Foundation. <em>OWASP Top 10:2025.</em> <a href="https://owasp.org/Top10/2025/">https://owasp.org/Top10/2025/</a> (cited as OWASP Top 10, 2025)</li>
+<li>OWASP Foundation. <em>Web Security Testing Guide</em> (project page; v4.2 current release, v5.0 in development). <a href="https://owasp.org/www-project-web-security-testing-guide/">https://owasp.org/www-project-web-security-testing-guide/</a> (cited as OWASP WSTG)</li>
+<li>PTES. <em>The Penetration Testing Execution Standard</em> (main page, read via the Internet Archive snapshot of December 30, 2025, because the live site did not respond). <a href="http://www.pentest-standard.org/index.php/Main_Page">http://www.pentest-standard.org/index.php/Main_Page</a> (cited as PTES)</li>
+<li>U.S. Army Center for Army Lessons Learned. (2025, July 11). <em>Understanding Irregular Warfare</em> (No. 25-897), quoting the DOD definition from JP 1 Vol 1, <em>Joint Warfighting</em>. <a href="https://www.army.mil/article/286976/understanding_irregular_warfare">https://www.army.mil/article/286976/understanding_irregular_warfare</a> (used only for its definition of irregular warfare; cited as U.S. Army CALL, 2025)</li>
+<li>U.S. Department of Justice, Office of Public Affairs. (2022, May 19). <em>Department of Justice Announces New Policy for Charging Cases under the Computer Fraud and Abuse Act</em> (press release 22-533). <a href="https://www.justice.gov/archives/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act">https://www.justice.gov/archives/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act</a> (cited as DOJ, 2022)</li>
+<li>Verizon. (2026). <em>2026 Data Breach Investigations Report.</em> <a href="https://www.verizon.com/business/resources/Te26/reports/2026-dbir-data-breach-investigations-report.pdf">https://www.verizon.com/business/resources/Te26/reports/2026-dbir-data-breach-investigations-report.pdf</a> (cited as Verizon, 2026)</li>
+</ol>
+</div>
+<p><em>Note on in-text tags.</em> Short tags refer to the entries above as marked. All sources were opened and read on November 2, 2026 (UTC+3). Where a source is quoted, the words are the source&rsquo;s own. Where a number is cited, it belongs to that source and describes that source&rsquo;s dataset or program. CISA&rsquo;s 40% figure for its Cyber Hygiene services is CISA&rsquo;s own statement about its program. IBM&rsquo;s cost-factor figures measure each factor in isolation against the global average and show association, not cause. The paper names no belligerent and draws on no party-specific battlefield material; the siege is used as a general image only.</p>
+<h1 id="glossary">Glossary</h1>
+<div class="glossary">
+<p><strong>Assumed-breach test.</strong> A test that starts from a position inside the organization, such as an ordinary account or device, to measure how far an attacker could reach.</p>
+<p><strong>Authorization package.</strong> The signed documents that permit a test: scope, rules of engagement, consents, contacts, data terms and stop conditions.</p>
+<p><strong>Blue team.</strong> The people who defend the organization&rsquo;s systems, and whose detection and response are measured in red and purple exercises.</p>
+<p><strong>Control group (control team).</strong> The small group inside the tested organization that knows a covert test is happening and manages it.</p>
+<p><strong>Crown assets.</strong> The systems and data whose loss would most damage the organization.</p>
+<p><strong>CVSS.</strong> The Common Vulnerability Scoring System, maintained by FIRST, which rates the technical severity of a vulnerability.</p>
+<p><strong>EPSS.</strong> The Exploit Prediction Scoring System, maintained by FIRST, which estimates the probability that a published vulnerability will be exploited in the next 30 days.</p>
+<p><strong>Examination.</strong> In NIST&rsquo;s usage, a review of documents, configurations, rulesets and logs, as distinct from hands-on testing.</p>
+<p><strong>Irregular warfare.</strong> Defined by DOD as a form of warfare in which state and non-state actors campaign through indirect, non-attributable or asymmetric activities. Used in this paper as an analytic lens only.</p>
+<p><strong>KEV.</strong> CISA&rsquo;s Known Exploited Vulnerabilities catalog: vulnerabilities with evidence of exploitation in the wild.</p>
+<p><strong>Opaque (closed box) and transparent (open box) testing.</strong> Tests in which the testers are given no information, or full information, about the target.</p>
+<p><strong>Penetration test.</strong> An authorized, scoped exercise in which testers attempt to identify and safely demonstrate exploitable weaknesses, under written permission, so they can be fixed.</p>
+<p><strong>Purple exercise.</strong> A collaborative exercise in which attackers and defenders work together to test and improve specific detections.</p>
+<p><strong>Red team.</strong> A team that emulates an adversary, under authorization, to test whether the organization&rsquo;s people, processes and technology detect and respond.</p>
+<p><strong>Remediation register.</strong> A single record of every finding, its owner, priority, root cause, target date and status.</p>
+<p><strong>Retest.</strong> A follow-up test that verifies a finding has actually been fixed.</p>
+<p><strong>Root cause analysis.</strong> Identifying the process or program weakness that allowed a finding to exist.</p>
+<p><strong>Rules of engagement (ROE).</strong> In NIST&rsquo;s words, detailed guidelines and constraints regarding the execution of information security testing, established before the test.</p>
+<p><strong>Social engineering test.</strong> An authorized test of how people and processes respond to deception, run with leadership approval and safeguards.</p>
+<p><strong>SSVC.</strong> Stakeholder-Specific Vulnerability Categorization, a decision method that ends in an action: Track, Track*, Attend or Act in CISA&rsquo;s version.</p>
+<p><strong>Vulnerability assessment.</strong> A systematic review that identifies, validates and ranks security weaknesses, without necessarily attempting to exploit them.</p>
+<p><strong>Vulnerability scanning.</strong> The use of automated tools to identify known weaknesses and missing patches.</p>
+</div></main></body></html>

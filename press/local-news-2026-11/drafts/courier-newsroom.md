@@ -1,0 +1,33 @@
+# COURIER Newsroom (US-NAT #37)
+
+| Field | Value |
+|---|---|
+| Method | email |
+| To / URL | oped@couriernewsroom.com |
+| Piece | Decentralized Disinformation |
+| Type | PITCH (EXCLUSIVE) |
+| Angle | Democracy: organic disinformation ahead of elections |
+| Image | none |
+| Limit | pitch ~250 (op-ed 600-1,000) |
+| Word count (body) | 222 |
+| Status | ready - NOT SENT |
+
+**Subject / headline:** Op-ed pitch: The disinformation that works doesn't look fake
+
+---
+
+Dear COURIER Opinion Team,
+
+I'd like to propose an op-ed of 700-900 words on a shift that matters for democracy heading into 2028: the most effective disinformation is no longer manufactured by obvious troll farms. It is grown from real posts, real grievances and real people.
+
+My research study, "Decentralized Disinformation: The Art of Weaponizing Organic Narratives," maps how it works: someone finds authentic seed content, repackages it across platforms, lets the narrative evolve and then amplifies it in a coordinated way. A tactic I call "content shadowing" blends true and false details so the result survives fact-checks, and "breadcrumbing" leads audiences to a conclusion without ever stating it. Because it looks organic, takedown rules built for fake accounts miss it.
+
+The op-ed would give voters, local election officials and community groups three practical defenses: prebunking common techniques before they spread, tracking where a narrative started rather than only whether it's true, and building trusted local channels before a crisis.
+
+Study: https://www.academia.edu/179978454/Decentralized_Disinformation_The_Art_of_Weaponizing_Organic_Narratives. The piece would be exclusive to COURIER.
+
+I'm founder and president of Infinitum Corporation, a Washington, DC technology and security consulting firm. Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best regards,
+William Aaron Turner
+202-729-9509 | info@theinfinitumcorporation.com

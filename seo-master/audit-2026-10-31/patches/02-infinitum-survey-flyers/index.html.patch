@@ -1,0 +1,18 @@
+--- /workspace/survey/index.html	2026-10-30 23:12:34.315501897 +0300
++++ index.html	2026-10-31 02:25:23.833070034 +0300
+@@ -1 +1,13 @@
+-<!doctype html><title>Global Political Survey</title><a href="https://form.jotform.com/262853312730049">Global Political Survey</a>
+\ No newline at end of file
++<!doctype html>
++<html lang="en">
++<head>
++<meta charset="utf-8">
++<meta name="viewport" content="width=device-width, initial-scale=1">
++<meta name="robots" content="noindex, nofollow">
++<title>Global Political Survey | Infinitum Corporation</title>
++<meta name="description" content="Short survey link page from Infinitum Corporation. Not intended for search.">
++</head>
++<body>
++<p><a href="https://form.jotform.com/262853312730049">Global Political Survey</a></p>
++</body>
++</html>

@@ -1,0 +1,21 @@
+{
+  "status": "DRAFT FOR REVIEW; not published",
+  "body_words": 5372,
+  "total_words": 6748,
+  "references": 32,
+  "pdf_pages": 26,
+  "pdf": "Infinitum-Military-Doctrine-Adversarial-Mirror-Ratchet-DRAFT.pdf",
+  "pdf_sha256": "43c1a476a67357e67ff4d25ebcb788880531aa4d6ba691f2e670e8f62f23f6e7",
+  "design": "B&W contour cover, Poppins headings/cover; established Source Serif Pro body, no logo watermark",
+  "source_limitations": [
+    "OHCHR Sri Lanka full report retrieval blocked; official indexed excerpts and catalog used and disclosed",
+    "Crenshaw, Abrahms, Pape limited to institutional/publisher abstracts as noted",
+    "Vasara institutional notice examined via existing local copy; no claim to full monograph"
+  ],
+  "scope_decisions": [
+    "Latest request for named historical cases overrides older no-party-names house-style restriction",
+    "Current 5,000\u20137,000-word requirement overrides older 10,000\u201320,000-word house-style target",
+    "No endorsement or operational instructions for atrocities, targeting, terrorism, recruitment, or disinformation",
+    "Coinage attributed to William Aaron Turner; trademark registration/originality not guaranteed"
+  ]
+}

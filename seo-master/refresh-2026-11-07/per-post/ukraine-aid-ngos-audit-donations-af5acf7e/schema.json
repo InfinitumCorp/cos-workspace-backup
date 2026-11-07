@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-aid-ngos-audit-donations.html#article",
+  "url": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-aid-ngos-audit-donations.html",
+  "headline": "Ukraine Aid NGOs: How to Audit Where Donations Go",
+  "description": "The Ukraine Files · Part 1 of 8 (full article coming soon) By William Aaron Turner, President of Infinitum Corporation® · The Ukraine Files: Full Series…",
+  "author": {
+    "@type": "Person",
+    "name": "William Aaron Turner",
+    "sameAs": "https://orcid.org/0009-0002-1585-5442"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  }
+}

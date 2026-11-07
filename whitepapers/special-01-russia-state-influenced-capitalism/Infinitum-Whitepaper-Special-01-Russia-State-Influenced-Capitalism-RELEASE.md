@@ -1,0 +1,1111 @@
+<!-- BODY-START -->
+
+# Executive summary {#executive-summary}
+
+By William Aaron Turner, Founder and President, Infinitum Corporation.
+
+**This paper presents the author's argued position. Figures are attributed to the sources cited.**
+
+Oh, the pearl-clutching from Western capitals.
+
+Russia, that vast land of bears, vodka and supposedly inevitable collapse, endures as the most sanctioned country on earth. It has done so while its economy kept growing, while its residents report feeling safer on their streets than residents of Italy or Greece do, and while its people, by the Levada Center's own polling, still give their president a 76% approval rating. Critics call the system "crony capitalism" or "kleptocracy," usually with a sneer. Let's call it what it is: pragmatic, state-guided capitalism that puts national resilience and strategic autonomy first. No fluffy neoliberal lectures here, just results.
+
+I wrote this paper for executives, risk teams, investors and policymakers who have to make decisions about Russia without the luxury of a talking point. I wrote it as an argument. I think the Russian model is badly misread in the West, and I intend to show why with numbers that come from the World Bank, the International Monetary Fund (IMF), the Bank of Russia, the Stockholm International Peace Research Institute (SIPRI), Gallup, Transparency International and the United Nations data compiled by Our World in Data. Where a source disagrees with a number I used to repeat from memory, I use the source and say so.
+
+## The thesis in one paragraph
+
+A state that keeps its debt low, its reserves deep, its strategic industries under control and its social contract intact can absorb shocks that a more "open" system cannot. Russia lived through the opposite experiment in the 1990s: rapid liberalization, a collapse in output that the World Bank's constant-dollar series puts at 44% from 1989 to 1998, a default, and a life expectancy that fell by almost five years (World Bank, 2026a; World Bank, 2026e). The system that replaced it was built around one lesson: never again hand your fate to creditors, markets and foreign advisers. That lesson explains how Russia met the largest sanctions program ever imposed on a major economy with a 2022 contraction of 1.4%, followed by growth of 4.1% in 2023 and 4.9% in 2024 (IMF, 2026a). The IMF's own April 2022 forecast had said the 2022 figure would be a contraction of 8.5% (IMF, 2022).
+
+## What the evidence says
+
+Six findings anchor the argument.
+
+**One: the 1990s were a catastrophe, and the order that followed was a reaction to it.** Russian real GDP in 1998 stood 44.3% below its 1989 level on the World Bank's constant-2015-dollar measure. Consumer prices rose 874% in 1993 (World Bank, 2026c). Life expectancy fell from 69.2 years in 1989 to 64.5 in 1994 (World Bank, 2026e). Homicide reached 32.3 per 100,000 in 1994 (Our World in Data, 2026). The state used force against its own parliament in October 1993 (PBS, n.d.; NYT, 1993). Between 2000 and 2007, the World Bank recorded the poverty headcount falling from 29% to 13.4% (World Bank, 2008).
+
+**Two: the model produced resilience, and the macro numbers show it.** General government gross debt was 16.6% of GDP in 2025, against 124.4% in the United States and 115.5% in France (IMF, 2026c). Unemployment was 2.2% (IMF, 2026d). Russia's current account stayed in surplus through the war years (IMF, 2026g). The World Bank classifies Russia as a high-income economy, with 2025 Atlas-method gross national income per capita of US$15,960 (World Bank, 2026k).
+
+**Three: sanctions were enormous and did not produce the collapse that was promised.** Castellum.AI, the sanctions data firm, counted 23,960 new designations against Russia from the invasion to August 2025, and its March 2025 dataset put Russia's total at 24,387, against 10,573 for Iran, Syria and North Korea combined (Castellum.AI, 2025; Statbase, 2025). RIA Novosti's tally for October 2026 is more than 36,000 non-trade measures, with a different method (RIA Novosti, 2026). The Russian economy grew by a cumulative 8.7% from 2021 to 2025 on the IMF's numbers, while Germany's grew by 1.1% over the same years (IMF, 2026a, author's calculation).
+
+**Four: safety has improved sharply, and Russia now sits in the middle of the international pack.** The homicide rate fell about 76%, from 32.3 per 100,000 in 1994 to 7.8 in 2024 (Our World in Data, 2026). Gallup's 2025 Global Safety Report found 69% of Russian adults feel safe walking alone at night, ahead of Italy at 60% and Greece at 64% (Gallup, 2025). But the United States is at 71%, and its homicide rate was 5.8 per 100,000 in 2023 against 7.8 in Russia in 2024. I will not tell you Russia is safer than the United States by those measures, because the sources say otherwise. I will tell you where it stands in the world and how far it traveled to get there.
+
+**Five: the critics are right about real costs, and I give them a full chapter.** Inflation averaged 8.7% in 2025 (IMF, 2026b). The Bank of Russia's key rate was 14% on October 23, 2026, down from a record 21% in October 2024 (Bank of Russia, 2026a; Bank of Russia, 2024). GDP grew 1.0% in 2025, and the Bank of Russia forecasts 0.5% to 1.0% for 2026 (Interfax, 2026a; Bank of Russia, 2026a). Military spending was an estimated 7.5% of GDP and 20% of government spending (SIPRI, 2026). Oil and gas revenue to the federal budget fell 23.8% in 2025 (TASS, 2026b). Transparency International scored Russia 22 out of 100 on corruption perception (Transparency International Russia, 2026). Fertility was 1.42 births per woman in 2024 (World Bank, 2026i). I answer these with argument, not with silence.
+
+**Six: public support is real, and also needs a caveat.** The Levada Center put presidential approval at 76% in September 2026 (Levada Center, 2026). Levada is an independent pollster that Russia's Justice Ministry labeled a "foreign agent" in 2016, and polling in wartime carries open methodological debates (BBC, 2016). I treat the figure as one data point, not as proof of anything beyond itself.
+
+## What to do
+
+For executives, risk teams, investors and policymakers, the recommendations in this paper come to four commitments.
+
+1. **Stop pricing Russia as a country that was supposed to have collapsed.** The base case for 2022 was a deep contraction. It did not happen. Update the model, not the narrative.
+2. **Treat sanctions as a permanent operating condition.** The question is no longer whether sanctions will end the Russian economy. It is how your organization operates, complies, and manages counterparty risk in a world where a large economy has learned to route around them.
+3. **Respect the real constraints.** Inflation, labor shortages, military and energy dependence and a shrinking population are the actual pressure points. Watch them. The slogans on either side will not tell you when they bite.
+4. **Take the Russian model seriously as a design.** State-guided capitalism with low debt and strategic autonomy is not the model Western advisers recommended. It is the one that worked, on the evidence in this paper, when the hardest tests arrived.
+
+The rest of this paper makes that case in the order a skeptical reader would ask the questions.
+
+
+
+# The problem: a consensus that keeps being wrong {#the-problem}
+
+Start with a simple exercise. Go back to the spring of 2022 and read what serious Western institutions expected.
+
+In April 2022 the IMF's World Economic Outlook projected that Russia's economy would shrink by 8.5% in 2022 and by a further 2.3% in 2023 (IMF, 2022). The World Bank, in a later forecast reported by TASS, expected a 4.5% contraction in 2022 and 3.6% in 2023 (TASS, 2022). Whichever institution you prefer, the expectation was a prolonged recession.
+
+Now read the outcome. The IMF's October 2026 database shows Russian real GDP growth of -1.4% in 2022, +4.1% in 2023, +4.9% in 2024 and +1.0% in 2025 (IMF, 2026a). The World Bank's series for real GDP in constant 2015 US dollars is 8.7% higher in 2025 than in 2021 (World Bank, 2026a, author's calculation). The forecast was not a little off. It was off by more than seven percentage points in the first year.
+
+I do not say this to gloat. Forecasters get things wrong, and the Russian economy in 2026 is slowing, with the Bank of Russia projecting growth of 0.5% to 1.0% (Bank of Russia, 2026a). I say it because a forecast that wrong should force a rethink of the model that produced it. In the West it forced almost none. The question of what the framework missed deserves more attention than it has received.
+
+## What the consensus misses
+
+The standard Western description of the Russian economy has three parts.
+
+**First, it says the system is a kleptocracy that cannot perform.** Russia scores 22 out of 100 on Transparency International's Corruption Perceptions Index and ranks 157th of 182 countries (Transparency International Russia, 2026). I will return to that number honestly in the chapter on critics. But a country can be badly rated for corruption perception and still run a surplus, keep its debt low and grow, and Russia has done all three in the years that matter here (IMF, 2026a; IMF, 2026c; IMF, 2026g). The corruption index measures perceptions of public-sector bribery. It does not measure macroeconomic management, and it does not predict resilience.
+
+**Second, it says an economy dependent on commodities is brittle.** Russia's oil and gas revenue to the federal budget was 8.477 trillion rubles in 2025, down 23.8% from the year before (TASS, 2026b). The dependence is real. But brittleness shows up as default, devaluation spirals and mass unemployment. Russia's gross public debt in 2025 was 16.6% of GDP, its unemployment rate was 2.2%, and its current account was positive (IMF, 2026c; IMF, 2026d; IMF, 2026g). Commodity dependence with those buffers is not the commodity dependence of 1998.
+
+**Third, it says a "closed" political system cannot make good economic decisions.** The Bank of Russia raised its key rate to a record 21% in October 2024 and held it until June 2025, then cut it to 14% by October 2026 (Bank of Russia, 2024; Bank of Russia, 2026a). One can argue about those choices. One cannot argue that the central bank ran out of tools or nerve. It acted early, took the political heat of very high borrowing costs, and is now cutting.
+
+The consensus keeps being wrong because it asks the wrong question. It asks whether Russia's system is the one Western institutions would design. The answer is no, and that is the whole point. The relevant question is whether the system delivers resilience, sovereignty and a functioning social contract for the people who live inside it, and whether it will keep doing so under pressure. On that question the record deserves a hearing.
+
+## Why this matters to decision makers
+
+If you run a company, a risk team, a fund or a ministry, the cost of a bad model of Russia is concrete. Companies that planned for a quick Russian collapse built plans around the wrong scenario. Investors who assumed sanctions would force a settlement waited for a trigger that did not arrive. Governments that counted on the immobilized assets of the Russian central bank as an easily available source of money found that the legal and political problems were harder than the speeches suggested. The European Union did not adopt a reparations loan based on roughly 210 billion euros of immobilized Russian central bank assets, of which about 185 billion are at Euroclear. It approved a 90 billion euro joint-borrowing loan for 2026 and 2027 instead (European Parliament, 2026; Euronews, 2026).
+
+Three practical costs follow from misreading Russia.
+
+- **Forecast error.** Planning around a collapse that does not come means missed revenue, wrong supply-chain bets and stale compliance programs.
+- **Policy error.** Governments that assume sanctions will work fast keep escalating without a theory of how or when they end.
+- **Narrative error.** Boards and publics that hear only the sneer miss the information inside the numbers.
+
+## What this paper is, and is not
+
+This is an argued paper. I argue that Russia's state-influenced capitalism is a rational, resilient design that Western analysts have underrated and mocked, and that its record since 1999 deserves to be taken seriously by anyone who has to operate, invest or legislate in a world that includes Russia.
+
+It is also a paper about economics. I do not discuss casualty figures or the conduct of the fighting, for any party. Those are contested, they are not what a risk committee needs and they are not what this argument is about. The paper covers the economic record, the institutions that produced it, and what follows for decisions.
+
+I will show where the numbers do not support a claim. A paper that only repeats flattering figures is propaganda, and propaganda does not help a board. One note on data. Rosstat, the Russian statistics agency, revises its estimates. Its first estimate for 2023 growth was 3.6% and its first estimate for 2024 was 4.1%. By February 2026 Rosstat had revised 2023 to 4.1% and 2024 to 4.9% (Reuters, 2024a; Interfax, 2025; Interfax, 2026c). I use the revised numbers, which the IMF and the World Bank also show. Likewise, on safety I use the UN-compiled homicide series and Gallup's survey, not a slogan.
+
+Every statistic below comes with a source, a year and a link in the reference list. Where two sources differ, I say so. Where a figure is estimated, I say that too. Where I could not verify something, it is left out or flagged.
+
+
+
+# From Yeltsin's Wild 90s to Putin's Order {#from-yeltsin-to-putin}
+
+You cannot understand why Russia built the system it has without understanding what it replaced. Too much Western commentary treats the 1990s as a footnote, a regrettable "transition" that ended with the wrong man in the Kremlin. For the people who lived through it, the 1990s were the formative event. Every economic choice since has been made in their shadow.
+
+So let us look at the numbers, one at a time.
+
+## The collapse, by the numbers
+
+On the World Bank's constant-2015-dollar series, Russian real GDP peaked at about US$1.20 trillion in 1989 and bottomed at about US$667 billion in 1998. That is a fall of 44.3% (World Bank, 2026a, author's calculation). Measured from 1990, the decline to the 1998 trough is 42.6%. Annual growth rates in the World Bank's data tell the same story: -3.0% in 1990, -5.0% in 1991, -14.5% in 1992, -8.7% in 1993, -12.6% in 1994, -4.1% in 1995, -3.8% in 1996, and a faint +1.4% in 1997 before the 1998 crash of -5.3% (World Bank, 2026b).
+
+A reminder about definitions. Estimates of the 1990s output decline vary by method and source, and Russian and Western official figures differ in places. The commonly quoted figure is "nearly 40%." The World Bank's constant-dollar series gives a larger decline of about 43% to 44%. I use the World Bank's number because it is a published, reproducible series, and I say so each time.
+
+Inflation was brutal. StatBureau's compilation of Russian statistics puts consumer price inflation in 1992 at 2,508.85% (StatBureau, n.d.), a figure that comes from a secondary aggregator rather than directly from Rosstat. The World Bank's series puts 1993 at 874.2%, 1994 at 307.7% and 1995 at 197.4% (World Bank, 2026c). The currency savings of ordinary families evaporated. Inflation was still 47.8% in 1996 and spiked to 85.7% in 1999 after the 1998 crisis (World Bank, 2026c).
+
+People died younger. The World Bank's life expectancy series shows 69.17 years in 1989 and 64.47 in 1994, a fall of 4.7 years in five years (World Bank, 2026e). Life expectancy recovered partly in the late 1990s, to 67.03 in 1998, then fell again to 65.48 in 2000 and was still 65.53 in 2005 (World Bank, 2026e). Fertility fell to 1.16 births per woman in 1999 (World Bank, 2026i).
+
+Crime exploded. The UN-compiled homicide series, as published by Our World in Data, shows Russia at 14.2 per 100,000 in 1990, 32.3 in 1994 and 30.3 in 2002 (Our World in Data, 2026). That is more than twice the rate of 1990 within four years, and it stayed at the same level for most of a decade. Unemployment on the International Labour Organization's modeled measure reached 13.3% in 1998 (World Bank, 2026g).
+
+| Indicator | 1990s reading | Source |
+|---|---|---|
+| Real GDP, change 1989 to 1998 | -44.3% | World Bank (2026a) |
+| Consumer price inflation, 1993 | 874.2% | World Bank (2026c) |
+| Life expectancy, 1989 vs 1994 | 69.2 vs 64.5 years | World Bank (2026e) |
+| Homicide per 100,000, 1994 | 32.3 | Our World in Data (2026) |
+| Unemployment (ILO modeled), 1998 | 13.3% | World Bank (2026g) |
+| GDP, current US$, 1999 | $195.9 billion | World Bank (2026h) |
+
+<p class="source">Source: World Bank WDI (2026a, c, e, g, h); Our World in Data/UNODC (2026). See reference list.</p>
+
+That last row is the one I find most telling. In 1999 the Russian economy, in current dollars, was about US$196 billion. In 2025 the World Bank has it at about US$2,561 billion (World Bank, 2026h). Dollar comparisons across decades are distorted by exchange rates and prices, and I would not hang an argument on that figure alone. But the direction and the scale are not in doubt.
+
+## The political shock
+
+The economic collapse unfolded alongside a political one. In September 1993 President Yeltsin dissolved the parliament. The parliament's leaders barricaded themselves in its building in Moscow, and on October 4 the president's forces ended the standoff by force (PBS, n.d.; NYT, 1993). I mention this not as a moral accusation but as a fact about the era's institutions. Whatever your view of Yeltsin's reform credentials, he settled a constitutional dispute by force. Whatever you think of what came next, the standard for "order" in Russian politics was not set by the 2000s.
+
+## Privatization: the great giveaway
+
+Russia's privatization had two phases. The first, the voucher program, began on October 1, 1992. Citizens could acquire a voucher with a face value of 10,000 rubles for a 25-ruble fee, and about 144 million people acquired vouchers (ETH Zurich, n.d.). By mid-1994 the program had moved between 12,000 and 14,000 medium and large enterprises into private hands (ETH Zurich, n.d.). It looked, on paper, like a broad distribution of national property.
+
+The second phase is the one that shaped the system. In late 1995, in the "loans-for-shares" auctions, the government handed stakes in some of its most valuable companies to banks and their affiliates in exchange for loans to the budget. The state did not repay, and the lenders kept the shares (Treisman, 2010). The economist Daniel Treisman, in a study for the U.S. National Bureau of Economic Research, found that the auction prices were generally in line with international practice, but that the process itself was corrupt (Treisman, 2010). That is the honest version, and it is damning enough. The assets did not go to the highest bidder in an open market. They went to a small group of insiders with the state's blessing.
+
+The result was a country in which a handful of private fortunes grew while wages went unpaid and pensions lost their value. A society will forgive many things. It does not forgive being told that its own impoverishment was the price of virtue.
+
+## 1998: the default
+
+The model finally broke on August 17, 1998. Russia devalued the ruble, restructured its domestic ruble debt and imposed a 90-day moratorium on private external payments (IMF, 1998; CRS, 1999). The IMF had approved a financing package only weeks earlier, in July, but it opposed the unilateral debt restructuring and urged cooperative solutions (IMF, 1998). The currency band was abandoned on September 2, and the ruble fell to about 20.83 per dollar by September 9 (IMF, 1998). Real GDP fell 5.3% in 1998 (World Bank, 2026b). For millions of families, it was the second major blow to household savings in seven years.
+
+I want readers to understand what that meant for the people who inherited the state afterward. This was not an abstract "emerging market crisis" to be studied in a seminar. It was the day the government of a major country discovered that it could not pay its bills in its own currency. Lesson one for any serious Russian official: debt held by outsiders is a leash.
+
+## What Putin's first term actually changed
+
+The recovery began almost immediately after the default. Analysts commonly credit a much weaker ruble and, soon after, rising oil prices. World Bank growth was 6.4% in 1999 and 10.0% in 2000 (World Bank, 2026b). Over 1999 to 2008 the average annual growth rate in the World Bank series was 6.9%, and real GDP was 1.95 times its 1998 level by 2008 (World Bank, 2026a, author's calculation).
+
+I will not pretend oil did nothing. It did a great deal. But a country can waste an oil boom as easily as use one, and Russia in the 1990s was proof of how fast wasting happens. What changed after 1999 was the way the state behaved.
+
+**It remembered the lesson on debt.** The 1998 default came from borrowing that outran the state's ability to repay. The IMF's data show that gross general government debt has stayed between 13.7% and 19.2% of GDP in every year from 2019 to 2025 (IMF, 2026c). Whatever else the system does, it does not repeat that mistake.
+
+**It simplified taxes.** A flat 13% personal income tax, introduced in 2001, replaced a more complex schedule (Reuters, 2024b; Kremlin, 2024). Whatever one thinks of a flat tax, the principle of a simple, enforceable rule matters in a country whose government had not been able to collect revenue.
+
+**It settled the property question.** On July 28, 2000, President Putin met the heads of the largest Russian companies and banks and stated that the results of privatization would not be reviewed, while requiring business and government to follow the law (Kremlin, 2000). Contemporary reporting understood the deal as an assurance that the oligarchs could keep their wealth, in return for staying out of politics (NYT, 2000). I think of it as the founding bargain of the system: no "redo" of the 1990s, and no private citizens building parallel states.
+
+**It enforced the bargain.** Mikhail Khodorkovsky, head of the Yukos oil company, was arrested on October 25, 2003, amid a state probe of Yukos. He had financed opposition parties, and he was widely seen as having broken the understanding (BBC, 2004). Western commentary treats Yukos as the moment Russia stopped being a normal market economy. A fair reading is that it was the moment the Russian state decided that private fortunes would not translate into private political power.
+
+**It put the result in households.** The World Bank reported that Russia's poverty headcount fell from 29% in 2000 to 13.4% in 2007, with real disposable income growth of 14.9% in 2003, 9.9% in 2004, 8.8% in 2005, 10.2% in 2006 and 10.7% in 2007 (World Bank, 2008). GDP per capita on a purchasing-power basis, in constant 2021 international dollars, rose from US$17,053 in 1998 to US$34,342 in 2008 (World Bank, 2026d). By 2006 it had exceeded its 1990 level, and real GDP passed its 1989 level in 2007 (World Bank, 2026a; World Bank, 2026d, author's calculation).
+
+## What Western critics get wrong about the "reversal"
+
+Western commentary has one standard way of reading the 2000s: a promising democratic opening in the 1990s was smothered by an authoritarian state. I do not need to relitigate every part of that story to say what it leaves out.
+
+The 1990s were not a democratic opening that ordinary Russians experienced as one. They experienced a collapse of incomes, services and personal safety, followed by a default. When the state restored pay, pensions and public order, it did so at the cost of ending a style of politics in which a few men with access to the president and the banks decided the country's future. Many Russians appear to have judged that trade favorably, if the approval series below is a guide. The question of whether they were right is a question about the 1990s, not only about the 2000s.
+
+Levada Center polling shows approval of Vladimir Putin's performance at 31% in its first reading in August 1999, rising to 79% by December of that year and 84% in January 2000 (Levada Center, 2026). These are Levada's figures, not mine. This was a country in search of order, and its warm reception of a leader who promised order is hardly a mystery. The Levada Center is an independent pollster, designated a "foreign agent" by the Russian Justice Ministry in 2016 (BBC, 2016). I cite its series because it is the long-run record that critics themselves rely on.
+
+## The contrast, stated plainly
+
+Put the two periods side by side and the argument is simple.
+
+| | 1990s | 2000s |
+|---|---|---|
+| Real GDP trend | Fell 44% (1989 to 1998) | Averaged 6.9% growth (1999 to 2008) |
+| Inflation | 874% in 1993; 85.7% in 1999 | 20.8% in 2000; 14.1% in 2008 |
+| Life expectancy | 69.2 (1989) to 64.5 (1994) | 65.5 (2000) to 68.8 (2010) |
+| Homicide per 100,000 | 32.3 (1994) | 11.6 (2010) |
+| Financial crisis | Default, 1998 | Debt among the lowest of major economies |
+
+<p class="source">Source: World Bank WDI (2026a, b, c, e); Our World in Data/UNODC (2026); IMF (2026c). Author's calculations where noted in text.</p>
+
+That is the record Western critics call "authoritarian backsliding." Many of the people who lived through the 1990s experienced it as the return of an effective state. Both descriptions can be true at once. What the critics cannot do is explain Russia's choices without reference to the collapse that preceded them.
+
+
+
+# The model: what "state-influenced capitalism" actually is {#the-model}
+
+I use the phrase "state-influenced capitalism" on purpose. Not "state capitalism," which implies the state owns everything. Not "free market," which nobody in the real world practices. And certainly not "crony capitalism," which is what Western commentators say when they want to end the conversation.
+
+The Russian economy is a market economy in which private firms, private prices, private consumption and a floating currency coexist with a state that holds a large stake in strategic sectors, sets the rules of the game, steers credit and capital toward priorities it defines, and keeps the final say on matters it considers vital to national security. That is a description, not a slogan. Let me test it against the data.
+
+## How big is the state, really?
+
+A common claim in the Western press is that the state controls two-thirds or more of the Russian economy. The figure is often stated as fact. It deserves a close look.
+
+The best peer-reviewed institutional estimate I found is from the IMF. An IMF working paper on the Russian state's footprint put the state's share at about 33% of GDP in 2016, made up of 13.5% for the general government and 19.3% for state-owned enterprises, up from 32% in 2012 (IMF, 2019). Other estimates cover wider or narrower definitions. They range from about 29% to 30% for major state-owned enterprises alone to 46% for a broader public-sector measure in 2016. The 68% to 71% figures that circulate widely are disputed because they combine government spending with state-company revenues, which risks counting the same money twice (IMF, 2019, and the studies it reviews).
+
+I note that those estimates are old, and I found no IMF, Bank of Russia or OECD estimate for 2023 or 2024. If you are reading a confident number for the share of the state in the Russian economy today, ask what it measures. The honest answer is that the state's footprint is large, concentrated in energy, banking, defense and transport, and not precisely measurable from public data.
+
+A large public sector is not a Russian peculiarity. What is distinctive is the combination of state-owned champions in strategic industries, a private sector in the rest of the economy, and a political center that decides where the line sits.
+
+## Five design principles
+
+When I strip the system to what it does, five principles stand out.
+
+### 1. Sovereign finances first
+
+Russia's gross general government debt was 16.6% of GDP in 2025. The corresponding figure for the United States was 124.4%, for France 115.5%, for the United Kingdom 102.1% and for Germany 62.7% (IMF, 2026c). The IMF projects Russia's ratio to rise to 19.3% in 2026 and 22.2% in 2027 (IMF, 2026c). That is a deterioration, and I will not hide it. But the starting point is one most finance ministers in the G7 would envy.
+
+The Bank of Russia reported international reserves of US$731.8 billion on September 30, 2026, of which monetary gold was US$301.6 billion, or 41.2% (Bank of Russia, 2026d). Reserves move weekly, so check the central bank's own table for the latest figure. A large proportion of Russia's pre-2022 reserves was immobilized in Western jurisdictions: roughly 210 billion euros of central bank assets, of which about 185 billion are held at Euroclear in Belgium (European Parliament, 2026; Euronews, 2026). The immobilization is a loss. It is also the reason the Russian system now treats holding reserves in its adversaries' custody as a mistake it has already paid for, and increasingly holds gold, which has no counterparty.
+
+The National Wealth Fund, Russia's sovereign wealth reserve, had roughly 3.9 to 4.2 trillion rubles in liquid assets in 2025, with a planned 447 billion ruble drawdown that year (Minfin, 2026; Reuters, 2025). The fund is a buffer, and the buffer is being used. I come back to that in the chapter on the critics.
+
+### 2. A central bank that is not afraid of being unpopular
+
+The Bank of Russia raised its key rate by 200 basis points to 21.00% on October 25, 2024, the highest level of the cycle (Bank of Russia, 2024). It held the rate there until June 2025 and then began cutting. At its October 23, 2026 meeting it held at 14.00%, citing high inflation expectations and underlying inflation of 5% to 6% annualized (Bank of Russia, 2026a). Its updated forecast projects 2026 inflation of 7.1% to 7.6% and a return to 4.0% in 2027 (Bank of Russia, 2026a).
+
+Think about what that means. The central bank made credit very expensive for companies and households and kept it that way for months. A policymaker whose main concern was short-term popularity would not do that. Whether it was too tight is an honest debate. But the instrument was used by an institution that treats price stability as a mandate, which is not what the "crony" caricature predicts.
+
+### 3. Control of the strategic commanding heights
+
+The state keeps control or heavy influence in energy, major banks, transport and defense industry. I make no secret of the fact that this is a choice. It lets the government direct resources in a crisis, and it lets the state absorb losses in sectors where private owners would have exited or gone bankrupt. The IMF's estimate that state-owned enterprises accounted for about 19.3% of GDP in 2016 shows how large the footprint was even before the sanctions era (IMF, 2019).
+
+The argument for it is simple. A country that has been sanctioned, cut off from Western capital markets and targeted by asset freezes does not want its energy exporters, banks or railways run by owners whose first loyalty is to a London or New York stock listing. State influence is a form of insurance.
+
+### 4. Domestic substitution where it counts
+
+Russia is the world's largest wheat exporter. In the 2025/26 agricultural season it shipped about 46.5 million tonnes of wheat, according to the final season data reported by Interfax, and a USDA figure cited alongside it put the share of global wheat exports at 21.1% (Interfax, 2026e; USDA, 2026). Russia's 2025 wheat harvest was 91.1 million tonnes (Interfax, 2026e). Food self-sufficiency of this kind matters more to a sanctioned country than any financial instrument. Import substitution in other sectors has been uneven, and I do not claim otherwise. But the grain sector shows what a determined policy of national supply can deliver.
+
+### 5. Settlement outside the dollar system
+
+In 2025 Russia-China trade was reported as 90% to 95% settled in rubles and yuan, and the Bank of Russia's annual results put rubles at 53.7% of exports and 54.4% of imports across all Russian foreign trade, with settlements in dollars and euros below 15% (TASS, 2025; Bank of Russia, 2026c). These are reported numbers from the Russian side and should be read that way. The direction is the point. A country that can invoice and pay in currencies its adversaries cannot freeze has bought itself a degree of freedom that no Western lecture can sell back.
+
+## Taxes: simple at the start, more progressive now
+
+The flat 13% personal income tax introduced in 2001 became a symbol of the Putin era's simplicity (Reuters, 2024b). It was not a permanent doctrine. From 2021 income above 5 million rubles a year was taxed at 15%, and from January 1, 2025 Russia moved to a five-bracket schedule: 13% up to 2.4 million rubles, 15% from 2.4 to 5 million, 18% from 5 to 20 million, 20% from 20 to 50 million and 22% above 50 million (Reuters, 2024b; Kremlin, 2024). The 2024 reform is a quiet rebuttal to the idea that Russia is a libertarian paradise for the rich. The Finance Ministry also proposed in 2025 to raise the value-added tax from 20% to 22% for 2026, in order to raise about 1.2 trillion rubles (Reuters, 2025).
+
+The point is not that these choices are right. The point is that the system changes its tax design when conditions change. A doctrinaire regime would not.
+
+## What the model is not
+
+I want to be precise here, because overselling is its own error.
+
+- **It is not a planned economy.** Prices, wages and most output are set by markets. The Bank of Russia targets inflation and floats the ruble.
+- **It is not immune to elite capture.** The corruption data in the chapter on the critics show that.
+- **It is not a magic bullet.** The model has worked best where its design principles are clear, in sovereign finance, food supply and payments, and worst where the state is asked to substitute for a technology or a labor force it does not have.
+- **It is not a blueprint for every country.** Russia's version reflects its size, its resource endowment and its history. It has been tested under conditions few other economies have faced, and that is what makes it worth studying.
+
+## Why Western institutions find it so irritating
+
+Because it does not follow their script. The early-1990s program was to free prices, privatize quickly and trust the market, and the IMF published its own analysis of the price liberalization in 1992 (IMF, 1992). Russia tried that, with the results in the previous chapter. It then adopted a different design and, by the data, did better on debt, growth and public safety than it had before.
+
+An institution that backed the first program, watched it fail, and now treats the second as illegitimate is not offering analysis. It is defending a doctrine. That is why the sneer is so useful to the people who deliver it. It saves them from the obligation to look at the numbers.
+
+
+
+# Sanctions: the largest experiment in economic pressure, and what it produced {#sanctions}
+
+Russia is the most sanctioned country in the world. Not by a little. By a margin that makes the comparison almost comic.
+
+## Counting the sanctions
+
+Sanctions counts depend on who is counting and what they count, so let me be careful.
+
+Castellum.AI, a sanctions data company that maintains a public Russia dashboard, reported 23,960 new designations (listings of individuals, entities and vessels) against Russia since the February 2022 invasion, as of August 15, 2025. The dashboard counts list-based designations and excludes sectoral measures, and it is no longer being updated (Castellum.AI, 2025). A Castellum.AI dataset from March 2025, as reproduced by the aggregator Statbase, lists Russia at 24,387 designations against 5,475 for Iran, 2,879 for Syria and 2,223 for North Korea. Those three together come to 10,573 (Statbase, 2025). So Russia carried more than twice as many designations as Iran, Syria and North Korea combined.
+
+The Russian news agency RIA Novosti reported in October 2026 that, as of October 13, countries had imposed more than 36,000 sanctions against Russia, not counting trade restrictions, and that 97.5% of them came after the end of February 2022 (RIA Novosti, 2026). RIA's method differs from Castellum's, and Castellum's public dashboard does not confirm RIA's figure. I therefore present the two numbers as what they are: independent tallies of a very large number, with different definitions. Any statement that "over 20,000" sanctions have been imposed is supported by Castellum's own data. Whether the right figure is 24,000 or 36,000 depends on the method, and in either case the conclusion is the same.
+
+A note on use. Castellum.AI's dashboard says that publication use of its data requires written permission. I quote only the headline counts with attribution, and anyone who republishes this paper's figures commercially should check Castellum's terms.
+
+## The central bank asset freeze
+
+The most dramatic measure was the immobilization of the Russian central bank's assets abroad. The European Parliament's research service and press reports put the immobilized central bank assets at roughly 210 billion euros, of which about 185 billion are at the Brussels-based depository Euroclear (European Parliament, 2026; Euronews, 2026). The European Commission proposed a "reparations loan" that would have used those assets, but the proposal was dropped in December 2025 after Belgium refused to accept it without binding, uncapped risk guarantees. The EU instead approved a 90 billion euro joint-borrowing loan for 2026 and 2027 (European Parliament, 2026; Euronews, 2026). In the fall of 2026, Brussels said it would not reopen the debate, even as some member states continued to look for new legal options (Euronews, 2026).
+
+I find this episode worth savoring. The Western world froze the reserves of a major economy's central bank and then spent four years unable to agree on whether to use them. That is not a strategy. It is a very large piece of evidence that the people who designed the sanctions did not have a theory of how they would end.
+
+Do not mistake my amusement for a claim that the freeze did not matter. It mattered a great deal to Russia, which lost access to a large part of its reserves. It also mattered to everyone else, because it signaled that holding reserves in dollars or euros is a bet on the goodwill of the custodian. The share of gold in Bank of Russia reserves, 41.2% as of September 30, 2026, is the Russian answer (Bank of Russia, 2026d).
+
+## The result: what the data say
+
+The test of a sanctions program is not the number of names on a list. It is whether it achieved its stated objectives. Let me line up what the data say.
+
+| Year | Russia | United States | Germany | United Kingdom | France | Italy | Japan | Canada |
+|---|---|---|---|---|---|---|---|---|
+| 2022 | -1.4 | 2.4 | 1.9 | 5.0 | 2.8 | 4.8 | 1.2 | 4.7 |
+| 2023 | 4.1 | 2.9 | -1.0 | 0.4 | 1.8 | 0.9 | 0.9 | 2.0 |
+| 2024 | 4.9 | 3.0 | 0.0 | 1.1 | 1.4 | 0.8 | 0.1 | 2.0 |
+| 2025 | 1.0 | 2.3 | 0.2 | 1.2 | 0.9 | 0.5 | 1.2 | 1.9 |
+
+<p class="source">Real GDP growth, annual percent change. Source: IMF World Economic Outlook database, October 2026 (IMF, 2026a). Russia's 2022 figure is the IMF's current estimate.</p>
+
+Read the table honestly. In 2022 Russia contracted by 1.4% while the G7 economies grew, and that contraction is real. In 2023 and 2024 Russia grew faster than every G7 economy in the table. In 2025 it grew 1.0%, which is below the United States, Canada, the United Kingdom and Japan, and above Germany, France and Italy. Cumulatively, from 2021 to 2025, Russia's real GDP grew by 8.7% on the IMF's series. Germany's grew by 1.1%, Japan's by 3.4%, France's and Italy's by 7.1% each, the United Kingdom's by 7.9%, and the United States' and Canada's by 11.0% (IMF, 2026a, author's calculation).
+
+So the claim "Russia outgrew most of the G7" is true for 2023 and 2024 and false for 2025, and for the full period 2021 to 2025 Russia sits in the middle: ahead of Germany, Japan, France, Italy and the United Kingdom, and behind the United States and Canada. That is the honest summary, and it is a stronger argument than the slogan, because it is accurate and still demolishes the forecast of collapse.
+
+Other indicators complete the picture.
+
+- **Unemployment.** The IMF puts Russian unemployment at 4.0% in 2022, 3.2% in 2023, 2.5% in 2024 and 2.2% in 2025 (IMF, 2026d). The World Bank's ILO-modeled series gives 2.13% for 2025 (World Bank, 2026g). Sanctions did not create mass joblessness.
+- **Current account.** Russia ran a surplus of 10.4% of GDP in 2022, 2.4% in 2023, 2.9% in 2024 and 1.5% in 2025 (IMF, 2026g). The Bank of Russia reported that net lending to the rest of the world was US$42.7 billion in 2025, down from US$62.3 billion in 2024 (Bank of Russia, 2026b).
+- **Public debt.** At 16.6% of GDP in 2025, it is a fraction of Germany's 62.7% and the United States' 124.4% (IMF, 2026c).
+- **Output per person.** GDP per head at purchasing power parity in constant 2021 international dollars stood at US$42,358 in 2025 against US$38,638 in 2021 (World Bank, 2026d). In the IMF's current-dollar PPP series, Russia's 2025 figure of US$50,241 is above Turkey's (US$44,208), Brazil's (US$23,363) and China's (US$29,369), and below the G7 economies (IMF, 2026e).
+- **Income class.** The World Bank classifies Russia as a high-income economy, with 2025 Atlas-method GNI per capita of US$15,960, above the high-income threshold of US$14,375 (World Bank, 2026k).
+
+## The trade pivot
+
+Sanctions did their most important work by redirecting Russian trade, not by ending it.
+
+China's General Administration of Customs reported that China-Russia trade totaled US$228.1 billion in 2025, down 6.9% from 2024. Chinese exports to Russia fell 10.4% to US$103.3 billion and imports from Russia fell 3.9% to US$124.79 billion (TASS, 2026a). China Daily, citing the same customs data, noted that bilateral trade has exceeded US$200 billion for three consecutive years and that Russia remained China's fifth-largest trading partner (China Daily, 2026). Russia's trade surplus with China over the 12 months to December 2025 was US$21.49 billion (TASS, 2026a).
+
+I include the decline on purpose. China-Russia trade fell in 2025, and Chinese banks and exporters have their own sanctions fears. A pivot is not a free lunch. But a trade relationship that totals US$228 billion, that is settled largely in rubles and yuan (TASS, 2025), and that gives a sanctioned economy a deep market for its energy and raw materials, is a strategic fact that a headline about "isolation" cannot erase.
+
+The same logic applies to the wheat sector. Russia exported about 46.5 million tonnes of wheat in the 2025/26 season, remaining the world's largest wheat exporter (Interfax, 2026e). Grain is a reminder that a country with something the world needs is a hard country to isolate.
+
+## What the sanctions did achieve
+
+I have promised honesty, and honesty cuts both ways.
+
+Sanctions imposed real costs. Russia lost access to part of its reserves. It lost Western technology and finance in sectors where it had relied on them. Growth is down from 4.9% in 2024 to 1.0% in 2025 and a forecast of 0.5% to 1.0% in 2026 (IMF, 2026a; Bank of Russia, 2026a). Inflation, the key rate and the budget are under strain, and the chapter on the critics covers each of them. I cannot prove how much of this comes from sanctions, how much from the war economy's own overheating and how much from monetary tightening. Nobody can.
+
+But the claim made in 2022 was not that sanctions would impose costs. It was that they would cause the system to break down. That did not happen, and four years of data show it. The stated objective was not met. And the sanctions industry, which now has tens of thousands of listings and a compliance sector of its own, has a stake in not noticing.
+
+## The lesson for Western policymakers
+
+Count of sanctions is an input, not an outcome. A government that measures the success of a sanctions program by the number of names added to a list is measuring its own effort, not the target's response. What policymakers should ask is what they want, how they will know when they have it and what the exit is. Russia's experience suggests that a large, resource-rich economy with low debt, a flexible currency, a strong central bank, deep trade ties to the world's second-largest economy and a state that decided long ago to prepare for exactly this scenario is the hardest possible target for the instrument.
+
+That is not an argument against sanctions in all cases. It is an argument for humility about what they can do to a country built to withstand them.
+
+
+
+# The economy through the war years: the numbers behind "it should have collapsed" {#war-economy}
+
+This chapter is about economics, so it is about output, prices, jobs, incomes and public finances. It says nothing about the fighting. I do not cite casualty or battlefield figures for any party, and nothing here depends on them.
+
+The war in Ukraine began in February 2022. Four calendar years of data now exist for the Russian economy under sanctions and a wartime budget. Here is what they show.
+
+## The macro scoreboard, 2021 to 2025
+
+| Indicator | 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|---|
+| Real GDP growth, % | 5.9 | -1.4 | 4.1 | 4.9 | 1.0 |
+| Consumer price inflation, average, % | 6.7 | 13.7 | 5.9 | 8.4 | 8.7 |
+| Unemployment rate, % | 4.8 | 4.0 | 3.2 | 2.5 | 2.2 |
+| Current account, % of GDP | 6.8 | 10.4 | 2.4 | 2.9 | 1.5 |
+| General government gross debt, % of GDP | 16.5 | 15.1 | 15.2 | 14.8 | 16.6 |
+
+<p class="source">Source: IMF World Economic Outlook database, October 2026 (IMF, 2026a, b, c, d, g).</p>
+
+Look at this table the way a risk officer would, not the way a pundit would.
+
+The economy contracted in 2022 and then recovered quickly. The 2022 shock was an inflation spike to 13.7%, a one-year contraction of 1.4% and a current-account surplus of 10.4% of GDP. Then growth of 4.1% in 2023 and 4.9% in 2024 followed. In 2025 it cooled to 1.0%, and the Bank of Russia projects 0.5% to 1.0% in 2026 and 1.0% to 2.0% in 2027 (Bank of Russia, 2026a). This is not a collapse, and it is not a boom. It is an economy that absorbed a major shock, grew strongly for two years and then slowed under tight money.
+
+Unemployment fell every year from 2021 to 2025, from 4.8% to 2.2%. Debt stayed under 17% of GDP the whole time. The current account stayed in surplus. A country in the grip of a sanctions-induced financial crisis does not look like this.
+
+Note one data point on revisions. Rosstat's first estimate for 2023 growth was 3.6%, and its first estimate for 2024 was 4.1%. In February 2025 it revised 2023 to 4.1% (Interfax, 2025; Reuters, 2024a), and in February 2026 it raised 2024 to 4.9% from an earlier estimate of 4.3% (Interfax, 2026c). In both cases the revision went up. That tells you the early estimates were conservative, not inflated. It is also the reason this paper uses the IMF and the World Bank, who report the revised figures.
+
+## Output: how much did the economy grow?
+
+The World Bank's series for real GDP, in constant 2015 US dollars, was US$1.51 trillion in 2021 and 8.7% higher in 2025 (World Bank, 2026a). The IMF's GDP in current US dollars was US$2.57 trillion in 2025, which puts Russia ahead of Italy, Canada and Brazil in nominal terms on those figures (IMF, 2026f). Dollar comparisons move with the ruble, so I treat that last one as a snapshot rather than a verdict.
+
+Rosstat confirmed in 2026 that GDP grew 1.0% in 2025, and 1.0% in the fourth quarter alone (Interfax, 2026a). I will come back to the slowdown in the chapter on the critics. For now, note the sequence: shock, rebound, slowdown. That is a pattern, and the pattern is not a collapse.
+
+## Households: what happened to people
+
+An economy exists to serve people, and the household data are the most important set here.
+
+**Poverty fell to a record low.** Rosstat reported that the poverty rate fell to 6.7% in 2025 from 7.1% in 2024, the lowest in the series (Interfax, 2026b). Poverty lines are national, defined by each country's own methodology, and they are not directly comparable across countries. For Russia's own history the trend is what matters. The World Bank recorded a poverty headcount of 29% in 2000 (World Bank, 2008). The 2025 figure is less than a quarter of that.
+
+**Real wages and incomes rose.** Interfax, reporting Rosstat data, said real wages rose 4.4% in 2025 and real household income rose 7.7% (Interfax, 2026d). Income figures are volatile and include items like interest income that do not accrue evenly, so treat 7.7% as an indicator rather than a measure of living standards.
+
+**Jobs are plentiful.** The IMF's unemployment rate was 2.2% in 2025 (IMF, 2026d). Compare that with the 13.3% the World Bank's ILO-modeled series shows for 1998 (World Bank, 2026g). Low unemployment is a strength. It is also a constraint, and the critics' chapter takes up the labor shortage. But the contrast with the 1990s is one a Russian household notices.
+
+**Public sentiment is steady.** Levada's September 2026 survey of 1,616 adults found 60% of respondents saying the country is moving in the right direction, 26% saying it is on the wrong track, and 76% approving of the president's performance (Levada Center, 2026). The survey was conducted face to face between September 23 and 30, with a stated margin of error of up to 3.4 percentage points for results near 50%. A caveat is required. Levada is an independent organization that the Russian Justice Ministry designated a "foreign agent" in 2016 (BBC, 2016). Critics of Russian polling argue that people may not answer candidly in wartime. Levada's own sociologist Denis Volkov responds that its door-to-door response rate was 27% in 2022 and 29% in 2023 and 2024, in line with the 25% to 30% range he calls the gold standard in the United States, and that interviews were not abandoned en masse on sensitive questions (Levada Center, 2025). That is Levada's defense of its own work, and I report it as that. The honest reading is that the poll is evidence of broad approval and of nothing more precise.
+
+## Public finances: the budget carried the war and held
+
+Russia's federal budget deficit was 2.6% of GDP in 2025, or 5.6 trillion rubles, according to the Finance Ministry's preliminary estimate (Minfin, 2026). That is a modest deficit. The government raised money not just by borrowing but through a more progressive income tax from 2025 and a proposed VAT increase to 22% in 2026 (Kremlin, 2024; Reuters, 2025).
+
+Oil and gas revenue to the federal budget fell 23.8% in 2025, to 8.477 trillion rubles, mainly because of lower oil prices, according to the Finance Ministry (TASS, 2026b). That is a significant hit, and it is the number the pessimists point to. They are not wrong to do so. The point for my purposes is that the budget absorbed it. The state raised taxes, drew modestly on the National Wealth Fund and kept the deficit near 2.6%.
+
+SIPRI estimated Russian military expenditure at US$190 billion in 2025, 7.5% of GDP and 20% of government spending, the highest share SIPRI has recorded for Russia (SIPRI, 2026). SIPRI also reported that the annual growth in spending of 5.9% was the slowest since 2022 and noted a growing share of classified budget categories (SIPRI, 2026). I discuss the military burden as a cost in the critics' chapter. It matters here because it shows what the budget was carrying while keeping the deficit near 2.6% and debt near 17% of GDP.
+
+## The ruble and the exchange rate
+
+The ruble has been volatile. I do not have a verified series for the ruble's exchange rate across the period in my source set and will not offer one from memory. What I can say from the data is that nominal GDP in current US dollars was US$1.83 trillion in 2021, US$2.29 trillion in 2022, US$2.05 trillion in 2023, US$2.19 trillion in 2024 and US$2.56 trillion in 2025 (World Bank, 2026h). A country whose currency collapsed would not show that series.
+
+## What Western forecasters should explain
+
+The forecasters of April 2022 were not stupid. They were working from a model in which a country cut off from Western finance and technology contracts sharply and stays down. Whatever its exact assumptions, the outcome shows that Russia could redirect exports, settle trade in other currencies, run a tight monetary policy and find a domestic financing base. It could do all of these things, at a cost, and did.
+
+The honest lesson is not that sanctions are costless. The lesson is that the system had more adaptive capacity than the outside view assumed. That capacity was not an accident. It was built, deliberately, over two decades, by people who had lived through the 1990s and designed a state that would not be caught that way again.
+
+Which brings us to the question that comes up whenever the topic does: if all this is true, why does the West keep saying otherwise?
+
+## Why the outside view keeps failing
+
+In my judgment, three reasons stand out, and none of them is flattering to the forecasters.
+
+**The mental model is stuck in the 1990s.** The picture many commentators carry is of a country with a weak state, high debt and a fragile currency. The state in 2022 was not that state. Anyone using the old picture was fighting the last war.
+
+**The incentives reward bad news.** Predicting collapse gets attention. Predicting adaptation does not. A commentator who says "sanctions will crush Russia" is quoted. One who says "it depends and the data are mixed" is not.
+
+**The objective was confused with the forecast.** Many analysts wanted sanctions to work. Wanting is not a forecast. When the goal was written into the model, the model stopped being a forecast and became a hope.
+
+I do not claim those reasons are the whole story. But anyone who reads the 2022 forecasts next to the 2025 data and sees no need to explain the gap is not doing analysis.
+
+
+
+# Safety on the streets: what the data say, and what they do not {#safety}
+
+The opening claim of this paper is that Russian streets are safer than Western commentary assumes. That claim needs a careful treatment, because it is the one most likely to be hijacked by slogans in either direction.
+
+I want to be exact about it. I will give you three measures: the homicide rate, as compiled by the United Nations Office on Drugs and Crime (UNODC) and published by Our World in Data; Gallup's survey of whether people feel safe walking alone at night; and Gallup's Law and Order Index. I give you the comparison countries where the data exist, and I tell you where Russia is behind.
+
+I do not use crowdsourced indices such as Numbeo's crime index, which are compiled from the opinions of website users and which are popular in this debate on every side. They are not representative surveys, and I would not put one in front of a risk committee.
+
+## The trajectory: a 76% fall in homicide
+
+The UNODC series published by Our World in Data records the following Russian homicide rates per 100,000 population (Our World in Data, 2026).
+
+| Year | Russia, homicides per 100,000 |
+|---|---|
+| 1990 | 14.2 |
+| 1994 | 32.3 |
+| 2002 | 30.3 |
+| 2010 | 11.6 |
+| 2015 | 11.5 |
+| 2020 | 7.3 |
+| 2021 | 6.8 |
+| 2024 | 7.8 |
+
+<p class="source">Source: UNODC homicide data via Our World in Data (2026). The series has no values for Russia in 2022 and 2023. The World Bank's WDI series, which also draws on UNODC, gives 6.77 for Russia in 2021 (World Bank, 2026f).</p>
+
+From the peak of 32.3 in 1994 to 7.8 in 2024, the rate fell by about 76%. From 2002, when it was 30.3, the fall is about 74%. 
+
+Two honest notes about the numbers. The rate rose from 6.8 in 2021 to 7.8 in 2024, and the series has no data point for 2022 or 2023, so I cannot say what happened in between. A reversal of the long decline is possible, and it is the first thing a careful reader should watch. And homicide rates are a measure of one kind of violence. They are not a measure of all crime.
+
+## The comparison: where Russia sits
+
+UNODC data for the comparison countries, again from Our World in Data (2026):
+
+| Country | Year | Homicides per 100,000 |
+|---|---|---|
+| Russia | 2024 | 7.8 |
+| United States | 2023 | 5.8 |
+| United States | 2021 | 6.8 |
+| Russia | 2021 | 6.8 |
+| Canada | 2023 | 2.0 |
+| France | 2023 | 1.3 |
+| Germany | 2023 | 0.9 |
+| Italy | 2023 | 0.6 |
+| Brazil | 2023 | 19.3 |
+| Mexico | 2023 | 24.9 |
+| South Africa | 2022 | 43.7 |
+
+<p class="source">Source: UNODC via Our World in Data (2026). Years differ because the latest available year varies by country.</p>
+
+Read the table plainly.
+
+In 2021, the last year for which both countries have data in this series before the gap, Russia and the United States were level at 6.8. By the most recent figures available, the United States is at 5.8 in 2023 and Russia is at 7.8 in 2024. The years differ, so the comparison is imperfect, but I will not call Russia lower than the United States on homicide. It is not, on the data I have.
+
+Compared with Western Europe, Russia's rate is much higher: about six to thirteen times the rates for France, Germany and Italy in 2023. I will not dress that up. A country that wants to be known as safe has further to go than Russia has traveled so far.
+
+Compared with the large middle-income economies of Latin America and with South Africa, Russia is far lower. Brazil's 2023 rate was about two and a half times Russia's 2024 rate, Mexico's about three times, and South Africa's more than five times.
+
+## Perception: Gallup's survey
+
+Homicide is the hardest crime to hide, but it is not what most people mean by feeling safe. Gallup's 2025 Global Safety Report surveyed adults in 2024. Its question: do you feel safe walking alone at night in the city or area where you live? The results (Gallup, 2025):
+
+| Country | Feel safe walking alone at night |
+|---|---|
+| Germany | 78% |
+| United Kingdom | 76% |
+| Canada | 75% |
+| France | 73% |
+| United States | 71% |
+| **Russian Federation** | **69%** |
+| Greece | 64% |
+| Italy | 60% |
+| Brazil | 51% |
+| Mexico | 51% |
+| South Africa | 33% |
+
+<p class="source">Source: Gallup, Global Safety Report 2025, survey year 2024.</p>
+
+The pattern matches the homicide data. Russia is ahead of Italy, Greece, Brazil, Mexico and South Africa, and behind Germany, the United Kingdom, Canada, France and the United States. A Russian is slightly less likely than an American to say he or she feels safe walking at night, 69% against 71%. A Russian is much more likely than an Italian to say so, 69% against 60%.
+
+Gallup's Law and Order Index, a composite of four questions on confidence in the local police, personal safety, theft and assault experiences, gave Russia a score of 79 out of 100 for 2024 (Gallup, 2025). In the same report the United States and the United Kingdom scored 84, France 85, Japan 86, Germany 88, Canada and Italy 82, Brazil 74, Mexico 68, Colombia 70 and South Africa 61 (Gallup, 2025). Russia, at 79, matches Türkiye and sits below the Western economies and above the Latin American ones in that list.
+
+## What this adds up to
+
+Put the three measures together and you get a clear and modest conclusion.
+
+Russia is not the safest large country in the world, and a paper that said it was would be wrong. It is in the middle of the international pack on both homicide and perception of safety: behind the United States and Western Europe, well ahead of Latin America and South Africa, and ahead of two members of the European Union, Italy and Greece, on whether people feel safe walking alone at night.
+
+The remarkable part is the direction. In 1994 the Russian homicide rate was 32.3 per 100,000, four times the 2024 rate. For the generation that lived through that year, "safe streets" is a comparison with their own recent past. When a Russian says the country is more orderly than it was, the UNODC series says they are right.
+
+## The sneer and the sources
+
+Some Western commentary on Russian public safety prefers the dramatic anecdote to the series. A reader who wants to know what is true should ask three questions about any claim on this topic.
+
+1. **What is the measure?** Homicide per 100,000, a survey of perceived safety and a composite index are three different things.
+2. **What is the comparison?** "Safer than a war zone" is a low bar. "Safer than the United States" is a different one, and on the data it fails.
+3. **What is the trend?** A country at 7.8 that was at 32.3 is a different story from a country at 7.8 that was at 3.
+
+On each question, the Russian record deserves a hearing and does not deserve exaggeration. That is the standard I apply to the Western critics too: if they make the claim that Russian streets are dangerous, they need to show that Russia is worse than Italy or Greece on perceived safety, and the data do not.
+
+## What I do not cover
+
+Homicide and personal safety are not the whole of public safety. This paper does not address terrorism, the security of border regions or violence connected with the conflict, because the figures are contested and, for the purposes of a risk assessment of the business environment, belong in separate analyses. Anyone using this chapter to judge the safety of travel or operations in a specific location needs current official advisories for that location, and nothing in this paper should substitute for them.
+
+
+
+# Leadership: what a stable center changed {#leadership}
+
+I did not write this paper to praise a man. I wrote it to explain a system. But the system has a center, and no honest account of it can skip the question of leadership. So let me say what I think the evidence supports, and where it stops.
+
+## The argument from continuity
+
+The most important thing a leader gives a country, in my view, is a decision-making center that lasts long enough for its decisions to compound. The 1990s did not have one. Between the price liberalization of January 1992 (IMF, 1992), the parliamentary standoff of October 1993 (PBS, n.d.), the loans-for-shares auctions of 1995 (Treisman, 2010) and the default of August 1998 (CRS, 1999), the Russian state changed course, and changed what it was willing to do to its own institutions, at a pace no firm could plan around.
+
+The system that followed rests on a different premise: that the state sets the rules, that those rules stay set for long enough to invest against, and that nobody, whether a tycoon, a regional baron or a foreign lender, is allowed to rewrite them. The July 2000 meeting between the president and the heads of the largest companies and banks was the founding moment. It confirmed that the results of privatization would not be reviewed, and it set a requirement that business and government both obey the law (Kremlin, 2000). Contemporary press accounts read the message as "keep your property, stay out of politics" (NYT, 2000). The Yukos affair three years later was the enforcement (BBC, 2004).
+
+You can call that a bargain, a deal or an arrangement, and many Western writers prefer harsher words. What it was not was an accident. It was a way of ending a decade in which property and power had been traded in ways that left the public with neither.
+
+## What the stable center delivered
+
+Where a central authority can hold a line over two decades, there are some things it can do that a shifting coalition cannot. Four stand out in the data.
+
+**It held the fiscal line.** Gross general government debt was between 13.7% and 19.2% of GDP in every year from 2019 to 2025 (IMF, 2026c). That is a discipline maintained through a pandemic year, a sanctions shock and a war economy. A government that is afraid of its own creditors has a different behavior from one that expects to be in office for a long time, and in Russia's case the long horizon has been associated with caution about foreign debt.
+
+**It gave the central bank room.** The Bank of Russia's decisions to raise the key rate to 21% in October 2024, hold it for eight months and cut it only gradually (Bank of Russia, 2024; Bank of Russia, 2026a) required political cover for a policy that hurt borrowers. Not every system provides that cover.
+
+**It protected the social floor.** Poverty at 6.7% in 2025, the lowest in Rosstat's series, and real wage growth of 4.4% in 2025 are results of a state that keeps pay and pensions coming through shocks (Interfax, 2026b; Interfax, 2026d). I do not have an independent measure of the adequacy of Russian pensions and will not assert one. What I can say is that the 1990s are remembered in Russia partly for unpaid wages, and the political system has an intense sensitivity to any repeat.
+
+**It kept a long planning horizon.** Whatever one thinks of the strategic direction, policy since 2022 has been consistent: reorient trade, localize what can be localized, keep debt low and hold gold. A system that changes direction every election cycle cannot do that.
+
+## The approval numbers
+
+Levada's September 2026 survey of 1,616 adults found 76% approving of Vladimir Putin's performance as president and 19% disapproving. It found 63% approving of the government, 64% of the prime minister, 68% of governors and 55% of the State Duma. Sixty percent said the country was moving in the right direction and 26% that it was on the wrong track (Levada Center, 2026).
+
+Three observations.
+
+First, the 76% figure is lower than it has been at other times. Levada notes that assessments of the president's work declined from autumn of 2025 and then rose slightly toward the end of summer 2026 (Levada Center, 2026). I treat that as a normal fluctuation in a series that is high, not as evidence of anything dramatic in either direction.
+
+Second, the approval of the president is higher than the approval of every other institution Levada asked about. Approval of the Duma is 55%, and approval of governors, the people closest to daily life, is 68%. That gap is a classic feature of personalized systems, and I flag it for what it is: a source of both strength and fragility.
+
+Third, the caveats apply. Levada is an independent polling organization that Russia's Justice Ministry labeled a "foreign agent" in 2016 (BBC, 2016). Its own methodologists argue that wartime response rates held at 27% to 29% in the door-to-door survey and that non-response is mostly about access to apartments, not fear (Levada Center, 2025). Others argue that approval measured by a survey in a restrictive political environment may overstate the true level, and Levada itself acknowledges that this debate exists, though it rejects the criticism. I do not resolve the debate here. I use the poll as one indicator among several, and I would encourage any reader to do the same.
+
+## What leadership cannot explain
+
+It is tempting to attribute everything to a single person. I think that is a mistake, for three reasons.
+
+**The numbers are institutional.** The debt ratio, the central bank's behavior, the reserves and the payments system are not products of one person's decisions each day. They are the outputs of institutions that were built, staffed and kept running over years. Credit for competence is shared widely, and a paper that gave it all to the top would not be respecting the evidence.
+
+**The structure carries risks.** A system with a strong center depends on that center. The gap between presidential and institutional approval, noted above, is one sign. Succession, accountability and the quality of information reaching the top are others. I take them up in the chapter on the critics.
+
+**Context mattered.** The recovery after 1998 coincided with a global environment, including strong commodity prices, that made things easier. I make no claim that the decade after 1999 would have gone identically under any leadership, and I also make no claim that it would have gone better under a different one. Counterfactuals are not data.
+
+## A note on the word "dictator"
+
+You will have noticed that Western commentary is fond of one word for the Russian leader, and that it uses it as a complete analysis. I will not argue the label in this paper, because it does not help a board or an investor. It is a label about political structure, and political structure is not the subject of this paper. My subject is economic performance and the institutions that produced it.
+
+I will say that treating a label as an explanation is the mistake that led to the April 2022 forecast. A model that holds "an authoritarian state cannot run an economy" as an axiom will always be surprised by evidence to the contrary. It will also fail to notice when the premise is wrong in the other direction, and there are real cases where a centralized state makes costly mistakes. The way to tell is to read the numbers, one at a time, and to be willing to follow them. That is what the remaining chapters do.
+
+
+
+# Why the model endures {#why-it-endures}
+
+A system survives when it solves the problems its members care about more reliably than the alternatives they can see. By that test, I think Russia's model has staying power, and I think the reasons are not mysterious. Let me set out six.
+
+## 1. It solves the problem its people remember
+
+Every political economy is built around a founding fear. For the United States it is tyranny, for Germany it is hyperinflation and for Russia it is the 1990s. The numbers in the first chapter explain why. Real GDP fell 44%. Prices rose 874% in a single year. Life expectancy dropped by almost five years. Homicide more than doubled (World Bank, 2026a; World Bank, 2026c; World Bank, 2026e; Our World in Data, 2026).
+
+A model that promises not to repeat that, and that demonstrably has not, carries a political advantage no opposition can easily dislodge. Russian life expectancy rose from 64.47 years in 1994 to 73.44 in 2024, a gain of nine years (World Bank, 2026e). It dipped in 2020 and 2021, to 71.34 and 69.9, which is a reminder that pandemic losses were real in Russia, as elsewhere, and it recovered to 72.55 in 2022 and 73.25 in 2023 (World Bank, 2026e). That is a recovery from a bad pandemic, in an economy where real wages rose 4.4% in 2025 (Interfax, 2026d).
+
+## 2. It has buffers
+
+An economy endures if it can absorb losses. Russia has debt at 16.6% of GDP, unemployment at 2.2%, a current account that has stayed in surplus since 2021 and reserves of US$731.8 billion at the end of September 2026, with US$301.6 billion in gold (IMF, 2026c; IMF, 2026d; IMF, 2026g; Bank of Russia, 2026d). Those are buffers. They are also being used, and the IMF projects debt to rise to 19.3% of GDP in 2026 and 22.2% in 2027 (IMF, 2026c). A buffer that is being spent is not a permanent solution. It is a bridge, and the question the critics rightly ask is what is on the other side. I take that up in the chapter on the critics.
+
+## 3. It has an external partner base
+
+The trade data show where Russia has turned. China-Russia trade totaled US$228.1 billion in 2025 and has exceeded US$200 billion for three straight years (TASS, 2026a; China Daily, 2026). Russia's wheat shipments of about 46.5 million tonnes in 2025/26 make it the world's largest exporter of the crop (Interfax, 2026e). Settlement in rubles and yuan, reported at 90% to 95% for Russia-China trade, reduces exposure to Western payment channels (TASS, 2025).
+
+Russia is not isolated in the sense that the word implies. It is isolated from some markets and deeply embedded in others. The relevant question for a business is which of those categories your counterparties and your lenders sit in.
+
+## 4. It adapts
+
+I mentioned the tax code earlier. The shift from a flat 13% tax to a five-bracket schedule in 2025 is the clearest example (Kremlin, 2024). Russia's monetary authorities moved from a record-high 21% key rate to 14% over two years as inflation allowed (Bank of Russia, 2024; Bank of Russia, 2026a). The government proposed a VAT increase when the budget required it (Reuters, 2025). A system that holds to doctrine at the cost of results would not do these things.
+
+I do not say these decisions are all right. I say they are the behavior of a system with feedback, not one running on a fixed script.
+
+## 5. Its critics have not offered a credible alternative
+
+The most revealing fact about the endurance of the system is that the best the critics have offered has been a hope. Consider what the Western side of the ledger shows.
+
+- Sanctions: more than 24,000 designations by one count, more than 36,000 non-trade measures by another (Castellum.AI, 2025; RIA Novosti, 2026), and no theory of an exit.
+- Frozen assets: roughly 210 billion euros immobilized, no agreement on using them, and a Belgian government that refused to carry the risk (European Parliament, 2026; Euronews, 2026).
+- Forecasts: an IMF projection in April 2022 of a contraction of 8.5% for that year, against an outcome of 1.4% (IMF, 2022; IMF, 2026a).
+
+A system faces its serious challenges when someone offers a better deal. For the Russian public, the available alternative to the current order has been the memory of the 1990s, not a program. I take no joy in saying so. It is a fact about the politics of the country that the 1990s were so bad that almost any order looked acceptable by comparison.
+
+## 6. It is not as weak as its enemies say, or as strong as its friends do
+
+This is the part that serious readers will value. The model endures partly because the two caricatures cancel each other out. The first caricature, held by many in the West, is that Russia is a hollow state on the verge of collapse. The data do not support it. The second, held by some of the system's fans, is that Russia is an unstoppable machine immune to economic constraint. The data do not support that either. The real picture is an economy that has proven resilient and is now paying for it in slower growth, higher inflation and a heavy fiscal burden.
+
+A durable system is one that can survive being seen accurately. The Russian one can, and that is my case for it.
+
+## Reading Russian data with care
+
+Anyone using Russian numbers for decisions should know four things about them.
+
+**Revisions run both ways.** Rosstat's estimates for 2023 and 2024 were revised up, from 3.6% to 4.1% and from 4.3% to 4.9% (Interfax, 2025; Interfax, 2026c). Not every figure behaves like that. Use the latest vintage and note which one you used.
+
+**Budget transparency has narrowed.** SIPRI reports that in 2025 around 79% of Russia's National Defence budget fell under a "classified residual" category, up from an estimated 73% in 2024, and that the trend of reduced budgetary transparency continued (SIPRI, 2026). That limits what outsiders can say with confidence about the composition of spending, and it applies to the figures in this paper too.
+
+**National and international definitions differ.** The poverty rate is a national measure. The World Bank's unemployment series is an ILO-modeled estimate. The IMF and the World Bank both publish series with different bases. A table that mixes them can mislead.
+
+**Independent polling operates under constraints.** The caveats on Levada apply to every poll I cite.
+
+I mention these cautions because the strength of the case in this paper rests on using sources honestly. A model whose champions hide its weaknesses does not endure. It collapses the first time someone checks.
+
+## What would end it
+
+Finally, the question every serious reader is asking: what would break this system? The data suggest where the stress points are, and I list them here so that the endurance argument is not mistaken for a guarantee.
+
+1. **Prolonged high inflation and rates.** If inflation stays near the Bank of Russia's 7.1% to 7.6% forecast for 2026 and the key rate stays elevated, the private sector's investment capacity erodes (Bank of Russia, 2026a).
+2. **A sustained fall in energy revenue.** Oil and gas revenue to the federal budget fell 23.8% in 2025 (TASS, 2026b). If prices stay low, the budget will have to adjust further.
+3. **Labor and demographics.** Unemployment of 2.2% means there is little slack, and fertility of 1.42 means the long-run labor force is shrinking (IMF, 2026d; World Bank, 2026i).
+4. **Technology and capital access.** A model that relies on localization needs domestic capacity that is hard to build quickly.
+5. **Concentration risk.** A system with a strong center is exposed to the quality of decisions at the center.
+
+None of these is speculation. Each is in the data. I take them seriously in the chapter on the critics, because a case that does not face them would not deserve to be called a case.
+
+
+
+# Against its peers: where Russia leads, where it trails {#peers}
+
+A claim that a model works has to be tested against the alternatives. Russia is often compared with the Western economies, and I have done that throughout. But the fairer comparison for a large resource-rich economy is with the other large emerging economies that Western advisers also lecture: China, India, Brazil and Turkey. Here is the same set of IMF indicators for all five, for 2025 (IMF, 2026a to 2026g).
+
+| 2025 | Russia | China | India | Brazil | Turkey |
+|---|---|---|---|---|---|
+| Real GDP growth, % | 1.0 | 5.0 | 7.8 | 2.3 | 3.7 |
+| Cumulative real growth, 2021 to 2025, % | 8.7 | 19.8 | 33.4 | 12.4 | 18.8 |
+| Consumer price inflation, average, % | 8.7 | 0.0 | 2.0 | 5.0 | 34.9 |
+| General government gross debt, % of GDP | 16.6 | 98.6 | 84.3 | 93.3 | 23.7 |
+| Unemployment rate, % | 2.2 | 5.1 | 5.0 | 6.0 | 8.3 |
+| Current account, % of GDP | 1.5 | 3.7 | -0.7 | -2.9 | -1.9 |
+| GDP per capita, PPP, current international $ | 50,241 | 29,369 | 11,853 | 23,363 | 44,208 |
+
+<p class="source">Source: IMF World Economic Outlook database, October 2026 (IMF, 2026a to 2026g). Cumulative growth is the author's calculation from the annual growth rates for 2022 to 2025.</p>
+
+## Reading the table
+
+This is a good table for the thesis in some rows and a bad one in others. Let me say which.
+
+**Where Russia leads.** Russia has the lowest public debt of the five, at 16.6% of GDP against 23.7% for Turkey and between 84% and 99% for China, India and Brazil. It has the lowest unemployment at 2.2%. It has the highest income per head at purchasing power parity, at US$50,241, ahead even of Turkey's US$44,208. And it ran a current account surplus, as did China, while India, Brazil and Turkey ran deficits.
+
+**Where Russia trails.** Russia grew the slowest of the five in 2025, at 1.0%, and the slowest over the four years 2022 to 2025, at 8.7% cumulative against 12.4% for Brazil and 33.4% for India. It had higher inflation than China, India and Brazil, although far lower than Turkey's.
+
+**What this means.** Russia is not an emerging-market growth story, and nobody should sell it as one. It is a stability and balance-sheet story: very low debt, very low unemployment, a high income level, an external surplus. It is the economy among these five least exposed to a creditor crisis and most exposed to its own overheating.
+
+That is a more defensible claim than "Russia outperforms," and it is the one I make. It also tells decision makers where to look. For a lender, the debt ratio is the headline. For an operator, labor costs and inflation are.
+
+## Why the comparison matters for the argument
+
+The critics' implicit comparison is with an idealized Western market economy. But the relevant question for any country is what it could have done with the hand it was dealt. Russia's hand included sanctions, a sudden loss of access to Western finance and a war economy. In that setting, a debt ratio near 17%, unemployment near 2% and growth that was positive in three of the last four years is a respectable outcome. That is not the same as a good one, and I have set out the costs. But it is a long way from the collapse that was forecast.
+
+# Ten claims, ten checks {#claims-checked}
+
+Debates about Russia are full of confident claims from both sides. Here is a short test of ten popular ones against the evidence in this paper. I include claims that favor my own argument and fail the check, because the discipline only works if it applies to everyone.
+
+| Claim | What the sources show | Verdict |
+|---|---|---|
+| "Sanctions will collapse the Russian economy." | IMF forecast 2022 contraction of 8.5%; actual -1.4%, then +4.1% and +4.9% (IMF, 2022; IMF, 2026a). | False as stated |
+| "Russia is the most sanctioned country in the world." | 24,387 designations by Castellum.AI's March 2025 count, against 10,573 for Iran, Syria and North Korea combined (Statbase, 2025). | True, on designation counts |
+| "Russia is bankrupt." | Gross public debt 16.6% of GDP; reserves of US$731.8 billion (IMF, 2026c; Bank of Russia, 2026d). | False |
+| "Russia is economically booming." | Growth of 1.0% in 2025; Bank of Russia forecast of 0.5% to 1.0% for 2026 (Interfax, 2026a; Bank of Russia, 2026a). | False now; true of 2023 and 2024 |
+| "Russia outgrew the G7 every year of the war." | True in 2023 and 2024; false in 2022 (-1.4%) and, against the US, Canada, UK and Japan, in 2025 (IMF, 2026a). | Partly true |
+| "Sanctions have had no effect." | About 210 billion euros of reserves immobilized; growth slowed to 1.0%; key rate at 14% (European Parliament, 2026; IMF, 2026a; Bank of Russia, 2026a). | False |
+| "Russian streets are safer than American ones." | Homicide 7.8 (2024) against 5.8 (2023); Gallup walk-alone 69% against 71% (Our World in Data, 2026; Gallup, 2025). | False on these data |
+| "Russia has become much safer since the 1990s." | Homicide rate down about 76%, 32.3 (1994) to 7.8 (2024) (Our World in Data, 2026). | True |
+| "Russia's economy is too dependent on oil and gas to be stable." | Oil and gas revenue fell 23.8% in 2025 while the deficit stayed at 2.6% of GDP (TASS, 2026b; Minfin, 2026). | Dependence is real; instability has not followed |
+| "Russia's president is hugely popular." | Levada: 76% approval in September 2026; Levada has been labeled a foreign agent; wartime polling is debated (Levada Center, 2026; BBC, 2016). | True per this poll; treat with caution |
+
+Two of the ten claims that flatter the Russian case fail or only partly pass: the "outgrew the G7" slogan and "safer than America." They are the weakest rows in the table, and they are the ones I dropped from the argument. The claims that remain are the ones the numbers support. I think that is what a risk committee wants from an advocate: an argument that survives a check.
+
+
+
+# What the critics get right, and why the thesis still stands {#what-critics-get-right}
+
+I have argued that Russia's model is resilient. A paper that stopped there would be a brochure. This chapter takes the best criticisms seriously, gives the numbers for each and says plainly where I think the critics are right. Then it says why I still think the thesis stands.
+
+For each point I give the evidence, what I concede and what I answer. At the end there is a scorecard.
+
+## 1. Inflation is high, and so is the cost of money
+
+**The evidence.** Average consumer price inflation was 13.7% in 2022, 5.9% in 2023, 8.4% in 2024 and 8.7% in 2025 (IMF, 2026b). The Bank of Russia reported on October 23, 2026 that annual inflation stood at 6.8% as of October 19, expected to reach 7.1% to 7.6% by the end of 2026. Seasonally adjusted price growth in the third quarter averaged 8.0% in annualized terms, up from 4.8% in the second quarter, with core inflation at 6.2%. Inflation expectations of households and businesses remain near two-year highs (Bank of Russia, 2026a). The key rate stands at 14.00% after peaking at 21.00% (Bank of Russia, 2024; Bank of Russia, 2026a). For comparison, IMF 2025 average inflation was 2.7% in the United States, 2.3% in Germany and 3.4% in the United Kingdom (IMF, 2026b).
+
+**What I concede.** Russian inflation is much higher than inflation in the large Western economies, and the cost of borrowing is a heavy drag on investment. The Bank of Russia itself says proinflationary risks outweigh disinflationary ones over the medium term (Bank of Russia, 2026a).
+
+**What I answer.** The relevant comparison is not with Germany. It is with the 1990s and with other emerging economies. Russian inflation of 8.7% in 2025 compares with 874% in 1993 (World Bank, 2026c) and 34.9% in Turkey in 2025 (IMF, 2026b). More to the point, the central bank has acted. It raised the rate to 21%, held it until June 2025, and has cut it by seven percentage points since. The Bank of Russia projects inflation falling back to 4.0% in 2027 (Bank of Russia, 2026a). Forecasts can be wrong, and a record of forecasts is not the same as a record of results. But a country whose central bank is fighting inflation with an interest rate is not a country that has lost control of its finances.
+
+## 2. Growth has slowed to near stagnation
+
+**The evidence.** Real GDP grew 1.0% in 2025 (Interfax, 2026a). The IMF forecasts 0.9% in 2026 and 0.9% in 2027 (IMF, 2026a). The Bank of Russia forecasts 0.5% to 1.0% for 2026 and 1.0% to 2.0% for 2027 (Bank of Russia, 2026a). The 2023 and 2024 numbers, 4.1% and 4.9%, were a wartime and post-shock surge, and they are not a trend.
+
+**What I concede.** The 2023-2024 boom is over. The IMF's medium-term forecasts are below one percent. A country that wants to hold its place in the world needs faster growth than that.
+
+**What I answer.** Three things. First, the slowdown is partly a choice. The Bank of Russia deliberately tightened monetary policy to cool an overheating economy, and slower growth is the price. Second, growth rates need context. The IMF's 2026 forecasts are 0.9% for Russia, 1.3% for Germany, 0.8% for Italy, 0.7% for Japan and 0.4% for France, so Russia's outlook is not out of line with several large advanced economies (IMF, 2026a). Third, a pause after a surge is different from the persistent contraction the 2022 forecasts predicted. I do not claim the outlook is good. I claim that the pattern is one of an economy adjusting, not of a system in crisis.
+
+## 3. The labor market has no slack
+
+**The evidence.** Unemployment was 2.2% in 2025 on the IMF's measure (IMF, 2026d). The Bank of Russia says the labor market tightness is gradually easing, that wage growth is slowing and gradually converging with labor productivity growth, "although the gap between them remains significant," and that unemployment is near its historic lows (Bank of Russia, 2026a).
+
+**What I concede.** An unemployment rate of 2.2% is a labor shortage. Companies cannot find workers, wages rise faster than productivity, and that feeds inflation. The central bank says so itself.
+
+**What I answer.** This is a better problem than the one it replaced. Compare 2.2% with the 13.3% unemployment of 1998 (World Bank, 2026g). A country whose main labor-market problem is that everyone has a job has a problem that most governments would accept. It is still a problem. Fixing it requires productivity growth, more participation and a policy on migration, none of which can be wished into being.
+
+## 4. The military burden is heavy
+
+**The evidence.** SIPRI estimates Russian military expenditure at US$190 billion in 2025, up 5.9% from 2024. That is 7.5% of GDP and 20% of government spending, the highest share SIPRI has recorded for Russia. SIPRI also notes a new "classified social policy" category in the defense budget, "reflecting the mounting social cost of the war" (SIPRI, 2026).
+
+**What I concede.** Money spent on defense is not available for roads, schools or private investment. A 7.5% military burden is a large claim on the economy, and the 20% share of government spending is the highest SIPRI has recorded for Russia. Some of the 2023 and 2024 growth reflected government demand for military output, and critics are right to ask what happens to that growth when the demand slows.
+
+**What I answer.** I limit myself to the economics. SIPRI says the growth in Russian military spending in 2025 was the slowest since 2022 (SIPRI, 2026). A burden that is no longer growing quickly is a burden the budget can plan around. The deficit was 2.6% of GDP and debt 16.6% (Minfin, 2026; IMF, 2026c). A country can carry a high military burden for a long time when its debt is low. It cannot do so forever, and I do not claim it can.
+
+## 5. The budget depends on energy
+
+**The evidence.** Oil and gas revenue to the federal budget was 8.477 trillion rubles in 2025, down 23.8% from 11.131 trillion in 2024 (TASS, 2026b). The deficit was 2.6% of GDP, or 5.6 trillion rubles (Minfin, 2026). The government proposed raising VAT from 20% to 22% (Reuters, 2025). The National Wealth Fund's liquid assets of roughly 3.9 to 4.2 trillion rubles were being drawn down (Reuters, 2025; Minfin, 2026). The IMF forecasts that gross debt will rise from 16.6% of GDP in 2025 to 22.2% in 2027 (IMF, 2026c).
+
+**What I concede.** This is the most direct fiscal risk. A 24% fall in oil and gas revenue in one year, in a budget that also carries a high military cost, forces tax rises and fund drawdowns. Debt is rising, and the cushion is being used.
+
+**What I answer.** Look at the starting point. Debt is rising from a very low level. The IMF's 2027 forecast of 22.2% is a third of Germany's current 62.7% and less than a fifth of the United States' 124.4% (IMF, 2026c). The government has used tools in the order a prudent finance ministry would: taxes first, savings second, borrowing third. That is how a fiscally conservative state behaves under pressure.
+
+## 6. Sanctions cost money and options
+
+**The evidence.** Roughly 210 billion euros of central bank assets are immobilized (European Parliament, 2026). The IMF's 2025 growth of 1.0% followed 4.9% in 2024 (IMF, 2026a).
+
+**What I concede.** I will not claim that sanctions are painless. They remove access to capital, technology and reserves. The slowdown in 2025 and the high rates are partly an indirect result. A world in which Russia could borrow abroad cheaply, buy any technology and hold all its reserves where it liked would be better for Russian growth.
+
+**What I answer.** The cost is real, and it is the cost of an order the Russian state chose to accept. The question I address in this paper is not whether sanctions hurt. It is whether they broke the system. The data in the previous chapters say they did not.
+
+## 7. Demographics are unfavorable
+
+**The evidence.** Russia's fertility rate was 1.42 births per woman in 2024, down from 1.78 in 2015 (World Bank, 2026i). The population was 143.5 million in 2025, below the 1992 peak of 148.5 million and below the 145.2 million of 2020 (World Bank, 2026j). Life expectancy was 73.44 years in 2024, above the 1994 low but still short of what the incomes of a high-income country would predict (World Bank, 2026e).
+
+**What I concede.** This is a structural problem. A shrinking workforce reduces growth potential, increases the dependency ratio and tightens the labor market further. The decline from 145.2 million in 2020 to 143.5 million in 2025 is not a one-year event.
+
+**What I answer.** Russia is not alone, and on fertility it is not at the bottom. The World Bank's 2024 figures are 1.42 for Russia, against 1.36 for Germany, 1.18 for Italy, 1.15 for Japan, 1.01 for China and 0.75 for South Korea, and 1.63 for the United States (World Bank, 2026i, plus the same indicator for the comparison countries). Russia's own record shows movement: from 1.16 in 1999 to 1.78 in 2015, then back down to 1.42 (World Bank, 2026i). I do not claim the problem is solved. I claim that a state with low debt and reserves has more room to address it than one without.
+
+## 8. Capital leaves
+
+**The evidence.** The Bank of Russia reports that the financial account balance, which reflects Russian residents' net acquisition of foreign assets, was US$30.3 billion in 2025, against US$52.7 billion in 2024. In direct investment, Russia moved from net lending abroad of US$9.2 billion to net borrowing of US$12.4 billion, in the Bank's terms. Net lending to the rest of the world (the current and capital accounts) fell to US$42.7 billion from US$62.3 billion (Bank of Russia, 2026b).
+
+**What I concede.** Russian residents continue to accumulate foreign assets. A reported "capital flight" figure, which some analysts quote, depends on definitions I cannot verify from a primary source and I do not use it. What the balance of payments shows is that Russian residents still send money abroad, and that the external surplus is narrowing.
+
+**What I answer.** The outflow in 2025 was smaller than in 2024, and the surplus is still positive. Without a primary source for the more dramatic figures, I decline to repeat them.
+
+## 9. Corruption is real
+
+**The evidence.** Transparency International scored Russia 22 out of 100 in its 2025 Corruption Perceptions Index and ranked it 157th of 182 countries, tied with Honduras, Zimbabwe and Chad. The score was unchanged from 2024, and the rank fell three places, a new record low in the ranking (Transparency International Russia, 2026).
+
+**What I concede.** This is the weakest part of the case, and I would be foolish to wave it away. Corruption, even as measured by perception, imposes costs in the form of misallocated capital, reduced trust and uneven enforcement. If it is as bad as the index says, it limits long-run productivity and gives the state's friends advantages that are hard to justify on the merits.
+
+**What I answer.** I offer two points and not a rebuttal. First, the index measures perceptions of public-sector corruption by experts and businesspeople. It is a useful indicator, and it does not measure macroeconomic management, which is what this paper tests. Second, the system produced debt below 17% of GDP, unemployment of 2.2% and a record-low poverty rate alongside a poor corruption score. That is a combination to be explained, not a contradiction to be denied. In the long run, I believe the corruption problem is the threat most likely to erode the model from within, and I would advise any investor to price it.
+
+## 10. The politics are not open
+
+Critics also raise civil liberties, the freedom of the press and the competitiveness of elections. They are legitimate subjects. They are outside the scope of an economic paper, and I do not dismiss them by omission. Where they bear on risk, in the quality of information, the independence of courts and the predictability of enforcement, I treat them as risk factors in the recommendations. Readers who want to assess them need sources designed for that purpose.
+
+## The scorecard
+
+| Criticism | Evidence | My verdict |
+|---|---|---|
+| High inflation and rates | 8.7% avg 2025; 6.8% y/y (Oct 19, 2026); key rate 14% | Conceded. Answered: central bank acting, trend easing from the 21% peak |
+| Near-stagnant growth | 1.0% in 2025; 0.5% to 1.0% forecast 2026 | Conceded. Answered: policy-driven cooling after a surge |
+| Labor shortage | Unemployment 2.2% | Conceded. Answered: better than the alternative, and easing |
+| Military burden | 7.5% of GDP; 20% of spending | Conceded. Answered: affordable at low debt, not forever |
+| Energy dependence | Oil and gas revenue -23.8% in 2025 | Conceded. Answered: low starting debt, taxes first |
+| Sanctions costs | About 210 billion euros immobilized | Conceded. Answered: costs are real, collapse did not happen |
+| Demographics | Fertility 1.42; population 143.5 million | Conceded. Structural, and not solved |
+| Capital outflow | Financial account US$30.3 billion in 2025; direct investment net borrowing | Qualified. Primary data shown, dramatic figures not used |
+| Corruption | CPI 22/100; rank 157/182 | Mostly conceded. Long-run risk to the model |
+| Open politics | Not an economic measure | Out of scope, treated as a risk factor |
+
+<p class="source">Sources as cited in each section above.</p>
+
+## Why the thesis still stands
+
+I have just conceded nine of ten criticisms in whole or in part. Why does the thesis survive?
+
+Because the thesis was never that the Russian economy has no problems. It is that the system built since 1999 was designed to withstand a specific set of shocks, that it did, and that the problems now visible are costs of withstanding them, not signs of failure. A boxer who took a hard fight and is cut and tired afterward has not been knocked out.
+
+The test that matters is the one the critics set themselves. They said sanctions and war would break the system. They set the bar at collapse. By the evidence, the system has not collapsed. It slowed, it tightened, it paid. The forecast of April 2022 was wrong and the explanations for its being wrong are the argument of this paper.
+
+I would also draw the critics' attention to something in their own list. Every item on it, inflation, labor shortages, military burden, energy dependence, demographics, is a problem of a functioning economy under strain. None of them is a problem of a system that has lost the ability to pay its bills, run its institutions or keep its people employed. They are the problems of the 2020s, not of the 1990s. That distinction is the thesis.
+
+
+
+# Outlook: three scenarios and the indicators that tell them apart {#outlook}
+
+I do not forecast. The forecasters have enough embarrassment to go around. What I can do is lay out three ways the next two years could go, tie each to published projections, and name the indicators that would tell a decision maker which one is unfolding. These scenarios are illustrative. They are not predictions, and they do not describe any specific organization or event.
+
+## The published baseline
+
+The starting point is what the official forecasters say now.
+
+- **Growth.** The IMF projects 0.9% in 2026 and 0.9% in 2027 (IMF, 2026a). The Bank of Russia projects 0.5% to 1.0% in 2026 and 1.0% to 2.0% in 2027 (Bank of Russia, 2026a).
+- **Inflation.** The IMF projects average inflation of 6.1% in 2026 and 4.8% in 2027 (IMF, 2026b). The Bank of Russia expects annual inflation of 7.1% to 7.6% at the end of 2026 and a return to 4.0% in 2027 (Bank of Russia, 2026a). The two use different bases, one an annual average and one an end-of-year rate, which is why the numbers differ.
+- **Key rate.** The Bank of Russia's baseline assumes an average key rate of 12.5% to 13.5% in 2027 (Bank of Russia, 2026a).
+- **Debt.** The IMF projects general government gross debt of 19.3% of GDP in 2026 and 22.2% in 2027 (IMF, 2026c).
+- **External balance.** The IMF projects a current account surplus of 3.8% of GDP in 2026 and 3.2% in 2027 (IMF, 2026g).
+- **Unemployment.** The IMF projects 2.2% in 2026 and 2.4% in 2027 (IMF, 2026d).
+
+The baseline, in short, is slow growth, falling inflation, a falling key rate and rising but still low debt. It is not a boom and it is not a crisis.
+
+## Scenario A: the managed slowdown
+
+In this scenario the official baseline broadly holds. Inflation falls toward the Bank of Russia's 4.0% target by 2027, the key rate comes down by several more points and growth recovers to 1% to 2%. The labor market stays tight but eases, wage growth converges with productivity, and the fiscal position is stable. Debt rises toward 22% of GDP and stays there.
+
+What it means for a decision maker: a modest, uneven recovery in domestic demand, cheaper credit and a stable but unglamorous operating environment. Sanctions compliance remains the dominant constraint on any foreign counterparty.
+
+Indicators that confirm it: core inflation falling from the 6.2% annualized rate the Bank of Russia reported for the third quarter of 2026; key rate cuts at successive meetings; wage growth slowing; unemployment staying near 2% to 3% (Bank of Russia, 2026a).
+
+## Scenario B: the squeeze
+
+Here the stress points listed earlier compound. Inflation stays high, the central bank holds rates higher for longer, and energy revenue stays weak. The budget leans harder on new taxes and fund drawdowns. Debt rises faster than the IMF baseline, growth stays at or below 1%, and the labor shortage keeps wages rising faster than productivity.
+
+What it means for a decision maker: tighter domestic credit, more pressure on firms with floating-rate debt, higher tax burdens and more regulatory attention to revenue collection. The Russian state has shown that it adjusts under pressure. In this scenario, the adjustments are more frequent and more visible.
+
+Indicators that confirm it: annual inflation not falling from the 6.8% reported on October 19, 2026; the Bank of Russia's pushing the forecast for the average 2027 key rate upward; a second consecutive year of falling oil and gas revenue after the 23.8% drop of 2025 (TASS, 2026b); the National Wealth Fund's liquid assets continuing to fall; a VAT or other tax increase beyond the 22% proposal (Reuters, 2025).
+
+## Scenario C: the surprise upside
+
+In this scenario inflation falls faster than expected, the central bank cuts earlier and further, energy prices improve and investment recovers after its weak start to 2026 (Bank of Russia, 2026a). Growth runs above the IMF's 0.9%. It is not the likeliest scenario, and I do not plan on it, but the 2023 and 2024 data are a reminder that Russian growth has surprised on the upside before: the IMF forecast a contraction of 2.3% for 2023 in April 2022, and the outcome was growth of 4.1% (IMF, 2022; IMF, 2026a).
+
+What it means for a decision maker: more demand, a weaker case for pessimistic planning and a chance that competitors who assumed stagnation will be caught short.
+
+Indicators that confirm it: the Bank of Russia's investment-activity indicator continuing to recover, and household and business inflation expectations falling from their two-year highs (Bank of Russia, 2026a).
+
+## What stays constant across all three
+
+Three things hold in every scenario, and a plan should be built on them.
+
+**Sanctions persist.** Nothing in the published record suggests an early end. The European Union did not agree to use the roughly 210 billion euros of immobilized central bank assets, and Belgium remains opposed to using them without binding risk guarantees (European Parliament, 2026; Euronews, 2026). Whether new measures come is a political question I leave aside.
+
+**The state sets the rules.** Whether the economy is in a slowdown, squeeze or upside, the government will go on deciding which sectors are strategic, where capital should flow and which obligations are non-negotiable. That is a feature of the system.
+
+**Data are imperfect.** The share of Russia's defense budget classified as "residual" rose to about 79% in 2025 (SIPRI, 2026), and the quality of the picture available to outsiders is limited. Plans should include margins for that.
+
+## A short list of indicators to watch
+
+If you read nothing else, track these six numbers, all published on a regular schedule:
+
+1. Annual consumer price inflation, and the Bank of Russia's core measure.
+2. The key rate and the Bank's statement language on inflation expectations.
+3. Federal oil and gas revenue, and the monthly Finance Ministry budget outturn.
+4. Unemployment and the central bank's description of labor market tightness.
+5. Real wage growth relative to productivity.
+6. The IMF's debt-to-GDP projection against actual outturn.
+
+None of these is exotic. All are free. A team that checks them quarterly will be ahead of most commentary.
+
+
+
+# Recommendations: acting on an accurate picture {#recommendations}
+
+This chapter turns the argument into decisions. It is written for four audiences: executives, risk and compliance teams, investors and policymakers. The recommendations are about risk and strategy. They are not legal advice.
+
+One rule comes before all the others. **Every recommendation here assumes full compliance with applicable sanctions, export controls and anti-money-laundering law in every jurisdiction that applies to you.** Nothing in this paper is a guide to circumventing any of them. Taking Russia seriously as an economy does not mean pretending the legal regime does not exist. It means understanding the environment so that you can operate within the law, with open eyes.
+
+## For executives
+
+**1. Replace the collapse scenario with a range.** If your planning documents still treat a Russian economic breakdown as the base case, retire them. Use the published baselines: IMF growth of 0.9% in 2026 and 2027, Bank of Russia growth of 0.5% to 1.0% in 2026, inflation of 7.1% to 7.6% at the end of 2026 (IMF, 2026a; Bank of Russia, 2026a). Add the squeeze and upside scenarios from the previous chapter as stress cases.
+
+**2. Separate the question "is the economy collapsing?" from the question "may we operate there?"** The first has been answered by the data, and the answer is no. The second is a legal and ethical question for your own counsel and board. A strong Russian economy does not make a prohibited transaction lawful, and a weak one would not make a permitted one safe.
+
+**3. Price the real risks.** The risks the data support are inflation and high interest rates, a tight labor market, dependence on energy revenue, a heavy military burden, demographic decline and corruption perception (Bank of Russia, 2026a; IMF, 2026d; TASS, 2026b; SIPRI, 2026; World Bank, 2026i; Transparency International Russia, 2026). Any business case that mentions Russia should name which of these it is exposed to.
+
+**4. Plan for the long horizon.** The system is built to endure. A wait-for-normalization strategy that assumes a rapid change of course has not been supported by four years of evidence. Plans should work under persistent sanctions.
+
+**5. Brief the board on the corrections.** If your organization carries internal documents with growth, safety or sanctions numbers, check them against the sources. Several widely repeated numbers do not survive a check. The 2023 and 2024 growth rates were revised upward by Rosstat, to 4.1% and 4.9% (Interfax, 2025; Interfax, 2026c). Russia's homicide rate in the UN-compiled series is 7.8 per 100,000, not a lower figure (Our World in Data, 2026).
+
+## For risk and compliance teams
+
+**1. Treat sanctions as a moving permanent condition.** The tallies are large and growing, at more than 24,000 designations by one count and more than 36,000 non-trade measures by another (Castellum.AI, 2025; RIA Novosti, 2026). Maintain screening, ownership-chain analysis and regular list review, and document the method you use, since counts and lists differ by source.
+
+**2. Map counterparty exposure by currency and channel.** Reported settlement of Russia-China trade in rubles and yuan at 90% to 95% means payment flows may not look like the pre-2022 pattern (TASS, 2025). For legitimate, permitted business, understand which currencies and banks sit in each transaction chain, and test each against the rules that apply to you.
+
+**3. Build a data-quality log.** Record which source and which vintage each Russian statistic comes from. Rosstat revises. SIPRI notes reduced budget transparency. Polls carry caveats (Interfax, 2026c; SIPRI, 2026; Levada Center, 2025). A decision memo that cannot say where a number came from should not go to a committee.
+
+**4. Monitor the six indicators.** Inflation, the key rate, oil and gas revenue, unemployment, real wage growth and the debt ratio. Set trigger levels in advance and review quarterly.
+
+**5. Add political-economy risk, not just financial risk.** The system's strengths and its dependence on a strong center are two sides of one structure. Incorporate scenarios for changes in rules, taxes, ownership and enforcement priorities. The progressive income tax scale of 2025 and the proposed VAT increase show that the rules move (Kremlin, 2024; Reuters, 2025).
+
+**6. Keep the people side in view.** A 2.2% unemployment rate and a tight labor market affect any operation that employs people in Russia, and a shrinking working-age population will tighten it further (IMF, 2026d; World Bank, 2026j). Duty-of-care and security decisions for staff and travelers should rest on current official advisories and not on this paper.
+
+## For investors
+
+**1. Retire the narrative, keep the arithmetic.** The most expensive error of recent years has been to price Russia as a country that was about to fail. The arithmetic: debt of 16.6% of GDP, unemployment of 2.2%, a current account surplus and reserves of about US$732 billion at the end of September 2026 (IMF, 2026c; IMF, 2026d; IMF, 2026g; Bank of Russia, 2026d). That does not make assets investable. It means the premise of a collapse-driven trade has been disconfirmed.
+
+**2. Know what you can and cannot legally do.** Many categories of investment and transaction involving Russia are restricted or prohibited in many jurisdictions. The legal position should be the first screen, ahead of any analysis of returns. I do not recommend any particular security or transaction.
+
+**3. Watch the fiscal path.** The debt ratio is low but rising on the IMF's forecast, to 22.2% by 2027 (IMF, 2026c). Oil and gas revenue fell 23.8% in 2025 (TASS, 2026b). The fiscal trend is the first thing to monitor in any scenario.
+
+**4. Understand the rate cycle.** The key rate has come down from 21% to 14%. The Bank of Russia expects an average of 12.5% to 13.5% in 2027 (Bank of Russia, 2024; Bank of Russia, 2026a). Rate expectations drive domestic valuations and credit conditions, and they depend on inflation expectations that remain near two-year highs.
+
+**5. Discount the dramatic number.** Whenever a source offers a striking figure on Russia, from either direction, ask for the primary data. I could not verify a widely quoted private capital-outflow figure from a primary source and left it out. Apply the same discipline.
+
+**6. Price the governance premium.** A corruption perception score of 22 out of 100 and a rank of 157 of 182 imply a governance discount that belongs in any valuation (Transparency International Russia, 2026). The system's performance does not remove it.
+
+## For policymakers
+
+**1. Define the objective and the exit.** A sanctions program counted by listings is a measure of effort. Decide what outcome you want, how you will know when you have it and what conditions would lead you to relax measures. Without that, an instrument that has no end condition becomes permanent by default.
+
+**2. Measure effects, not entries.** Commission regular assessments of what sanctions have actually changed, using official data on growth, inflation, trade and reserves. If the measured effect diverges from the stated goal, say so (IMF, 2022; IMF, 2026a).
+
+**3. Resolve the question of immobilized assets on legal grounds.** Roughly 210 billion euros of central bank assets are immobilized, with about 185 billion at Euroclear (European Parliament, 2026; Euronews, 2026). The record of 2025 and 2026 shows a legal and financial-stability problem the political rhetoric did not solve. A decision either way should be made on a clear legal basis, with the guarantees that custodial countries ask for.
+
+**4. Stress-test forecasts that depend on collapse.** The 8.5% contraction forecast for 2022 was off by about seven percentage points (IMF, 2022; IMF, 2026a). Any strategy built on a similar premise should be tested against the possibility that the target adapts.
+
+**5. Keep channels for economic information open.** Policy based on a distorted picture compounds errors. Maintain access to credible data and to a range of analysts, including those who disagree with the policy.
+
+**6. Recognize the political economy of the other side.** The memory of the 1990s is a political fact. A policy that treats the Russian public as passive victims of their government misreads the situation. That does not mean agreeing with the Russian government. It means understanding what the people it governs consider a bad outcome.
+
+## A 90-day plan
+
+For any organization that needs to act on this paper, this is a practical sequence.
+
+**Days 1 to 30: Fix the facts.** Audit every internal document that cites Russian economic data. Replace unsourced figures with sourced, dated ones. Log the source and vintage.
+
+**Days 31 to 60: Build the scenarios.** Adopt the three scenarios, assign owners, set trigger indicators and write down the decision that each scenario would change.
+
+**Days 61 to 90: Test and brief.** Run a tabletop exercise on one scenario. Brief the board or investment committee. Confirm with counsel the legal limits on any planned activity.
+
+## Self-assessment checklist
+
+- ☐ Our planning documents no longer treat a Russian economic collapse as the base case.
+- ☐ Every Russian statistic in our materials has a source, a year and a link.
+- ☐ We know which of the real risks, inflation, labor, energy revenue, military burden, demography and governance, we are exposed to.
+- ☐ Our legal and compliance review precedes any commercial analysis.
+- ☐ We have named the indicators we watch and the levels that trigger a review.
+- ☐ We have a process for correcting widely repeated numbers that fail a source check.
+- ☐ We keep a clear line between analysis of an economy and decisions about what we may lawfully do.
+
+
+
+# Method note: how the numbers were gathered {#method}
+
+A paper that argues one side owes its readers a clear account of how it handled evidence. This is mine.
+
+**Primary data first.** Where a primary or institutional series exists, I used it. Real GDP, inflation, unemployment, life expectancy, fertility, population and income-class data come from the World Bank's World Development Indicators, retrieved through its public API (World Bank, 2026a to 2026k). Growth, inflation, debt, unemployment, current-account and income-per-head projections come from the IMF's October 2026 World Economic Outlook database (IMF, 2026a to 2026g). Monetary policy and balance-of-payments data come from the Bank of Russia. Military expenditure comes from SIPRI. Safety perception comes from Gallup. Homicide data come from UNODC, as published by Our World in Data. Corruption perception comes from Transparency International's national chapter for Russia.
+
+**Reporting, where there is no primary series.** For sanctions counts, trade data and a few budget items, I relied on news agencies and data aggregators, and I flag them as such in the reference list. Two of those, StatBureau and Statbase, are secondary aggregators. I used them for a historical inflation figure and for a comparison of sanctions designations, and I say so in the text.
+
+**The dagger.** An entry marked † in the reference list rests on a search-index summary of a page that I could not retrieve in full, usually because the publisher blocks automated access. I have used those entries sparingly, for facts that are specific, checkable and not central to the argument. A reader who needs to rely on one should open the source.
+
+**Author's calculations.** Where the paper reports a percentage change, a cumulative growth rate or a ratio that the source does not publish directly, I computed it from the source's own series and flagged it. The main ones are: the 44.3% fall in real GDP from 1989 to 1998; the 8.7% cumulative growth from 2021 to 2025 and the comparison for other economies; the 76% fall in the homicide rate from 1994 to 2024; and the cumulative figures in the peer table.
+
+**Definitions and vintages.** I use the latest published estimate of each series. The World Bank and IMF series revise, as does Rosstat. Different sources use different definitions, for example constant 2015 dollars, constant 2021 international dollars and current international dollars. I name the definition when the number matters.
+
+**Polls.** I cite Levada Center polls as one indicator, with the caveats that Levada was designated a "foreign agent" in 2016, that wartime polling is contested and that Levada defends its own methods (BBC, 2016; Levada Center, 2025). I do not use crowdsourced indices.
+
+**What I left out.** I do not cite casualty, loss or battlefield figures for any party. I do not discuss weapons or military operations. I did not use a private capital-outflow figure that I could not verify from a primary source. I do not claim to know the size of the state in the Russian economy today, and I report the IMF's 2016 estimate for what it is.
+
+**What this paper is.** It is an argued position by its author. It uses sources honestly, and it does not claim to be neutral. A reader who disagrees with the argument can use the same references to build a different one, and I would welcome that.
+
+
+
+# Conclusion: the fact that cannot be sanctioned away {#conclusion}
+
+Let me close where I began, with the pearl-clutching.
+
+For four years the standard Western position on Russia has been a prediction presented as analysis: the economy would crack, the currency would fail, the people would turn. The prediction was written down by serious institutions in April 2022, with a number attached, a contraction of 8.5% (IMF, 2022). The number that arrived was 1.4%, followed by 4.1%, 4.9% and 1.0% (IMF, 2026a). When a forecast misses by that much, the intellectually honest response is to ask what the model missed. This paper has tried to answer that question.
+
+The answer begins in the 1990s. A country lost 44% of its output, watched prices rise 874% in a year, saw life expectancy fall almost five years and homicide more than double, and then defaulted (World Bank, 2026a; World Bank, 2026c; World Bank, 2026e; Our World in Data, 2026; CRS, 1999). The system built afterward was designed by people who had lived through that, around a handful of principles: low debt, a central bank that will be unpopular when it must be, strategic sectors held close, food and payments independence, and a state that sets the rules and enforces them. It is not the system the textbooks recommend. It is the one that, on the numbers, withstood the largest sanctions program ever assembled against a major economy.
+
+I have also tried to be fair. Russia's inflation is high, its key rate is high, its growth has slowed to roughly one percent, its labor market has no slack, its military burden is the heaviest SIPRI has recorded for it, its budget leans on energy, its demographics are poor and its corruption score is among the world's worst (IMF, 2026b; Bank of Russia, 2026a; Interfax, 2026a; IMF, 2026d; SIPRI, 2026; TASS, 2026b; World Bank, 2026i; Transparency International Russia, 2026). On safety, Russia is in the middle of the international pack, not at the top, and the United States and Western Europe record fewer homicides and, in Gallup's survey, more people who feel safe at night (Our World in Data, 2026; Gallup, 2025). I reported all of that because a case that avoids it is not worth making.
+
+None of it changes the main finding. The economy that was supposed to collapse is still standing. It has low debt, near-record-low unemployment, a record-low poverty rate, a trade network that spans the world's second-largest economy, and a central bank cutting rates from a record high (IMF, 2026c; IMF, 2026d; Interfax, 2026b; TASS, 2026a; Bank of Russia, 2026a). People who lived through the 1990s can tell you what that is worth.
+
+That is the ultimate fact the West cannot sanction away: the model is still there, and it keeps being underestimated by the people who wrote it off.
+
+## What I ask of the reader
+
+If you take one thing from this paper, take the method, not the verdict. Replace the slogan with the series. Put the source next to the number. Ask what the model would have to be for the forecast to have failed. Then decide for yourself whether Russia's state-influenced capitalism is a design worth studying, a risk worth pricing or, as I believe, both.
+
+<!-- BODY-END -->
+
+
+
+# About Infinitum Corporation {#about}
+
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC, delivering practical, integrated security and strategic risk solutions.
+
+Our work spans cybersecurity consulting, network architecture and defense, vulnerability assessment and ethical hacking, IT security, AI for security operations, strategic risk assessment and emerging defense technology advisory. We also operate in Moscow. Our ethical hacking work is always authorized, scoped and approved in writing, and performed for defense.
+
+William Aaron Turner is Founder and President.
+
+| | |
+|---|---|
+| Website | [https://www.theinfinitumcorporation.com](https://www.theinfinitumcorporation.com) |
+| Email | info@theinfinitumcorporation.com |
+| Telegram | [https://t.me/infinitumcorporation](https://t.me/infinitumcorporation) |
+| X | [https://x.com/infinitumceo](https://x.com/infinitumceo) |
+| Headquarters | 1629 K Street NW, Suite 300, Washington, DC |
+
+# References {#references}
+
+Entries marked † rest on a search-index summary of the cited page. The page itself was either not opened or could not be retrieved by the build tool (for example HTTP 401, 403, 406 or 503). Entries without the mark were opened and read for the figures used. Online data series were retrieved on October 26, 2026 (World Bank API last updated October 8, 2026; IMF World Economic Outlook, October 2026).
+
+<div class="refs" markdown="1">
+
+1. Bank of Russia. (2024, October 25). *Bank of Russia increases the key rate by 200 bp to 21.00% p.a.* [https://www.cbr.ru/eng/press/pr/?file=25102024_133000key_eng.htm](https://www.cbr.ru/eng/press/pr/?file=25102024_133000key_eng.htm)
+2. Bank of Russia. (2026a, October 23). *Bank of Russia keeps the key rate at 14.00% p.a.* [https://cbr.ru/eng/press/keypr/](https://cbr.ru/eng/press/keypr/) and *Bank of Russia's medium-term forecast* (growth forecast ranges †). [https://www.cbr.ru/Content/Document/File/198952/forecast_261023_e.pdf](https://www.cbr.ru/Content/Document/File/198952/forecast_261023_e.pdf)
+3. Bank of Russia. (2026b). *Balance of Payments, International Investment Position and External Debt of the Russian Federation in 2025 Q4.* [https://www.cbr.ru/collection/collection/file/60938/bp_25-4e.pdf](https://www.cbr.ru/collection/collection/file/60938/bp_25-4e.pdf)
+4. Bank of Russia. (2026c). *Annual Report 2025: Results in brief* (currency shares of foreign trade settlements †). [http://www.cbr.ru/collection/collection/file/59815/rb_2025.pdf](http://www.cbr.ru/collection/collection/file/59815/rb_2025.pdf)
+5. Bank of Russia. (2026d). *International Reserves of the Russian Federation: monthly values* (September 30, 2026 values †). [https://www.cbr.ru/eng/hd_base/mrrf/mrrf_m/](https://www.cbr.ru/eng/hd_base/mrrf/mrrf_m/)
+6. BBC News. (2004). *Timeline: The rise and fall of Yukos* †. [http://newsimg.bbc.co.uk/1/hi/business/4041551.stm](http://newsimg.bbc.co.uk/1/hi/business/4041551.stm)
+7. BBC News. (2016, September 5). *Russia's Levada Centre polling group named foreign agent.* [https://www.bbc.com/news/world-europe-37278649](https://www.bbc.com/news/world-europe-37278649)
+8. Castellum.AI. (2025). *Consolidated Russia Sanctions Data Dashboard* (figures as of August 15, 2025; the dashboard states that publication use of its data requires written permission). [https://www.castellum.ai/russia-sanctions-dashboard](https://www.castellum.ai/russia-sanctions-dashboard)
+9. China Daily. (2026, February 11). *Sino-Russian trade tops $200b.* [https://www.chinadaily.com.cn/a/202602/11/WS698be5dba310d6866eb38a3e.html](https://www.chinadaily.com.cn/a/202602/11/WS698be5dba310d6866eb38a3e.html)
+10. Congressional Research Service. (1999, February 18). *The Russian Financial Crisis of 1998: An Analysis of Trends, Causes, and Implications* †. [https://www.everycrsreport.com/files/19990218_98-578_353c595b8980dfeaab66aa782deab2898c3b6889.pdf](https://www.everycrsreport.com/files/19990218_98-578_353c595b8980dfeaab66aa782deab2898c3b6889.pdf)
+11. ETH Zurich, Center for Security Studies. (n.d.). *Voucher Privatization in Russia* †. [https://www.files.ethz.ch/isn/140194/021.pdf](https://www.files.ethz.ch/isn/140194/021.pdf)
+12. Euronews. (2026, September 2). *Belgium pushes back against new attempt to use Russian assets to support Ukraine* †. [https://www.euronews.com/my-europe/2026/09/02/belgium-pushes-back-against-new-attempt-to-use-russian-assets-to-support-ukraine](https://www.euronews.com/my-europe/2026/09/02/belgium-pushes-back-against-new-attempt-to-use-russian-assets-to-support-ukraine)
+13. European Parliament Research Service. (2026). *Current and future EU support to Ukraine* (BUDG briefing) †. [https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/785052/BUDG_BRI%282026%29785052_EN.pdf](https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/785052/BUDG_BRI%282026%29785052_EN.pdf)
+14. Gallup. (2025). *The Global Safety Report: A Safer World in Unsafe Times?* (2024 survey data). [https://www.gallup.com/file/analytics/695138/Gallup_Global-Safety-Report-2025.pdf](https://www.gallup.com/file/analytics/695138/Gallup_Global-Safety-Report-2025.pdf)
+15. International Monetary Fund. (1992). *Price Liberalization in Russia* (IMF Working Paper WP/92/92) †. [https://www.elibrary.imf.org/view/journals/001/1992/092/article-A001-en.xml](https://www.elibrary.imf.org/view/journals/001/1992/092/article-A001-en.xml)
+16. International Monetary Fund. (1998). *Russia Rebounds*, ch. 2, and *World Economic Outlook and International Capital Markets Interim Assessment*, ch. 2 †. [https://www.elibrary.imf.org/display/book/9781589062078/ch02.xml](https://www.elibrary.imf.org/display/book/9781589062078/ch02.xml)
+17. International Monetary Fund. (2019, March). *The Russian State's Size and its Footprint: Have They Increased?* (WP/19/53) †. [https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019053.pdf](https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019053.pdf)
+18. International Monetary Fund. (2022, April). *World Economic Outlook: War Sets Back the Global Recovery* (Russia 2022 and 2023 projections †). [https://www.imf.org/en/publications/weo/issues/2022/04/19/world-economic-outlook-april-2022](https://www.imf.org/en/publications/weo/issues/2022/04/19/world-economic-outlook-april-2022)
+19. International Monetary Fund. (2026a). *World Economic Outlook database, October 2026: Real GDP growth (NGDP_RPCH).* DataMapper API. [https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH](https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH)
+20. International Monetary Fund. (2026b). *WEO October 2026: Inflation, average consumer prices (PCPIPCH).* [https://www.imf.org/external/datamapper/api/v1/PCPIPCH](https://www.imf.org/external/datamapper/api/v1/PCPIPCH)
+21. International Monetary Fund. (2026c). *WEO October 2026: General government gross debt, % of GDP (GGXWDG_NGDP).* [https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP](https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP)
+22. International Monetary Fund. (2026d). *WEO October 2026: Unemployment rate (LUR).* [https://www.imf.org/external/datamapper/api/v1/LUR](https://www.imf.org/external/datamapper/api/v1/LUR)
+23. International Monetary Fund. (2026e). *WEO October 2026: GDP per capita, PPP (PPPPC).* [https://www.imf.org/external/datamapper/api/v1/PPPPC](https://www.imf.org/external/datamapper/api/v1/PPPPC)
+24. International Monetary Fund. (2026f). *WEO October 2026: GDP, current prices, US dollars (NGDPD).* [https://www.imf.org/external/datamapper/api/v1/NGDPD](https://www.imf.org/external/datamapper/api/v1/NGDPD)
+25. International Monetary Fund. (2026g). *WEO October 2026: Current account balance, % of GDP (BCA_NGDPD).* [https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD](https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD)
+26. Interfax. (2025, February 7). *Russian GDP grows 4.1% in 2024, as in 2023 (Rosstat).* [https://interfax.com/newsroom/top-stories/109666/](https://interfax.com/newsroom/top-stories/109666/)
+27. Interfax. (2026a). *Rosstat confirms estimate that Russia's GDP grew 1.0% in 2025.* [https://interfax.com/newsroom/top-stories/117073/](https://interfax.com/newsroom/top-stories/117073/)
+28. Interfax. (2026b). *Poverty level in Russia falls to all-time low of 6.7% in 2025 from 7.1% in 2024 (Rosstat).* [https://interfax.com/newsroom/top-stories/116618/](https://interfax.com/newsroom/top-stories/116618/)
+29. Interfax. (2026c). *Росстат оценил в 1,0% рост ВВП РФ в 2025 г. после 4,9% в 2024 г.* [https://www.interfax.ru/business/1071513](https://www.interfax.ru/business/1071513)
+30. Interfax. (2026d). *Реальные доходы россиян в 2025 году выросли на 7,7%, зарплаты в реальном выражении на 4,4%* †. [https://www.interfax.ru/business/1074574](https://www.interfax.ru/business/1074574)
+31. Interfax. (2026e). *Россия в 2025/26 сельхозгоду экспортировала 46,5 млн т пшеницы* †. [https://www.interfax.ru/russia/1109663](https://www.interfax.ru/russia/1109663)
+32. Kremlin (President of Russia). (2000, July 28). *Answer to a question from journalists about a meeting with heads of leading Russian companies and banks* †. [http://www.en.kremlin.ru/events/president/transcripts/copy/24173](http://www.en.kremlin.ru/events/president/transcripts/copy/24173)
+33. Kremlin (President of Russia). (2024). *The President signed a law on introducing a progressive personal income tax scale since 2025* †. [http://en.kremlin.ru/acts/news/74542](http://en.kremlin.ru/acts/news/74542)
+34. Levada Center. (2025, April 30). *On the question of the surveys in Russia* (D. Volkov). [https://www.levada.ru/en/2025/04/30/on-the-question-of-the-surveys-in-russia/](https://www.levada.ru/en/2025/04/30/on-the-question-of-the-surveys-in-russia/)
+35. Levada Center. (2026, October 2). *Рейтинги сентября 2026 года: настроения, оценки положения дел в стране и одобрение органов власти* (survey of 1,616 adults, September 23 to 30, 2026). [https://www.levada.ru/2026/10/02/rejtingi-sentyabrya-2026-goda-nastroeniya-otsenki-polozheniya-del-v-strane-i-odobrenie-organov-vlasti/](https://www.levada.ru/2026/10/02/rejtingi-sentyabrya-2026-goda-nastroeniya-otsenki-polozheniya-del-v-strane-i-odobrenie-organov-vlasti/)
+36. Ministry of Finance of the Russian Federation. (2026). *Preliminary estimate of federal budget execution for 2025* (deficit 2.6% of GDP †). [https://minfin.gov.ru/ru/press-center/?id_4=40166](https://minfin.gov.ru/ru/press-center/?id_4=40166)
+37. The New York Times. (1993, October 5). *Showdown in Moscow: Russian army routs rebels at parliament as Yeltsin takes steps to tighten control* †. [https://www.nytimes.com/1993/10/05/world/showdown-moscow-overview-russian-army-routs-rebels-parliament-yeltsin-takes.html](https://www.nytimes.com/1993/10/05/world/showdown-moscow-overview-russian-army-routs-rebels-parliament-yeltsin-takes.html)
+38. The New York Times. (2000, July 29). *Putin, exerting his authority, meets with Russia's tycoons* †. [https://www.nytimes.com/2000/07/29/world/putin-exerting-his-authority-meets-with-russia-s-tycoons.html](https://www.nytimes.com/2000/07/29/world/putin-exerting-his-authority-meets-with-russia-s-tycoons.html)
+39. Our World in Data (data from UNODC). (2026). *Homicide rate.* [https://ourworldindata.org/grapher/homicide-rate-unodc](https://ourworldindata.org/grapher/homicide-rate-unodc)
+40. PBS. (n.d.). *Face of Russia: Timeline, 1993.* [https://www.pbs.org/weta/faceofrussia/timeline/1900/1993.html](https://www.pbs.org/weta/faceofrussia/timeline/1900/1993.html)
+41. Reuters. (2024a, February 7). *Russia's GDP boost from military spending belies wider economic woes* (first estimate of 2023 growth, 3.6%) †. [https://www.reuters.com/world/europe/russias-gdp-boost-military-spending-belies-wider-economic-woes-2024-02-07/](https://www.reuters.com/world/europe/russias-gdp-boost-military-spending-belies-wider-economic-woes-2024-02-07/)
+42. Reuters. (2024b, May 28). *Russia proposes higher income taxes for the well-off* †. [https://www.reuters.com/world/europe/russian-finance-ministry-proposes-boosting-some-income-tax-rates-2024-05-28/](https://www.reuters.com/world/europe/russian-finance-ministry-proposes-boosting-some-income-tax-rates-2024-05-28/)
+43. Reuters. (2025, September 24). *Russian finance ministry proposes raising VAT to help fund war* (VAT and National Wealth Fund details †). [https://www.reuters.com/markets/currencies/russian-finance-ministry-proposes-raising-vat-help-finance-war-ukraine-2025-09-24/](https://www.reuters.com/markets/currencies/russian-finance-ministry-proposes-raising-vat-help-finance-war-ukraine-2025-09-24/)
+44. RIA Novosti. (2026, October 15). *Раскрыто число санкций против России* †. [https://ria.ru/20261015/evrosojuz-2124573090.html](https://ria.ru/20261015/evrosojuz-2124573090.html)
+45. Stockholm International Peace Research Institute. (2026, April). *Trends in World Military Expenditure, 2025.* [https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf](https://www.sipri.org/sites/default/files/2026-04/2604_milex_2025.pdf)
+46. StatBureau. (n.d.). *Inflation in Russia in 1992* (a secondary aggregator of official statistics). [https://www.statbureau.org/ru/russia/inflation/1992](https://www.statbureau.org/ru/russia/inflation/1992)
+47. Statbase. (2025). *Number of sanctions, data by countries 2022 to 2025* (compiled from Castellum.AI; a secondary aggregator) †. [https://statbase.org/datasets/indexes-and-ratings/number-of-sanctions/](https://statbase.org/datasets/indexes-and-ratings/number-of-sanctions/)
+48. TASS. (2022). *World Bank revises Russian GDP contraction forecast to 4.5% in 2022* †. [https://tass.com/economy/1517709](https://tass.com/economy/1517709)
+49. TASS. (2025). *Russia has switched to settlements with India, China in national currencies by 90-95%* †. [https://tass.com/economy/2032377](https://tass.com/economy/2032377)
+50. TASS. (2026a, January 14). *Trade turnover between China, Russia down 6.9% in 2025 to $228 bln, customs.* [https://tass.com/economy/2070849](https://tass.com/economy/2070849)
+51. TASS. (2026b, January 19). *Oil and gas revenues of Russian budget down 23.8% in 2025, ministry.* [https://tass.com/economy/2073257](https://tass.com/economy/2073257)
+52. Transparency International Russia. (2026, February 10). *CPI 2025: Russia.* [https://ti-russia.org/en/corruption-perceptions-index/cpi-2025/](https://ti-russia.org/en/corruption-perceptions-index/cpi-2025/)
+53. Treisman, D. (2010, March). *"Loans for Shares" Revisited* (NBER Working Paper 15819). [https://www.nber.org/papers/w15819](https://www.nber.org/papers/w15819)
+54. U.S. Department of Agriculture, Foreign Agricultural Service. (2026, April). *Grain: World Markets and Trade* (wheat export share †). [https://apps.fas.usda.gov/PSDOnline/Circulars/2026/04/Grain.pdf](https://apps.fas.usda.gov/PSDOnline/Circulars/2026/04/Grain.pdf)
+55. World Bank. (2008, November). *Russian Economic Report No. 17* (poverty headcount 29% in 2000 to 13.4% in 2007 †). [https://documents1.worldbank.org/curated/en/469311468332940117/pdf/467240ENGLISH0100Nov020080rer171eng.pdf](https://documents1.worldbank.org/curated/en/469311468332940117/pdf/467240ENGLISH0100Nov020080rer171eng.pdf)
+56. World Bank. (2026a). *World Development Indicators: GDP (constant 2015 US$), NY.GDP.MKTP.KD, Russian Federation.* [https://api.worldbank.org/v2/country/RUS/indicator/NY.GDP.MKTP.KD?format=json](https://api.worldbank.org/v2/country/RUS/indicator/NY.GDP.MKTP.KD?format=json)
+57. World Bank. (2026b). *WDI: GDP growth (annual %), NY.GDP.MKTP.KD.ZG.* [https://api.worldbank.org/v2/country/RUS/indicator/NY.GDP.MKTP.KD.ZG?format=json](https://api.worldbank.org/v2/country/RUS/indicator/NY.GDP.MKTP.KD.ZG?format=json)
+58. World Bank. (2026c). *WDI: Inflation, consumer prices (annual %), FP.CPI.TOTL.ZG.* [https://api.worldbank.org/v2/country/RUS/indicator/FP.CPI.TOTL.ZG?format=json](https://api.worldbank.org/v2/country/RUS/indicator/FP.CPI.TOTL.ZG?format=json)
+59. World Bank. (2026d). *WDI: GDP per capita, PPP (constant 2021 international $), NY.GDP.PCAP.PP.KD.* [https://api.worldbank.org/v2/country/RUS/indicator/NY.GDP.PCAP.PP.KD?format=json](https://api.worldbank.org/v2/country/RUS/indicator/NY.GDP.PCAP.PP.KD?format=json)
+60. World Bank. (2026e). *WDI: Life expectancy at birth, total (years), SP.DYN.LE00.IN.* [https://api.worldbank.org/v2/country/RUS/indicator/SP.DYN.LE00.IN?format=json](https://api.worldbank.org/v2/country/RUS/indicator/SP.DYN.LE00.IN?format=json)
+61. World Bank. (2026f). *WDI: Intentional homicides per 100,000 people (UNODC), VC.IHR.PSRC.P5.* [https://api.worldbank.org/v2/country/RUS/indicator/VC.IHR.PSRC.P5?format=json](https://api.worldbank.org/v2/country/RUS/indicator/VC.IHR.PSRC.P5?format=json)
+62. World Bank. (2026g). *WDI: Unemployment, total (% of labor force, modeled ILO estimate), SL.UEM.TOTL.ZS.* [https://api.worldbank.org/v2/country/RUS/indicator/SL.UEM.TOTL.ZS?format=json](https://api.worldbank.org/v2/country/RUS/indicator/SL.UEM.TOTL.ZS?format=json)
+63. World Bank. (2026h). *WDI: GDP (current US$), NY.GDP.MKTP.CD.* [https://api.worldbank.org/v2/country/RUS/indicator/NY.GDP.MKTP.CD?format=json](https://api.worldbank.org/v2/country/RUS/indicator/NY.GDP.MKTP.CD?format=json)
+64. World Bank. (2026i). *WDI: Fertility rate, total (births per woman), SP.DYN.TFRT.IN* (Russia and comparison countries). [https://api.worldbank.org/v2/country/RUS/indicator/SP.DYN.TFRT.IN?format=json](https://api.worldbank.org/v2/country/RUS/indicator/SP.DYN.TFRT.IN?format=json)
+65. World Bank. (2026j). *WDI: Population, total, SP.POP.TOTL.* [https://api.worldbank.org/v2/country/RUS/indicator/SP.POP.TOTL?format=json](https://api.worldbank.org/v2/country/RUS/indicator/SP.POP.TOTL?format=json)
+66. World Bank. (2026k). *Country metadata (income group) and GNI per capita, Atlas method (current US$), NY.GNP.PCAP.CD.* [https://api.worldbank.org/v2/country/RUS?format=json](https://api.worldbank.org/v2/country/RUS?format=json) and [https://api.worldbank.org/v2/country/RUS/indicator/NY.GNP.PCAP.CD?format=json](https://api.worldbank.org/v2/country/RUS/indicator/NY.GNP.PCAP.CD?format=json)
+
+</div>
+
+# Glossary {#glossary}
+
+<div class="glossary" markdown="1">
+
+**Atlas method.** The World Bank's method for converting gross national income to US dollars, used for income-group classification.
+
+**Constant dollars.** Values adjusted for price changes so that different years can be compared in the same purchasing power.
+
+**Core inflation.** A measure of price growth that removes volatile components such as fuel, used by the Bank of Russia to judge underlying trends.
+
+**Current account.** The balance of a country's trade in goods and services and its income flows with the rest of the world.
+
+**Designation.** A listing of a person, company or vessel under a sanctions program.
+
+**Immobilized assets.** Central bank reserves held abroad that their owner cannot access because of sanctions.
+
+**Key rate.** The Bank of Russia's main policy interest rate.
+
+**National Wealth Fund.** Russia's sovereign wealth reserve, financed from energy revenue and used as a fiscal buffer.
+
+**PPP (purchasing power parity).** An adjustment that compares output or income across countries using the price of a common basket of goods.
+
+**Rosstat.** The Russian federal statistics agency.
+
+**Sanctions.** Legal measures imposed by governments to restrict trade, finance or travel for foreign policy goals.
+
+**State-influenced capitalism.** In this paper, a market economy in which the state holds strategic sectors, sets rules and steers capital toward national priorities.
+
+**UNODC.** The United Nations Office on Drugs and Crime, which compiles international homicide statistics.
+
+</div>

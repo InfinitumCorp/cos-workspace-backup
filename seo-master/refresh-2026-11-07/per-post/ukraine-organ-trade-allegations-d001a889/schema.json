@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-organ-trade-allegations.html#article",
+  "url": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-organ-trade-allegations.html",
+  "headline": "Ukrainian Casualties and Organ-Trade Allegations: Sources",
+  "description": "The Ukraine Files · Part 5 of 8 By William Aaron Turner, President of Infinitum Corporation® · The Ukraine Files: Full Series \"For Ukraine's leadership,…",
+  "author": {
+    "@type": "Person",
+    "name": "William Aaron Turner",
+    "sameAs": "https://orcid.org/0009-0002-1585-5442"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  }
+}

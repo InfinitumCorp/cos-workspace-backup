@@ -1,0 +1,129 @@
+<!-- Paste inside <head> of each blog's theme (Theme > Edit HTML), right after <b:include data='blog' name='all-head-content'/>. One section per blog. Generated 2026-10-31. -->
+
+<!-- ===== https://ukrainianfiles.blogspot.com ===== -->
+<b:if cond='data:view.url == &quot;https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html&quot;'>
+<meta name="citation_title" content="Useful Idiots: A Guide to the Western Profiteers of the Ukraine War" />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/30" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="The Ukraine Files" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html" />
+<meta name="citation_doi" content="10.5281/zenodo.23836478" />
+<meta name="citation_pdf_url" content="https://zenodo.org/records/23836478/files/Turner_Useful-Idiots.pdf" />
+</b:if>
+<b:if cond='data:view.url == &quot;https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html&quot;'>
+<meta name="citation_title" content="WTF Is In-Q-Tel? The CIA&#x27;s Venture Fund and the Kill Chain It Bankrolled" />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/25" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="The Ukraine Files" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html" />
+<meta name="citation_doi" content="10.5281/zenodo.23836521" />
+<meta name="citation_pdf_url" content="https://zenodo.org/records/23836521/files/Turner_In-Q-Tel.pdf" />
+</b:if>
+<b:if cond='data:view.url == &quot;https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html&quot;'>
+<meta name="citation_title" content="Sweeps and Spies: Russia Clears the Bombs. The West Clears the Data." />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/25" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="The Ukraine Files" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html" />
+<meta name="citation_doi" content="10.5281/zenodo.23836541" />
+<meta name="citation_pdf_url" content="https://zenodo.org/records/23836541/files/Turner_Sweeps-and-Spies.pdf" />
+</b:if>
+<b:if cond='data:view.url == &quot;https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html&quot;'>
+<meta name="citation_title" content="Eastern Economic Forum 2026: Is Russia Isolated?" />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/25" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="The Ukraine Files" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html" />
+</b:if>
+<b:if cond='data:view.url == &quot;https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html&quot;'>
+<meta name="citation_title" content="Russia&#x27;s Economy Under Sanctions: GDP, Aid, Stalemate" />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/25" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="The Ukraine Files" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html" />
+</b:if>
+
+<!-- ===== https://russiaafricareport.blogspot.com ===== -->
+<b:if cond='data:view.url == &quot;https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html&quot;'>
+<meta name="citation_title" content="The Partnership That Delivers: What the Russia-Africa Summit Actually Produced" />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/30" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="Russia-Africa Report" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html" />
+<meta name="citation_doi" content="10.5281/zenodo.23836501" />
+<meta name="citation_pdf_url" content="https://zenodo.org/records/23836501/files/partnership-that-delivers.pdf" />
+</b:if>
+
+<!-- ===== https://infinitumwhitepapers.blogspot.com ===== -->
+<b:if cond='data:view.url == &quot;https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html&quot;'>
+<meta name="citation_title" content="Dead Reckoning: AI for Security Operations in a Jammed, Spoofed, Watched World" />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/25" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="Infinitum Corporation Whitepapers" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html" />
+<meta name="citation_doi" content="10.5281/zenodo.23836365" />
+<meta name="citation_pdf_url" content="https://zenodo.org/records/23836365/files/Infinitum-Whitepaper-01-Dead-Reckoning-RELEASE.pdf" />
+<meta name="citation_technical_report_institution" content="Infinitum Corporation" />
+</b:if>
+<b:if cond='data:view.url == &quot;https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html&quot;'>
+<meta name="citation_title" content="Russia&#x27;s State-Influenced Capitalism: Sanctions-Proof, War-Proof, and Chaos-Proof" />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/26" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="Infinitum Corporation Whitepapers" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html" />
+<meta name="citation_doi" content="10.5281/zenodo.23836439" />
+<meta name="citation_pdf_url" content="https://zenodo.org/records/23836439/files/Infinitum-Whitepaper-Special-01-Russia-State-Influenced-Capitalism-RELEASE.pdf" />
+<meta name="citation_technical_report_institution" content="Infinitum Corporation" />
+</b:if>
+<b:if cond='data:view.url == &quot;https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html&quot;'>
+<meta name="citation_title" content="Corporate Cognitive Warfare: Irregular Warfare for Market Supremacy (Whitepaper, Expanded Edition)" />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/31" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="Infinitum Corporation Whitepapers" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html" />
+<meta name="citation_doi" content="10.5281/zenodo.23838097" />
+<meta name="citation_pdf_url" content="https://zenodo.org/records/23838097/files/Infinitum-Whitepaper-Corporate-Cognitive-Warfare-EXPANDED-RELEASE.pdf" />
+<meta name="citation_technical_report_institution" content="Infinitum Corporation" />
+</b:if>
+
+<!-- ===== https://russiaafricabythenumbers.blogspot.com ===== -->
+<b:if cond='data:view.url == &quot;https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html&quot;'>
+<meta name="citation_title" content="Russia-Africa by the Numbers: Trade, Grain, Energy and Security After the Summit" />
+<meta name="citation_author" content="Turner, William Aaron" />
+<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442" />
+<meta name="citation_publication_date" content="2026/10/30" />
+<meta name="citation_publisher" content="Infinitum Corporation" />
+<meta name="citation_journal_title" content="Russia-Africa by the Numbers" />
+<meta name="citation_language" content="en" />
+<meta name="citation_abstract_html_url" content="https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html" />
+</b:if>
+
+<!-- ===== https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/ ===== -->
+<!-- TODO echoform: add b:if block once blog URL exists -->

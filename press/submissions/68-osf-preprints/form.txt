@@ -1,0 +1,11 @@
+EXACT URL: https://osf.io/preprints/osf (OSF account; Add a preprint)
+GUIDELINES: https://help.osf.io/article/376-preprints-home-page
+NO account has been created. Save any new login in the vault.
+
+Server: OSF Preprints (general). Files (PDF): /workspace/press/submissions/_shared/Turner_Useful-Idiots.pdf ; /workspace/whitepapers/special-01-russia-state-influenced-capitalism/Infinitum-Whitepaper-Special-01-Russia-State-Influenced-Capitalism-RELEASE.pdf
+Type: Useful Idiots = article (never whitepaper); Special-01 = whitepaper.
+License: CC BY 4.0. Link the published DOIs: 10.5281/zenodo.23836478 and 10.5281/zenodo.23836439.
+Author: William Aaron Turner, ORCID 0009-0002-1585-5442 (link ORCID to OSF).
+Conflict of interest: contracted soldier in the Russian military (153rd Tank Regiment); CEO, Infinitum Corporation.
+AI disclosure (paste into the description and the COI/notes field): "This work was drafted with AI assistance and reviewed and verified by the author."
+Do NOT post the Preprints.org note, the new exclusive pieces in _new/, or the Academia Technical Note.

@@ -1,0 +1,24 @@
+
+New from Infinitum Corporation: my second whitepaper, "Trenches and Drones: Network Defense for a War of Attrition."
+
+The idea: attrition is a contest of cost and endurance. Your adversaries don't need to beat you once. They need to keep the pressure on until something gives.
+
+Public analysis of the modern battlefield describes depth, cheap mass, jammed and spoofed signals, constant observation and fragile supply lines. My shorthand: the grind of the trenches fused with science fiction. A comparison, not a claim. The paper takes no side and makes no claim about any party.
+
+Five fronts, translated for a mid-size network:
+- Trenches: depth beats a hard shell.
+- Drones: answer cheap mass with cheap layers.
+- Electronic warfare: keep a second source for time, identity and voice.
+- Sensors: know what the outside can see.
+- Supply lines: your vendors are your rear area.
+
+Plus two cross-cutting concerns, command and people. Inside: seven moves, a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and three hypothetical scenarios.
+
+Read the paper: https://infinitumwhitepapers.blogspot.com/2026/11/trenches-and-drones-network-defense-for.html
+PDF: https://www.academia.edu/180077697/Trenches_and_Drones_Network_Defense_for_a_War_of_Attrition_Whitepaper_ · DOI: https://doi.org/10.5281/zenodo.23887266
+More: https://www.theinfinitumcorporation.com
+Questions? Message us here: https://t.me/infinitumcorporation or write info@theinfinitumcorporation.com
+
+Dig in. Spread out. Keep going. Let's stay engaged.
+
+

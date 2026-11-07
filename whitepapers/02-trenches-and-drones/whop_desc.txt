@@ -1,0 +1,7 @@
+Practical, Integrated Steps for Mid-Size Organizations. Free whitepaper (48 pages) by William Aaron Turner, CEO of Infinitum Corporation, Washington, DC.
+
+This whitepaper treats network defense for mid-size organizations as a contest of cost and endurance. Using irregular warfare as an analytic lens, it draws general lessons from public analysis of the modern battlefield. It takes no side, makes no claim about any party and omits casualty, loss and performance figures. Five fronts pair a battlefield feature with its network counterpart: trenches (depth and segmentation), drones (cheap mass such as automated scanning and DDoS), electronic warfare (time, identity and other trusted signals), sensors (external exposure and detection) and supply lines (third-party dependence). Public data from Verizon, IBM, Ponemon Institute and ENISA show constant low-cost pressure, slow remediation and long breach lifecycles. The paper proposes seven defensive moves, a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and three hypothetical scenarios.
+
+DOI (Zenodo): https://doi.org/10.5281/zenodo.23887266
+Go deeper: Infinitum Academy Complete, all 8 courses https://whop.com/infinitum-corporation/
+More: https://www.theinfinitumcorporation.com | Discord: https://discord.gg/QVT7dWHUQa

@@ -1,0 +1,18 @@
+SOURCE_URL: https://www.academia.edu/179978776/Reconnaissance_Fusion_Handbook_Modern_Warfare_Guide_to_FPV_Drone_Social_Media_and_OSINT_Integration
+
+HEADLINE:
+Reconnaissance Fusion Handbook: William Aaron Turner on Integrating FPV Drones, SOCMINT and OSINT
+
+SUMMARY:
+Reconnaissance Fusion Handbook by William Aaron Turner: fusing FPV drone, social media and OSINT reconnaissance into one common operating picture.
+
+BODY:
+WASHINGTON, DC, November 2, 2026 - Infinitum Corporation today announced that William Aaron Turner, Founder & President, has published the "Reconnaissance Fusion Handbook: Modern Warfare Guide to FPV Drone, Social Media and OSINT Integration" (ISR-FM-2026-11), for reconnaissance analysts and intelligence teams. It sets out a six-principle framework, FPV drones as tactical eyes in the sky (roles, employment modes and data management), social media intelligence techniques and workflow, essential OSINT sources and workflow, and an integration framework for a common operating picture with an example fusion scenario, run through a five-phase cycle and feedback loop.
+
+"One sensor gives you a clue. Fused sources give you the picture," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Academia.edu edition: https://www.academia.edu/179978776/Reconnaissance_Fusion_Handbook_Modern_Warfare_Guide_to_FPV_Drone_Social_Media_and_OSINT_Integration
+More from Infinitum Corporation: https://www.theinfinitumcorporation.com
+
+TAGS:
+OSINT, SOCMINT, FPV drone reconnaissance, ISR, intelligence fusion, William Aaron Turner, Infinitum Corporation

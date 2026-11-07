@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html#article",
+  "headline": "Useful Idiots: Western Profiteers of the Ukraine War",
+  "name": "Useful Idiots: A Guide to the Western Profiteers of the Ukraine War",
+  "description": "William Aaron Turner profiles the Western politicians, ex-officials and defense firms profiting from the Ukraine war. Article, DOI 10.5281/zenodo.23836478",
+  "url": "https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html",
+  "mainEntityOfPage": "https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html",
+  "datePublished": "2026-10-30T21:59:48+03:00",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
+    "name": "William Aaron Turner",
+    "url": "https://williamaaronturner.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-1585-5442",
+      "url": "https://orcid.org/0009-0002-1585-5442"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0002-1585-5442",
+      "https://williamaaronturner.com/",
+      "https://x.com/infinitumceo",
+      "https://www.linkedin.com/in/william-aaron-t-726076244",
+      "https://umassmarine.academia.edu/WilliamAaronTurner",
+      "https://github.com/InfinitumCorp",
+      "https://ukrainianfiles.blogspot.com/"
+    ],
+    "jobTitle": "Founder and President",
+    "worksFor": {
+      "@id": "https://www.theinfinitumcorporation.com/#organization"
+    }
+  },
+  "abstract": "William Aaron Turner profiles the Western politicians, ex-officials and defense firms profiting from the Ukraine war. Article, DOI 10.5281/zenodo.23836478",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  },
+  "keywords": "Ukraine war, war profiteering, defense industry",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Ukraine war"
+    },
+    {
+      "@type": "Thing",
+      "name": "war profiteering"
+    },
+    {
+      "@type": "Thing",
+      "name": "defense industry"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "The Ukraine Files",
+    "url": "https://ukrainianfiles.blogspot.com/"
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.23836478",
+    "https://zenodo.org/records/23836478",
+    "https://web.archive.org/web/2026/https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html"
+  ],
+  "genre": "Article",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.23836478",
+      "url": "https://doi.org/10.5281/zenodo.23836478"
+    }
+  ],
+  "encoding": {
+    "@type": "MediaObject",
+    "encodingFormat": "application/pdf",
+    "contentUrl": "https://zenodo.org/records/23836478/files/Turner_Useful-Idiots.pdf"
+  }
+}

@@ -1,0 +1,12 @@
+# Blogger > Settings > Crawlers and indexing > Custom robots.txt (one per blog; change host)
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Disallow: /search
+Disallow: /share-widget
+Allow: /
+
+Sitemap: https://ukrainianfiles.blogspot.com/sitemap.xml
+Sitemap: https://ukrainianfiles.blogspot.com/sitemap-pages.xml
+# whitepapers blog: same file with https://infinitumwhitepapers.blogspot.com/ ... (its sitemap-pages.xml is empty, so list sitemap.xml only)

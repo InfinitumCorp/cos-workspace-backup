@@ -1,0 +1,51 @@
+[
+  {
+    "site": "PRFree",
+    "url": "https://prfree.org/",
+    "exit": 0,
+    "result": "200|https://prfree.org/|0.073594",
+    "error": ""
+  },
+  {
+    "site": "fair-NEWS",
+    "url": "https://www.fair-news.de/",
+    "exit": 0,
+    "result": "200|https://www.fair-news.de/|1.663277",
+    "error": ""
+  },
+  {
+    "site": "firmenpresse",
+    "url": "https://www.firmenpresse.de/",
+    "exit": 0,
+    "result": "200|https://www.firmenpresse.de/|5.441446",
+    "error": ""
+  },
+  {
+    "site": "presslo",
+    "url": "https://presslo.com/",
+    "exit": 0,
+    "result": "200|https://presslo.com/|0.169099",
+    "error": ""
+  },
+  {
+    "site": "IssueWire",
+    "url": "https://www.issuewire.com/",
+    "exit": 0,
+    "result": "200|https://www.issuewire.com/|1.796909",
+    "error": ""
+  },
+  {
+    "site": "PressLiftoff",
+    "url": "https://pressliftoff.com/",
+    "exit": 0,
+    "result": "200|https://pressliftoff.com/|1.271121",
+    "error": ""
+  },
+  {
+    "site": "PRLog",
+    "url": "https://www.prlog.org/",
+    "exit": 0,
+    "result": "200|https://www.prlog.org/|1.058628",
+    "error": ""
+  }
+]

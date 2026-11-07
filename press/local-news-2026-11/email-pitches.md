@@ -1,0 +1,1259 @@
+# Email pitches and submissions - DRAFTS, NOT SENT
+
+Every item below needs William's OK through a draft card before it goes out. Web-form and account submissions are not in this file (see plan.md and drafts/).
+From: theinfinitumcorp@gmail.com (approved by William 2026-11-02 20:15 MSK). Media contact in every body stays info@theinfinitumcorporation.com. Gmail cards carry no attachments: bodies say a high-res image is available on request. Disclosure line approved by William 2026-11-02 20:15 MSK and included as final.
+Total email items: 45
+
+## 1. InsideSources / DC Journal (US-DC #1) - op-ed (EXCLUSIVE)
+- **To:** michael@insidesources.com (page: https://dcjournal.com/submit-an-op-ed/)
+- **Subject:** Op-ed submission (exclusive): AI in the security operations center needs a navigator's discipline
+- **Attachment:** none
+- **Draft file:** drafts/dc-journal.md
+
+```
+# AI in the security operations center needs a navigator's discipline
+
+When satellite signals fail, a navigator does not guess. He fixes his position from what he can verify: last known position, heading, speed, time and, wherever possible, a second source. Sailors call it dead reckoning. Security teams rushing to adopt artificial intelligence need the same habit, because a confident answer from an AI tool is not the same as a correct one.
+
+The pressure to adopt is real. According to Verizon's 2026 Data Breach Investigations Report, exploiting vulnerabilities is now the top way into a breach, at 31% of cases, up from 20%. IBM and the Ponemon Institute report that the mean time to identify and contain a breach rose to 247 days. Defenders are outnumbered by alerts and short on staff, and AI tools promise to triage, summarize and respond faster than any analyst.
+
+Some of that promise is borne out. IBM's research found that organizations using security AI and automation extensively averaged $4.00 million per breach, against $5.93 million for those using none. But that is an association, not a guarantee. Organizations that invest heavily in automation tend to invest heavily in everything else, too. The figure tells us AI can be part of a mature program. It does not tell us that buying a tool makes a program mature.
+
+The risk is that security teams treat AI output the way an inexperienced navigator treats a GPS fix: as truth. Modern networks are noisy, contested environments. Logs are incomplete, attackers deliberately mimic normal behavior and models trained on yesterday's traffic drift as the environment changes. An AI that was right last quarter can be quietly wrong this quarter, and nobody notices until an incident review.
+
+The answer is not to avoid AI. It is to govern it the way we govern any other critical system, in three stages.
+
+Govern first. Before a pilot, decide who owns the tool, what decisions it may make on its own and what data it may touch. Write that down.
+
+Measure a baseline. If you don't know your current detection rate, false-positive rate and time to respond, you cannot tell whether a new tool helped. Most teams skip this step because it is tedious. It is the step that makes everything else meaningful.
+
+Pilot with analysts in the loop. Let the tool recommend, and let people decide, until the evidence shows where it can be trusted to act alone. Then expand only what proves itself, over a realistic horizon of a year rather than a quarter.
+
+The final step is the one most organizations miss: a recurring check. Every quarter, compare the tool's results against the baseline and against an independent source for every critical signal. If an AI triage system says an alert is benign, how often does a second method agree? If the answer is drifting, you want to know before an attacker does.
+
+This is not only a private-sector problem. Federal agencies and contractors are adopting AI in security operations under the same pressures, and policymakers are writing guidance as they go. The simplest, most durable rule they could adopt is the navigator's rule: trust no single signal. Any AI system that informs a security decision should be measured against a baseline and checked against an independent source on a fixed schedule, with the results available to the people accountable for the system.
+
+Vendors will object that their tools are already validated. Perhaps. But validation in a vendor's lab is not validation on your network, this quarter, against the attackers you face. Navigators did not abandon the compass when they got satellites. The best ones kept both and checked one against the other.
+
+Security leaders should do the same. Govern first, measure a baseline, keep analysts in the loop and keep an independent check on every critical signal. And don't take anyone's word for the numbers, including mine. Read the sources.
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+```
+
+## 2. The Washington Diplomat (US-DC #2) - press release
+- **To:** news@washdiplomat.com
+- **Subject:** Washington Analyst William Aaron Turner Tallies What the Russia-Africa Summit Produced: 48 Delegations, 33 Documents, $27 Billion in Trade
+- **Attachment:** /workspace/press/local-news-2026-11/img/russia-africa-summit.jpg
+- **Draft file:** drafts/washington-diplomat.md
+
+```
+# Washington Analyst William Aaron Turner Tallies What the Russia-Africa Summit Produced: 48 Delegations, 33 Documents, $27 Billion in Trade
+
+WASHINGTON, DC, November 3, 2026 - For the capital's diplomatic community, Washington, DC-based analyst William Aaron Turner, Founder & President of Infinitum Corporation, has published "The Partnership That Delivers: What the Russia-Africa Summit Actually Produced," a document-by-document account of the third Russia-Africa Summit, with a companion data brief.
+
+Delegations from 48 of Africa's 54 countries attended the third Russia-Africa Summit in Moscow, 22 of them led by heads of state, up from 17 in 2023. The Kremlin listed 33 intergovernmental, departmental and commercial documents for signing and adopted a 2027-2029 cooperation plan, a political declaration and an agreement on civilian uses of artificial intelligence.
+
+The article sets out the economic record: Russia-Africa trade exceeded $27 billion in 2025, against about $16.8 billion in 2019, with Moscow targeting $50 billion. More than 40 African countries receive Russian grain and fertilizer, with over 18 million tonnes of grain shipped in 2025 and fertilizer deliveries rising from about 1.5 to more than 2.2 million tonnes. Turner notes that the trade total still trails China and the EU. A companion data brief, "Russia-Africa by the Numbers," ties every figure to a cited source, including Russia's 48 embassies on the continent, eight of them opened since 2023.
+
+"I don't care about the rhetoric. I care about what the capital actually does," said William Aaron Turner, Founder & President of Infinitum Corporation. "Read the documents, count the tonnes."
+
+Read the article: https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html
+Data brief: https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 3. The Hill (opinion) (US-DC #3) - op-ed (EXCLUSIVE)
+- **To:** opinion@thehill.com
+- **Subject:** Op-ed submission (exclusive): Your company is already in a cognitive war. Here is how to fight it lawfully.
+- **Attachment:** none
+- **Draft file:** drafts/the-hill.md
+
+```
+# Your company is already in a cognitive war. Here is how to fight it lawfully.
+
+A company's next competitor may never touch its price. It may instead shape what the market notices, remembers and believes, long before a buyer opens a spreadsheet. That contest is already under way in boardrooms, comment sections and AI-generated search answers, and most American companies are fighting it without a doctrine.
+
+I call the discipline Corporate Cognitive Warfare. The name is deliberately uncomfortable. It borrows from the study of irregular warfare because the battlefield has moved in the same direction for militaries and for markets: away from mass and toward perception. Governments have spent two decades writing about this shift. Researchers at RAND, the Naval Postgraduate School and the Foreign Military Studies Office have documented Russian "reflexive control" theory, Chinese "cognitive domain operations" and the "three warfares," and NATO's own work on cognitive warfare. Business leaders rarely read any of it. They should, and they should read it neutrally, as analysis rather than inspiration for dirty tricks.
+
+The reason is defense. The threats companies now face look a lot like the operations those analysts describe. A fake-review attack can sink a product in a weekend. A deepfake of a chief executive can move a share price or trick a finance team into wiring money. A viral falsehood about a recall, a layoff or a data breach can outrun any press release. These are narrative attacks, and they exploit the same human shortcuts that military planners study: attention, repetition, social proof and the desire to act before the facts are in.
+
+Most companies answer them with a communications team and a crisis template. That is not enough. A defensive posture needs four things.
+
+First, sensing. You cannot answer a narrative you never saw forming. Companies should monitor how they are discussed across platforms with the same seriousness they bring to network intrusion detection, and they should share a vocabulary for what they find. The open DISARM framework, built for disinformation analysis, is a good start.
+
+Second, prebunking. Research on inoculation shows that warning people about a manipulation technique before they meet it makes them more resistant to it. A company that has already explained how its products are tested, how its reviews are verified and how its executives communicate is far harder to impersonate.
+
+Third, decision hygiene. Many narrative attacks are provocations designed to make a company overreact. Leaders need pre-agreed response tiers, so that a rumor in one forum does not trigger the same response as a coordinated campaign.
+
+Fourth, practice. Security teams run tabletop exercises for ransomware. Communications, legal and security teams should run them together for a deepfake, a fake-review surge or an impersonation of the company's own support channels.
+
+There is an offensive side, and it is where the line must be drawn hardest. Competing for perception is legitimate when it is honest: guerrilla marketing, ethical persuasion, algorithmic optimization, social influence and targeted advertising all have a place. But each of them already sits inside rules: Federal Trade Commission endorsement guides, state privacy laws such as California's, the European Union's GDPR and Digital Services Act, and every major platform's policies. Fake accounts, bot networks, astroturfing and fabricated reviews are not aggressive marketing. They are the threats this discipline exists to detect and defeat, and no serious company should touch them.
+
+Washington has a role here, and it is not a new bureaucracy. Regulators can make it easier for companies to report impersonation and coordinated fake-review campaigns, and to get platforms to act on those reports quickly. The FTC's rule against fake reviews and testimonials is a useful step; enforcement that reaches the networks selling them would be a bigger one.
+
+The stakes go beyond any one brand. When companies cannot defend their own reputations against manufactured narratives, markets reward whoever manipulates best rather than whoever builds best. A cognitive defense, practiced openly and within the law, is how honest competitors keep the field level.
+
+I have published a free 15,000-word paper setting out the full framework, including twelve illustrative use cases and a defensive playbook. The doctrine matters less than the habit. Every company that has a plan for a cyberattack should now have one for an attack on what people believe about it.
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+```
+
+## 4. Washington Examiner (op-eds) (US-DC #4) - PITCH (cover letter first, EXCLUSIVE)
+- **To:** pcordi@washingtonexaminer.com
+- **Subject:** Op-ed pitch: Eighty nations went to Vladivostok. What that says about "isolating" Russia
+- **Attachment:** none
+- **Draft file:** drafts/washington-examiner.md
+
+```
+Dear Mr. Cordi,
+
+I'd like to propose an op-ed of about 750 words for the Washington Examiner on what the 2026 Eastern Economic Forum in Vladivostok tells U.S. policymakers about the limits of isolating Russia.
+
+The hook: more than 5,000 representatives from 80 countries attended the 11th forum in September, up from 75 countries a year earlier, and organizers expected about 380 agreements worth 6.5 trillion rubles. China-Russia trade reached $228.1 billion in 2025, India-Russia goods trade nearly $60 billion in 2025-26 and ASEAN-Russia trade $17.8 billion. The argument: Washington's sanctions strategy assumes Russia can be cut off from the world economy, but the trade data show Asia filling the gap, and policy should be built on that reality rather than on attendance at Western summits. I'd close with what U.S. businesses and allies should watch, including ruble and yuan settlement and energy flows.
+
+I have published a sourced data review of the forum (https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html). The op-ed would be original and exclusive to the Examiner.
+
+About me: I'm founder and president of Infinitum Corporation, a Washington, DC technology and security consulting firm (1629 K Street NW). Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best regards,
+William Aaron Turner
+Founder & President, Infinitum Corporation
+202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 5. Washington Times (commentary) (US-DC #5) - op-ed (EXCLUSIVE)
+- **To:** commentary@washingtontimes.com
+- **Subject:** Op-ed submission (exclusive): The Russia forecast that missed by seven points, and what risk managers should learn from it
+- **Attachment:** none
+- **Draft file:** drafts/washington-times.md
+
+```
+# The Russia forecast that missed by seven points, and what risk managers should learn from it
+
+In April 2022, the International Monetary Fund projected that Russia's economy would shrink by 8.5% that year. It was a reasonable forecast at the time. Western governments had frozen a large share of Russia's central bank reserves, cut major banks off from international payment systems and announced export controls on a scale never tried against an economy of that size. The consensus was that the damage would be historic.
+
+It wasn't. The IMF's current figures show a contraction of 1.4% in 2022, followed by growth of 4.1% in 2023 and 4.9% in 2024. Whatever one thinks of the war, a miss of that size should trouble anyone whose job is to price country risk, write sanctions policy or advise a board on exposure to Russia and the markets that trade with it.
+
+I have put the record in one place in a free paper, with every figure tied to its source. The point is not to cheer for any government. It is to ask what the original models missed, because the same models are still being used.
+
+Three things stand out.
+
+First, the baseline. Many Western analysts still think of the Russian economy in terms of the 1990s, when, according to World Bank data, real GDP fell by about 44% and prices rose 874% in 1993 alone. The economy that met sanctions in 2022 was not that economy. It had low public debt, which the IMF puts at about 16.6% of GDP for 2025, a large commodity base and two decades of experience with state direction of strategic sectors. Models that treated it as fragile were calibrated to the wrong country.
+
+Second, scale was mistaken for effect. According to the Castellum.AI sanctions tracker, Russia has faced more designations than Iran, Syria and North Korea combined, more than twice as many. Yet the number of designations says little about how much trade actually stops. Trade rerouted toward China, India and other Asian buyers, and payment systems adapted. A sanctions count is an input, not an outcome.
+
+Third, labor markets were ignored. The IMF reports unemployment of about 2.2% in 2025. That is a sign of strain as much as strength, since a tight labor market fuels inflation, but it is not the profile of an economy in collapse.
+
+Fairness requires the other side of the ledger, and my paper gives it a full chapter. Inflation has been persistent. The central bank's key rate reached 14%. Growth has slowed sharply, to around 1.0%. Military spending is a heavy burden, demographics are poor and corruption perceptions remain high. Readers can weigh both cases on the same evidence, and they should.
+
+But the policy lesson holds either way. Sanctions are a tool, and tools should be judged by what they achieve, not by how many of them we use. When a forecast misses by seven percentage points, the responsible response is not to repeat it with more conviction. It is to ask why it missed and to say so publicly.
+
+For businesses, the lesson is more immediate. Compliance teams, insurers and investors make decisions every quarter that depend on assumptions about Russia and the countries that trade with it. Those assumptions should be stress-tested against outcomes, not headlines. The same humility applies to forecasts about any sanctioned economy, from Iran to Venezuela.
+
+Washington spends a great deal of energy designing economic pressure and very little measuring it. A simple discipline would help: every major sanctions package should come with stated objectives and a public review of whether they were met. If the measures work, that review will show it. If they don't, policymakers will have learned something valuable before the next round.
+
+The numbers will not settle every argument about Russia. They should at least settle one: the models we used in 2022 were wrong, and the people who rely on them deserve to know why.
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+```
+
+## 6. Washington DC Magazine (US-DC #7) - press release
+- **To:** editor@washingtondcmagazine.com
+- **Subject:** K Street Security Firm Infinitum Corporation Expands Free Research Library for Washington's Security and Policy Leaders
+- **Attachment:** /workspace/press/local-news-2026-11/img/research-library.jpg
+- **Draft file:** drafts/washington-dc-magazine.md
+
+```
+# K Street Security Firm Infinitum Corporation Expands Free Research Library for Washington's Security and Policy Leaders
+
+WASHINGTON, DC, November 3, 2026 - William Aaron Turner, founder and president of Infinitum Corporation, a Washington, DC technology and security consulting firm on K Street NW, is expanding the company's free public research library of whitepapers and long-form analysis for security leaders, executives and policy readers.
+
+Turner works at the intersection of information technology, cybersecurity and modern security operations. Through Infinitum Corporation he advises organizations on cybersecurity consulting, network architecture and defense, ethical hacking and vulnerability assessment, AI applications for security operations and strategic risk assessment.
+
+The library, free to read, now includes:
+- "Dead Reckoning: AI for Security Operations," with a 90-day plan, a 12-month roadmap and a quarterly check for teams adopting AI.
+- "Trenches and Drones: Network Defense for a War of Attrition," a guide for mid-size organizations with a 30/60/90-day plan and a 30-item self-assessment.
+- "Corporate Cognitive Warfare," a 15,000-word paper on competing for perception lawfully and defending against narrative attacks such as deepfakes and fake-review campaigns. Turner coined the term.
+- Special Edition 01, a sourced reference comparing IMF forecasts for Russia's economy with reported outcomes.
+
+"As warfare and technology continue to converge, success increasingly depends upon the ability to integrate intelligence, cyber capabilities and operational decision-making into a unified framework," said Turner. "Infinitum Corporation was established to bridge traditional security disciplines with the technological realities of the modern battlefield."
+
+Library: https://infinitumwhitepapers.blogspot.com | Company: https://www.theinfinitumcorporation.com
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 7. The DC Line (US-DC #9) - press release
+- **To:** news@thedcline.org
+- **Subject:** Washington Security Firm Offers Free Research Library to DC Organizations
+- **Attachment:** /workspace/press/local-news-2026-11/img/research-library.jpg
+- **Draft file:** drafts/the-dc-line.md
+
+```
+# Washington Security Firm Offers Free Research Library to DC Organizations
+
+WASHINGTON, DC, November 3, 2026 - Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, is expanding a free public research library that DC nonprofits, small businesses and public bodies can use to plan their cybersecurity, led by founder and president William Aaron Turner.
+
+Turner works at the intersection of information technology, cybersecurity and modern security operations. Through Infinitum Corporation he advises organizations on cybersecurity consulting, network architecture and defense, ethical hacking and vulnerability assessment, AI applications for security operations and strategic risk assessment.
+
+The library, free to read, now includes:
+- "Dead Reckoning: AI for Security Operations," with a 90-day plan, a 12-month roadmap and a quarterly check for teams adopting AI.
+- "Trenches and Drones: Network Defense for a War of Attrition," a guide for mid-size organizations with a 30/60/90-day plan and a 30-item self-assessment.
+- "Corporate Cognitive Warfare," a 15,000-word paper on competing for perception lawfully and defending against narrative attacks such as deepfakes and fake-review campaigns. Turner coined the term.
+- Special Edition 01, a sourced reference comparing IMF forecasts for Russia's economy with reported outcomes.
+
+"As warfare and technology continue to converge, success increasingly depends upon the ability to integrate intelligence, cyber capabilities and operational decision-making into a unified framework," said Turner. "Infinitum Corporation was established to bridge traditional security disciplines with the technological realities of the modern battlefield."
+
+Library: https://infinitumwhitepapers.blogspot.com | Company: https://www.theinfinitumcorporation.com
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 8. DC News Now (WDCW/WDVM) (US-DC #10) - expert-source pitch
+- **To:** news@DCNewsNow.com
+- **Subject:** Local source: DC security consultant available on cyberattacks, deepfake scams and drones
+- **Attachment:** /workspace/press/local-news-2026-11/img/research-library.jpg (optional)
+- **Draft file:** drafts/dc-news-now.md
+
+```
+Hello DC News Now (WDCW/WDVM) assignment desk,
+
+If your newsroom is covering cyberattacks, scams, AI or drones affecting the DC region, I'm available as a local source for on-camera or phone comment, usually the same day.
+
+I'm William Aaron Turner, founder and president of Infinitum Corporation, a technology and security consulting firm at 1629 K Street NW in Washington. Topics I can speak to plainly for viewers:
+- Ransomware, phishing and data breaches at local businesses, schools and agencies, and what victims should do in the first 24 hours.
+- Deepfake and impersonation scams, including fake "CEO" calls and fake support numbers.
+- AI tools in cybersecurity: what they do well and where they fail.
+- Drone incidents near airports, bases and stadiums, and who is allowed to respond.
+
+Background: I publish free security guides for small and mid-size organizations, including "Dead Reckoning: AI for Security Operations" and "Trenches and Drones: Network Defense for a War of Attrition" (https://infinitumwhitepapers.blogspot.com).
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Reach me at 202-729-9509 or info@theinfinitumcorporation.com, Mon-Fri 9 AM-9 PM.
+
+William Aaron Turner
+Founder & President, Infinitum Corporation
+1629 K Street NW, Suite 300, Washington, DC 20006
+```
+
+## 9. WUSA9 (CBS) (US-DC #11) - expert-source pitch
+- **To:** newswatch@wusa9.com
+- **Subject:** Local source: DC security consultant available on cyberattacks, deepfake scams and drones
+- **Attachment:** /workspace/press/local-news-2026-11/img/research-library.jpg (optional)
+- **Draft file:** drafts/wusa9.md
+
+```
+Hello WUSA9 (CBS) assignment desk,
+
+If your newsroom is covering cyberattacks, scams, AI or drones affecting the DC region, I'm available as a local source for on-camera or phone comment, usually the same day.
+
+I'm William Aaron Turner, founder and president of Infinitum Corporation, a technology and security consulting firm at 1629 K Street NW in Washington. Topics I can speak to plainly for viewers:
+- Ransomware, phishing and data breaches at local businesses, schools and agencies, and what victims should do in the first 24 hours.
+- Deepfake and impersonation scams, including fake "CEO" calls and fake support numbers.
+- AI tools in cybersecurity: what they do well and where they fail.
+- Drone incidents near airports, bases and stadiums, and who is allowed to respond.
+
+Background: I publish free security guides for small and mid-size organizations, including "Dead Reckoning: AI for Security Operations" and "Trenches and Drones: Network Defense for a War of Attrition" (https://infinitumwhitepapers.blogspot.com).
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Reach me at 202-729-9509 or info@theinfinitumcorporation.com, Mon-Fri 9 AM-9 PM.
+
+William Aaron Turner
+Founder & President, Infinitum Corporation
+1629 K Street NW, Suite 300, Washington, DC 20006
+```
+
+## 10. FOX 5 DC (US-DC #12) - expert-source pitch
+- **To:** fox5dc@fox.com
+- **Subject:** Local source: DC security consultant available on cyberattacks, deepfake scams and drones
+- **Attachment:** /workspace/press/local-news-2026-11/img/research-library.jpg (optional)
+- **Draft file:** drafts/fox5-dc.md
+
+```
+Hello FOX 5 DC assignment desk,
+
+If your newsroom is covering cyberattacks, scams, AI or drones affecting the DC region, I'm available as a local source for on-camera or phone comment, usually the same day.
+
+I'm William Aaron Turner, founder and president of Infinitum Corporation, a technology and security consulting firm at 1629 K Street NW in Washington. Topics I can speak to plainly for viewers:
+- Ransomware, phishing and data breaches at local businesses, schools and agencies, and what victims should do in the first 24 hours.
+- Deepfake and impersonation scams, including fake "CEO" calls and fake support numbers.
+- AI tools in cybersecurity: what they do well and where they fail.
+- Drone incidents near airports, bases and stadiums, and who is allowed to respond.
+
+Background: I publish free security guides for small and mid-size organizations, including "Dead Reckoning: AI for Security Operations" and "Trenches and Drones: Network Defense for a War of Attrition" (https://infinitumwhitepapers.blogspot.com).
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Reach me at 202-729-9509 or info@theinfinitumcorporation.com, Mon-Fri 9 AM-9 PM.
+
+William Aaron Turner
+Founder & President, Infinitum Corporation
+1629 K Street NW, Suite 300, Washington, DC 20006
+```
+
+## 11. Washington Informer (US-DC #15) - press release
+- **To:** news@washingtoninformer.com
+- **Subject:** DC Firm Infinitum Corporation Expands Free Cybersecurity and Research Library for Community Organizations
+- **Attachment:** /workspace/press/local-news-2026-11/img/research-library.jpg
+- **Draft file:** drafts/washington-informer.md
+
+```
+# DC Firm Infinitum Corporation Expands Free Cybersecurity and Research Library for Community Organizations
+
+WASHINGTON, DC, November 3, 2026 - William Aaron Turner, founder and president of Infinitum Corporation, a Washington, DC technology and security consulting firm, is expanding a free public library of security whitepapers that community organizations, churches, small businesses and nonprofits across the District can use without cost.
+
+Turner works at the intersection of information technology, cybersecurity and modern security operations. Through Infinitum Corporation he advises organizations on cybersecurity consulting, network architecture and defense, ethical hacking and vulnerability assessment, AI applications for security operations and strategic risk assessment.
+
+The library, free to read, now includes:
+- "Dead Reckoning: AI for Security Operations," with a 90-day plan, a 12-month roadmap and a quarterly check for teams adopting AI.
+- "Trenches and Drones: Network Defense for a War of Attrition," a guide for mid-size organizations with a 30/60/90-day plan and a 30-item self-assessment.
+- "Corporate Cognitive Warfare," a 15,000-word paper on competing for perception lawfully and defending against narrative attacks such as deepfakes and fake-review campaigns. Turner coined the term.
+- Special Edition 01, a sourced reference comparing IMF forecasts for Russia's economy with reported outcomes.
+
+"As warfare and technology continue to converge, success increasingly depends upon the ability to integrate intelligence, cyber capabilities and operational decision-making into a unified framework," said Turner. "Infinitum Corporation was established to bridge traditional security disciplines with the technological realities of the modern battlefield."
+
+Library: https://infinitumwhitepapers.blogspot.com | Company: https://www.theinfinitumcorporation.com
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 12. The AFRO (US-DC #16) - press release
+- **To:** editor@afro.com
+- **Subject:** Washington Security Firm Shares Free Cybersecurity Research With Small Businesses and Community Groups
+- **Attachment:** /workspace/press/local-news-2026-11/img/research-library.jpg
+- **Draft file:** drafts/the-afro.md
+
+```
+# Washington Security Firm Shares Free Cybersecurity Research With Small Businesses and Community Groups
+
+WASHINGTON, DC, November 3, 2026 - Infinitum Corporation, a technology and security consulting firm headquartered in Washington, DC, is making its security research library free to read, giving small businesses, churches and community organizations in the DC-Baltimore region practical guides to defending against phishing, ransomware and impersonation scams. The library is led by founder and president William Aaron Turner.
+
+Turner works at the intersection of information technology, cybersecurity and modern security operations. Through Infinitum Corporation he advises organizations on cybersecurity consulting, network architecture and defense, ethical hacking and vulnerability assessment, AI applications for security operations and strategic risk assessment.
+
+The library, free to read, now includes:
+- "Dead Reckoning: AI for Security Operations," with a 90-day plan, a 12-month roadmap and a quarterly check for teams adopting AI.
+- "Trenches and Drones: Network Defense for a War of Attrition," a guide for mid-size organizations with a 30/60/90-day plan and a 30-item self-assessment.
+- "Corporate Cognitive Warfare," a 15,000-word paper on competing for perception lawfully and defending against narrative attacks such as deepfakes and fake-review campaigns. Turner coined the term.
+- Special Edition 01, a sourced reference comparing IMF forecasts for Russia's economy with reported outcomes.
+
+"As warfare and technology continue to converge, success increasingly depends upon the ability to integrate intelligence, cyber capabilities and operational decision-making into a unified framework," said Turner. "Infinitum Corporation was established to bridge traditional security disciplines with the technological realities of the modern battlefield."
+
+Library: https://infinitumwhitepapers.blogspot.com | Company: https://www.theinfinitumcorporation.com
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 13. DC Spotlight (US-DC #17) - press release
+- **To:** contact@dcspotlight.com
+- **Subject:** Trenches and Drones: William Aaron Turner Publishes Free Network-Defense Guide for Mid-Size Organizations
+- **Attachment:** /workspace/press/local-news-2026-11/img/trenches-and-drones.jpg
+- **Draft file:** drafts/dc-spotlight.md
+
+```
+# Trenches and Drones: William Aaron Turner Publishes Free Network-Defense Guide for Mid-Size Organizations
+
+WASHINGTON, DC, November 3, 2026 - Washington, DC-based Infinitum Corporation has released "Trenches and Drones: Network Defense for a War of Attrition," a free guide by founder William Aaron Turner for the mid-size organizations across the DC region that defend networks against persistent, automated, low-cost attacks.
+
+The paper starts from a plain observation: defending a network is not one big battle but a long grind of small, cheap and constant pressure. Scans that never stop, phishing waves that arrive in bursts, short floods of junk traffic and edge devices left waiting weeks for a patch all wear a defender down. Turner argues that the side that can absorb losses, repair, adapt and keep operating is the side that outlasts the other.
+
+It walks through five fronts and pairs each with its equivalent on a corporate network: depth, through segmentation and identity checks at every line, keeping the implicit trust zone as small as possible as NIST SP 800-207 recommends; cheap mass, through automation that keeps the cost of defense below the cost of attack; electronic warfare, through resilience against spoofed and degraded signals; sensors, through logging and detection; and supply lines, through software and vendor risk.
+
+The paper closes with seven recommended moves, a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and a scorecard. Turner is explicit about the limits of the comparison: the paper draws general lessons from public sources such as CSIS, takes no side and leaves out casualty and loss figures. "Nobody is shooting at your servers," the paper says.
+
+"Attrition is the right word for what security teams face. The question is not whether you will be hit, it is whether you can absorb it, repair and keep operating. Every lesson in this paper comes back to a decision a team can make on Monday," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Read the whitepaper (free): https://infinitumwhitepapers.blogspot.com/2026/11/trenches-and-drones-network-defense-for.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 14. Washington City Paper (US-DC #18) - PITCH (pitch, not PR)
+- **To:** editor@washingtoncitypaper.com
+- **Subject:** Story idea: A K Street security firm that gives its research away
+- **Attachment:** none
+- **Draft file:** drafts/washington-city-paper.md
+
+```
+Hi City Paper editors,
+
+A story idea for your business or tech coverage: Infinitum Corporation, a small technology and security consulting firm on K Street NW, has been publishing its research for free, including whitepapers on AI in security operations ("Dead Reckoning"), network defense for mid-size organizations ("Trenches and Drones") and a 15,000-word paper on what its founder calls Corporate Cognitive Warfare, the lawful competition for public perception and defense against narrative attacks such as deepfakes and fake reviews.
+
+The local angle: DC's small businesses, nonprofits and ANC-level organizations face the same phishing, ransomware and impersonation attacks as big companies, without the budget. The free guides are written for exactly those organizations, with 30/60/90-day plans and self-assessments. I'm happy to talk about what DC organizations get wrong most often and what they can fix in a week.
+
+Library: https://infinitumwhitepapers.blogspot.com. I'm available Mon-Fri, 9 AM-9 PM.
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+William Aaron Turner
+Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006
+202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 15. Hill Rag / Capital Community News (US-DC #19) - press release
+- **To:** editorial@hillrag.com
+- **Subject:** Free Cybersecurity Guides From a DC Firm Aim at Neighborhood Businesses and Nonprofits
+- **Attachment:** /workspace/press/local-news-2026-11/img/research-library.jpg
+- **Draft file:** drafts/hill-rag.md
+
+```
+# Free Cybersecurity Guides From a DC Firm Aim at Neighborhood Businesses and Nonprofits
+
+WASHINGTON, DC, November 3, 2026 - Capitol Hill's small businesses, nonprofits and community associations can now use a free library of security guides from Infinitum Corporation, a Washington, DC technology and security consulting firm led by founder and president William Aaron Turner.
+
+Turner works at the intersection of information technology, cybersecurity and modern security operations. Through Infinitum Corporation he advises organizations on cybersecurity consulting, network architecture and defense, ethical hacking and vulnerability assessment, AI applications for security operations and strategic risk assessment.
+
+The library, free to read, now includes:
+- "Dead Reckoning: AI for Security Operations," with a 90-day plan, a 12-month roadmap and a quarterly check for teams adopting AI.
+- "Trenches and Drones: Network Defense for a War of Attrition," a guide for mid-size organizations with a 30/60/90-day plan and a 30-item self-assessment.
+- "Corporate Cognitive Warfare," a 15,000-word paper on competing for perception lawfully and defending against narrative attacks such as deepfakes and fake-review campaigns. Turner coined the term.
+- Special Edition 01, a sourced reference comparing IMF forecasts for Russia's economy with reported outcomes.
+
+"As warfare and technology continue to converge, success increasingly depends upon the ability to integrate intelligence, cyber capabilities and operational decision-making into a unified framework," said Turner. "Infinitum Corporation was established to bridge traditional security disciplines with the technological realities of the modern battlefield."
+
+Library: https://infinitumwhitepapers.blogspot.com | Company: https://www.theinfinitumcorporation.com
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 16. Maryland Matters (commentary) (US-DC #20) - op-ed (EXCLUSIVE)
+- **To:** info@marylandmatters.org (subject must be "commentary")
+- **Subject:** commentary: Maryland's cyber defenders are fighting a war of attrition. They should plan like it.
+- **Attachment:** none
+- **Draft file:** drafts/maryland-matters.md
+
+```
+# Maryland's cyber defenders are fighting a war of attrition. They should plan like it.
+
+Maryland likes to call itself a cybersecurity capital, and with reason. Fort Meade is home to the National Security Agency and U.S. Cyber Command, and the state's universities and contractors train and employ thousands of defenders. But the organizations most Marylanders depend on every day, county governments, school systems, hospitals, utilities and the mid-size businesses that employ most of the workforce, do not have the NSA's budget. They face the same attackers anyway.
+
+What those organizations face is not one big battle. It is a long grind of small, cheap and constant pressure: scanning that never stops, phishing that arrives in waves, short floods of junk traffic and internet-facing devices left waiting weeks for a patch. Each incident is minor. Together they wear defenders down. The side that can absorb losses, repair, adapt and keep operating is the side that lasts.
+
+Military analysts have a word for that kind of contest: attrition. Public analysis of modern conflict, from groups such as the Center for Strategic and International Studies, describes a battlefield that fuses trench-style grind with cheap drones, electronic interference and sensors everywhere. Nobody is shooting at a county's servers, and the comparison has limits. But the lessons translate surprisingly well to network defense, and they point to five fronts Maryland's public and private organizations should plan around.
+
+Depth. Attackers will get through the first line. The question is what stops them at the second and third. That means segmenting networks and checking identity at every step, keeping the zone of implicit trust as small as possible, as the federal government's own zero-trust guidance, NIST SP 800-207, recommends.
+
+Cheap mass. Attacks are cheap and automated. Defense has to be, too. Routine tasks such as patching, account reviews and alert triage should be automated wherever possible, so that the cost of defending stays below the cost of attacking.
+
+Resilience. Signals can be spoofed and degraded. Systems should be designed to keep working when a single sensor, vendor or connection fails, and staff should know how to operate in a degraded mode.
+
+Sensors. You cannot defend what you cannot see. Logging and detection are not luxuries for big companies; they are what makes every other investment measurable.
+
+Supply lines. Many of the worst incidents of recent years arrived through a trusted vendor or a software update. Every organization should know which suppliers can touch its systems and what happens if one is compromised.
+
+None of this is exotic, and much of it is cheap. What is missing is the mindset. Too many organizations still plan for a single catastrophic breach rather than for sustained pressure, and budget accordingly: a big purchase after an incident, then neglect.
+
+The state can help without new mandates. Maryland already funds cybersecurity support for local governments and has a deep talent pool. A practical next step would be a shared, plain-language baseline for counties and school districts built around those five fronts, with a 30/60/90-day plan and a simple self-assessment that boards and county councils can actually read. Small and mid-size businesses could use the same tool through the state's business-assistance programs.
+
+Equally important is honesty about limits. No organization can stop every intrusion. The realistic goal is to absorb hits, recover quickly and keep serving residents and customers. That is a goal elected officials can fund and measure, and one that residents can understand.
+
+Attrition is the right word for what Maryland's defenders face. The question is not whether they will be hit. It is whether they can absorb it, repair and keep operating, and every lesson comes back to decisions an organization can make on Monday morning.
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+```
+
+## 17. Virginia Mercury (commentary) (US-DC #21) - op-ed (EXCLUSIVE, original, not offered elsewhere)
+- **To:** swillis@virginiamercury.com
+- **Subject:** Op-ed submission (exclusive): Virginia needs a plan for the drones over its bases and its power grid
+- **Attachment:** /workspace/press/local-news-2026-11/img/counter-drone-handbook.jpg (suggested imagery)
+- **Draft file:** drafts/virginia-mercury.md
+
+```
+# Virginia needs a plan for the drones over its bases and its power grid
+
+In December 2023, unidentified drones repeatedly flew over Joint Base Langley-Eustis in Hampton, home to some of the Air Force's most advanced fighter jets. Public reporting described incursions over more than two weeks. Military officials acknowledged them, and nobody was able to say publicly who was flying them. Virginia, which hosts the world's largest naval base in Norfolk, the Pentagon in Arlington and one of the densest concentrations of data centers on Earth in Northern Virginia, should treat that episode as a warning rather than a curiosity.
+
+Small drones have changed warfare faster than any technology in a generation. The war in Ukraine has shown how cheap commercial and hobby aircraft can be adapted for reconnaissance and attack, and how quickly each new defense is answered by a new adaptation, including drones controlled by fiber-optic cable that ignore radio jamming altogether. Those lessons do not stay on foreign battlefields. The same off-the-shelf technology is for sale online, and the same weaknesses exist around American bases, substations, prisons, stadiums and ports.
+
+I recently published a field handbook on counter-drone defense written for soldiers. Its central lesson applies just as well to a state government: no single system stops drones. Layers do.
+
+A layered defense starts with detection, and detection is where Virginia's sites are weakest. Different tools see different things. Handheld detectors can pick up a drone's radio link at short range. Radar can see farther but struggles with small, slow targets in cluttered areas. Passive acoustic sensors can hear what radio detectors miss, including drones that emit no signal at all. No one tool is enough. A site that relies on one is a site that will be surprised.
+
+The next layers are where the law gets in the way. Electronic countermeasures, such as jamming or taking control of a drone's link, are powerful but blunt. They can interfere with legitimate communications, and under current federal law the authority to use them sits with a small number of federal agencies. Physical interception carries obvious risks in populated areas. State and local police, who are often first on the scene, generally have neither the legal authority nor the equipment to do much beyond finding the operator.
+
+The cost curve makes the problem worse. A capable quadcopter costs a few hundred dollars. Many of the systems built to stop one cost far more, and some interceptors cost more per shot than the drone they destroy. A defense that spends thousands to answer a few hundred dollars of hardware will lose a long contest even if it wins every engagement. That is why the cheapest layer, detection and a clear response plan, matters so much: it lets a site decide calmly which incursions are harmless, which need a call to the operator and which need federal help, instead of treating every blinking light as an emergency.
+
+That gap is not Virginia's alone to close, but Virginia has more reason than most states to push for closing it. Three steps would help.
+
+First, inventory and detect. The state should work with the military, utilities and data-center operators to identify the sites where an incursion would matter most and to fund shared, passive detection around them. Detection raises no legal problems and is the foundation for every other response.
+
+Second, coordinate. When a drone appears over a substation in Loudoun or a shipyard in Newport News, the people who see it need to know whom to call and what happens next. Virginia can build that playbook now, joining state police, local agencies, the Virginia National Guard and federal partners, rather than inventing it during an incident.
+
+Third, advocate. Virginia's congressional delegation sits on the committees that shape federal counter-drone authority. It should press for carefully limited, well-supervised authority for trained state and local agencies to protect critical infrastructure, with clear rules to protect lawful drone users and civil liberties. Hobbyists, farmers and photographers should not bear the cost of a policy written in a panic after an attack.
+
+There are real trade-offs. Jamming can harm legitimate users, surveillance tools can be misused and an overreaction could choke a growing drone industry that Virginia wants to attract. That is exactly why the planning should happen now, deliberately and in public, rather than after a drone does something worse than fly in circles over a runway.
+
+Langley was a free lesson. The next one may not be.
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+```
+
+## 18. FFXnow (US-DC #22) - press release (PRs only)
+- **To:** news@ffxnow.com
+- **Subject:** DC Analyst Publishes Sourced Profile of Tysons-Based In-Q-Tel, the CIA-Founded Venture Fund
+- **Attachment:** /workspace/press/local-news-2026-11/img/in-q-tel.jpg
+- **Draft file:** drafts/ffxnow.md
+
+```
+# DC Analyst Publishes Sourced Profile of Tysons-Based In-Q-Tel, the CIA-Founded Venture Fund
+
+WASHINGTON, DC, November 3, 2026 - William Aaron Turner, founder and president of Washington, DC-based Infinitum Corporation, has published "In-Q-Tel Explained," a sourced profile of the Tysons-based venture capital firm, covering its structure, public filings, portfolio and the defense-technology companies it has backed.
+
+The article profiles In-Q-Tel (IQT), the not-for-profit venture capital firm the CIA established in 1999, which is headquartered in the Tysons area of Fairfax County. It cites public filings showing fiscal-2025 revenue of about $132.1 million, most of it from government grants and contributions, and more than 800 investments since 1999.
+
+It describes how the In-Q-Tel Interface Center translates intelligence-community requirements into commercial problem sets for startups, typically through technology-development agreements of roughly $500,000 to $3 million. Holdings lean toward enterprise software, AI and data analytics, followed by cybersecurity, semiconductors, space, energy, biotech and robotics, and the article recounts In-Q-Tel's early investment in Palantir. It also reviews public reporting on Capella Space, ICEYE, Palantir's work in Ukraine and In-Q-Tel's documented investment in Anduril.
+
+The article states that there is no open-source evidence of In-Q-Tel subsidiaries operating inside Ukraine, marks one Russian Ministry of Defense allegation as not independently verified and includes a full reference list.
+
+"My argument is about funding and technology, not boots on the ground. Everything in the article is sourced so readers can check it," said William Aaron Turner, Founder & President, Infinitum Corporation.
+
+Read the article: https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 19. Potomac Local News (US-DC #24) - press release (free editorial; NOT sponsored)
+- **To:** news@potomaclocal.com
+- **Subject:** Trenches and Drones: William Aaron Turner Publishes Free Network-Defense Guide for Mid-Size Organizations
+- **Attachment:** /workspace/press/local-news-2026-11/img/trenches-and-drones.jpg
+- **Draft file:** drafts/potomac-local.md
+
+```
+# Trenches and Drones: William Aaron Turner Publishes Free Network-Defense Guide for Mid-Size Organizations
+
+WASHINGTON, DC, November 3, 2026 - As Prince William County's data-center and technology base grows, Washington, DC-based Infinitum Corporation has released "Trenches and Drones: Network Defense for a War of Attrition," a free guide by founder William Aaron Turner for the mid-size organizations that defend networks against constant, automated, low-cost attacks.
+
+The paper starts from a plain observation: defending a network is not one big battle but a long grind of small, cheap and constant pressure. Scans that never stop, phishing waves that arrive in bursts, short floods of junk traffic and edge devices left waiting weeks for a patch all wear a defender down. Turner argues that the side that can absorb losses, repair, adapt and keep operating is the side that outlasts the other.
+
+It walks through five fronts and pairs each with its equivalent on a corporate network: depth, through segmentation and identity checks at every line, keeping the implicit trust zone as small as possible as NIST SP 800-207 recommends; cheap mass, through automation that keeps the cost of defense below the cost of attack; electronic warfare, through resilience against spoofed and degraded signals; sensors, through logging and detection; and supply lines, through software and vendor risk.
+
+The paper closes with seven recommended moves, a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and a scorecard. Turner is explicit about the limits of the comparison: the paper draws general lessons from public sources such as CSIS, takes no side and leaves out casualty and loss figures. "Nobody is shooting at your servers," the paper says.
+
+"Attrition is the right word for what security teams face. The question is not whether you will be hit, it is whether you can absorb it, repair and keep operating. Every lesson in this paper comes back to a decision a team can make on Monday," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Read the whitepaper (free): https://infinitumwhitepapers.blogspot.com/2026/11/trenches-and-drones-network-defense-for.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 20. InsideNoVa (US-DC #25) - press release
+- **To:** info@insidenova.com
+- **Subject:** Trenches and Drones: William Aaron Turner Publishes Free Network-Defense Guide for Mid-Size Organizations
+- **Attachment:** /workspace/press/local-news-2026-11/img/trenches-and-drones.jpg
+- **Draft file:** drafts/insidenova.md
+
+```
+# Trenches and Drones: William Aaron Turner Publishes Free Network-Defense Guide for Mid-Size Organizations
+
+WASHINGTON, DC, November 3, 2026 - Washington, DC-based Infinitum Corporation has released "Trenches and Drones: Network Defense for a War of Attrition," a free guide by founder William Aaron Turner aimed at the mid-size businesses, local governments and nonprofits of Northern Virginia that face persistent, automated attacks.
+
+The paper starts from a plain observation: defending a network is not one big battle but a long grind of small, cheap and constant pressure. Scans that never stop, phishing waves that arrive in bursts, short floods of junk traffic and edge devices left waiting weeks for a patch all wear a defender down. Turner argues that the side that can absorb losses, repair, adapt and keep operating is the side that outlasts the other.
+
+It walks through five fronts and pairs each with its equivalent on a corporate network: depth, through segmentation and identity checks at every line, keeping the implicit trust zone as small as possible as NIST SP 800-207 recommends; cheap mass, through automation that keeps the cost of defense below the cost of attack; electronic warfare, through resilience against spoofed and degraded signals; sensors, through logging and detection; and supply lines, through software and vendor risk.
+
+The paper closes with seven recommended moves, a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and a scorecard. Turner is explicit about the limits of the comparison: the paper draws general lessons from public sources such as CSIS, takes no side and leaves out casualty and loss figures. "Nobody is shooting at your servers," the paper says.
+
+"Attrition is the right word for what security teams face. The question is not whether you will be hit, it is whether you can absorb it, repair and keep operating. Every lesson in this paper comes back to a decision a team can make on Monday," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Read the whitepaper (free): https://infinitumwhitepapers.blogspot.com/2026/11/trenches-and-drones-network-defense-for.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 21. Loudoun Now (US-DC #26) - press release
+- **To:** info@loudounnow.org
+- **Subject:** Trenches and Drones: William Aaron Turner Publishes Free Network-Defense Guide for Mid-Size Organizations
+- **Attachment:** /workspace/press/local-news-2026-11/img/trenches-and-drones.jpg
+- **Draft file:** drafts/loudoun-now.md
+
+```
+# Trenches and Drones: William Aaron Turner Publishes Free Network-Defense Guide for Mid-Size Organizations
+
+WASHINGTON, DC, November 3, 2026 - For the businesses and public bodies operating around Loudoun County's Data Center Alley, Washington, DC-based Infinitum Corporation has released "Trenches and Drones: Network Defense for a War of Attrition," a free guide by founder William Aaron Turner on defending networks against constant, automated, low-cost pressure.
+
+The paper starts from a plain observation: defending a network is not one big battle but a long grind of small, cheap and constant pressure. Scans that never stop, phishing waves that arrive in bursts, short floods of junk traffic and edge devices left waiting weeks for a patch all wear a defender down. Turner argues that the side that can absorb losses, repair, adapt and keep operating is the side that outlasts the other.
+
+It walks through five fronts and pairs each with its equivalent on a corporate network: depth, through segmentation and identity checks at every line, keeping the implicit trust zone as small as possible as NIST SP 800-207 recommends; cheap mass, through automation that keeps the cost of defense below the cost of attack; electronic warfare, through resilience against spoofed and degraded signals; sensors, through logging and detection; and supply lines, through software and vendor risk.
+
+The paper closes with seven recommended moves, a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and a scorecard. Turner is explicit about the limits of the comparison: the paper draws general lessons from public sources such as CSIS, takes no side and leaves out casualty and loss figures. "Nobody is shooting at your servers," the paper says.
+
+"Attrition is the right word for what security teams face. The question is not whether you will be hit, it is whether you can absorb it, repair and keep operating. Every lesson in this paper comes back to a decision a team can make on Monday," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Read the whitepaper (free): https://infinitumwhitepapers.blogspot.com/2026/11/trenches-and-drones-network-defense-for.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 22. Baltimore Fishbowl (US-DC #29) - press release
+- **To:** editor@baltimorefishbowl.com
+- **Subject:** Free AI Security Plan From a DC Firm Targets Mid-Size Organizations Across the Region
+- **Attachment:** /workspace/press/local-news-2026-11/img/dead-reckoning.jpg
+- **Draft file:** drafts/baltimore-fishbowl.md
+
+```
+# Free AI Security Plan From a DC Firm Targets Mid-Size Organizations Across the Region
+
+WASHINGTON, DC, November 3, 2026 - Infinitum Corporation, a Washington, DC technology and security consulting firm, has published "Dead Reckoning: AI for Security Operations," a free whitepaper by founder William Aaron Turner for the Baltimore-Washington region's hospitals, schools and mid-size businesses adopting AI security tools.
+
+The paper borrows its method from navigation. When satellite signals fail, navigators fix their position from what they can verify: last known position, heading, speed, time and a second source. Turner argues that security operations centers adopting artificial intelligence need the same discipline, because a confident AI output is not the same as a correct one.
+
+It sets out three stages. A 90-day plan covers governance, a measured baseline and a pilot with analysts kept in the loop. A 12-month roadmap extends the tools that prove themselves. A quarterly "dead reckoning" check then compares results against the baseline and against an independent source for every critical signal.
+
+The case rests on public data. Citing Verizon's 2026 Data Breach Investigations Report, the paper notes that exploiting vulnerabilities is now the top way into a breach, at 31 percent, up from 20 percent. IBM and the Ponemon Institute report that the mean time to identify and contain a breach rose to 247 days, and that organizations using security AI and automation extensively averaged USD 4.00 million per breach, against USD 5.93 million for those using none. Turner stresses that this is an association, not a guarantee.
+
+"Govern first. Measure a baseline. Pilot with analysts in the loop. Keep an independent check on every critical signal. Don't take my word for it. Read the sources," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Read the whitepaper (free): https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 23. FOX45 Baltimore (US-DC #31) - expert-source pitch
+- **To:** news@foxbaltimore.com
+- **Subject:** Source available: DC-region security consultant on cyberattacks, deepfake scams and drones
+- **Attachment:** /workspace/press/local-news-2026-11/img/research-library.jpg (optional)
+- **Draft file:** drafts/fox45-baltimore.md
+
+```
+Hello FOX45 assignment desk,
+
+If your newsroom is covering cyberattacks, scams, AI or drones affecting the Baltimore-Washington region, I'm available as a local source for on-camera or phone comment, usually the same day.
+
+I'm William Aaron Turner, founder and president of Infinitum Corporation, a technology and security consulting firm at 1629 K Street NW in Washington. Topics I can speak to plainly for viewers:
+- Ransomware, phishing and data breaches at local businesses, schools and agencies, and what victims should do in the first 24 hours.
+- Deepfake and impersonation scams, including fake "CEO" calls and fake support numbers.
+- AI tools in cybersecurity: what they do well and where they fail.
+- Drone incidents near airports, bases and stadiums, and who is allowed to respond.
+
+Background: I publish free security guides for small and mid-size organizations, including "Dead Reckoning: AI for Security Operations" and "Trenches and Drones: Network Defense for a War of Attrition" (https://infinitumwhitepapers.blogspot.com).
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Reach me at 202-729-9509 or info@theinfinitumcorporation.com, Mon-Fri 9 AM-9 PM.
+
+William Aaron Turner
+Founder & President, Infinitum Corporation
+1629 K Street NW, Suite 300, Washington, DC 20006
+```
+
+## 24. The Center Square (opinion) (US-NAT #33) - PITCH (EXCLUSIVE)
+- **To:** info_tcs@thecentersquare.com (no op-ed address published; general inbox routes to editors)
+- **Subject:** Op-ed pitch: What taxpayers got for the sanctions on Russia
+- **Attachment:** none
+- **Draft file:** drafts/center-square.md
+
+```
+Dear Editors,
+
+I'd like to offer The Center Square an original op-ed of about 700 words, written from the taxpayer's perspective, on what Western governments have spent on the war in Ukraine and what the sanctions on Russia have achieved by their own stated measures.
+
+The piece would set official figures side by side: the European Commission's upward revision of its 2026 growth forecast for Russia from 1.1% to 1.3%, the Russian economy ministry's outlook of 0.4% for 2026, EU sanctions on 632 vessels by May 2026, the shift of Russian trade toward China and India, and the EU's own assessment that its macroeconomic imbalances have widened. The ask is simple: every major sanctions package and aid tranche should come with stated objectives and a public review of whether they were met, so taxpayers can judge the return.
+
+Background research: https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html. The op-ed would be exclusive to The Center Square. Could you point me to the right editor, or would you like me to send the full draft?
+
+I'm founder and president of Infinitum Corporation, a Washington, DC technology and security consulting firm. Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best regards,
+William Aaron Turner
+202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 25. Florida National News (opinion) (US-NAT #34) - PITCH (exclusive op-ed <=750 on acceptance)
+- **To:** opinion@FloridaNationalNews.com
+- **Subject:** Op-ed proposal (exclusive): Russia-Africa trade by the numbers
+- **Attachment:** none
+- **Draft file:** drafts/florida-national-news.md
+
+```
+Dear Opinion Editor,
+
+I'd like to propose an exclusive op-ed of up to 750 words for Florida National News on a trade story most Americans have missed: Russia's growing economic ties with Africa.
+
+The numbers: Russia-Africa trade exceeded $27 billion in 2025, against about $18 billion in 2022. Russia shipped more than 18 million tonnes of grain to Africa in 2025, and fertilizer deliveries rose from about 1.5 to more than 2.2 million tonnes. All four reactors at Egypt's El Dabaa nuclear plant are under construction with Rosatom, and Russia now has military-technical cooperation agreements with 45 African countries. The 2019 target of $40 billion in trade has not been reached, and the piece says so. The argument: U.S. policy toward Africa is competing with a partner that delivers grain, fertilizer and power plants, and American exporters, including Florida's agricultural and port businesses, should take note.
+
+The sourced data brief is here: https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html. If you're interested, I'll send the finished piece within a week.
+
+I'm founder and president of Infinitum Corporation, a Washington, DC technology and security consulting firm. Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best regards,
+William Aaron Turner
+202-729-9509 | info@theinfinitumcorporation.com
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+```
+
+## 26. Times of San Diego (US-NAT #36) - press release
+- **To:** news@timesofsandiego.com
+- **Subject:** Counter-Drone Handbook: Washington Analyst William Aaron Turner Publishes a Field Guide to Layered UAS Defense
+- **Attachment:** /workspace/press/local-news-2026-11/img/counter-drone-handbook.jpg
+- **Draft file:** drafts/times-of-san-diego.md
+
+```
+# Counter-Drone Handbook: Washington Analyst William Aaron Turner Publishes a Field Guide to Layered UAS Defense
+
+WASHINGTON, DC, November 3, 2026 - With drone defense a growing concern for San Diego's Navy installations and its drone and defense-technology industry, William Aaron Turner, Founder & President of Washington, DC-based Infinitum Corporation, has published the "Counter-Drone Handbook: A Modern Warfare Soldier's Guide to UAS Defense."
+
+The field manual (C-UAS-FM-2026-08) sets out the "5 D's" framework, layered defense doctrine and the operator mindset, then walks through detection in three tiers: handheld and pocket detectors, vehicle-mounted and mid-range radar, and fully passive acoustic detection. It covers electronic warfare, including handheld jammers, spoofing and the limits of EW; kinetic interception, from small arms to directed energy; and the threat profile of fiber-optic drones that ignore jamming.
+
+"No single system stops drones. Layers do," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Read the handbook: https://www.academia.edu/179950632/Counter_Drone_Handbook_Modern_Warfare_Soldiers_Guide_to_UAS_Defense
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, 1629 K Street NW, Suite 300, Washington, DC 20006. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM.
+```
+
+## 27. COURIER Newsroom (US-NAT #37) - PITCH (EXCLUSIVE)
+- **To:** oped@couriernewsroom.com
+- **Subject:** Op-ed pitch: The disinformation that works doesn't look fake
+- **Attachment:** none
+- **Draft file:** drafts/courier-newsroom.md
+
+```
+Dear COURIER Opinion Team,
+
+I'd like to propose an op-ed of 700-900 words on a shift that matters for democracy heading into 2028: the most effective disinformation is no longer manufactured by obvious troll farms. It is grown from real posts, real grievances and real people.
+
+My research study, "Decentralized Disinformation: The Art of Weaponizing Organic Narratives," maps how it works: someone finds authentic seed content, repackages it across platforms, lets the narrative evolve and then amplifies it in a coordinated way. A tactic I call "content shadowing" blends true and false details so the result survives fact-checks, and "breadcrumbing" leads audiences to a conclusion without ever stating it. Because it looks organic, takedown rules built for fake accounts miss it.
+
+The op-ed would give voters, local election officials and community groups three practical defenses: prebunking common techniques before they spread, tracking where a narrative started rather than only whether it's true, and building trusted local channels before a crisis.
+
+Study: https://www.academia.edu/179978454/Decentralized_Disinformation_The_Art_of_Weaponizing_Organic_Narratives. The piece would be exclusive to COURIER.
+
+I'm founder and president of Infinitum Corporation, a Washington, DC technology and security consulting firm. Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best regards,
+William Aaron Turner
+202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 28. Chicago Sun-Times (opinion) (US-NAT #46) - op-ed (EXCLUSIVE)
+- **To:** opinions@suntimes.com (full op-ed in body, no attachments; no pitches accepted)
+- **Subject:** Op-ed submission (exclusive): Chicago's losses deserve the attention we give to distant wars
+- **Attachment:** none
+- **Draft file:** drafts/chicago-sun-times.md
+
+```
+# Chicago's losses deserve the attention we give to distant wars
+
+When a missile strikes a city in Eastern Europe, the response is immediate and global. Networks break into regular programming, world leaders issue statements and the United Nations convenes. When a Chicagoan is shot on a summer weekend, the story often runs as a short local segment between the weather and the sports.
+
+I do not raise this to rank suffering. War is terrible, and the human cost of the war in Ukraine is enormous on every side. I raise it because attention is a resource, like money, and how a society spends it says something about what it values. If every life matters, our coverage, our outrage and our resources should reflect that everywhere, including at home.
+
+Consider the numbers. Chicago recorded 797 homicides in 2021, the most since 1996, a rate of close to 30 per 100,000 residents. More than 2,500 people were killed in the city in the four years from 2017 through 2020, and the toll in 2020 and 2021 alone approached 1,600. Chicago is not alone; other American cities have endured homicide rates higher still. Nationally, drug overdoses killed more than 100,000 Americans a year from 2021 through 2023, peaking at 107,941 in 2022, before falling to 79,384 in 2024, according to the Centers for Disease Control and Prevention. Most of those deaths involved fentanyl and other synthetic opioids.
+
+Those are wartime numbers. More Americans die of overdoses in a single year than U.S. forces lost in the entire Vietnam War. If a foreign military were killing that many Americans every year, Washington would treat it as a national emergency. It would hold hearings, fund a response and keep the story on front pages until the killing stopped.
+
+Instead, violence in American neighborhoods tends to be treated as weather, a background condition rather than a crisis. National outlets cover it in bursts, usually after a mass shooting or a political fight, and then move on. Local newsrooms, many of them shrinking, carry the weight alone. Families who lose someone rarely see the story followed up a month later, and almost never see it treated as part of a larger national toll.
+
+There are understandable reasons for the gap. War is new and dramatic; chronic violence is not. International crises carry obvious stakes for national security. Editors respond to what audiences click. But understandable is not the same as acceptable. The pattern has consequences. Public attention shapes public money. Congress has appropriated tens of billions of dollars for Ukraine since 2022 in a matter of months, with broad bipartisan urgency. Proven violence-reduction programs in Chicago, from street outreach to summer jobs, still fight year to year for stable funding.
+
+I am not arguing that the United States should care less about the world. I am arguing for consistency. Three changes would help.
+
+First, national newsrooms could treat American gun and overdose deaths as the continuing story they are, with the same sustained, data-driven tracking they give to foreign conflicts. Some outlets, including in Chicago, already keep running homicide counts. The national press could follow their lead.
+
+Second, elected officials could apply the same standard of urgency to domestic loss of life that they apply abroad. If a funding request for a foreign crisis can move in weeks, a request for community violence intervention or addiction treatment should not take years.
+
+Third, readers can ask for it. Audiences shape coverage. Chicagoans who want their neighborhoods covered as more than crime statistics can say so, subscribe to the local outlets doing that work and hold national ones to the same standard.
+
+Chicago has made real progress in recent years; homicides have fallen from their 2021 peak. That progress is fragile, and it deserves the kind of attention that would help sustain it. The people lost on the city's South and West Sides were sons, daughters and parents. Their deaths deserve a share of the attention we give to wars an ocean away.
+
+The question is not whether the world matters. It is whether Chicago matters as much.
+
+Sources:
+- Chicago Police Department, 2021 year-end crime summary (797 murders in 2021): https://www.chicagopolice.org/wp-content/uploads/legacy/1-Jan-22-Year-End-Crime-Summary.pdf
+- Chicago Police Department, CompStat 2021 year-end, historical comparison 2017-2021: https://www.chicagopolice.org/wp-content/uploads/legacy/CompStat-Public-2021-Year-End.pdf
+- CDC NCHS Data Brief No. 549, Drug Overdose Deaths in the United States, 2023-2024 (107,941 deaths in 2022; 79,384 in 2024): https://www.cdc.gov/nchs/products/databriefs/db549.htm
+- CDC FastStats, drug overdoses (47,735 deaths involving synthetic opioids other than methadone in 2024): https://www.cdc.gov/nchs/fastats/drug-overdoses.htm
+- U.S. National Archives, Vietnam War U.S. military fatal casualty statistics (58,220): https://www.archives.gov/research/military/vietnam-war/casualty-statistics
+- Author's original commentary and reference list: https://medium.com/@williamaaronturner/missiles-murders-and-media-a-tale-of-two-warzones-14af79d18ee9
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+```
+
+## 29. spiked (UK #3) - PITCH (EXCLUSIVE)
+- **To:** Fraser Myers, deputy editor (named as pitch contact on https://www.spiked-online.com/about-spiked/; NO address published - BLOCKER)
+- **Subject:** Pitch: Do you know where your Ukraine donation went?
+- **Attachment:** none
+- **Draft file:** drafts/spiked.md
+
+```
+Dear Fraser,
+
+I'd like to pitch a piece of about 1,000 words for spiked on a question that well-meaning donors rarely ask: where does money given through Ukraine charity websites actually go?
+
+Since 2022, millions of people in Britain and elsewhere have donated by card through consumer-facing appeals. The piece would show how some of those charities connect to other programmes, including military procurement, and how any donor can follow a charity through public records: registration and tax identifiers, filings and partner organisations. The argument is not that giving is wrong. It is that donors are entitled to know, and that independent audits of the donation trail would protect honest charities as much as anyone. It's a pro-transparency, pro-donor piece that challenges a consensus few have questioned.
+
+Background: https://ukrainianfiles.blogspot.com/2026/10/ukraine-aid-ngos-audit-donations.html
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best,
+William Aaron Turner
+Founder & President, Infinitum Corporation (Washington, DC)
++1 202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 30. The Spectator (UK #4) - PITCH (EXCLUSIVE)
+- **To:** wmoore@spectator.co.uk
+- **Subject:** Pitch: Russia's economy was supposed to collapse. Why didn't it?
+- **Attachment:** none
+- **Draft file:** drafts/the-spectator.md
+
+```
+Dear Mr Moore,
+
+I'd like to pitch a feature of 1,200-1,500 words for The Spectator on a question British policy has avoided: why Russia's state-guided economy has absorbed sanctions far better than Western forecasters predicted.
+
+In April 2022 the IMF expected Russia's economy to shrink 8.5%. Its current figures show a 1.4% contraction that year, then growth in 2023 and 2024. The piece would trace the model back to the 1990s collapse, explain how the state reasserted control over strategic sectors after 2000, and set the record under sanctions, using IMF, World Bank and Rosstat figures, against the costs: persistent inflation, a punishing key rate, slowing growth and a heavy military burden. It would close with what the miss means for Britain, which has sanctioned more Russian individuals and entities than almost anyone and rarely asks whether the measures meet their goals.
+
+My commentary on the subject is here: https://medium.com/@williamaaronturner/the-proof-is-in-the-puddin-sanctions-proof-war-proof-and-chaos-proof-fee512d49e94. The Spectator piece would be original and exclusive.
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best wishes,
+William Aaron Turner
+Founder & President, Infinitum Corporation (Washington, DC)
++1 202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 31. The Conservative Woman (UK #5) - article (EXCLUSIVE)
+- **To:** info@conservativewoman.co.uk
+- **Subject:** Article submission (exclusive): Ukraine's own ombudsman is logging thousands of complaints about forced conscription
+- **Attachment:** /workspace/press/local-news-2026-11/img/ukraine-forced-mobilization.jpg
+- **Draft file:** drafts/conservative-woman.md
+
+```
+# Ukraine's own ombudsman is logging thousands of complaints about forced conscription
+
+Stories of Ukrainian men being seized on the street by recruitment officers and bundled into vans have circulated on social media since 2023. It is tempting to dismiss them as propaganda, and some of them are. But a growing share of the evidence comes from Ukraine's own institutions, and it deserves more attention in Britain than it has received.
+
+Start with the figures from Ukraine's Human Rights Ombudsman, Dmytro Lubinets. His office reported 3,312 complaints against officers of the Territorial Recruitment Centres, the bodies that carry out mobilisation, in 2024. In 2025 the number rose to 6,127. These are not claims made by Moscow. They are complaints logged by a Ukrainian state institution about Ukrainian state officials.
+
+The prosecutors are taking notice, too. On 18 August 2026 Ukraine's Prosecutor General, Ruslan Kravchenko, announced charges against ten recruitment-centre officers in Odesa. The BBC reported on mobilisation practices in July 2026, and the Ukrainian outlet Babel has investigated deaths among recruits in one regiment, prompting a statement from Ukraine's Military Ombudsman about the investigations.
+
+International bodies have raised the issue as well. Concerns have been put to the UN High Commissioner for Human Rights, Volker Türk, and the Council of Europe's Commissioner for Human Rights, Michael O'Flaherty, has addressed the problem. Hungary protested after the death of an ethnic Hungarian man following his mobilisation.
+
+None of this means Ukraine is unique. Countries at war have always struggled to fill their ranks, and conscription is lawful under international law. Ukraine faces an enemy with a far larger population, and its government has a genuine duty to defend the country. But the law also sets limits. The International Covenant on Civil and Political Rights and the European Convention on Human Rights, to which Ukraine is a party, protect against arbitrary detention and degrading treatment, and they do not lapse in wartime except within strict, declared limits.
+
+Why should Britain care? Because Britain is one of Ukraine's most important backers, has provided billions in military aid and has trained tens of thousands of Ukrainian recruits on British soil. A partner with that much influence has both the standing and the responsibility to ask how those recruits are being found. Asking does not undermine Ukraine. It reflects the values the support is supposed to defend.
+
+I have compiled the official reports, prosecutor announcements and international findings into a single, sourced document. Where a section relies on Russian officials or Russian media, I have labelled it as such, so readers can weigh it accordingly. Most of the material, though, comes from Ukraine's own ombudsman and prosecutors.
+
+Parliament could reasonably ask ministers three questions. What assessment has the Government made of the Ombudsman's complaint figures? Has the UK raised mobilisation practices with Kyiv, bilaterally or through the Council of Europe? And do British training programmes include any check on how trainees came to be enlisted?
+
+Those are modest questions. A country that prides itself on the rule of law should not be afraid to ask them of its friends.
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+```
+
+## 32. openDemocracy (UK #6) - PITCH (EXCLUSIVE)
+- **To:** editors@opendemocracy.net
+- **Subject:** Pitch: Russia-Africa summit: what was actually signed
+- **Attachment:** none
+- **Draft file:** drafts/opendemocracy.md
+
+```
+Dear openDemocracy editors,
+
+A pitch for your Africa section: a 1,200-word analysis of what the third Russia-Africa Summit in Moscow actually produced, set against the rhetoric on both sides.
+
+Delegations from 48 of Africa's 54 countries attended, 22 led by heads of state, up from 17 in 2023. The Kremlin listed 33 intergovernmental, departmental and commercial documents for signing and adopted a 2027-2029 cooperation plan, a political declaration and an agreement on civilian uses of artificial intelligence. Russia-Africa trade exceeded $27 billion in 2025, and more than 40 African countries receive Russian grain and fertiliser. The piece would also be clear about the limits: the trade figure still trails China and the EU, and earlier targets have been missed. The question for African and European readers is which of these commitments will turn into delivered projects, and on whose terms.
+
+My article: https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Kind regards,
+William Aaron Turner
+Founder & President, Infinitum Corporation (Washington, DC)
++1 202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 33. Guardian Opinion (UK #7) - PITCH (outline + expertise, EXCLUSIVE)
+- **To:** opinion@theguardian.com
+- **Subject:** Pitch: Soldiers' phones are getting them killed. Your phone tells the same story about you
+- **Attachment:** none
+- **Draft file:** drafts/guardian-opinion.md
+
+```
+Dear Guardian Opinion editors,
+
+I'd like to pitch an opinion piece of about 900 words on what the war in Ukraine has taught about phones, metadata and location, and why it matters to British readers who will never see a battlefield.
+
+The outline: commanders on both sides have learned that "a smartphone ping, a fitness tracker upload, or a social media photo can become a targeting beacon." A US general warned his troops that "this device is going to get our soldiers killed." Public cases include a barracks struck after unauthorised phone use and a helicopter route mapped from a phone moving at 120 mph. The same data trails, location brokers, fitness apps and photo metadata, follow journalists, domestic-abuse survivors, activists and ordinary people in the UK. The piece would argue for practical digital hygiene and for tighter UK rules on the sale of location data, which current UK GDPR enforcement has not stopped.
+
+Why me: I'm a security consultant and the author of "Battlefield Cyber Hygiene," a digital operational-security field guide (https://www.academia.edu/179950438/Battlefield_Cyber_Hygiene_A_Modern_Warfighters_Digital_Survival_Guide).
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+William Aaron Turner
+Founder & President, Infinitum Corporation (Washington, DC)
++1 202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 34. City A.M. Expert Voices (UK #8) - op-ed (EXCLUSIVE)
+- **To:** contribute@cityam.com
+- **Subject:** Op-ed submission (exclusive): Your next competitor won't cut its prices. It will shape what the market believes
+- **Attachment:** none
+- **Draft file:** drafts/city-am.md
+
+```
+# Your next competitor won't cut its prices. It will shape what the market believes
+
+A company's next competitor may never touch its price. It may instead shape what the market notices, remembers and believes, long before a buyer opens a spreadsheet. For London boards, that contest is already under way, and most are fighting it without a plan.
+
+I call the discipline Corporate Cognitive Warfare: applying the thinking of irregular warfare to competition between companies. The minds of customers, employees, investors and regulators are where business is now decided. Conventional marketing asks how to promote a product. This discipline asks how a market perceives reality, where its attention goes, how its decisions get made, and how a company earns its place in that process honestly.
+
+Honestly is the operative word. Fake accounts, bot networks, astroturfing and fabricated reviews are not aggressive marketing. They are the threats a board should be defending against. Every offensive capability has a defensive twin, and the defensive side is where most firms are weakest.
+
+The threats are concrete. A fake-review attack can sink a product in a weekend. A deepfake of a chief executive can trick a finance team into wiring money, as Arup discovered in 2024, when a finance employee in its Hong Kong office was deceived by a deepfake video call into transferring HK$200m, about £20m. A viral falsehood about a recall or a breach can outrun any statement.
+
+Boards should ask four questions. Do we watch how we are discussed across platforms as carefully as we watch our networks? Have we told customers how to recognise our genuine channels before someone impersonates them? Do we have agreed response tiers, so a single rumour does not trigger a full crisis? And have communications, legal and security teams ever rehearsed a narrative attack together?
+
+None of this needs a large budget. Narrative monitoring can start with the tools a communications team already has. Prebunking can be as simple as a page explaining how the firm verifies its reviews and how its executives will, and will not, contact staff about payments. A one-hour tabletop exercise built around a deepfake call to the finance director costs nothing and exposes most of the gaps.
+
+The rules are on the defender's side, too. UK firms already compete inside UK GDPR, the CMA's consumer protection powers and the Online Safety Act's duties on platforms. Since April 2025, the Digital Markets, Competition and Consumers Act has made fake reviews explicitly unlawful, which gives targeted firms a clearer route to complain. The task is to compete hard for perception within those rules, and to be ready for the rivals and fraudsters who ignore them.
+
+---
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+```
+
+## 35. Bdaily (UK #9) - press release
+- **To:** editor@bdaily.co.uk
+- **Subject:** Free Playbook Helps UK Businesses Defend Against Deepfakes and Fake-Review Attacks
+- **Attachment:** /workspace/press/local-news-2026-11/img/ccw-expanded.jpg
+- **Draft file:** drafts/bdaily.md
+
+```
+# Free Playbook Helps UK Businesses Defend Against Deepfakes and Fake-Review Attacks
+
+WASHINGTON, DC, 3 November 2026 - UK businesses facing deepfake fraud, impersonation and fake-review attacks have a new free resource. Infinitum Corporation has released the expanded edition of "Corporate Cognitive Warfare," by founder William Aaron Turner, a playbook for competing for perception lawfully, relevant to UK firms working under UK GDPR and the fake-review ban introduced by the Digital Markets, Competition and Consumers Act.
+
+The expanded edition runs to about 15,000 words across 38 pages. It keeps the original six-phase framework of Understand, Shape, Seed, Amplify, Exploit and Protect and adds four bodies of material: a neutral review of published research on Russian reflexive control, Chinese cognitive domain operations and NATO's work on cognitive warfare, drawing on RAND, the Naval Postgraduate School and the Foreign Military Studies Office; corporate applications placed inside the rules that govern them, including FTC endorsement rules, GDPR, the EU Digital Services Act and CCPA/CPRA; twelve illustrative use cases, from countering a viral falsehood to responding to an executive deepfake; and a defensive playbook built on narrative sensing, prebunking, response tiers and regular exercises.
+
+The paper draws a firm line. Fake accounts, bot networks, astroturfing, fabricated reviews and disinformation are treated only as threats to detect and defeat, never as tools.
+
+"Every company competes in two markets: the one for its products and the one for perception. I coined the term Corporate Cognitive Warfare for the discipline of competing in that second market lawfully, and defending it. One principle runs through all of it: win with truth, disclosure and better arguments," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+The paper is free under a Creative Commons Attribution 4.0 license: https://zenodo.org/records/23838097 (DOI 10.5281/zenodo.23838097).
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, Washington, DC. Phone +1 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM (US Eastern).
+```
+
+## 36. BusinessLive (Reach) (UK #10) - press release
+- **To:** businesslive@reachplc.com
+- **Subject:** Free Guide Treats Cyber Defence as a War of Attrition for the UK's Mid-Size Firms
+- **Attachment:** /workspace/press/local-news-2026-11/img/trenches-and-drones.jpg
+- **Draft file:** drafts/businesslive.md
+
+```
+# Free Guide Treats Cyber Defence as a War of Attrition for the UK's Mid-Size Firms
+
+WASHINGTON, DC, 3 November 2026 - Mid-size businesses in the English regions, Wales and Northern Ireland face constant, automated, low-cost attacks. A free whitepaper, "Trenches and Drones: Network Defense for a War of Attrition" by William Aaron Turner of Infinitum Corporation, offers them a 30/60/90-day plan whose basics line up with the controls of the National Cyber Security Centre's Cyber Essentials scheme.
+
+The paper starts from a plain observation: defending a network is not one big battle but a long grind of small, cheap and constant pressure. Scans that never stop, phishing waves that arrive in bursts, short floods of junk traffic and edge devices left waiting weeks for a patch all wear a defender down. Turner argues that the side that can absorb losses, repair, adapt and keep operating is the side that outlasts the other.
+
+It walks through five fronts and pairs each with its equivalent on a corporate network: depth, through segmentation and identity checks at every line, keeping the implicit trust zone as small as possible as NIST SP 800-207 recommends; cheap mass, through automation that keeps the cost of defense below the cost of attack; electronic warfare, through resilience against spoofed and degraded signals; sensors, through logging and detection; and supply lines, through software and vendor risk.
+
+The paper closes with seven recommended moves, a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and a scorecard. Turner is explicit about the limits of the comparison: the paper draws general lessons from public sources such as CSIS, takes no side and leaves out casualty and loss figures. "Nobody is shooting at your servers," the paper says.
+
+"Attrition is the right word for what security teams face. The question is not whether you will be hit, it is whether you can absorb it, repair and keep operating. Every lesson in this paper comes back to a decision a team can make on Monday," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Read the whitepaper (free): https://infinitumwhitepapers.blogspot.com/2026/11/trenches-and-drones-network-defense-for.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, Washington, DC. Phone +1 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM (US Eastern).
+```
+
+## 37. TheBusinessDesk.com ("Your News") (UK #11) - press release
+- **To:** gareth.raven@thebusinessdesk.com (NW desk; other regional desks on /contact-us/)
+- **Subject:** Free Whitepaper Gives Regional Businesses a 90-Day Plan for Adopting AI in Cyber Defence
+- **Attachment:** /workspace/press/local-news-2026-11/img/dead-reckoning.jpg
+- **Draft file:** drafts/thebusinessdesk.md
+
+```
+# Free Whitepaper Gives Regional Businesses a 90-Day Plan for Adopting AI in Cyber Defence
+
+WASHINGTON, DC, 3 November 2026 - For regional businesses in the North West and beyond weighing AI security tools, "Dead Reckoning: AI for Security Operations" by William Aaron Turner, Founder & President of Infinitum Corporation, offers a free 90-day plan and a quarterly check to make sure the tools stay accurate.
+
+The paper borrows its method from navigation. When satellite signals fail, navigators fix their position from what they can verify: last known position, heading, speed, time and a second source. Turner argues that security operations centers adopting artificial intelligence need the same discipline, because a confident AI output is not the same as a correct one.
+
+It sets out three stages. A 90-day plan covers governance, a measured baseline and a pilot with analysts kept in the loop. A 12-month roadmap extends the tools that prove themselves. A quarterly "dead reckoning" check then compares results against the baseline and against an independent source for every critical signal.
+
+The case rests on public data. Citing Verizon's 2026 Data Breach Investigations Report, the paper notes that exploiting vulnerabilities is now the top way into a breach, at 31 percent, up from 20 percent. IBM and the Ponemon Institute report that the mean time to identify and contain a breach rose to 247 days, and that organizations using security AI and automation extensively averaged USD 4.00 million per breach, against USD 5.93 million for those using none. Turner stresses that this is an association, not a guarantee.
+
+"Govern first. Measure a baseline. Pilot with analysts in the loop. Keep an independent check on every critical signal. Don't take my word for it. Read the sources," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Read the whitepaper (free): https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, Washington, DC. Phone +1 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM (US Eastern).
+```
+
+## 38. Business Manchester (UK #12) - press release
+- **To:** editor@businessmanchester.co.uk
+- **Subject:** Free Network-Defence Guide Aims to Help Greater Manchester's Mid-Size Firms Outlast Constant Cyberattacks
+- **Attachment:** /workspace/press/local-news-2026-11/img/trenches-and-drones.jpg (REQUIRED)
+- **Draft file:** drafts/business-manchester.md
+
+```
+# Free Network-Defence Guide Aims to Help Greater Manchester's Mid-Size Firms Outlast Constant Cyberattacks
+
+WASHINGTON, DC, 3 November 2026 - Greater Manchester's mid-size firms, from manufacturers to digital agencies, face the same automated, low-cost attacks as large companies. "Trenches and Drones: Network Defense for a War of Attrition," a free whitepaper by William Aaron Turner of Infinitum Corporation, gives them a 30/60/90-day plan consistent with the NCSC's Cyber Essentials basics.
+
+The paper starts from a plain observation: defending a network is not one big battle but a long grind of small, cheap and constant pressure. Scans that never stop, phishing waves that arrive in bursts, short floods of junk traffic and edge devices left waiting weeks for a patch all wear a defender down. Turner argues that the side that can absorb losses, repair, adapt and keep operating is the side that outlasts the other.
+
+It walks through five fronts and pairs each with its equivalent on a corporate network: depth, through segmentation and identity checks at every line, keeping the implicit trust zone as small as possible as NIST SP 800-207 recommends; cheap mass, through automation that keeps the cost of defense below the cost of attack; electronic warfare, through resilience against spoofed and degraded signals; sensors, through logging and detection; and supply lines, through software and vendor risk.
+
+The paper closes with seven recommended moves, a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and a scorecard. Turner is explicit about the limits of the comparison: the paper draws general lessons from public sources such as CSIS, takes no side and leaves out casualty and loss figures. "Nobody is shooting at your servers," the paper says.
+
+"Attrition is the right word for what security teams face. The question is not whether you will be hit, it is whether you can absorb it, repair and keep operating. Every lesson in this paper comes back to a decision a team can make on Monday," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Read the whitepaper (free): https://infinitumwhitepapers.blogspot.com/2026/11/trenches-and-drones-network-defense-for.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, Washington, DC. Phone +1 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM (US Eastern).
+```
+
+## 39. Daily Business (Scotland) (UK #13) - press release
+- **To:** dailybusiness@hme.global
+- **Subject:** Free Playbook Gives Scottish and UK Firms a Defence Against Deepfakes and Fake-Review Attacks
+- **Attachment:** /workspace/press/local-news-2026-11/img/ccw-expanded.jpg
+- **Draft file:** drafts/daily-business-scotland.md
+
+```
+# Free Playbook Gives Scottish and UK Firms a Defence Against Deepfakes and Fake-Review Attacks
+
+WASHINGTON, DC, 3 November 2026 - Scottish and UK businesses exposed to deepfake fraud, impersonation and fake-review campaigns can draw on the expanded edition of "Corporate Cognitive Warfare," a free paper by William Aaron Turner, Founder & President of Infinitum Corporation, which sets out a lawful playbook relevant to firms working under UK GDPR and the UK's ban on fake reviews.
+
+The expanded edition runs to about 15,000 words across 38 pages. It keeps the original six-phase framework of Understand, Shape, Seed, Amplify, Exploit and Protect and adds four bodies of material: a neutral review of published research on Russian reflexive control, Chinese cognitive domain operations and NATO's work on cognitive warfare, drawing on RAND, the Naval Postgraduate School and the Foreign Military Studies Office; corporate applications placed inside the rules that govern them, including FTC endorsement rules, GDPR, the EU Digital Services Act and CCPA/CPRA; twelve illustrative use cases, from countering a viral falsehood to responding to an executive deepfake; and a defensive playbook built on narrative sensing, prebunking, response tiers and regular exercises.
+
+The paper draws a firm line. Fake accounts, bot networks, astroturfing, fabricated reviews and disinformation are treated only as threats to detect and defeat, never as tools.
+
+"Every company competes in two markets: the one for its products and the one for perception. I coined the term Corporate Cognitive Warfare for the discipline of competing in that second market lawfully, and defending it. One principle runs through all of it: win with truth, disclosure and better arguments," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+The paper is free under a Creative Commons Attribution 4.0 license: https://zenodo.org/records/23838097 (DOI 10.5281/zenodo.23838097).
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+Media contact: William Aaron Turner, Founder & President, Infinitum Corporation, Washington, DC. Phone +1 202-729-9509. Email info@theinfinitumcorporation.com. Hours Mon-Fri 9:00 AM-9:00 PM (US Eastern).
+```
+
+## 40. Manchester Evening News (Reach) (UK #16) - expert-source pitch
+- **To:** newsdesk@men-news.co.uk
+- **Subject:** Source available: security consultant on cyberattacks and deepfake fraud
+- **Attachment:** none
+- **Draft file:** drafts/manchester-evening-news.md
+
+```
+Hello Manchester Evening News newsdesk,
+
+If your newsdesk is covering cyberattacks on local firms, councils or the NHS, deepfake fraud or AI-driven scams, I'm available to comment by phone or video, usually the same day (I'm based in Washington, DC, five hours behind the UK).
+
+I'm William Aaron Turner, founder and president of Infinitum Corporation, a technology and security consulting firm. I can explain for readers:
+- What to do in the first 24 hours after a ransomware attack or data breach.
+- How deepfake "boss" calls and fake supplier invoices work, and how small firms can stop them.
+- How the basics in the National Cyber Security Centre's Cyber Essentials scheme (firewalls, secure settings, access control, malware protection and patching) map to the attacks firms see today.
+- What AI security tools can and can't do.
+
+Background reading: my free guides "Dead Reckoning: AI for Security Operations" and "Trenches and Drones" (https://infinitumwhitepapers.blogspot.com).
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Contact: +1 202-729-9509 | info@theinfinitumcorporation.com (Mon-Fri 9 AM-9 PM US Eastern).
+
+William Aaron Turner
+Founder & President, Infinitum Corporation, Washington, DC
+```
+
+## 41. Birmingham Live / Mail (Reach) (UK #17) - expert-source pitch
+- **To:** newsdesk@birminghamlive.co.uk
+- **Subject:** Source available: security consultant on cyberattacks and deepfake fraud
+- **Attachment:** none
+- **Draft file:** drafts/birmingham-live.md
+
+```
+Hello Birmingham Live / Mail newsdesk,
+
+If your newsdesk is covering cyberattacks on local firms, councils or the NHS, deepfake fraud or AI-driven scams, I'm available to comment by phone or video, usually the same day (I'm based in Washington, DC, five hours behind the UK).
+
+I'm William Aaron Turner, founder and president of Infinitum Corporation, a technology and security consulting firm. I can explain for readers:
+- What to do in the first 24 hours after a ransomware attack or data breach.
+- How deepfake "boss" calls and fake supplier invoices work, and how small firms can stop them.
+- How the basics in the National Cyber Security Centre's Cyber Essentials scheme (firewalls, secure settings, access control, malware protection and patching) map to the attacks firms see today.
+- What AI security tools can and can't do.
+
+Background reading: my free guides "Dead Reckoning: AI for Security Operations" and "Trenches and Drones" (https://infinitumwhitepapers.blogspot.com).
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Contact: +1 202-729-9509 | info@theinfinitumcorporation.com (Mon-Fri 9 AM-9 PM US Eastern).
+
+William Aaron Turner
+Founder & President, Infinitum Corporation, Washington, DC
+```
+
+## 42. Liverpool Echo (Reach) (UK #18) - expert-source pitch
+- **To:** news@liverpool.com
+- **Subject:** Source available: security consultant on cyberattacks and deepfake fraud
+- **Attachment:** none
+- **Draft file:** drafts/liverpool-echo.md
+
+```
+Hello Liverpool Echo newsdesk,
+
+If your newsdesk is covering cyberattacks on local firms, councils or the NHS, deepfake fraud or AI-driven scams, I'm available to comment by phone or video, usually the same day (I'm based in Washington, DC, five hours behind the UK).
+
+I'm William Aaron Turner, founder and president of Infinitum Corporation, a technology and security consulting firm. I can explain for readers:
+- What to do in the first 24 hours after a ransomware attack or data breach.
+- How deepfake "boss" calls and fake supplier invoices work, and how small firms can stop them.
+- How the basics in the National Cyber Security Centre's Cyber Essentials scheme (firewalls, secure settings, access control, malware protection and patching) map to the attacks firms see today.
+- What AI security tools can and can't do.
+
+Background reading: my free guides "Dead Reckoning: AI for Security Operations" and "Trenches and Drones" (https://infinitumwhitepapers.blogspot.com).
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Contact: +1 202-729-9509 | info@theinfinitumcorporation.com (Mon-Fri 9 AM-9 PM US Eastern).
+
+William Aaron Turner
+Founder & President, Infinitum Corporation, Washington, DC
+```
+
+## 43. Bella Caledonia (UK #20) - PITCH (EXCLUSIVE)
+- **To:** editor@bellacaledonia.org.uk
+- **Subject:** Pitch: The mine-clearance charity in Dumfriesshire and the questions it should answer
+- **Attachment:** none
+- **Draft file:** drafts/bella-caledonia.md
+
+```
+Dear Bella Caledonia editors,
+
+A pitch with a Scottish angle: the HALO Trust, the landmine-clearance charity headquartered in Dumfriesshire, is one of Scotland's best-known international organisations. Its work saves lives. But its funding, its board and its place in conflict zones from Ukraine to Moldova raise questions about independence that rarely get asked at home.
+
+The piece (about 1,500 words) would compare HALO with a very different model, Russian military sappers clearing unexploded US ordnance in Laos since 2018, and look at HALO's government funding, its board connections and the espionage claims made against mine-action NGOs in Moldova, clearly separating documented fact from allegation. The argument is not against demining. It is that a Scottish charity working in contested places should be transparent about who pays it, so that its humanitarian credibility, and the safety of its deminers, is protected.
+
+Background: https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best wishes,
+William Aaron Turner
+Founder & President, Infinitum Corporation (Washington, DC)
++1 202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 44. Byline Times (letters) (UK #21) - letter
+- **To:** letters@bylinetimes.com
+- **Subject:** Letter: Companies need a defence plan against disinformation, too
+- **Attachment:** none
+- **Draft file:** drafts/byline-times.md
+
+```
+Sir,
+
+Byline Times has done valuable work documenting how disinformation targets elections and public institutions. The same techniques are now aimed at ordinary businesses, and most are unprepared.
+
+A fake-review attack can sink a small firm's product over a weekend. A deepfake of a chief executive can trick a finance team into wiring money; Arup lost HK$200m, about £20m, that way in 2024. A false rumour about a recall or a breach can spread faster than any statement.
+
+Firms protect their networks against intrusion. Few protect their reputations against manufactured narratives. A basic defence costs little: monitor how the company is discussed, tell customers in advance how to recognise genuine channels, agree response tiers before a crisis and rehearse a deepfake scenario. Fake accounts, bot networks and fabricated reviews should be treated as threats to report and defeat, never as tools.
+
+Since April 2025 fake reviews have been explicitly unlawful in the UK. Regulators and platforms should make reporting coordinated campaigns quick and effective, so honest firms are not left to fight them alone.
+
+William Aaron Turner
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+Founder & President, Infinitum Corporation, Washington, DC
++1 202-729-9509 | info@theinfinitumcorporation.com
+```
+
+## 45. Morning Star (UK #31) - PITCH / feature proposal (EXCLUSIVE)
+- **To:** features@peoples-press.com (Features desk; propose first)
+- **Subject:** Feature proposal: Who profits from the war in Ukraine?
+- **Attachment:** none
+- **Draft file:** drafts/morning-star.md
+
+```
+Dear Features Editor,
+
+Following your guidance to propose before sending, I'd like to offer a feature of about 1,200 words on the financial interests behind the war in Ukraine.
+
+The piece would draw on published records: Quincy Institute data showing that 50 members of the US Congress traded between $24 million and $113 million worth of Pentagon-contractor shares in 2024, disclosed trades in defence stocks around February 2022, the movement of retired generals and officials onto arms-company boards, and the lobbying spend of the major contractors. It would rely on reporting already published by the Guardian, the Intercept, Bloomberg and Responsible Statecraft, and it would separate documented fact from inference throughout. The argument: the people who shape decisions about prolonging the war are too often the people who profit from it, and that conflict of interest deserves the same scrutiny in Britain as in Washington.
+
+Background file: https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best wishes,
+William Aaron Turner
+Founder & President, Infinitum Corporation (Washington, DC)
++1 202-729-9509 | info@theinfinitumcorporation.com
+```
+

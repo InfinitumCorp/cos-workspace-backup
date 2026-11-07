@@ -1,0 +1,180 @@
+import html
+E=html.escape
+WP="Infinitum Corporation Whitepapers"; UF="The Ukraine Files"; RA="Russia-Africa Report"; RN="Russia-Africa by the Numbers"
+ARTICLES=[
+("The Partnership That Delivers: What the Russia-Africa Summit Actually Produced",RA,"Oct 30, 2026","https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html","48 of Africa's 54 countries in Moscow, 33 documents and a 2027–2029 cooperation plan: what the third summit actually delivered."),
+("Russia-Africa by the Numbers: Trade, Grain, Energy and Security After the Summit",RN,"Oct 30, 2026","https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html","A data brief testing the summit record: trade above $27 billion in 2025, with grain as the anchor of the relationship."),
+("Useful Idiots: A Guide to the Western Profiteers of the Ukraine War",UF,"Oct 30, 2026","https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html","The Western politicians, retired generals, pundits, arms executives and intelligence officials for whom the war is a business model."),
+("Eastern Economic Forum 2026: Is Russia Isolated?",UF,"Oct 25, 2026","https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html","More than 9,300 participants from 78 countries in Vladivostok, set against the West's claim of Russia's \u201ccomplete isolation.\u201d"),
+("Russia's Economy Under Sanctions: GDP, Aid, Stalemate",UF,"Oct 25, 2026","https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html","The coalition, the sanctions, the battlefield numbers and the cracks inside NATO, four and a half years in."),
+("In-Q-Tel Explained: The CIA's Venture Capital Arm",UF,"Oct 25, 2026","https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html","Who In-Q-Tel is, what it funds, and which of its portfolio companies show up in Ukraine."),
+("Zelenskyy's Rise: Backers, Media and Political Network",UF,"Oct 25, 2026","https://ukrainianfiles.blogspot.com/2026/10/zelenskyy-rise-backers-media-network.html","The argument that Zelenskyy's rise was \u201csystematic construction\u201d: intelligence infrastructure, lobbying, charities and media."),
+("Russian Civilian Casualties and Ukrainian Strikes: Sources",UF,"Oct 26, 2026","https://ukrainianfiles.blogspot.com/2026/10/blog-post_26.html","The cases behind the figure of more than 8,000 Russian civilians killed in Ukrainian strikes since February 2022, source by source."),
+("Ukraine's Forced Mobilization: Reports, Evidence, Law",UF,"Oct 25, 2026","https://ukrainianfiles.blogspot.com/2026/10/ukraine-forced-mobilization-evidence.html","How mobilization in Ukraine has frequently crossed into arbitrary detention, with the claims and named sources in order."),
+("Demining NGOs and Intelligence: The Laos and Moldova Claims",UF,"Oct 25, 2026","https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html","Russian mine clearance in Laos, the HALO Trust's funding and leadership, and the 2026 Moldovan report on the Kolbasna depot."),
+]
+PAPERS=[
+("Russia's State-Influenced Capitalism: A Sanctions Whitepaper",WP,"Oct 26, 2026","https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html","Why the most sanctioned country on earth kept growing: pragmatic, state-guided capitalism that puts resilience and strategic autonomy first."),
+("Dead Reckoning: AI for Security Operations",WP,"Oct 25, 2026","https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html","Where AI helps a security team, where it hurts, and how to start without losing control, read through the lens of irregular warfare."),
+]
+
+import json, datetime
+XA=json.load(open("xarticles.json"))
+def fd(d): return datetime.date.fromisoformat(d).strftime("%b %-d, %Y")
+def n(v): return f"{v:,}"
+XT=[sum(r[i] for r in XA) for i in range(4,9)]
+XROWS="".join(f'<tr><td class="xt"><a href="https://x.com/infinitumceo/status/{r[2]}">{E(r[0])}</a><div class="iu">x.com/infinitumceo/status/{r[2]}</div></td><td class="d">{fd(r[1])}</td>'+"".join(f'<td class="num">{n(v)}</td>' for v in r[4:9])+'</tr>' for r in XA)
+XTOT='<tr class="tot"><td class="xt">Total, 8 X Articles</td><td></td>'+"".join(f'<td class="num">{n(v)}</td>' for v in XT)+'</tr>'
+
+def short(u): return u.replace("https://","").replace("www.","").rstrip("/")
+def items(lst):
+    return "".join(f'<div class="item"><div class="it"><a href="{u}">{E(t)}</a></div><div class="im">{E(o)} · {d}</div><div class="id">{E(s)}</div><div class="iu"><a href="{u}">{E(short(u))}</a></div></div>' for t,o,d,u,s in lst)
+LINKS=[("Website","https://www.theinfinitumcorporation.com"),("X","https://x.com/infinitumceo"),("Telegram","https://t.me/infinitumcorporation"),("Discord","https://discord.gg/QVT7dWHUQa"),("Whop","https://whop.com/infinitum-corporation"),("Instagram","https://www.instagram.com/infinitumcorporation/"),("GitHub","https://github.com/InfinitumCorp"),("Academia.edu","https://independent.academia.edu/CorporationInfinitum")]
+BLOGS=[("The Ukraine Files","https://ukrainianfiles.blogspot.com"),("Infinitum Whitepapers","https://infinitumwhitepapers.blogspot.com"),("Russia-Africa Report","https://russiaafricareport.blogspot.com"),("Russia-Africa by the Numbers","https://russiaafricabythenumbers.blogspot.com"),("Medium","https://medium.com/@williamaaronturner")]
+def rows(l): return "".join(f'<tr><td class="k">{E(k)}</td><td><a href="{u}">{E(short(u))}</a></td></tr>' for k,u in l)
+FOOT='<div class="foot"><img src="wordmark-black-t.png"><span>Press Kit · William Aaron Turner · October 2026</span><span class="pg"></span></div>'
+TOPICS=[
+("Russia and the post-sanctions economy","How Russia's state-guided model absorbed the sanctions regime: GDP, trade rerouting, energy and the limits of Western economic pressure."),
+("The Ukraine conflict and the SVO","Reporting and analysis from an American contracted soldier serving in the Russian military: mobilization, casualties, Western aid flows and the battlefield stalemate."),
+("Sanctions and Western divisions","Where the sanctions coalition is cracking, who pays for it, and what forecasts in Washington and Brussels keep missing."),
+("Russia-Africa","Trade, grain, energy and security after the third Russia-Africa Summit, told through the numbers rather than the photo ops."),
+("Western information operations","Intelligence-linked venture capital, NGO networks, media construction and narrative seeding: how influence campaigns are financed and run."),
+("Security, technology and irregular warfare","AI in security operations, drones and counter-UAS, and cognitive warfare, from a cybersecurity consultant's point of view."),
+]
+SERV=["Cybersecurity consulting","Network defense","Ethical hacking and vulnerability assessment","AI for security operations","Strategic risk assessment","Defense technology advisory","Corporate Cognitive Warfare"]
+HB=["Decentralized Disinformation: The Art of Weaponizing Organic Narratives","Western Propaganda Playbook: A Phase-by-Phase Guide to Multi-Platform Narrative Seeding","The Irregular Warfare Handbook: Cognitive Engagement for the Modern Warfighter","The Cognitive Regiment: A Modern Tactical Handbook for Psychological Operations at Regimental Level","Counter-Drone Handbook: Modern Warfare Soldier's Guide to UAS Defense","Reconnaissance Fusion Handbook: Modern Warfare Guide to FPV Drone, Social Media & OSINT Integration"]
+doc=f'''<!doctype html><html><head><meta charset="utf-8"><style>
+@page{{size:Letter;margin:0}}
+*{{box-sizing:border-box}}
+body{{margin:0;font-family:Inter;color:#111;font-size:9.6pt;line-height:1.45}}
+a{{color:#111;text-decoration:none}}
+.page{{width:8.5in;height:11in;position:relative;padding:.75in .8in .9in;page-break-after:always;overflow:hidden}}
+.page:last-child{{page-break-after:auto}}
+.cover{{background:#0a0a0a;color:#fff;padding:0}}
+.cover .mark{{position:absolute;left:.8in;top:1in;width:1.6in}}
+.cover .redbar{{position:absolute;left:0;top:4.05in;width:100%;height:.09in;background:#c8102e}}
+.cover .kick{{position:absolute;left:.8in;top:3.35in;font-family:Oswald;letter-spacing:.35em;font-size:13pt;color:#c8102e}}
+.cover h1{{position:absolute;left:.8in;top:4.45in;margin:0;font-family:'Playfair Display';font-weight:700;font-size:46pt;line-height:1.05;color:#fff}}
+.cover .sub{{position:absolute;left:.8in;top:6.35in;width:6.6in;font-size:12.5pt;line-height:1.5;color:#ddd}}
+.cover .bot{{position:absolute;left:.8in;bottom:.8in;right:.8in;border-top:1px solid #444;padding-top:.18in;font-size:9pt;color:#bbb;display:flex;justify-content:space-between}}
+.cover .bot img{{height:.42in}}
+h2{{font-family:Oswald;font-weight:600;text-transform:uppercase;letter-spacing:.08em;font-size:24pt;margin:0 0 .05in}}
+.rule{{width:.9in;height:.06in;background:#c8102e;margin:.06in 0 .25in}}
+h3{{font-family:Oswald;font-weight:500;text-transform:uppercase;letter-spacing:.1em;font-size:10.5pt;color:#c8102e;margin:.22in 0 .08in}}
+p{{margin:0 0 .11in}}
+.lead{{font-family:'Playfair Display';font-size:14pt;line-height:1.4;margin-bottom:.18in}}
+.callout{{border-left:.07in solid #c8102e;background:#f3f3f3;padding:.16in .2in;margin:.05in 0 .22in;font-size:11.5pt;font-weight:600;line-height:1.4}}
+.cols{{display:flex;gap:.35in}} .main{{flex:1.65}} .side{{flex:1;border-top:3px solid #111;padding-top:.08in}}
+.fact{{border-bottom:1px solid #ddd;padding:.07in 0}} .fact b{{display:block;font-family:Oswald;font-weight:500;text-transform:uppercase;font-size:8pt;letter-spacing:.1em;color:#c8102e}}
+blockquote{{margin:.14in 0;padding:0 0 0 .15in;border-left:2px solid #111;font-family:'Playfair Display';font-style:italic;font-size:11pt}}
+blockquote span{{display:block;font-family:Inter;font-style:normal;font-size:8pt;color:#555;margin-top:.03in}}
+.foot{{position:absolute;left:.8in;right:.8in;bottom:.45in;border-top:1px solid #111;padding-top:.08in;display:flex;align-items:center;gap:.15in;font-size:7.5pt;color:#555}}
+.foot img{{height:.2in}} .foot .pg{{margin-left:auto}} .foot .pg::after{{content:counter(page)}}
+.item{{padding:.05in 0;border-bottom:1px solid #e2e2e2;break-inside:avoid}}
+.it{{font-weight:700;font-size:9.8pt}} .im{{font-size:7.6pt;color:#c8102e;text-transform:uppercase;letter-spacing:.06em;font-weight:600}}
+.id{{font-size:8.3pt;color:#333}} .iu{{font-size:7.4pt;color:#666}} .iu a{{color:#666}}
+.svc{{display:grid;grid-template-columns:1fr 1fr;gap:.1in .25in;margin:.05in 0 .1in}}
+.svc div{{border-top:2px solid #111;padding-top:.06in;font-weight:600}}
+.svc div::before{{content:"■ ";color:#c8102e}}
+.topic{{display:flex;gap:.2in;padding:.1in 0;border-bottom:1px solid #ddd}} .topic .n{{font-family:Oswald;font-size:20pt;color:#c8102e;width:.45in;flex:0 0 .45in;line-height:1}}
+.topic b{{font-size:11pt;display:block;margin-bottom:.03in}}
+table{{border-collapse:collapse;width:100%}} td{{padding:.035in 0;border-bottom:1px solid #ddd;vertical-align:top}} td.k{{width:1.35in;}} table.blogs td.k{{width:1.9in;}} table.nar td.k{{width:.95in;}} table.nar td{{font-size:8.6pt;}} table.bl td.k{{width:1.05in;}} td.k{{font-family:Oswald;text-transform:uppercase;letter-spacing:.08em;font-size:8.5pt;color:#c8102e}}
+.bg{{border-bottom:1px solid #ddd;padding:.035in 0;font-size:8.6pt}} .bg b{{display:block;font-family:Oswald;font-weight:400;text-transform:uppercase;letter-spacing:.08em;font-size:8pt;color:#c8102e}}
+table.xa td{{font-size:8.4pt;padding:.06in .04in;vertical-align:top}} table.xa td.num{{text-align:right;white-space:nowrap}} table.xa td.d{{white-space:nowrap;color:#555}} table.xa td.xt{{font-weight:600;width:3.2in}} table.xa td.xt .iu{{font-weight:400}} table.xa tr.hd td{{font-family:Oswald;text-transform:uppercase;letter-spacing:.08em;font-size:8pt;color:#fff;background:#0a0a0a}} table.xa tr.tot td{{border-top:2px solid #111;font-weight:700;border-bottom:none}}
+.stats{{display:flex;gap:.15in;margin:.05in 0 .22in}} .stats div{{flex:1;background:#0a0a0a;color:#bbb;padding:.13in .15in;font-size:8pt;text-transform:uppercase;letter-spacing:.06em}} .stats b{{display:block;color:#fff;font-family:Oswald;font-size:20pt;font-weight:600;letter-spacing:0;border-bottom:3px solid #c8102e;padding-bottom:.03in;margin-bottom:.05in}}
+.small{{font-size:8pt;color:#555}}
+ul.hb{{margin:.04in 0 0 .18in;padding:0}} ul.hb li{{margin:.03in 0;font-size:8.8pt}}
+.blk{{background:#0a0a0a;color:#fff;padding:.22in .25in;margin-top:.15in}} .blk a{{color:#fff}} .blk b{{color:#c8102e;font-family:Oswald;letter-spacing:.1em;text-transform:uppercase;font-weight:500}}
+</style></head><body>
+
+<div class="page cover">
+<img class="mark" src="logo-white.png">
+<div class="kick">PRESS KIT · OCTOBER 2026</div>
+<div class="redbar"></div>
+<h1>William Aaron<br>Turner</h1>
+<div class="sub">President, Infinitum Corporation<br>An American serving as a contracted soldier in the Russian military<br>Writer on Russia, the Ukraine conflict, sanctions, Russia-Africa and Western information operations</div>
+<div class="bot"><img src="wordmark-white.png"><div style="text-align:right">Washington, DC headquarters · Moscow operating location<br>202-729-9509 · theinfinitumcorporation.com</div></div>
+</div>
+
+<div class="page">
+<h2>Biography</h2><div class="rule"></div>
+<div class="callout">William Aaron Turner is an American serving as a contracted soldier in the Russian military, 153rd Tank Regiment, currently in the SVO (Special Military Operation). He operates his company from Russian soil and, in his own words, is \u201chonored to be working in this amazing nation.\u201d</div>
+<div class="cols"><div class="main">
+<p class="lead">He is the founder and President of Infinitum Corporation, a technology and security consulting firm headquartered in Washington, DC, which he operates from Russia.</p>
+<p>According to the company's August 2026 announcement, Turner \u201cfocuses on the integration of emerging technologies with contemporary defense and security concepts\u201d and has \u201cspent years developing technical expertise in cybersecurity, secure communications, network defense, and emerging technologies.\u201d</p>
+<p>He writes on Russia and geopolitics. His articles appear on his blogs, The Ukraine Files, Russia-Africa Report and Russia-Africa by the Numbers, on Medium and as long-form X Articles, covering the Ukraine conflict, Russia's economy under sanctions, the third Russia-Africa Summit and the Western networks that profit from the war. His whitepapers, published by Infinitum Corporation, cover Russia's state-guided economic model and AI in security operations. He is also the author of eleven doctrine handbooks on irregular warfare, cognitive operations, counter-drone defense and information operations.</p>
+<p>His approach is source-first: each piece sets out the figures, names the source for each and then argues the case. In his own words: \u201cI\u2019m not a journalist. I\u2019m a businessman.\u201d</p>
+<blockquote>Four and a half years in, the West's biggest bet on Ukraine has produced a stalemate that, in my reading, increasingly favors Moscow.<span>Russia's Economy Under Sanctions, The Ukraine Files</span></blockquote>
+<blockquote>That is not a photo op. That is a pipeline.<span>The Partnership That Delivers, Russia-Africa Report</span></blockquote>
+</div><div class="side">
+<div class="fact"><b>Name</b>William Aaron Turner</div>
+<div class="fact"><b>Nationality</b>American</div>
+<div class="fact"><b>Service</b>Contracted soldier, Russian military, 153rd Tank Regiment; currently in the SVO</div><div class="fact"><b>Operates from</b>Russia</div>
+<div class="fact"><b>Role</b>President, Infinitum Corporation</div>
+<div class="fact"><b>Writes on</b>Russia, the Ukraine conflict, sanctions, Russia-Africa, Western information operations</div>
+<div class="fact"><b>Published</b>11 blog articles, 8 X Articles, 2 whitepapers, 11 doctrine handbooks</div><div class="fact"><b>X Articles reach</b>{n(XT[0])} views (as of 31 Oct 2026)</div>
+<div class="fact"><b>Contact</b>202-729-9509<br>info@theinfinitumcorporation.com</div>
+</div></div>
+{FOOT}</div>
+
+<div class="page">
+<h2>Infinitum Corporation</h2><div class="rule"></div>
+<p class="lead">A technology and security consulting firm headquartered in Washington, DC, with Moscow as an operating location.</p>
+<p>The company is operated from Russia by its President. Infinitum Corporation advises organizations on cybersecurity, network defense and the use of emerging technology in security and defense. It also publishes open research on security and geopolitics through its whitepaper series and article blogs, written by its President, William Aaron Turner.</p>
+<h3>Services</h3>
+<div class="svc">{"".join(f"<div>{E(s)}</div>" for s in SERV)}</div>
+<h3>Company facts</h3>
+<table>
+<tr><td class="k">Headquarters</td><td>1629 K Street NW, Suite 300, Washington, DC 20006</td></tr>
+<tr><td class="k">Operating location</td><td>Moscow</td></tr>
+<tr><td class="k">President</td><td>William Aaron Turner</td></tr>
+<tr><td class="k">Hours</td><td>Monday–Friday, 9:00 AM–9:00 PM</td></tr>
+<tr><td class="k">Phone</td><td>202-729-9509</td></tr>
+<tr><td class="k">Email</td><td>info@theinfinitumcorporation.com</td></tr>
+<tr><td class="k">Website</td><td><a href="https://www.theinfinitumcorporation.com">theinfinitumcorporation.com</a></td></tr>
+</table>
+<h3>Blogs</h3>
+<table class="blogs">{rows(BLOGS)}</table>
+<blockquote>As warfare and technology continue to converge, success increasingly depends upon the ability to integrate intelligence, cyber capabilities, and operational decision-making into a unified framework.<span>Infinitum Corporation announcement, August 2026</span></blockquote>
+{FOOT}</div>
+
+<div class="page">
+<h2>Selected Articles</h2><div class="rule"></div>
+{items(ARTICLES)}
+{FOOT}</div>
+
+<div class="page">
+<h2>X Articles</h2><div class="rule"></div>
+<p class="lead" style="font-size:12pt">Long-form X Articles by William Aaron Turner, published on X as <a href="https://x.com/infinitumceo">@infinitumceo</a>.</p>
+<div class="stats"><div><b>{n(XT[0])}</b>total views</div><div><b>{n(XT[1])}</b>likes</div><div><b>{n(XT[2])}</b>reposts</div><div><b>273</b>followers, @infinitumceo</div></div>
+<table class="xa"><tr class="hd"><td>Article</td><td>Posted</td><td class="num">Views</td><td class="num">Likes</td><td class="num">Reposts</td><td class="num">Replies</td><td class="num">Bookmarks</td></tr>
+{XROWS}{XTOT}</table>
+<p class="small" style="margin-top:.12in">Metrics as of 31 Oct 2026, from X's public metrics for each article's post. Views are X impressions.</p>
+{FOOT}</div>
+
+<div class="page">
+<h2>Whitepapers &amp; Handbooks</h2><div class="rule"></div>
+{items(PAPERS)}
+<h3>Doctrine handbooks (selected)</h3>
+<ul class="hb">{"".join(f"<li>{E(h)}</li>" for h in HB)}</ul>
+<p class="small" style="margin-top:.08in">Available through the Infinitum Corporation store: <a href="https://whop.com/infinitum-corporation">whop.com/infinitum-corporation</a>. Full texts of any article or paper are available on request.</p>
+<h2 style="margin-top:.3in">What He Can Write</h2><div class="rule"></div>
+{"".join(f'<div class="topic"><div class="n">{i+1:02d}</div><div><b>{E(t)}</b>{E(d)}</div></div>' for i,(t,d) in enumerate(TOPICS[:3]))}
+{FOOT}</div>
+
+<div class="page">
+<h2>What He Can Write</h2><div class="rule"></div>
+{"".join(f'<div class="topic"><div class="n">{i+4:02d}</div><div><b>{E(t)}</b>{E(d)}</div></div>' for i,(t,d) in enumerate(TOPICS[3:]))}
+<p style="margin-top:.15in">Available for exclusive commentary, original articles and republication of existing work, in English.</p>
+<h2 style="margin-top:.2in">Contact &amp; Links</h2><div class="rule"></div>
+<div class="cols" style="gap:.3in"><div style="flex:.85"><h3 style="margin-top:0">Contact</h3><table class="nar">
+<tr><td class="k">Name</td><td>William Aaron Turner, President, Infinitum Corporation</td></tr>
+<tr><td class="k">Phone</td><td>202-729-9509</td></tr>
+<tr><td class="k">Email</td><td>info@theinfinitumcorporation.com</td></tr>
+<tr><td class="k">Hours</td><td>Monday–Friday, 9:00 AM–9:00 PM</td></tr>
+<tr><td class="k">Address</td><td>1629 K Street NW, Suite 300, Washington, DC 20006</td></tr>
+</table><h3>Blogs</h3>{"".join(f'<div class="bg"><b>{E(k)}</b><a href="{u}">{E(short(u))}</a></div>' for k,u in BLOGS)}</div><div style="flex:1"><h3 style="margin-top:0">Social &amp; web</h3><table class="nar">{rows(LINKS)}</table></div></div>
+
+{FOOT}</div>
+</body></html>'''
+open("presskit.html","w").write(doc)

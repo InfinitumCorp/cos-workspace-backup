@@ -1,0 +1,407 @@
+From 804fd18acdcafe12007da8f6d56c65215d8005fa Mon Sep 17 00:00:00 2001
+From: InfinitumCorp <theinfinitumcorp@gmail.com>
+Date: Sat, 31 Oct 2026 02:25:56 +0300
+Subject: [PATCH 1/3] Rebuild williamaaronturner.com: founder bio,
+ Person/Organization JSON-LD, links, sitemap, preview noindex
+
+---
+ README.md   |  6 +++++
+ index.html  | 78 ++++++++++++++++++++++++++++++++++++++++++++++++++---
+ robots.txt  |  3 +++
+ sitemap.xml |  2 ++
+ vercel.json | 18 +++++++++++++
+ 5 files changed, 103 insertions(+), 4 deletions(-)
+ create mode 100644 robots.txt
+ create mode 100644 sitemap.xml
+ create mode 100644 vercel.json
+
+diff --git a/README.md b/README.md
+index e69de29..3c8b55e 100644
+--- a/README.md
++++ b/README.md
+@@ -0,0 +1,6 @@
++# williamaaronturner.com
++
++Static personal site for William Aaron Turner, founder of Infinitum Corporation (Washington, DC).
++- Deploy as a static site on Vercel. `*.vercel.app` hosts send `X-Robots-Tag: noindex` so previews are not indexed; the production domain is indexable.
++- Go-live: point williamaaronturner.com (apex) and www at this Vercel project (DNS at the current registrar; currently served by Beacons). `www` 301s to apex.
++- Only public phone: 202-729-9509. Entity @ids match theinfinitumcorporation.com JSON-LD.
+diff --git a/index.html b/index.html
+index b699660..2f30a23 100644
+--- a/index.html
++++ b/index.html
+@@ -3,11 +3,81 @@
+ <head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+-<title>William Aaron Turner — Infinitum Corporation</title>
+-<!-- Full content would be here; truncated for this call due to length limits in example -->
++<title>William Aaron Turner - Founder, Infinitum Corporation</title>
++<meta name="description" content="William Aaron Turner is founder and president of Infinitum Corporation, a Washington, DC cybersecurity and security consulting firm. Research, press, contact.">
++<link rel="canonical" href="https://williamaaronturner.com/">
++<meta property="og:type" content="profile">
++<meta property="og:title" content="William Aaron Turner - Founder, Infinitum Corporation">
++<meta property="og:description" content="Founder and president of Infinitum Corporation, a Washington, DC cybersecurity and security consulting firm.">
++<meta property="og:url" content="https://williamaaronturner.com/">
++<meta property="og:image" content="https://www.theinfinitumcorporation.com/infinitum-logo.png">
++<meta name="twitter:card" content="summary">
++<meta name="twitter:site" content="@infinitumceo">
++<style>
++:root{--fg:#0a0a0a;--bg:#fafafa;--mute:#555}
++@media (prefers-color-scheme:dark){:root{--fg:#f2f2f2;--bg:#0a0a0a;--mute:#aaa}}
++*{box-sizing:border-box}body{margin:0;font:17px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--fg);background:var(--bg)}
++main{max-width:760px;margin:0 auto;padding:56px 22px}
++h1{font-size:clamp(2.2rem,6vw,3.4rem);line-height:1.05;letter-spacing:-.02em;margin:0 0 8px}
++.role{color:var(--mute);margin:0 0 32px;font-size:1.05rem}
++h2{font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;margin:44px 0 12px;border-top:1px solid currentColor;padding-top:14px}
++a{color:inherit;text-underline-offset:3px}ul{padding-left:18px}li{margin:6px 0}
++.links{display:flex;flex-wrap:wrap;gap:10px;list-style:none;padding:0}
++.links a{display:inline-block;border:1px solid currentColor;padding:8px 14px;text-decoration:none}
++.links a:hover{background:var(--fg);color:var(--bg)}
++footer{margin-top:56px;color:var(--mute);font-size:.9rem}
++</style>
++<script type="application/ld+json">
++{"@context":"https://schema.org","@graph":[
++{"@type":"ProfilePage","@id":"https://williamaaronturner.com/#profile","url":"https://williamaaronturner.com/","name":"William Aaron Turner - Founder, Infinitum Corporation","mainEntity":{"@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner"}},
++{"@type":"Person","@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner","name":"William Aaron Turner","jobTitle":"Founder and President","url":"https://williamaaronturner.com/","worksFor":{"@id":"https://www.theinfinitumcorporation.com/#organization"},"knowsAbout":["Cybersecurity","Network defense","AI for security operations","Strategic risk assessment","Geopolitical analysis"],"sameAs":["https://x.com/infinitumceo","https://www.linkedin.com/in/william-aaron-t-726076244","https://ukrainianfiles.blogspot.com/p/about.html","https://independent.academia.edu/CorporationInfinitum"]},
++{"@type":["Organization","ProfessionalService"],"@id":"https://www.theinfinitumcorporation.com/#organization","name":"Infinitum Corporation","url":"https://www.theinfinitumcorporation.com","telephone":"+1-202-729-9509","email":"info@theinfinitumcorporation.com","address":{"@type":"PostalAddress","streetAddress":"1629 K Street NW, Suite 300","addressLocality":"Washington","addressRegion":"DC","postalCode":"20006","addressCountry":"US"},"founder":{"@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner"},"sameAs":["https://t.me/infinitumcorporation","https://discord.gg/QVT7dWHUQa","https://github.com/InfinitumCorp","https://whop.com/infinitum-corporation/","https://infinitumwhitepapers.blogspot.com/","https://ukrainianfiles.blogspot.com/"]}
++]}
++</script>
+ </head>
+ <body>
++<main>
+ <h1>William Aaron Turner</h1>
+-<p>Redesign in progress. Full dynamic black/white site ready in artifacts.</p>
++<p class="role">Founder and President, <a href="https://www.theinfinitumcorporation.com/">Infinitum Corporation</a> · Washington, DC</p>
++
++<p>William Aaron Turner is the founder and president of Infinitum Corporation, a technology and security consulting firm headquartered in Washington, DC, with Moscow as an operating location. His work sits where information technology, cybersecurity and modern security operations meet: helping organizations understand their exposure, defend their networks and adopt new technology, including artificial intelligence, without losing control of it.</p>
++<p>He writes long-form research on security and geopolitics, publishing whitepapers on AI for security operations and sanctions economics, and the sourced blog series <em>The Ukraine Files</em>.</p>
++
++<h2>Infinitum Corporation services</h2>
++<ul>
++<li>Cybersecurity consulting</li>
++<li>Network architecture and network defense</li>
++<li>Ethical hacking and vulnerability assessment</li>
++<li>AI applications for security operations</li>
++<li>Strategic risk assessment</li>
++<li>Defense technology advisory</li>
++<li>Corporate Cognitive Warfare</li>
++</ul>
++
++<h2>Research and writing</h2>
++<ul>
++<li><a href="https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html">Dead Reckoning: AI for Security Operations</a> (whitepaper)</li>
++<li><a href="https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html">Russia's State-Influenced Capitalism: A Sanctions Whitepaper</a></li>
++<li><a href="https://ukrainianfiles.blogspot.com/p/the-ukraine-files-full-series.html">The Ukraine Files: full series</a></li>
++<li><a href="https://russiaafricareport.blogspot.com/">Russia-Africa Report</a> and <a href="https://russiaafricabythenumbers.blogspot.com/">Russia-Africa by the Numbers</a></li>
++<li><a href="https://independent.academia.edu/CorporationInfinitum">Papers on Academia.edu</a></li>
++</ul>
++
++<h2>Follow</h2>
++<ul class="links">
++<li><a href="https://x.com/infinitumceo" rel="me">X @infinitumceo</a></li>
++<li><a href="https://www.linkedin.com/in/william-aaron-t-726076244" rel="me">LinkedIn</a></li>
++<li><a href="https://t.me/infinitumcorporation">Telegram</a></li>
++<li><a href="https://discord.gg/QVT7dWHUQa">Discord</a></li>
++<li><a href="https://whop.com/infinitum-corporation/">Whop</a></li>
++<li><a href="https://github.com/InfinitumCorp">GitHub</a></li>
++</ul>
++
++<h2>Contact</h2>
++<p>Infinitum Corporation · 1629 K Street NW, Suite 300, Washington, DC 20006<br>
++<a href="tel:+12027299509">202-729-9509</a> · <a href="mailto:info@theinfinitumcorporation.com">info@theinfinitumcorporation.com</a> · Open 24 hours</p>
++
++<footer>© 2026 William Aaron Turner · <a href="https://www.theinfinitumcorporation.com/">theinfinitumcorporation.com</a></footer>
++</main>
+ </body>
+-</html>
+\ No newline at end of file
++</html>
+diff --git a/robots.txt b/robots.txt
+new file mode 100644
+index 0000000..76adaf5
+--- /dev/null
++++ b/robots.txt
+@@ -0,0 +1,3 @@
++User-agent: *
++Allow: /
++Sitemap: https://williamaaronturner.com/sitemap.xml
+diff --git a/sitemap.xml b/sitemap.xml
+new file mode 100644
+index 0000000..dcef967
+--- /dev/null
++++ b/sitemap.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://williamaaronturner.com/</loc><lastmod>2026-10-31</lastmod></url></urlset>
+diff --git a/vercel.json b/vercel.json
+new file mode 100644
+index 0000000..a272a11
+--- /dev/null
++++ b/vercel.json
+@@ -0,0 +1,18 @@
++{
++  "cleanUrls": true,
++  "headers": [
++    {
++      "source": "/(.*)",
++      "has": [{ "type": "host", "value": "(?<sub>.*)\\.vercel\\.app" }],
++      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
++    }
++  ],
++  "redirects": [
++    {
++      "source": "/(.*)",
++      "has": [{ "type": "host", "value": "www.williamaaronturner.com" }],
++      "destination": "https://williamaaronturner.com/$1",
++      "permanent": true
++    }
++  ]
++}
+-- 
+2.47.3
+
+
+From 06fc197d085529418a8d42bb0dba21577da3e666 Mon Sep 17 00:00:00 2001
+From: InfinitumCorp <theinfinitumcorp@gmail.com>
+Date: Sat, 7 Nov 2026 01:00:25 +0300
+Subject: [PATCH 2/3] Add EchoForm companion note publications page and CCW
+ cross-links
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Prepare /publications/echoform with meta, Open Graph, Twitter, citation_*
+and ScholarlyArticle JSON-LD; list EchoForm and CCW on the founder page;
+fix hours to Mon–Fri 9 AM–9 PM; update sitemap. Box-only; not deployed.
+---
+ index.html                 |   6 +-
+ publications/echoform.html | 109 +++++++++++++++++++++++++++++++++++++
+ sitemap.xml                |   5 +-
+ 3 files changed, 117 insertions(+), 3 deletions(-)
+ create mode 100644 publications/echoform.html
+
+diff --git a/index.html b/index.html
+index 2f30a23..495d470 100644
+--- a/index.html
++++ b/index.html
+@@ -30,7 +30,7 @@ footer{margin-top:56px;color:var(--mute);font-size:.9rem}
+ <script type="application/ld+json">
+ {"@context":"https://schema.org","@graph":[
+ {"@type":"ProfilePage","@id":"https://williamaaronturner.com/#profile","url":"https://williamaaronturner.com/","name":"William Aaron Turner - Founder, Infinitum Corporation","mainEntity":{"@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner"}},
+-{"@type":"Person","@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner","name":"William Aaron Turner","jobTitle":"Founder and President","url":"https://williamaaronturner.com/","worksFor":{"@id":"https://www.theinfinitumcorporation.com/#organization"},"knowsAbout":["Cybersecurity","Network defense","AI for security operations","Strategic risk assessment","Geopolitical analysis"],"sameAs":["https://x.com/infinitumceo","https://www.linkedin.com/in/william-aaron-t-726076244","https://ukrainianfiles.blogspot.com/p/about.html","https://independent.academia.edu/CorporationInfinitum"]},
++{"@type":"Person","@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner","name":"William Aaron Turner","jobTitle":"Founder and President","url":"https://williamaaronturner.com/","worksFor":{"@id":"https://www.theinfinitumcorporation.com/#organization"},"knowsAbout":["Cybersecurity","Network defense","AI for security operations","Strategic risk assessment","Geopolitical analysis","Corporate Cognitive Warfare","EchoForm","Reflexive Control Theory"],"subjectOf":[{"@id":"https://williamaaronturner.com/publications/echoform#article"},{"@id":"https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html#article"}],"workExample":[{"@type":"ScholarlyArticle","@id":"https://williamaaronturner.com/publications/echoform#article","name":"EchoForm: Modern Applications of Reflexive Control Theory","url":"https://williamaaronturner.com/publications/echoform"},{"@type":"Report","@id":"https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html#article","name":"Corporate Cognitive Warfare: Irregular Warfare for Market Supremacy (Whitepaper, Expanded Edition)","url":"https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html","identifier":"https://doi.org/10.5281/zenodo.23838097"}],"sameAs":["https://orcid.org/0009-0002-1585-5442","https://x.com/infinitumceo","https://www.linkedin.com/in/william-aaron-t-726076244","https://ukrainianfiles.blogspot.com/p/about.html","https://independent.academia.edu/CorporationInfinitum"]},
+ {"@type":["Organization","ProfessionalService"],"@id":"https://www.theinfinitumcorporation.com/#organization","name":"Infinitum Corporation","url":"https://www.theinfinitumcorporation.com","telephone":"+1-202-729-9509","email":"info@theinfinitumcorporation.com","address":{"@type":"PostalAddress","streetAddress":"1629 K Street NW, Suite 300","addressLocality":"Washington","addressRegion":"DC","postalCode":"20006","addressCountry":"US"},"founder":{"@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner"},"sameAs":["https://t.me/infinitumcorporation","https://discord.gg/QVT7dWHUQa","https://github.com/InfinitumCorp","https://whop.com/infinitum-corporation/","https://infinitumwhitepapers.blogspot.com/","https://ukrainianfiles.blogspot.com/"]}
+ ]}
+ </script>
+@@ -58,6 +58,8 @@ footer{margin-top:56px;color:var(--mute);font-size:.9rem}
+ <ul>
+ <li><a href="https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html">Dead Reckoning: AI for Security Operations</a> (whitepaper)</li>
+ <li><a href="https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html">Russia's State-Influenced Capitalism: A Sanctions Whitepaper</a></li>
++<li><a href="https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html">Corporate Cognitive Warfare (Expanded Edition)</a> · DOI 10.5281/zenodo.23838097</li>
++<li><a href="/publications/echoform">EchoForm: Modern Applications of Reflexive Control Theory</a> (companion note)</li>
+ <li><a href="https://ukrainianfiles.blogspot.com/p/the-ukraine-files-full-series.html">The Ukraine Files: full series</a></li>
+ <li><a href="https://russiaafricareport.blogspot.com/">Russia-Africa Report</a> and <a href="https://russiaafricabythenumbers.blogspot.com/">Russia-Africa by the Numbers</a></li>
+ <li><a href="https://independent.academia.edu/CorporationInfinitum">Papers on Academia.edu</a></li>
+@@ -75,7 +77,7 @@ footer{margin-top:56px;color:var(--mute);font-size:.9rem}
+ 
+ <h2>Contact</h2>
+ <p>Infinitum Corporation · 1629 K Street NW, Suite 300, Washington, DC 20006<br>
+-<a href="tel:+12027299509">202-729-9509</a> · <a href="mailto:info@theinfinitumcorporation.com">info@theinfinitumcorporation.com</a> · Open 24 hours</p>
++<a href="tel:+12027299509">202-729-9509</a> · <a href="mailto:info@theinfinitumcorporation.com">info@theinfinitumcorporation.com</a> · Mon–Fri 9 AM–9 PM, closed Sat–Sun</p>
+ 
+ <footer>© 2026 William Aaron Turner · <a href="https://www.theinfinitumcorporation.com/">theinfinitumcorporation.com</a></footer>
+ </main>
+diff --git a/publications/echoform.html b/publications/echoform.html
+new file mode 100644
+index 0000000..bf55826
+--- /dev/null
++++ b/publications/echoform.html
+@@ -0,0 +1,109 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++<meta charset="UTF-8">
++<meta name="viewport" content="width=device-width, initial-scale=1.0">
++<title>EchoForm: Modern Applications of Reflexive Control Theory | Infinitum Corporation</title>
++<meta name="description" content="EchoForm names how prepared decision grounds return through networks as the target's own conclusion. Companion to Corporate Cognitive Warfare.">
++<link rel="canonical" href="https://williamaaronturner.com/publications/echoform">
++<meta property="og:type" content="article">
++<meta property="og:title" content="EchoForm: Modern Applications of Reflexive Control Theory | Infinitum Corporation">
++<meta property="og:description" content="EchoForm names how prepared decision grounds return through networks as the target's own conclusion. Companion to Corporate Cognitive Warfare.">
++<meta property="og:url" content="https://williamaaronturner.com/publications/echoform">
++<meta property="og:site_name" content="William Aaron Turner">
++<meta property="og:image" content="https://www.theinfinitumcorporation.com/infinitum-logo.png">
++<meta name="twitter:card" content="summary">
++<meta name="twitter:site" content="@infinitumceo">
++<meta name="twitter:title" content="EchoForm: Modern Applications of Reflexive Control Theory | Infinitum Corporation">
++<meta name="twitter:description" content="EchoForm names how prepared decision grounds return through networks as the target's own conclusion. Companion to Corporate Cognitive Warfare.">
++<meta name="citation_title" content="EchoForm: Modern Applications of Reflexive Control Theory">
++<meta name="citation_author" content="Turner, William Aaron">
++<meta name="citation_author_orcid" content="https://orcid.org/0009-0002-1585-5442">
++<meta name="citation_publication_date" content="2026/11/07">
++<meta name="citation_publisher" content="Infinitum Corporation">
++<meta name="citation_technical_report_institution" content="Infinitum Corporation">
++<meta name="citation_language" content="en">
++<meta name="citation_abstract_html_url" content="https://williamaaronturner.com/publications/echoform">
++<meta name="keywords" content="EchoForm, Reflexive Control Theory, decision grounds, recursive reasoning, algorithmic amplification, Corporate Cognitive Warfare, information integrity, organizational resilience">
++<style>
++:root{--fg:#0a0a0a;--bg:#fafafa;--mute:#555}
++@media (prefers-color-scheme:dark){:root{--fg:#f2f2f2;--bg:#0a0a0a;--mute:#aaa}}
++*{box-sizing:border-box}body{margin:0;font:17px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--fg);background:var(--bg)}
++main{max-width:760px;margin:0 auto;padding:56px 22px}
++h1{font-size:clamp(1.8rem,5vw,2.6rem);line-height:1.15;letter-spacing:-.02em;margin:0 0 8px}
++.role{color:var(--mute);margin:0 0 28px;font-size:1.05rem}
++h2{font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;margin:44px 0 12px;border-top:1px solid currentColor;padding-top:14px}
++a{color:inherit;text-underline-offset:3px}ul{padding-left:18px}li{margin:6px 0}
++footer{margin-top:56px;color:var(--mute);font-size:.9rem}
++</style>
++<script type="application/ld+json">
++{
++  "@context": "https://schema.org",
++  "@type": "ScholarlyArticle",
++  "@id": "https://williamaaronturner.com/publications/echoform#article",
++  "headline": "EchoForm: Modern Applications of Reflexive Control Theory",
++  "name": "EchoForm: Modern Applications of Reflexive Control Theory",
++  "description": "EchoForm names how prepared decision grounds return through networks as the target's own conclusion. Companion to Corporate Cognitive Warfare.",
++  "url": "https://williamaaronturner.com/publications/echoform",
++  "mainEntityOfPage": "https://williamaaronturner.com/publications/echoform",
++  "datePublished": "2026-11-07",
++  "inLanguage": "en",
++  "keywords": "EchoForm, Reflexive Control Theory, decision grounds, recursive reasoning, algorithmic amplification, Corporate Cognitive Warfare, information integrity, organizational resilience",
++  "author": {
++    "@type": "Person",
++    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
++    "name": "William Aaron Turner",
++    "url": "https://williamaaronturner.com/",
++    "jobTitle": "Founder and President",
++    "identifier": {"@type": "PropertyValue", "propertyID": "ORCID", "value": "0009-0002-1585-5442", "url": "https://orcid.org/0009-0002-1585-5442"},
++    "worksFor": {"@id": "https://www.theinfinitumcorporation.com/#organization"}
++  },
++  "publisher": {
++    "@type": "Organization",
++    "@id": "https://www.theinfinitumcorporation.com/#organization",
++    "name": "Infinitum Corporation",
++    "url": "https://www.theinfinitumcorporation.com",
++    "address": {"@type": "PostalAddress", "streetAddress": "1629 K Street NW, Suite 300", "addressLocality": "Washington", "addressRegion": "DC", "postalCode": "20006", "addressCountry": "US"}
++  },
++  "isBasedOn": {
++    "@type": "Report",
++    "name": "Corporate Cognitive Warfare: Irregular Warfare for Market Supremacy (Whitepaper, Expanded Edition)",
++    "url": "https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html",
++    "identifier": "https://doi.org/10.5281/zenodo.23838097"
++  },
++  "sameAs": [
++    "https://www.theinfinitumcorporation.com/publications/echoform",
++    "https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html",
++    "https://doi.org/10.5281/zenodo.23838097",
++    "https://zenodo.org/records/23838097"
++  ],
++  "genre": "Whitepaper",
++  "additionalType": "https://schema.org/Report"
++}
++</script>
++</head>
++<body>
++<main>
++<p><a href="/">← William Aaron Turner</a></p>
++<h1>EchoForm: Modern Applications of Reflexive Control Theory</h1>
++<p class="role">Companion conceptual note to Corporate Cognitive Warfare · Infinitum Corporation · Washington, DC · 7 Nov 2026</p>
++<p>By <a href="/" rel="author">William Aaron Turner</a> (ORCID <a href="https://orcid.org/0009-0002-1585-5442">0009-0002-1585-5442</a>), Founder &amp; President of <a href="https://www.theinfinitumcorporation.com/">Infinitum Corporation</a>.</p>
++<p>EchoForm names how prepared decision grounds return through networks as the target's own conclusion. Companion to Corporate Cognitive Warfare.</p>
++
++<h2>Cross-links</h2>
++<ul>
++<li>Corporate Cognitive Warfare (Expanded Edition): <a href="https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html">blog post</a> · DOI <a href="https://doi.org/10.5281/zenodo.23838097">10.5281/zenodo.23838097</a> · <a href="https://zenodo.org/records/23838097">Zenodo</a></li>
++<li>Company publications page: <a href="https://www.theinfinitumcorporation.com/publications/echoform">theinfinitumcorporation.com/publications/echoform</a></li>
++</ul>
++
++<h2>Live copies (placeholders until published)</h2>
++<ul>
++<li>EchoForm Zenodo DOI: [DOI PENDING]</li>
++<li>EchoForm Academia.edu: [ACADEMIA URL]</li>
++<li>EchoForm blog (infinitumwhitepapers.blogspot.com): [BLOG URL]</li>
++</ul>
++
++<footer>© 2026 William Aaron Turner · <a href="https://www.theinfinitumcorporation.com/">theinfinitumcorporation.com</a> · Media: <a href="mailto:info@theinfinitumcorporation.com">info@theinfinitumcorporation.com</a></footer>
++</main>
++</body>
++</html>
+diff --git a/sitemap.xml b/sitemap.xml
+index dcef967..20abb5e 100644
+--- a/sitemap.xml
++++ b/sitemap.xml
+@@ -1,2 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://williamaaronturner.com/</loc><lastmod>2026-10-31</lastmod></url></urlset>
++<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
++<url><loc>https://williamaaronturner.com/</loc><lastmod>2026-11-07</lastmod></url>
++<url><loc>https://williamaaronturner.com/publications/echoform</loc><lastmod>2026-11-07</lastmod></url>
++</urlset>
+-- 
+2.47.3
+
+
+From 37853cfb50bc3e2e49083512fea6a4c49ba821ed Mon Sep 17 00:00:00 2001
+From: InfinitumCorp <theinfinitumcorp@gmail.com>
+Date: Sat, 7 Nov 2026 01:02:57 +0300
+Subject: [PATCH 3/3] Point EchoForm live copy at Whop; keep DOI/Academia/blog
+ placeholders
+
+William authorized publishing; Whop product is the first public live URL.
+Site publications page retained; Zenodo DOI still pending.
+---
+ index.html                 | 4 ++--
+ publications/echoform.html | 7 ++++++-
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+
+diff --git a/index.html b/index.html
+index 495d470..311af9d 100644
+--- a/index.html
++++ b/index.html
+@@ -30,7 +30,7 @@ footer{margin-top:56px;color:var(--mute);font-size:.9rem}
+ <script type="application/ld+json">
+ {"@context":"https://schema.org","@graph":[
+ {"@type":"ProfilePage","@id":"https://williamaaronturner.com/#profile","url":"https://williamaaronturner.com/","name":"William Aaron Turner - Founder, Infinitum Corporation","mainEntity":{"@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner"}},
+-{"@type":"Person","@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner","name":"William Aaron Turner","jobTitle":"Founder and President","url":"https://williamaaronturner.com/","worksFor":{"@id":"https://www.theinfinitumcorporation.com/#organization"},"knowsAbout":["Cybersecurity","Network defense","AI for security operations","Strategic risk assessment","Geopolitical analysis","Corporate Cognitive Warfare","EchoForm","Reflexive Control Theory"],"subjectOf":[{"@id":"https://williamaaronturner.com/publications/echoform#article"},{"@id":"https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html#article"}],"workExample":[{"@type":"ScholarlyArticle","@id":"https://williamaaronturner.com/publications/echoform#article","name":"EchoForm: Modern Applications of Reflexive Control Theory","url":"https://williamaaronturner.com/publications/echoform"},{"@type":"Report","@id":"https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html#article","name":"Corporate Cognitive Warfare: Irregular Warfare for Market Supremacy (Whitepaper, Expanded Edition)","url":"https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html","identifier":"https://doi.org/10.5281/zenodo.23838097"}],"sameAs":["https://orcid.org/0009-0002-1585-5442","https://x.com/infinitumceo","https://www.linkedin.com/in/william-aaron-t-726076244","https://ukrainianfiles.blogspot.com/p/about.html","https://independent.academia.edu/CorporationInfinitum"]},
++{"@type":"Person","@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner","name":"William Aaron Turner","jobTitle":"Founder and President","url":"https://williamaaronturner.com/","worksFor":{"@id":"https://www.theinfinitumcorporation.com/#organization"},"knowsAbout":["Cybersecurity","Network defense","AI for security operations","Strategic risk assessment","Geopolitical analysis","Corporate Cognitive Warfare","EchoForm","Reflexive Control Theory"],"subjectOf":[{"@id":"https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/#article"},{"@id":"https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html#article"}],"workExample":[{"@type":"ScholarlyArticle","@id":"https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/#article","name":"EchoForm: Modern Applications of Reflexive Control Theory","url":"https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/"},{"@type":"Report","@id":"https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html#article","name":"Corporate Cognitive Warfare: Irregular Warfare for Market Supremacy (Whitepaper, Expanded Edition)","url":"https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html","identifier":"https://doi.org/10.5281/zenodo.23838097"}],"sameAs":["https://orcid.org/0009-0002-1585-5442","https://x.com/infinitumceo","https://www.linkedin.com/in/william-aaron-t-726076244","https://ukrainianfiles.blogspot.com/p/about.html","https://independent.academia.edu/CorporationInfinitum"]},
+ {"@type":["Organization","ProfessionalService"],"@id":"https://www.theinfinitumcorporation.com/#organization","name":"Infinitum Corporation","url":"https://www.theinfinitumcorporation.com","telephone":"+1-202-729-9509","email":"info@theinfinitumcorporation.com","address":{"@type":"PostalAddress","streetAddress":"1629 K Street NW, Suite 300","addressLocality":"Washington","addressRegion":"DC","postalCode":"20006","addressCountry":"US"},"founder":{"@id":"https://www.theinfinitumcorporation.com/#william-aaron-turner"},"sameAs":["https://t.me/infinitumcorporation","https://discord.gg/QVT7dWHUQa","https://github.com/InfinitumCorp","https://whop.com/infinitum-corporation/","https://infinitumwhitepapers.blogspot.com/","https://ukrainianfiles.blogspot.com/"]}
+ ]}
+ </script>
+@@ -59,7 +59,7 @@ footer{margin-top:56px;color:var(--mute);font-size:.9rem}
+ <li><a href="https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html">Dead Reckoning: AI for Security Operations</a> (whitepaper)</li>
+ <li><a href="https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html">Russia's State-Influenced Capitalism: A Sanctions Whitepaper</a></li>
+ <li><a href="https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html">Corporate Cognitive Warfare (Expanded Edition)</a> · DOI 10.5281/zenodo.23838097</li>
+-<li><a href="/publications/echoform">EchoForm: Modern Applications of Reflexive Control Theory</a> (companion note)</li>
++<li><a href="https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/">EchoForm: Modern Applications of Reflexive Control Theory</a> (Whop) · <a href="/publications/echoform">site entry</a></li>
+ <li><a href="https://ukrainianfiles.blogspot.com/p/the-ukraine-files-full-series.html">The Ukraine Files: full series</a></li>
+ <li><a href="https://russiaafricareport.blogspot.com/">Russia-Africa Report</a> and <a href="https://russiaafricabythenumbers.blogspot.com/">Russia-Africa by the Numbers</a></li>
+ <li><a href="https://independent.academia.edu/CorporationInfinitum">Papers on Academia.edu</a></li>
+diff --git a/publications/echoform.html b/publications/echoform.html
+index bf55826..5e00427 100644
+--- a/publications/echoform.html
++++ b/publications/echoform.html
+@@ -72,6 +72,7 @@ footer{margin-top:56px;color:var(--mute);font-size:.9rem}
+     "identifier": "https://doi.org/10.5281/zenodo.23838097"
+   },
+   "sameAs": [
++    "https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/",
+     "https://www.theinfinitumcorporation.com/publications/echoform",
+     "https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html",
+     "https://doi.org/10.5281/zenodo.23838097",
+@@ -96,7 +97,11 @@ footer{margin-top:56px;color:var(--mute);font-size:.9rem}
+ <li>Company publications page: <a href="https://www.theinfinitumcorporation.com/publications/echoform">theinfinitumcorporation.com/publications/echoform</a></li>
+ </ul>
+ 
+-<h2>Live copies (placeholders until published)</h2>
++<h2>Live copy</h2>
++<ul>
++<li>Whop: <a href="https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/">https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/</a></li>
++</ul>
++<h2>Pending live copies (placeholders)</h2>
+ <ul>
+ <li>EchoForm Zenodo DOI: [DOI PENDING]</li>
+ <li>EchoForm Academia.edu: [ACADEMIA URL]</li>
+-- 
+2.47.3
+

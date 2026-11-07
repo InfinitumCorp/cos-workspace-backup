@@ -1,0 +1,49 @@
+SOURCE_URL: https://medium.com/@williamaaronturner/friendly-fire-e70d34ae2221
+
+HEADLINE:
+Polish Supermarket Cyberattack: William Aaron Turner's Friendly Fire Examines the Strain on the Poland-Ukraine Alliance
+
+SUMMARY:
+Polish supermarket cyberattack: William Aaron Turner's Friendly Fire examines a hack on Lewiatan and how Volhynia history strains Poland and Ukraine.
+
+BODY:
+WASHINGTON, DC, October 31, 2026 - A cyberattack on a Polish supermarket chain is the starting point of "Friendly Fire," an analysis by William Aaron Turner, president of Infinitum Corporation, published on Medium. The article argues that the July 2026 attack "exposes the fracturing of Ukraine's wartime alliance" with Poland.
+
+The attack
+
+According to the article, on July 26, 2026 a Ukrainian-affiliated hacker group calling itself the Azov Cyber Legion targeted Polska Siec Handlowa Lewiatan, one of Poland's largest retail chains. The article reports that the attackers encrypted servers managing inventory, scheduling and employee records, and that in roughly ten outlets the payment infrastructure went offline.
+
+The demand was political rather than financial. Per the article, the attackers demanded that the Polish government officially apologize and withdraw its accusations against the Ukrainian Insurgent Army (UPA), gave Warsaw 48 hours, and threatened to publish stolen employee data. Turner notes that Lewiatan refused to engage with the ultimatum, restored its systems from backups and treated the incident as a criminal matter. "They attacked an ally. They fired at a friend," he writes. According to the article, this was already the second strike in a month against Polish retail, and Turner describes the episode as "a detonation of historical dynamite buried for decades beneath the surface of Polish-Ukrainian relations."
+
+The history behind it
+
+Turner explains that the dispute reaches back to 1943, when UPA units attacked Polish settlements in Volhynia and Eastern Galicia. "Estimates vary, but historians generally agree that between 50,000 and 100,000 Polish civilians perished in those massacres," he writes. The Polish parliament has formally recognized the events as genocide, while in Ukraine the UPA remains a more complicated symbol.
+
+The trigger, per the article
+
+The article reports that in July 2026 Ukraine's military officially redesignated an active combat unit as "UPA Heroes," and that the Polish foreign ministry called the move "historically provocative" and "an insult to the victims of genocide." According to the article, Polish officials warned they would reconsider military support, noting that Poland is the logistics lifeline through which nearly 80% of Western military aid flows into Ukraine. The hackers said they were punishing Poland for "insulting our heroes," and wrote: "Poland has forgotten who it owes its safety to."
+
+A strained alliance
+
+Turner writes that Poland has had to triple its own defense budget and manage grain-import disputes that brought months of tractor blockades, and that some Polish voters feel "the gratitude shown in 2022 has curdled into entitlement in 2026." The article also describes Zelensky's July 28 trip to London and Washington, the July dismissal of Ukraine's defense minister and commander-in-chief, a Ukrainian strike on an Iranian commercial vessel in the Caspian Sea, and Zelensky's statement that Ukraine was effectively "in a state of war with Iran." It also tells the story of a Lewiatan cashier in Wroclaw who worried her personal data would be published.
+
+Why it matters
+
+The article argues the cyberattack turned diplomatic tension into something ordinary Poles could feel, and places it in a month of wider strains for Ukraine's relationships. "When the fighting drags on, the greatest dangers are not always the enemy's missiles," Turner writes. "Sometimes, they are the ghosts of the past, resurrected and weaponized by the very people who should be standing shoulder to shoulder."
+
+On reconciliation, Turner writes that genuine progress would require Ukraine to officially acknowledge the Volhynia massacres as genocide, and Poland to acknowledge that the UPA "was also a complex organization that contained elements of genuine national resistance," supported by joint historical commissions and school exchanges. "But reconciliation cannot happen in the middle of a war," he writes.
+
+The conclusion
+
+"Friendly fire is still fire. It still burns," Turner concludes. "We must remember that our allies are not our enemies - and that the most dangerous shots are the ones fired at those who stand beside us."
+
+Read the full article:
+https://medium.com/@williamaaronturner/friendly-fire-e70d34ae2221
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com
+
+Media contact: William Aaron Turner, Founder and President, Infinitum Corporation, 202-729-9509
+
+TAGS:
+Polish supermarket cyberattack, Lewiatan, Azov Cyber Legion, Poland Ukraine relations, Volhynia, ransomware, cybersecurity, William Aaron Turner, Infinitum Corporation

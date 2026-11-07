@@ -1,0 +1,151 @@
+#!/usr/bin/env python3
+"""Press-release flyers, same system as academia-promo flyers. Landscape 1200x630 + square 1200x1200. No watermark."""
+import sys
+sys.path.insert(0,'/workspace/academia-promo/flyer-gen')
+from make_flyers import osw, inter, draw_tracked, wrap, BG, WHITE, GREY, RULE
+from PIL import Image, ImageDraw, ImageChops
+M=60
+LEFT='Infinitum Corporation'
+SITE='theinfinitumcorporation.com'
+F={
+'useful-idiots-ukraine-war-profiteers':dict(
+  kicker='THE UKRAINE FILES  ·  SPECIAL FILE', head=['USEFUL IDIOTS'],
+  sub='A Guide to the Western Profiteers of the Ukraine War',
+  points=['50 members of Congress traded $24M–$113M in Pentagon contractor stocks in 2024, citing Quincy Institute data',
+          '26 of 32 four-star officers who retired 2018–2023 went on to work for the arms industry (Quincy Institute, 2023)',
+          'Includes a full reference list so readers can check each claim'],
+  read='ukrainianfiles.blogspot.com'),
+'demining-ngos-halo-trust-intelligence-claims':dict(
+  kicker='THE UKRAINE FILES  ·  PART 8 OF 8', head=['DEMINING NGOS','AND INTELLIGENCE'],
+  sub='The HALO Trust, Laos and the Moldova claims',
+  points=['Russian IMAC specialists have cleared more than 208 hectares in Laos since 2018, per the article',
+          'HALO received $258 million in FY2024 State Department funding, the post reports',
+          'HALO has denied or disputed the espionage allegations'],
+  read='ukrainianfiles.blogspot.com'),
+'medium-ukraine-wash-and-fold-money-laundering':dict(
+  kicker='INVESTIGATION  ·  MEDIUM', head=["UKRAINE'S","WASH AND FOLD"],
+  sub='The Biggest Money Laundering Operation in History',
+  points=['SBU case: a "conversion center" laundered over UAH 1.5 billion (USD 36.3 million)',
+          "Former PM Azarov's estimate: $54–108 billion of Western aid lost to corruption",
+          '45 references, from OCCRP and AP News to TASS and RT'],
+  read='medium.com/@williamaaronturner'),
+'ukraine-organ-trade-allegations-sources':dict(
+  kicker='THE UKRAINE FILES  ·  PART 5 OF 8', head=['ORGAN-TRADE','ALLEGATIONS'],
+  sub='The claims, who made each one, and the denials',
+  points=['Each claim is attributed to the person or source who made it',
+          'GSMSG, Tutogen, the Shalimov Clinic and Boris Volfman deny the allegations',
+          'Western governments and fact-checkers dismiss the claims as Russian disinformation'],
+  read='ukrainianfiles.blogspot.com'),
+'medium-meat-grinder-medical-freezer':dict(
+  kicker='INVESTIGATION  ·  MEDIUM', head=['MEAT GRINDER TO','THE MEDICAL FREEZER'],
+  sub='Organ-harvesting claims drawn mainly from Russian sources', sqhead=['MEAT GRINDER TO','THE MEDICAL FREEZER'],
+  points=['Evidence comes mostly from Russian government statements, Russian investigative sources and POW testimony',
+          'Named organizations deny the claims; Western governments call them disinformation',
+          "No reference list is published; readers can request Turner's sources"],
+  read='medium.com/@williamaaronturner'),
+}
+
+def xfix(d,t,f): return -min(0,d.textbbox((0,0),t,font=f,anchor='ls')[0])
+def capH(f): b=f.getbbox('H'); return b[3]-b[1]
+def desc(f): return f.getbbox('g')[3]-f.getbbox('H')[3]
+
+def balanced(d,text,f,maxw,n):
+    ws=text.split()
+    if n==1: return [text]
+    best=None
+    import itertools
+    for cuts in itertools.combinations(range(1,len(ws)),n-1):
+        idx=(0,)+cuts+(len(ws),)
+        ls=[' '.join(ws[idx[i]:idx[i+1]]) for i in range(n)]
+        w=max(d.textlength(l,font=f) for l in ls)
+        if w<=maxw and (best is None or w<best[0]): best=(w,ls)
+    return best[1] if best else None
+
+def fit_lines(d,text,f,maxw,maxn):
+    for n in range(1,maxn+1):
+        if d.textlength(text,font=f)<=maxw and n==1: return [text]
+        if n>1:
+            r=balanced(d,text,f,maxw,n)
+            if r: return r
+    return None
+
+def render(slug,c,W,H,out):
+    im=Image.new('RGB',(W,H),BG); d=ImageDraw.Draw(im); live=W-2*M
+    sq=H>900
+    # kicker
+    kf=inter(26,600); ky=M+capH(kf)
+    xe=draw_tracked(d,(M,ky),c['kicker'],kf,GREY,26*0.18)
+    d.line([(xe+28,ky-capH(kf)//2),(W-M-1,ky-capH(kf)//2)],fill=GREY,width=2)
+    # footer
+    ff=inter(26,500); fy=H-M-max(d.textbbox((0,0),t,font=ff,anchor='ls')[3] for t in (LEFT,SITE,c['read'],'Read the full article: '))
+    if sq:
+        d.text((M,fy),'Read the full article: '+c['read'],font=ff,fill=GREY,anchor='ls')
+        fy2=fy-44
+        d.text((M,fy2),LEFT,font=ff,fill=WHITE,anchor='ls')
+        d.text((W-M,fy2),SITE,font=ff,fill=GREY,anchor='rs')
+        ry=fy2-capH(ff)-26
+    else:
+        d.text((M,fy),LEFT,font=ff,fill=WHITE,anchor='ls')
+        d.text((W-M,fy),c['read'],font=ff,fill=GREY,anchor='rs')
+        ry=fy-capH(ff)-26
+    d.line([(M,ry),(W-M-1,ry)],fill=RULE,width=2)
+    z0,z1=ky+46,ry-34
+    # subtitle
+    for ss in (44,42,40):
+        sf=inter(ss,400); sl=fit_lines(d,c['sub'],sf,live,2)
+        if sl: break
+    s_lh=int(ss*1.28); sub_h=capH(sf)+(len(sl)-1)*s_lh+desc(sf)
+    # points (square only)
+    pts=[]; pt_h=0
+    if sq:
+        pf=inter(36,400); p_lh=int(36*1.34); ind=44; pgap=26
+        for p in c['points']:
+            ls=wrap(d,p,pf,live-ind); pts.append(ls)
+        pt_h=56+sum(capH(pf)+(len(ls)-1)*p_lh+desc(pf) for ls in pts)+pgap*(len(pts)-1)
+    gap_hl,bar_h,gap_bar=40,5,26
+    avail=z1-z0
+    opts=[c['head']]
+    if sq and 'sqhead' in c: opts=[c['sqhead']]
+    elif sq:
+        import itertools
+        w_=' '.join(c['head']).split()
+        for n in (2,3):
+            for cuts in itertools.combinations(range(1,len(w_)),n-1):
+                idx=(0,)+cuts+(len(w_),)
+                opts.append([' '.join(w_[idx[i]:idx[i+1]]) for i in range(n)])
+    cands=[]
+    for head in opts:
+      for hs in range((230 if sq else 260),95,-2):
+        hf=osw(hs,700); hc=capH(hf); lh=int(hc*1.22)
+        hw=max(d.textlength(l,font=hf) for l in head)
+        tot=hc+(len(head)-1)*lh+gap_hl+bar_h+gap_bar+sub_h+pt_h
+        if hw<=live and tot<=avail: cands.append((hs,hf,hc,lh,tot,head)); break
+    assert cands, slug
+    hs,hf,hc,lh,tot,head=max(cands,key=lambda t:t[0])
+    c=dict(c,head=head)
+    y=z0+(avail-tot)//2+hc
+    for l in c['head']:
+        d.text((M-d.textbbox((0,0),l,font=hf,anchor='ls')[0],y),l,font=hf,fill=WHITE,anchor='ls'); y+=lh
+    y=y-lh+gap_hl
+    d.rectangle([M,y,M+110,y+bar_h],fill=WHITE)
+    y+=bar_h+gap_bar+capH(sf)
+    for l in sl:
+        d.text((M+xfix(d,l,sf),y),l,font=sf,fill=GREY,anchor='ls'); y+=s_lh
+    if sq:
+        y=y-s_lh+desc(sf)+56
+        for ls in pts:
+            y+=capH(pf)
+            d.rectangle([M,y-capH(pf)//2-2,M+18,y-capH(pf)//2+2],fill=WHITE)
+            for l in ls:
+                d.text((M+ind,y),l,font=pf,fill=(215,215,215),anchor='ls'); y+=p_lh
+            y=y-p_lh+desc(pf)+pgap
+    im.save(out,optimize=True)
+    bb=ImageChops.difference(im,Image.new('RGB',(W,H),BG)).getbbox()
+    ok=bb[0]>=M and bb[1]>=M and bb[2]<=W-M and bb[3]<=H-M
+    import os
+    print(f'{out} {W}x{H} hl={hs} sub={ss}x{len(sl)} ink={bb} ok={ok} {os.path.getsize(out)//1024}KB')
+
+if __name__=='__main__':
+    for s in (sys.argv[1:] or F):
+        render(s,F[s],1200,630,f'/workspace/press/flyers/{s}.png')
+        render(s,F[s],1200,1200,f'/workspace/press/flyers/{s}-square.png')

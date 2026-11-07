@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html#article",
+  "headline": "In-Q-Tel Explained: The CIA's Venture Capital Arm",
+  "name": "WTF Is In-Q-Tel? The CIA's Venture Fund and the Kill Chain It Bankrolled",
+  "description": "In-Q-Tel explained: how the CIA's venture capital fund bankrolls AI, surveillance and the kill chain. Article by William Aaron Turner.",
+  "url": "https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html",
+  "mainEntityOfPage": "https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html",
+  "datePublished": "2026-10-25T16:32:22+03:00",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
+    "name": "William Aaron Turner",
+    "url": "https://williamaaronturner.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-1585-5442",
+      "url": "https://orcid.org/0009-0002-1585-5442"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0002-1585-5442",
+      "https://williamaaronturner.com/",
+      "https://x.com/infinitumceo",
+      "https://www.linkedin.com/in/william-aaron-t-726076244",
+      "https://umassmarine.academia.edu/WilliamAaronTurner",
+      "https://github.com/InfinitumCorp",
+      "https://ukrainianfiles.blogspot.com/"
+    ],
+    "jobTitle": "Founder and President",
+    "worksFor": {
+      "@id": "https://www.theinfinitumcorporation.com/#organization"
+    }
+  },
+  "abstract": "In-Q-Tel explained: how the CIA's venture capital fund bankrolls AI, surveillance and the kill chain. Article by William Aaron Turner.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  },
+  "keywords": "In-Q-Tel, CIA venture capital, defense technology",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "In-Q-Tel"
+    },
+    {
+      "@type": "Thing",
+      "name": "CIA venture capital"
+    },
+    {
+      "@type": "Thing",
+      "name": "defense technology"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "The Ukraine Files",
+    "url": "https://ukrainianfiles.blogspot.com/"
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.23836521",
+    "https://zenodo.org/records/23836521",
+    "https://web.archive.org/web/2026/https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html"
+  ],
+  "genre": "Article",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.23836521",
+      "url": "https://doi.org/10.5281/zenodo.23836521"
+    }
+  ],
+  "encoding": {
+    "@type": "MediaObject",
+    "encodingFormat": "application/pdf",
+    "contentUrl": "https://zenodo.org/records/23836521/files/Turner_In-Q-Tel.pdf"
+  }
+}

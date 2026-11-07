@@ -1,0 +1,7 @@
+/workspace/whitepapers/echoform/release-kit/00-dispatch.md
+/workspace/whitepapers/echoform/release-kit/01-blog-summary.md
+/workspace/whitepapers/echoform/release-kit/02-x-thread.md
+/workspace/whitepapers/echoform/release-kit/04-newsletter-blurb.md
+/workspace/whitepapers/echoform/release-kit/05-abstract-keywords.md
+/workspace/seo-master/publications-2026-10-31/per-post/echoform.html
+/workspace/seo-master/audit-2026-10-31/keyword-map.md

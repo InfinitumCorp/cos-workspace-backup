@@ -1,0 +1,45 @@
+SOURCE_URL: https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html
+
+HEADLINE:
+AI for Security Operations: Infinitum Corporation Whitepaper Sets a 90-Day Plan for Security Teams
+
+SUMMARY:
+William Aaron Turner's Dead Reckoning whitepaper shows security teams how to adopt AI for security operations: govern first, baseline, pilot, verify.
+
+BODY:
+WASHINGTON, DC, October 31, 2026 - AI for security operations is the subject of "Dead Reckoning: AI for Security Operations in a Jammed, Spoofed, Watched World," the first whitepaper from Infinitum Corporation, written by founder and president William Aaron Turner. The paper gives security teams a practical sequence for adopting artificial intelligence, built around a 90-day plan, a 12-month roadmap and a quarterly check.
+
+The starting point: a world of failed signals
+
+The paper opens with a scenario security leaders will recognize. "The signal is gone. Your navigation says one thing. Your clock says another. The voice on the phone sounds exactly like your CEO," Turner writes. "That is the world your security team works in."
+
+To understand where that world is heading, Turner read public analysis from CSIS and from the bodies that track satellite-navigation interference, and asked what that analysis teaches the people who defend organizations. The lessons he lists are persistence, cheap mass against exquisite systems, constant observation, jammed and spoofed signals, and supply lines that are never safe. He is careful about the framing: "This is a comparison, not a claim that your network is a front line. The paper takes no side and makes no claim about any party."
+
+The numbers behind the paper
+
+Breach entry points: Citing Verizon's 2026 Data Breach Investigations Report, the paper notes that exploiting vulnerabilities is now the top way into a breach, at 31 percent, up from 20 percent.
+
+Time to contain: According to IBM and the Ponemon Institute (2026), the mean time to identify and contain a breach rose to 247 days. Attacks, in IBM's words, "can be launched for thousands while breaches cost millions."
+
+AI and automation: IBM also found that organizations using security AI and automation extensively averaged USD 4.00 million per breach, versus USD 5.93 million for organizations using none. Turner stresses the key word is averaged: "an association, not a guarantee."
+
+What dead reckoning means for a security team
+
+Dead reckoning is how navigators find their way when the signal fails: last known position, heading, speed, time and a second source. Turner applies the same discipline to AI adoption in the security operations center. His advice is direct: "Govern first. Measure a baseline. Pilot with analysts in the loop. Keep an independent check on every critical signal."
+
+That sequence is the backbone of the paper's 90-day plan, which is followed by a 12-month roadmap and a recurring quarterly dead reckoning check that teams can use to confirm their AI tools are still pointed in the right direction.
+
+The paper is written for security leaders, analysts and risk owners who need to evaluate AI tools on evidence rather than vendor claims. Turner's closing advice to readers: "Don't take my word for it. Read the sources."
+
+Availability
+
+The whitepaper announcement and a free download of the full paper are available on the Infinitum Corporation Whitepapers blog:
+https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html
+
+About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com
+
+Media contact: William Aaron Turner, Founder and President, Infinitum Corporation, 202-729-9509
+
+TAGS:
+AI for security operations, security operations center, cybersecurity whitepaper, AI in cybersecurity, breach response, GPS spoofing, security automation, William Aaron Turner, Infinitum Corporation, Washington DC cybersecurity

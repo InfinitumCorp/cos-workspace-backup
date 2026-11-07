@@ -1,0 +1,274 @@
+{
+  "stats": [
+    {
+      "blog": "infinitumwhitepapers.blogspot.com",
+      "counts": {
+        "posts": 5,
+        "pages": 0
+      },
+      "home_status": "200"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "counts": {
+        "posts": 11,
+        "pages": 4
+      },
+      "home_status": "200"
+    },
+    {
+      "blog": "adversarialmirrorratchet.blogspot.com",
+      "counts": {
+        "posts": 1,
+        "pages": 0
+      },
+      "home_status": "200"
+    },
+    {
+      "blog": "russiaafricabythenumbers.blogspot.com",
+      "counts": {
+        "posts": 1,
+        "pages": 0
+      },
+      "home_status": "200"
+    },
+    {
+      "blog": "russiaafricareport.blogspot.com",
+      "counts": {
+        "posts": 1,
+        "pages": 0
+      },
+      "home_status": "200"
+    },
+    {
+      "blog": "williamaaronturner.blogspot.com",
+      "counts": {
+        "posts": 6,
+        "pages": 0
+      },
+      "home_status": "200"
+    },
+    {
+      "blog": "nfiles.blogspot.com",
+      "counts": {
+        "posts": "ERROR 404",
+        "pages": "ERROR 404"
+      },
+      "home_status": "404"
+    },
+    {
+      "blog": "nnfiles.blogspot.com",
+      "counts": {
+        "posts": 2,
+        "pages": 0
+      },
+      "home_status": "200"
+    }
+  ],
+  "discovered": [
+    "adversarialmirrorratchet.blogspot.com",
+    "infinitumwhitepapers.blogspot.com",
+    "nfiles.blogspot.com",
+    "nnfiles.blogspot.com",
+    "russiaafricabythenumbers.blogspot.com",
+    "russiaafricareport.blogspot.com",
+    "ukrainianfiles.blogspot.com",
+    "williamaaronturner.blogspot.com"
+  ],
+  "profiles": [
+    "https://www.blogger.com/profile/06257088557430167955",
+    "https://www.blogger.com/profile/12112325508259245496",
+    "https://www.blogger.com/profile/12191114110565159999"
+  ],
+  "rows": [
+    {
+      "blog": "infinitumwhitepapers.blogspot.com",
+      "post": "https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/wp-cover-special01.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "infinitumwhitepapers.blogspot.com",
+      "post": "https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/whitepapers/Infinitum-Whitepaper-Special-01-Russia-State-Influenced-Capitalism.pdf",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/russia-africa-summit-partnership-results.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-11b.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/russia-africa-summit-partnership-results.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-11b.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-10.jpg?v=2",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-10.jpg?v=2",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/blog-post_26.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-grandmas.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/blog-post_26.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-grandmas.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-08.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-08.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-forced-mobilization-evidence.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-07.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-forced-mobilization-evidence.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-07.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/zelenskyy-rise-backers-media-network.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-06.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/zelenskyy-rise-backers-media-network.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-06.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-organ-trade-allegations.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-05.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-organ-trade-allegations.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-05.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-04.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-04.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-03.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-03.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-02.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-02.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-aid-ngos-audit-donations.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-01.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "ukrainianfiles.blogspot.com",
+      "post": "https://ukrainianfiles.blogspot.com/2026/10/ukraine-aid-ngos-audit-donations.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-01.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "russiaafricabythenumbers.blogspot.com",
+      "post": "https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/db-cover-01b.jpg",
+      "kind": "image",
+      "status": "404"
+    },
+    {
+      "blog": "russiaafricareport.blogspot.com",
+      "post": "https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-11b.jpg",
+      "kind": "link",
+      "status": "404"
+    },
+    {
+      "blog": "russiaafricareport.blogspot.com",
+      "post": "https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html",
+      "url": "https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-11b.jpg",
+      "kind": "image",
+      "status": "404"
+    }
+  ]
+}

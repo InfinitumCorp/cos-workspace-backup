@@ -1,0 +1,392 @@
+P1: JVL
+psr08-016   xxx (xxx)      April 21, 2008     13:58
+
+
+
+
+            American Political Science Review                                                                             Vol. 102, No. 2      April 2008
+                                                                                                                         DOI: 10.1017/S1352325208080166
+
+
+            Design, Inference, and the Strategic Logic of Suicide Terrorism
+            SCOTT ASHWORTH, JOSHUA D. CLINTON,
+            ADAM MEIROWITZ, and
+            KRISTOPHER W. RAMSAY Princeton University
+
+                   I
+                        n “The Strategic Logic of Suicide Terrorism,” Robert Pape (2003) presents an analysis of his suicide
+                        terrorism data. He uses the data to draw inferences about how territorial occupation and religious
+                        extremism affect the decision of terrorist groups to use suicide tactics. We show that the data are
+                   incapable of supporting Pape’s conclusions because he “samples on the dependent variable.” (The data
+                   only contains cases in which suicide terror is used.) We construct bounds (Manski, 1995) on the quantities
+                   relevant to Pape’s hypotheses and show exactly how little can be learned about the relevant statistical
+                   associations from the data produced by Pape’s research design.
+
+
+
+
+            I
+                n a recent article in the American Political Science                  the relevant statistical associations between the use of
+                Review, Robert Pape argues that terrorists adopt                      suicide terror and its possible correlates.
+                suicide tactics to encourage a state to withdraw its                     We focus on Pape’s (2003) article not because his
+            military forces from the terrorists’ homeland (Pape,                      research design is an uncommon one, but because he
+            2003, 344). To support this claim, Pape collects informa-                 asks important questions, and because some in the pol-
+            tion on every suicide attack between 1980 and 2001. He                    icy community describe the work as extracting policy
+            finds that almost every suicide terror attack is part of                  prescriptions from “hard-data.”3 Pape’s article is also
+            a coherent campaign aimed at democracies with forces                      influential in the academic literature on terrorism—–as
+            on what the terrorist group considers its own soil.1 He                   of April 30, 2007, it has 40 citations in the Social Science
+            concludes that military occupation of the terrorist orga-                 Citation Index.4 By highlighting what can and cannot
+            nization’s homeland by foreign democracies increases                      be learned from Pape’s research, we hope to show fu-
+            the risk of suicide terrorism and, on this basis, makes                   ture researchers and policymakers the limitations of
+            policy recommendations about the presence of the U.S.                     such a design.
+            military in the Middle East (Pape, p. 357).
+               By examining only instances of suicide terror, Pape
+            “samples on the dependent variable” (Geddes 1990;                         THE STRATEGIC LOGIC OF SUICIDE
+            King, Keohane, and Verba 1994; Shively 2005).2 As a                       TERRORISM
+            result, he cannot elucidate the causes of suicide ter-                    As Pape (2003) notes, terrorist groups (or self-
+            rorism; he cannot determine why some groups choose                        determination movements) have become increasingly
+            suicide tactics rather than other forms of resistance;                    likely to use suicide tactics since 1980. In the 1980s, only
+            and he cannot answer questions about the implications                     31 attacks involved suicide, but 53 suicide terror attacks
+            of various foreign policy choices on the incidence of                     occurred in 2000–2001 alone. This comparison raises
+            suicide terrorism. In this article, we establish sharp                    the question: why did the number of suicide attacks
+            quantitative limits on what Pape’s data can tell us about                 increase between 1980 and 2001?
+            the statistical associations, showing that these data are                    As Pape (2003) points out, scholars typically treat
+            only minimally informative about the relationship be-                     suicide terrorism as one of many tactics used by ter-
+            tween the strategic environment and organizations’ de-                    rorists, and scholars typically do not distinguish be-
+            cisions to use suicide terror tactics. To be clear, we do                 tween the use of suicide terror and other tactics (343).5
+            not address the complexities of moving from statistical                   According to Pape, suicide terrorism deserves special
+            associations to statements about causality; we focus on                   attention for two reasons. First, in contrast to a con-
+            showing why Pape’s research design cannot even reveal                     ventional view that suicide terrorism reflects extreme
+                                                                                      religious views (344), terrorist organizations decide
+                                                                                      strategically to use suicide because they believe that
+            Scott Ashworth is Assistant Professor of Politics, Princeton Univer-      suicide tactics are especially effective. Second, suicide
+            sity, Princeton, NJ 08544 (sashwort@princeton.edu).
+               Joshua D. Clinton is Assistant Professor of Politics, Princeton Uni-   attacks kill more people (almost 13 more victims, on
+            versity, Princeton, NJ 08544 (clinton@princeton.edu).
+               Adam Meirowitz is Associate Professor of Politics, Princeton Uni-
+            versity, Princeton, NJ 08544 (ameirowi@princeton.edu).                    3 For popular references to Pape’s work, see the July 10, 2005, article
+               Kristopher W. Ramsay is Assistant Professor of Politics, Princeton     in the Washington Post, where Caryle Murphy notes that Pape “ac-
+            University, Princeton, NJ 08544 (kramsay@princeton.edu).                  cumulated a trove of hard data–the stuff you want at your fingertips
+               We thank Larry Bartels, Ethan Bueno de Mesquita, Joanne Gowa,          when you have to make tough calls, decide what to do about Iraq or
+            Kosuke Imai and Jay Lyall for helpful comments.                           fight the Global War on Terror.” Pape’s work has also been discussed
+            1 The exception is six attacks by the Kurdish group PKK in Turkey         in various news outlets such as CNN, FOX News, The American
+            attempting to win the release of a jailed leader, and four attacks by     Conservative, and National Public Radio.
+            Hamas retaliating for the Israeli killing of a leader.                    4 For specific uses of Pape’s work in the scholarly literature, see
+            2 Pape (2005) extends the data through 2003, but because the ex-          Bloom 2005 and Sageman 2004, and the terrorism symposium in a
+            tended data set also considers only acts of suicide terrorism the         recent issue of Perspectives on Politics (Berman et al., 2007).
+            analysis suffers from the same problem as the article.                    5 Unless otherwise noted, all page references are to Pape (2003).
+
+
+
+
+                                                                                                                                                           1
+P1: JVL
+psr08-016   xxx (xxx)     April 21, 2008   13:58
+
+
+
+
+              Design, Inference, and Suicide Terrorism                                                                                   April 2008
+
+
+              average, excluding the September 11 attacks) than                  to achieve nationalist goals” (2003, 348) and “[s]uicide
+              other terrorist acts (346).                                        terrorism is more likely to be employed against states
+                 Pape (2003) collects data on all instances of suicide           with democratic political systems than authoritarian
+              terrorism between 1980 and 2001 (188 cases in all).                governments” (349), we translate Pape’s argument into
+              These data show that most suicide attacks are intended             the language of conditional probability.
+              to coerce a target government, usually a democracy,                   Let OCCUPATION be the event that an act of resistance
+              to withdraw forces from territory the terrorists view              is motivated by a terrorist group’s desire to force some,
+              as their homeland. In particular, Pape shows that all              possibly democratic, state to withdraw from the group’s
+              but ten attacks between 1980 and 2001 sought to per-               home territory. Let ∼ OCCUPATION be the event that an
+              suade a democracy to remove its troops from the home               act of resistance does not involve this motivation, ei-
+              soil of the terrorist organization (348, Table 1). These           ther because the attacks have some other motivation
+              attacks were carried out both by groups responding                 (e.g., to secure the release of a leader), or because their
+              to international intervention, such as the Hezbollah               territory is not occupied. Let SUICIDE be the event that
+              attacks on French troops in Lebanon, and by national-              an act of resistance involves suicide, and let ∼ SUICIDE
+              ist groups within established states, such as the Tamil            be the event that an act of resistance does not involve
+              Tigers in Sri Lanka. Pape argues that the conventional             suicide. Finally, let RELIGIOUS be the event that an act
+              view—–individuals adopt suicide terror tactics because             of resistance is carried out by religious extremists, and
+              of extreme religious beliefs—–does not explain why the             let ∼ RELIGIOUS be the event that an act of resistance
+              Marxist/Leninist Tamil Tigers carry out more suicide               is not carried out by religious extremists. (We develop
+              attacks than any other organization (75 of 188).                   the theoretical background in terms of OCCUPATION, but
+                 After an extensive discussion of the data, Pape draws           all of the issues are identical for RELIGIOUS.)6
+              policy conclusions for states facing suicide terrorism.               To measure the difference in the probability of a
+              Many of these, like hardening defense systems, follow              suicide attack given occupation and its absence, we
+              from facts about the logistics of suicide tactics. Pape            need two conditional probabilities:
+              concludes, however, with the following argument:
+                                                                                   1. Pr(SUICIDE | OCCUPATION)—–the probability that an
+                  Perhaps most important, the close association between               act of terror involves a suicide attack given that
+                  foreign military occupations and the growth of suicide              OCCUPATION as described above is satisfied; and
+                  terrorist movements in the occupied regions should give          2. Pr(SUICIDE |∼ OCCUPATION)—–the probability that
+                  pause to those who favor solutions that involve conquer-            an act of terror involves a suicide attack given
+                  ing countries in order to transform their political systems.        that OCCUPATION is not satisfied.
+                  Conquering countries may disrupt terrorist operations in
+                  the short term, but it is important to recognize that occu-      A precise statement of the statistical association rel-
+                  pation of more countries may well increase the number of       evant for Pape, the attributable risk, is defined as:
+                  terrorists coming at us. (2003, 357).
+                                                                                    AR(SUICIDE | OCCUPATION) = Pr(SUICIDE | OCCUPATION)
+                 Here Pape bases his conclusions on his belief that
+              his data show a “close association” between military                     − Pr(SUICIDE |∼ OCCUPATION).
+              occupation and suicide attacks.
+                                                                                 That is, we want to estimate the increased risk of suicide
+                 Pape deserves praise for the substantial work it took
+                                                                                 attack when a foreign occupation exists and when it
+              to collect these data, data that make a real contribution
+                                                                                 does not. (See Manski 1995, ch. 4 for discussion of the
+              toward undermining stereotypes about suicide terror-
+                                                                                 attributable risk.)7
+              ists. But we think it is important to be clear about what
+                                                                                    If stationing troops in the territory of a terrorist
+              they actually tell us: if a terrorist group chooses sui-
+                                                                                 group raises the risk of suicide tactics, policymakers
+              cide tactics, then it is highly probable that a democratic
+                                                                                 need to factor this cost into their troop deployment
+              country is occupying its homeland. This fact is certainly
+                                                                                 and withdrawal decisions. Pape uses this logic to de-
+              consistent with the existence of a “close association
+                                                                                 fend his policy prescriptions, but it makes sense to do
+              between foreign military occupations and the growth
+                                                                                 so only if Pr(SUICIDE|OCCUPATION) exceeds Pr(SUICIDE| ∼
+              of suicide terrorist movements.” In the remainder of
+                                                                                 OCCUPATION).
+              this paper, however, we show that it is also consistent
+              with either a weak or nonassociation, as well as with
+              a strong negative association. The data Pape collects              Bounds on the Attributable Risk
+              are only minimally informative about the association
+              between military occupation and suicide attacks.                   The most straightforward way to estimate the at-
+                                                                                 tributable risk would be to start with the entire pop-
+                                                                                 ulation of terrorist attacks or a suitably large random
+              CONDITIONAL PROBABILITY AND
+              ATTRIBUTABLE RISK                                                  6 Whether an act of resistance falls into the category RELIGIOUS de-
+
+              To answer Pape’s question—–what accounts for suicide               pends only on the group. The question of whether an act of resistance
+              terrorism?—–we need to determine how the propensity                falls into the category OCCUPATION depends both on the group as
+                                                                                 well as the motivation for the particular act.
+              to use suicide tactics varies with territorial occupation          7 Some readers might like to see the analysis in terms of the relative
+              and how it varies with religious extremism. To express             risk rather than the attributable risk. Our substantive point is not
+              ideas like “suicide terrorism is most likely to be used            changed by this calculation, which we provide in the appendix.
+
+
+
+              2
+P1: JVL
+psr08-016   xxx (xxx)        April 21, 2008   13:58
+
+
+
+
+            American Political Science Review                                                                                           Vol. 102, No. 2
+
+
+            sample of that population. The conditional probabil-
+            ity Pr(SUICIDE | OCCUPATION) could be estimated by the                      TABLE 1. Probabilities Estimated from
+            fraction of occupation-motivated attacks that use sui-                      Pape’s Data
+            cide tactics, and the conditional probability Pr(SUICIDE |                  Pr(SUICIDE)                       188/4155          =.045
+                                                                                        Pr(OCCUPATION | SUICIDE)          178/188           =.947
+            ∼ OCCUPATION) could be estimated by the fraction of
+                                                                                        Pr(RELIGIOUS | SUICIDE)           113/188           =.601
+            non-occupation-motivated attacks that use suicide tac-                      Note: Pape notes that there were 4155 terrorist attacks
+            tics. The estimate for the attributable risk is the differ-                 in the period 1980–2001. Following Pape, we count
+            ence between these fractions.                                               the six attacks carried out by al-Qaeda as occupation-
+               Pape’s (2003) data, however, are not a random sam-                       motivated, in response to U.S. troop presence on the
+            ple from the population of terror attacks because                           Arabian peninsula. In addition, we assume that all at-
+                                                                                        tacks not by the Tamil Tigers are by extreme religious
+            he only examines suicide attacks. His data therefore                        groups, and that the three isolated suicide attacks
+            yield estimates only of the probabilities Pr(OCCUPATION |                   whose perpetrators could not be identified by Pape
+            SUICIDE) and Pr(∼ OCCUPATION | SUICIDE).                                    were motivated by occupation. The results are not sen-
+               Bayes’s rule lets us write the probabilities condi-                      sitive to these assumptions.
+            tional on OCCUPATION in terms of the probabilities con-
+            ditional on SUICIDE and the marginal probabilities of
+            SUICIDE and OCCUPATION:
+                                                                                     Even with imperfect data, an analyst may be able to
+                        Pr(SUICIDE | OCCUPATION)                                  learn about the range of the possible effects of a vari-
+                                                                                  able of interest by estimating bounds on the size of the
+                               Pr(OCCUPATION | SUICIDE)Pr(SUICIDE)                effect rather than a point estimate (Manski, 1995).8 The
+                          =                                                 (1)   expression in equation (3) implies that the attributable
+                                        Pr(OCCUPATION)
+                                                                                  risk can take on values from −1 to 1. How much do
+            and                                                                   Pape’s data help to narrow these bounds?
+                     Pr(SUICIDE |∼ OCCUPATION)                                       To bound the attributable risk and recover the set
+                                                                                  of values consistent with Pape’s (2003) data we cal-
+                             Pr(∼ OCCUPATION | SUICIDE)Pr(SUICIDE)                culate Pr(OCCUPATION) under two extreme assumptions:
+                         =                                         .        (2)   1) all nonsuicide terror is occupation motivated, and
+                                     Pr(∼ OCCUPATION)
+                                                                                  2) no nonsuicide terror is occupation motivated. Basi-
+            Combining these with the definition of at-                            cally, this means substituting 1 and 0, respectively, for
+            tributable risk and the identities Pr(∼ OCCUPATION) =                 the unknown probability in equation (4). This gives
+            1 − Pr(OCCUPATION) and Pr(∼ OCCUPATION|SUICIDE) =                     the greatest and least values of Pr(OCCUPATION) con-
+            1 − Pr(OCCUPATION|SUICIDE), we can express the                        sistent with Pape’s data. The bounds are: 178/4155 ≤
+            attributable risk as:                                                 Pr(OCCUPATION) ≤ 4145/4155. Plugging each value into
+            AR =
+                   Pr(SUICIDE)[Pr(OCCUPATION|SUICIDE) − Pr(OCCUPATION)]
+                                                                        .
+                                                                                  equation (3) along with the probabilities from Table
+                            Pr(OCCUPATION)(1 − Pr(OCCUPATION))                    1 yields the set of attributable risks that are consistent
+                                                                            (3)   with Pape’s data—–any value between −0.957 and 0.944.
+               To calculate the attributable risk we need: the prob-              Without additional assumptions about Pr(OCCUPATION),
+            ability that a terrorist organization uses suicide tac-               these data clearly do not limit the range of the at-
+            tics Pr(SUICIDE), the probability that foreign troops                 tributable risk associated with occupation.
+            occupy the terrorist’s home territory Pr(OCCUPATION),                    Similar results hold for the risk attributable to ex-
+            and the conditional probability of foreign troops on                  treme religious ideology. In this case, the attributable
+                                                                                  risk is
+            the terrorist group’s home soil given a suicide at-
+            tack, Pr(OCCUPATION|SUICIDE). With enough observations                AR(SUICIDE | RELIGIOUS)
+            from the underlying random process, we can estimate
+            Pr(OCCUPATION) by the proportion of terrorist incidents                     Pr(SUICIDE)[Pr(RELIGIOUS|SUICIDE) − Pr(RELIGIOUS)]
+                                                                                    =                                                      .
+            committed by organizations with foreign troops on                                    Pr(RELIGIOUS)(1 − Pr(RELIGIOUS))
+            their home territory. The probabilities Pr(SUICIDE) and                                                                                    (5)
+            Pr(OCCUPATION|SUICIDE) can be estimated from the data
+            in Pape’s article and we present them in Table 1.                     Pape’s (2003) data reveal that religious extrem-
+               writing                                                            ists launched at least 113 terror attacks–suicide or
+                                                                                  otherwise–and not more than 4080. Pr(RELIGIOUS) there-
+               Pr(OCCUPATION)                                                     fore ranges from 113/4155 to 4080/4155. Plugging these
+                                                                                  values into (5) yields attributable risks between −.973
+                    = Pr(OCCUPATION | SUICIDE)Pr(SUICIDE)                         and .981. Given the range of the bounds, Pape’s data
+                        + Pr(OCCUPATION |∼ SUICIDE)Pr(∼ SUICIDE),           (4)   do not restrict the feasible values of the risk of suicide
+
+            it is clear that without a measure of Pr(OCCUPATION |
+            ∼ SUICIDE) we do not know, and cannot estimate,
+                                                                                  8 The bounds are not confidence intervals. They are bounds on the
+            Pr(OCCUPATION) from Pape’s data. Without this prob-
+                                                                                  true attributable risk assuming that the data perfectly reveal the stated
+            ability, we cannot calculate the probability of a suicide             probabilities. The bounds say nothing about our uncertainty regard-
+            attack given territorial occupation, and therefore can-               ing the estimated association; calculating standard errors for the
+            not calculate the attributable risk.                                  bounds would reveal the data to be even less informative.
+
+
+
+                                                                                                                                                         3
+P1: JVL
+psr08-016   xxx (xxx)     April 21, 2008       13:58
+
+
+
+
+              Design, Inference, and Suicide Terrorism                                                                                          April 2008
+
+
+              terrorism attributable to religious extremism in any                          Also assume that religious extremists are a small mi-
+              meaningful sense.9                                                            nority of all terror groups. What sort of data on suicide
+                                                                                            terrorism would such a world provide? Even if every
+                                                                                            religious extremist group used suicide terror tactics, so
+              CONCLUSION                                                                    long as at least some of the non-religious groups also
+              The data Pape collects do not speak to the correlates of                      did so, the data would reveal many suicide terror at-
+              suicide terror, and the policy conclusions he advocates                       tacks conducted by non-religious groups. Because the
+              cannot be justified by appealing to the data he collects.                     conditional probability of a group using such tactics
+              These data are consistent with attributable risks from                        given a religious orientation in the hypothetical world
+              territorial occupation ranging from −.957 to .944 and                         is 1, it would be wrong to conclude that there is a low
+              with attributable risks from religious extremism rang-                        probability of a group using suicide tactics given that
+              ing from −.973 and .981.                                                      they are religious. Evaluating any account of the causes
+                 It is important to note that our critique of Pape’s                        of suicide terrorism requires comparing instances of
+              (2003) analysis does not make the well-known point                            terrorism involving suicide attacks to instances that
+              that association does not imply causation. Rather, be-                        don’t, and determining if the cases of non-suicide ter-
+              cause Pape collects only instances of suicide terrorism,                      rorism include a higher or lower fraction of instances
+              his data do not even let him calculate the needed asso-                       involving territorial occupation or religious extremism.
+              ciations. The conditional probability of suicide terror                          Finally, it is important to recognize that the key ques-
+              tactics given territorial occupation, religious extrem-                       tion of “why terror tactics” can not be answered even
+              ism, or any other potential cause, is unidentified and,                       if data on all of the 4,155 terror attacks that Pape ref-
+              thus, the attributable risk is also unidentified. Only                        erences are analyzed. Armed only with data on terror
+              after these identification issues are resolved can the                        attacks we cannot escape a larger problem of “select-
+              equally important issue of determining whether the                            ing on the dependent variable” because the sample
+              correlations have a causal interpretation be addressed.                       contains only instances of terror. Identifying the cor-
+                 One might ask if our focus on conditional proba-                           relates of terrorism requires data on groups that use
+              bilities, attributable risk, and the relationship between                     terror tactics and groups with similar grievances that
+              inference and policy recommendations is either mis-                           do not. These type of data are not easy to collect or
+              guided or unfair. Surely, the objection might go, Pape                        even conceptualize, but we take some comfort from
+              (2003) advances the social scientific study of terrorism                      the fact that scholars interested in the correlates of war
+              by presenting a theory of suicide terrorism and col-                          resourcefully address a similar problem by collecting
+              lecting data on terrorist attacks. Although Pape’s data                       data on all country dyads, regardless of war status,
+              fail to falsify his theory, if the data instead revealed                      across many years. Understanding the causes of terror
+              that almost every suicide terror act involved religious                       might require a similar research design. Alternatively,
+              extremists and many acts were motivated by aims other                         if the appropriate population of cases can be identi-
+              than the reversal of territorial occupation by democra-                       fied, progress on the terrorism question might be made
+              cies, wouldn’t that refute his theory?                                        using cost effective techniques like those suggested in
+                 No, it would not. Data on instances of suicide terror                      King and Zeng (2001a, 2001b, 2002), who show that
+              with either a high percentage of observations involving                       combing “choice-based” samples with auxiliary data
+              religious extremists or a low number of observations                          on marginal probabilities can produce informative es-
+              motivated with the aim of reversing territorial occupa-                       timates of attributable risk. In either case, researchers
+              tion would not justify rejecting the theory for exactly                       would also need to account for the important problems
+              the reasons we outline above. Determining the cor-                            of spatial and temporal correlation of decisions to use
+              relates of terrorists’ decisions to use suicide requires                      terror, and for the possibility that multiple factors, for
+              information about acts not involving suicide terrorism.                       example, religion and occupation, interact to cause a
+                 To highlight the importance of this fact about re-                         group to adopt terror tactics.
+              search design, consider a thought-experiment. Sup-
+              pose that many kinds of resistance groups (e.g., reli-                        APPENDIX: BOUNDS ON THE RELATIVE
+              gious groups, nationalist groups, and Marxist/Leninist                        RISK
+              groups) use suicide tactics to varying degrees and sup-
+              pose that all religious extremists use only suicide tactics.                  An alternative measure of the additional risk of suicide tactics
+                                                                                            associated with occupation is the relative risk, defined as:
+
+              9 This calculation is not very sensitive to our classification choices. Al-
+                                                                                                 RR(SUICIDE | OCCUPATION)
+              though we count every act not conducted by the Tamil Tigers (LTTE)                        Pr(OCCUPATION|SUICIDE)(1 − Pr(OCCUPATION))
+              in Sri Lanka as being associated with religious extremism in the text,                =                                              .
+              if we also exclude the 9 attacks by the Kurdish separatist group PKK,                     Pr(OCCUPATION)(1 − Pr(OCCUPATION|SUICIDE))
+              the 4 attacks by Chechnen rebels, the 3 attacks by Kashmir rebels,            Focusing on the relative risk seems hard to justify in the
+              the 3 isolated attacks conducted by unknown groups, and 1/3 of the            case of suicide terrorism because the impact of averting a
+              remaining 94 attacks under the assumption that “among Islamic sui-
+              cide attacks, groups with secular orientations account for about a
+                                                                                            risk factor for suicide terrorism depends on the number of
+              third of these attacks” (Pape, 2003, 343), Pr(RELIGIOUS|SUICIDE) =            events averted. We care about the attributable risk times the
+              63/188 = .335, the upper bound for Pr(RELIGIOUS) is 4030/4155 =               size of the relevant population and relative risk statistics are
+              .970, the lower bound for Pr(RELIGIOUS) = 63/4155 = .015 and the              uninformative about this quantity (see Manski 1995, 74–75
+              bounds for the attributable risk are [−.984, .969].                           for more discussion of this point in a public health context.)
+
+
+
+              4
+P1: JVL
+psr08-016   xxx (xxx)      April 21, 2008      13:58
+
+
+
+
+            American Political Science Review                                                                                             Vol. 102, No. 2
+
+
+               We can calculate bounds on the relative risk just as we can             Geddes, Barbara. 1990. “How the Cases You Choose Affect the An-
+            for the attributable risk. Given Pape’s data, the bounds on                  swers You Get: Selection Bias in Comparative Politics.” Political
+            the relative risk associated with territorial occupation are:                Analysis 2 (Spring): 131–50.
+                                                                                       King, Gary, and Lenche Zeng. 2001a. “Explaining Rare Events in In-
+                                  Pr(SUICIDE|OCCUPATION)                                 ternational Relations.” International Organization 55 (Summer):
+                        .036 ≤                             ≤ 379.                        693–715.
+                                 Pr(SUICIDE| ∼ OCCUPATION)                             King, Gary, and Lengche Zeng. 20016. “Logistic Regression in Rare
+            This calculation shows that many different levels of the rel-                Events Data.” Political Analysis 9 (Spring): 137–63.
+                                                                                       King, Gary, and Lengche Zeng. 2002. “Estimating Risk and Rate
+            ative risk of territorial occupation are consistent with the
+                                                                                         Levels, Ratios and Differences in Case-control Studies.” Statistics
+            data and we have few grounds to support one decision or                      in Medicine 21 (August): 1409–27.
+            another regarding counterterrorism policy. Interpreting the                King, Gary, Robert O. Keohane, and Sidney Verba. 1994. Design-
+            bounds on the relative risk raises a second disadvantage of the              ing Social Inquiry: Scientific Inference in Qualitative Research.
+            measure: its scale is both nonlinear and asymmetric around                   Princeton, NJ: Princeton University Press.
+            the natural reference point of 1. Without any additional in-               Manski, Charles F. 1995. Identification Problems in the Social Sci-
+            formation we know only that the relative risk lies between                   ences. Cambridge, MA: Harvard University Press.
+            .036 and 379.10                                                            Murphy, Caryle. 2005. “A Scholarly Look at Terror Sees Bootprints
+                                                                                         in the Sand.” The Washington Post 41:D01.
+                                                                                       Pape, Robert A. 2003. “The Strategic Logic of Suicide Terrorism.”
+            REFERENCES                                                                   American Political Science Review 97 (August): 343–61.
+                                                                                       Pape, Robert A. 2005. Dying to Win: The Strategic Logic of Suicide
+            Berman, Eli, Roxanne L. Euben, Gilles Kepel, David Laitin, Karen             Terrorism. New York: Random House.
+              Rasler, and Ian Shapiro. 2007. “Understanding Suicide Terror.”           Sageman, Marc. 2004. Understanding Terror Networks. Philadelphia:
+              Perspectives on Politics 5 (March): 117–40.                                University of Pennsylvania Press.
+            Bloom, Mia. 2005. Dying to Kill: Allure of Suicide Terror. New York:       Shively, W. Phillips. 2005. The Craft of Political Research. Upper
+              Columbia University Press.                                                 Saddle River, NJ: Pearson Prentice Hall.
+
+
+
+
+            10 We caution readers to avoid concluding based on the fact that
+            the interval between 1 and 379.197 is much larger than the interval
+            between .036 and 1 that this is evidence that the relative risk is
+            likely to exceed 1. If we believed that Pr(SUICIDE|OCCUPATION) and
+            Pr(SUICIDE| ∼ OCCUPATION) were drawn from the same distribution
+            (as in the case of an uninformative prior on the association between
+            OCCUPATION and SUICIDE) the bounds for the relative risk would be
+            0 and infinity, yet the probability that the relative risk was less than
+            1 would be exactly one-half.
+
+
+
+                                                                                                                                                          5
+

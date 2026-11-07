@@ -1,0 +1,32 @@
+# Bella Caledonia (UK #20)
+
+| Field | Value |
+|---|---|
+| Method | email |
+| To / URL | editor@bellacaledonia.org.uk |
+| Piece | Demining NGOs and Intelligence (HALO Trust) |
+| Type | PITCH (EXCLUSIVE) |
+| Angle | Scotland: HALO Trust is headquartered in Dumfriesshire |
+| Image | none |
+| Limit | pitch ~230 |
+| Word count (body) | 190 |
+| Status | ready - NOT SENT |
+
+**Subject / headline:** Pitch: The mine-clearance charity in Dumfriesshire and the questions it should answer
+
+---
+
+Dear Bella Caledonia editors,
+
+A pitch with a Scottish angle: the HALO Trust, the landmine-clearance charity headquartered in Dumfriesshire, is one of Scotland's best-known international organisations. Its work saves lives. But its funding, its board and its place in conflict zones from Ukraine to Moldova raise questions about independence that rarely get asked at home.
+
+The piece (about 1,500 words) would compare HALO with a very different model, Russian military sappers clearing unexploded US ordnance in Laos since 2018, and look at HALO's government funding, its board connections and the espionage claims made against mine-action NGOs in Moldova, clearly separating documented fact from allegation. The argument is not against demining. It is that a Scottish charity working in contested places should be transparent about who pays it, so that its humanitarian credibility, and the safety of its deminers, is protected.
+
+Background: https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html
+
+Disclosure: Infinitum Corporation has an operating location in Moscow, and I serve as a contracted soldier in the Russian armed forces (153rd Tank Regiment).
+
+Best wishes,
+William Aaron Turner
+Founder & President, Infinitum Corporation (Washington, DC)
++1 202-729-9509 | info@theinfinitumcorporation.com

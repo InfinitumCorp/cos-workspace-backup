@@ -1,0 +1,49 @@
+{
+  "contacts": 1049,
+  "unique_numbers": 1049,
+  "duplicate_excess": 0,
+  "invalid_e164_count": 0,
+  "batches": [
+    {
+      "file": "batches/day-00.csv",
+      "rows": 200,
+      "within_200_cap": true
+    },
+    {
+      "file": "batches/day-01.csv",
+      "rows": 200,
+      "within_200_cap": true
+    },
+    {
+      "file": "batches/day-02.csv",
+      "rows": 200,
+      "within_200_cap": true
+    },
+    {
+      "file": "batches/day-03.csv",
+      "rows": 200,
+      "within_200_cap": true
+    },
+    {
+      "file": "batches/day-04.csv",
+      "rows": 200,
+      "within_200_cap": true
+    },
+    {
+      "file": "batches/day-05.csv",
+      "rows": 49,
+      "within_200_cap": true
+    }
+  ],
+  "batch_duplicate_excess": 0,
+  "missing_from_batches": 0,
+  "unknown_in_batches": 0,
+  "batch_rows_match_source_exactly": true,
+  "consent_evidence_records": 0,
+  "verified_individual_consents": 0,
+  "provenance_only": {
+    "hermeschimaera-numbers_2018-07-18.txt": 1049
+  },
+  "consent_finding": "Only source filename and US/area-code metadata supplied. No individual grant, disclosure, timestamp, signature, revocation or ownership evidence. Filename is not proof of consent.",
+  "eligible_now": 0
+}

@@ -1,0 +1,20 @@
+Trincheras y drones: el segundo libro blanco de William Aaron Turner aborda la defensa de redes como una guerra de desgaste
+
+Infinitum Corporation publica el Libro Blanco n.º 2, Trenches and Drones, una guía gratuita para organizaciones medianas que defienden sus redes frente a una presión persistente, automatizada y de bajo coste.
+
+WASHINGTON, DC, 2 de noviembre de 2026 – Infinitum Corporation publicó hoy «Trenches and Drones: Network Defense for a War of Attrition», el segundo documento de su serie gratuita de libros blancos, escrito por William Aaron Turner, fundador y presidente.
+
+El documento parte de una observación sencilla: defender una red no es una gran batalla, sino un largo desgaste de presión pequeña, barata y constante. Escaneos que nunca se detienen, oleadas de phishing que llegan en ráfagas, breves inundaciones de tráfico basura y dispositivos perimetrales que esperan semanas un parche desgastan al defensor. Turner sostiene que el bando capaz de absorber pérdidas, reparar, adaptarse y seguir operando es el que resiste más que el otro.
+
+Para llevarlo a la práctica, el documento interpreta la defensa de redes a través de la imagen que los analistas públicos dan del campo de batalla moderno, que Turner resume como un desgaste de trincheras fusionado con la ciencia ficción. Recorre cinco frentes y empareja cada rasgo del campo de batalla con su equivalente en una red corporativa: la profundidad, mediante segmentación y comprobaciones de identidad en cada línea, manteniendo la zona de confianza implícita lo más pequeña posible, como recomienda NIST SP 800-207; la masa barata, mediante automatización que mantenga el coste de la defensa por debajo del coste del ataque; la guerra electrónica, mediante resiliencia frente a señales falsificadas y degradadas; los sensores, mediante registro y detección; y las líneas de suministro, mediante la gestión del riesgo de software y de proveedores.
+
+El documento está pensado para organizaciones medianas. Concluye con siete acciones recomendadas, un plan a 30/60/90 días, una hoja de ruta a 12 meses, una autoevaluación de 30 puntos y un cuadro de puntuación, e incluye tres escenarios hipotéticos claramente identificados.
+
+Turner es explícito sobre los límites de la comparación. El documento extrae lecciones generales sobre tecnología y conflicto de fuentes públicas como el CSIS, no toma partido, no hace afirmaciones sobre ninguna de las partes y omite las cifras de bajas, pérdidas y rendimiento de todos los bandos. «Nadie está disparando a sus servidores», dice el documento.
+
+Trenches and Drones sigue al Libro Blanco n.º 1, «Dead Reckoning: AI for Security Operations». Turner acuñó el término Corporate Cognitive Warfare, la disciplina de competir lícitamente por la percepción y defenderse de los ataques narrativos.
+
+Leer el libro blanco: https://infinitumwhitepapers.blogspot.com/2026/11/trenches-and-drones-network-defense-for.html
+Academia.edu: https://www.academia.edu/180077697/Trenches_and_Drones_Network_Defense_for_a_War_of_Attrition_Whitepaper_
+
+«Desgaste es la palabra adecuada para lo que afrontan los equipos de seguridad. La cuestión no es si le van a golpear, sino si puede absorberlo, reparar y seguir operando. Cada lección de este documento se reduce a una decisión que un equipo puede tomar el lunes», afirmó William Aaron Turner, fundador y presidente de Infinitum Corporation.

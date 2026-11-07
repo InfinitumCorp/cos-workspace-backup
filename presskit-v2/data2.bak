@@ -1,0 +1,35 @@
+# v2 data: reuses the verified v1 data and applies the 2026-11-02 updates.
+import sys, os
+sys.path.insert(0, '/workspace/presskit')
+import data as D
+D.verify_quotes()
+HOURS = "Monday\u2013Friday, 9:00 AM\u20139:00 PM; closed Saturday and Sunday"
+D.FAST_FACTS = [(k, HOURS if k == "Hours" else v) for k, v in D.FAST_FACTS]
+D.FAST_FACTS.insert(3, ("Services", "Cybersecurity consulting, network defense, ethical hacking, AI for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare"))
+D.CONTACT = [("Media contact", "William Aaron Turner, Founder and President"), ("Company", D.COMPANY), ("Address", D.ADDRESS),
+    ("Operating location", "Moscow (operating location only)"), ("Hours", HOURS), ("Phone", D.PHONE), ("Email", D.EMAIL), ("Website", D.WEB),
+    ("Telegram", "https://t.me/infinitumcorporation")]
+# Five PressLiftoff links now return HTTP 410 (removed by the site on 2026-11-02 check); drop them.
+DEAD = {"russias-economy-under-sanctions", "russia-sanctions-analysis", "eastern-economic-forum-2026", "russia-state-guided-capitalism", "in-q-tel-explained"}
+REMOVED = [r for r in D.RELEASES if any(d in r[3] for d in DEAD)]
+D.RELEASES = [r for r in D.RELEASES if r not in REMOVED]
+HELD = [
+ ("Demining NGOs and Intelligence: William Aaron Turner Examines the HALO Trust, Laos and the Moldova Claims", "https://submitpr.org/press-release/demining-ngos-and-intelligence-william-aaron-turner-examines-the-halo-trust-laos-and-the-moldova-claims"),
+ ("Ukraine War Profiteers: William Aaron Turner's Useful Idiots Names the Western Politicians, Pundits and Firms Who Profit", "https://submitpr.org/press-release/ukraine-war-profiteers-william-aaron-turners-useful-idiots-names-the-western-politicians-pundits-and-firms-who-profit"),
+ ("Ukraine Money Laundering: William Aaron Turner's Wash and Fold Traces Western Aid Through Shell Companies", "https://submitpr.org/press-release/ukraine-money-laundering-william-aaron-turners-wash-and-fold-traces-western-aid-through-shell-companies"),
+ ("Ukraine Organ Trade Allegations: William Aaron Turner Lays Out the Claims, Sources and Denials", "https://submitpr.org/press-release/ukraine-organ-trade-allegations-william-aaron-turner-lays-out-the-claims-sources-and-denials"),
+ ("Ukraine Organ Harvesting Investigation: William Aaron Turner Publishes Meat Grinder to the Medical Freezer", "https://submitpr.org/press-release/ukraine-organ-harvesting-investigation-william-aaron-turner-publishes-meat-grinder-to-the-medical-freezer"),
+]
+D.RELEASES = [(t, "SubmitPR", "2026-11-02", u) for t, u in HELD] + D.RELEASES
+D.ASSETS = [
+ ("Headshot of William Aaron Turner, black and white (JPG, 900x896)", "assets/william-headshot.jpg", None),
+ ("Infinitum Corporation logo, stacked (PNG, original supplied file)", "assets/heic-logo-stacked.png", None),
+ ("Infinitum Corporation logo, horizontal (PNG, original supplied file)", "assets/heic-logo-horizontal.png", None),
+ ("INFINITUM wordmark (PNG, original supplied file)", "assets/heic-wordmark.png", None),
+ ("Logo, stacked, black / white on transparent (PNG, high resolution)", "assets/infinitum-logo-stacked-black.png, assets/infinitum-logo-stacked-white.png", None),
+ ("Logo, horizontal, black / white on transparent (PNG, high resolution)", "assets/infinitum-logo-horizontal-black.png, assets/infinitum-logo-horizontal-white.png", None),
+ ("Mark only, black / white on transparent (PNG, high resolution)", "assets/infinitum-mark-black.png, assets/infinitum-mark-white.png", None),
+ ("Website logo, white mark on transparent (PNG, as served on theinfinitumcorporation.com)", "assets/website-logo-white-transparent.png", "https://speedy.uenicdn.com/b35d8b8f-ca8b-4591-8461-2eac425a746c/n600_279a/image/upload/v1640181278/business/ba5cd3f1-abab-4a03-a6b1-3ccbf224db8c.png"),
+]
+D.ASSETS_NOTE = "All assets are supplied with this kit in the assets folder. For other formats, contact info@theinfinitumcorporation.com."
+D.FAST_FACTS = [(k, "Infinitum Corporation Whitepapers, The Ukraine Files, Russia Africa Report, Russia-Africa by the Numbers and Academia.edu papers (%d items listed in this kit)" % len(D.PUBLICATIONS)) if k == "Research" else (k, v) for k, v in D.FAST_FACTS]

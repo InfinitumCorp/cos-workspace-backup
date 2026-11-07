@@ -1,0 +1,50 @@
+In-Q-Tel explicado: William Aaron Turner analiza el brazo de capital riesgo de la CIA y su canal tecnológico
+
+In-Q-Tel explicado: William Aaron Turner rastrea las finanzas, la cartera y el canal tecnológico que llega a Ucrania del brazo de capital riesgo fundado por la CIA.
+
+WASHINGTON, DC, 31 de octubre de 2026 – In-Q-Tel explicado en términos sencillos es el tema de un nuevo análisis de William Aaron Turner, fundador y presidente de Infinitum Corporation. El texto, «In-Q-Tel Explained: The CIA's Venture Capital Arm», es la Parte 4 de 8 de la serie The Ukraine Files y sigue a In-Q-Tel (IQT) desde su sede en Virginia hasta las empresas de IA, datos y satélites que ha respaldado.
+
+«En 1999 la CIA creó un brazo de capital riesgo sin ánimo de lucro con el nombre del fabricante de artilugios de James Bond», escribe Turner.
+
+Cifras clave citadas en el análisis
+
+Estructura: In-Q-Tel es una corporación sin ánimo de lucro con sede en la zona de Tysons Corner, en Virginia, con filiales como IQTI LLC e IQT LABS LLC.
+
+Finanzas: En el ejercicio fiscal 2025, In-Q-Tel declaró ingresos de unos 132,1 millones de dólares, el 86 % procedente de subvenciones y aportaciones gubernamentales.
+
+Escala: Las inversiones acumuladas desde 1999 superan las 800. Los instrumentos típicos son acuerdos de desarrollo tecnológico de entre 500.000 y 3 millones de dólares aproximadamente, combinados con participaciones o warrants.
+
+Dirección: El Consejo de Administración ha incluido al exdirector de la CIA George Tenet, al expresidente del Estado Mayor Conjunto Michael Mullen y a Michael Crow, de la Universidad Estatal de Arizona. Entre los altos ejecutivos mencionados figuran el consejero delegado Steve Bowsher, el director de operaciones Matthew Strottman y el director de inversiones Dan Gwak.
+
+Historial: En 2005 In-Q-Tel invirtió en Palantir y la presentó a la comunidad de inteligencia.
+
+Enfoque de la cartera: La cartera se inclina hacia el software empresarial, la IA y el análisis de datos, seguidos de ciberseguridad, semiconductores, espacio, energía, biotecnología y robótica.
+
+Del requisito a la startup
+
+El análisis explica cómo una pequeña unidad de enlace de la CIA, el In-Q-Tel Interface Center, opera dentro de la sede de la CIA y, según lo describe el artículo, traduce los requisitos de la comunidad de inteligencia en problemas comerciales. In-Q-Tel busca después startups que los resuelvan. Turner cita también declaraciones ante el IRS que muestran entre 50 y 64 millones de dólares anuales de financiación, y la afirmación de la propia In-Q-Tel de haber movilizado más de 3.900 millones de dólares en fondos privados.
+
+El texto describe cómo las empresas de imágenes por satélite Capella Space e ICEYE, ambas asociadas con In-Q-Tel en 2021, proporcionan imágenes de radar de apertura sintética que ven a través de nubes y oscuridad, y cómo su tecnología se ha utilizado sobre Ucrania.
+
+Ucrania como campo de pruebas
+
+El artículo cita a un analista de defensa que llama a Ucrania «el campo de pruebas en vivo más avanzado del mundo para la guerra asistida por IA». Menciona entre 12 y 15 terabytes de vídeo bruto de drones recibidos a diario, más de 200 empresas que desarrollan drones con IA integrada, el Brave1 Dataroom creado con Palantir a principios de 2026, el sistema ucraniano Delta con más de 200.000 usuarios y hasta 9.000 drones lanzados al día. Según informaciones de New Scientist citadas, el fabricante ucraniano Aero Center realizó una prueba única en «modo Terminator» con diez cuadricópteros totalmente autónomos sin enlace de comunicación.
+
+Palantir y Anduril
+
+El artículo afirma que Palantir llegó a Ucrania en 2022, que más de mil efectivos ucranianos han usado su software, y cita a Alex Karp diciendo que MetaConstellation fue responsable de «la mayor parte de la selección de objetivos» en Ucrania; según documentos de finales de 2022, Palantir recibió más de 500 millones de dólares por sus primeros meses de trabajo. Turner sostiene que esto implica directamente a la tecnología y al personal estadounidenses en las decisiones de selección de objetivos. El artículo señala a In-Q-Tel como inversor documentado de Anduril y cita casi 30 millones de libras en contratos británicos de municiones merodeadoras Altius para Ucrania y drones Bolt-M.
+
+Las afirmaciones controvertidas
+
+La sección «bio-nexus» del artículo informa de que en diciembre de 2022 el Ministerio de Defensa ruso incluyó a la vicepresidenta ejecutiva de In-Q-Tel, Tara O'Toole, entre los participantes en los programas biológicos militares de Ucrania. Turner advierte directamente sobre las fuentes: la acusación «no ha sido verificada de forma independiente», y lo que O'Toole y otros hicieron en Ucrania no es público. El artículo señala también que Michael Crow fue sancionado por Rusia en 2023 como presidente del consejo de In-Q-Tel.
+
+La estructura de apoyo más amplia citada incluye unos 50.800 millones de dólares en apoyo militar estadounidense a marzo de 2026, un compromiso de la OTAN de 140.000 millones de euros para 2026-2027 y un préstamo de la UE de 90.000 millones de euros, frente a una brecha entre 400.000 millones de euros prometidos y 180.000 millones entregados.
+
+Alcance del argumento
+
+Turner fija límites claros a sus afirmaciones. El artículo señala que no hay pruebas de fuentes abiertas de que las filiales de In-Q-Tel operen dentro de Ucrania. «Mi argumento trata de financiación y tecnología, no de botas sobre el terreno», escribe. Las empresas vinculadas a In-Q-Tel se sitúan en la estructura de apoyo más amplia, en palabras del artículo, «como proveedores de tecnología, no como financiadores principales ni mandos operativos».
+
+Su conclusión se presenta como su propia lectura: que In-Q-Tel es «un motor legal, público y silencioso del canal tecnológico hacia Ucrania». Escribe que el coste humano, incluidos los falsos positivos en la selección de objetivos por IA, es real, y que las empresas de tecnología de defensa se lucran mientras las guerras continúan. La publicación enlaza al artículo original y a su lista completa de referencias para que los lectores comprueben las fuentes por sí mismos.
+
+Leer el análisis completo:
+https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html

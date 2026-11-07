@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Report",
+  "@id": "https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html#article",
+  "headline": "Dead Reckoning: AI for Security Operations Whitepaper",
+  "name": "Dead Reckoning: AI for Security Operations in a Jammed, Spoofed, Watched World",
+  "description": "AI for security operations whitepaper: a 90-day AI SOC plan for mid-size organizations in a jammed, spoofed, watched world. Infinitum Corporation®.",
+  "url": "https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html",
+  "mainEntityOfPage": "https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html",
+  "datePublished": "2026-10-25T14:23:27-07:00",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
+    "name": "William Aaron Turner",
+    "url": "https://williamaaronturner.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-1585-5442",
+      "url": "https://orcid.org/0009-0002-1585-5442"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0002-1585-5442",
+      "https://williamaaronturner.com/",
+      "https://x.com/infinitumceo",
+      "https://www.linkedin.com/in/william-aaron-t-726076244",
+      "https://umassmarine.academia.edu/WilliamAaronTurner",
+      "https://github.com/InfinitumCorp",
+      "https://ukrainianfiles.blogspot.com/"
+    ],
+    "jobTitle": "Founder and President",
+    "worksFor": {
+      "@id": "https://www.theinfinitumcorporation.com/#organization"
+    }
+  },
+  "abstract": "AI for security operations whitepaper: a 90-day AI SOC plan for mid-size organizations in a jammed, spoofed, watched world. Infinitum Corporation®.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  },
+  "keywords": "AI for security operations, SOC, cybersecurity",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "AI for security operations"
+    },
+    {
+      "@type": "Thing",
+      "name": "SOC"
+    },
+    {
+      "@type": "Thing",
+      "name": "cybersecurity"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Infinitum Corporation® Whitepapers",
+    "url": "https://infinitumwhitepapers.blogspot.com/"
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.23836365",
+    "https://zenodo.org/records/23836365",
+    "https://www.academia.edu/179949703/Dead_Reckoning_AI_for_Security_Operations",
+    "https://web.archive.org/web/2026/https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html"
+  ],
+  "additionalType": "https://schema.org/Report",
+  "genre": "Whitepaper",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.23836365",
+      "url": "https://doi.org/10.5281/zenodo.23836365"
+    }
+  ],
+  "encoding": {
+    "@type": "MediaObject",
+    "encodingFormat": "application/pdf",
+    "contentUrl": "https://zenodo.org/records/23836365/files/Infinitum-Whitepaper-01-Dead-Reckoning-RELEASE.pdf"
+  }
+}

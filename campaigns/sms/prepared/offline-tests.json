@@ -1,0 +1,20 @@
+{
+  "passed": 14,
+  "total": 14,
+  "tests": {
+    "all_1049_unique": true,
+    "batches_exact": true,
+    "batch_caps": true,
+    "E164_structure": true,
+    "start_inclusive": true,
+    "end_exclusive": true,
+    "prewindow_blocked": true,
+    "gsm_160": true,
+    "gsm_161": true,
+    "curly_quote_ucs2": true,
+    "registered_mark_ucs2": true,
+    "extension_double_units": true,
+    "queue_blocked": true,
+    "no_eligible": true
+  }
+}

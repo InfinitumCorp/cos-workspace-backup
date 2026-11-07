@@ -1,0 +1,27 @@
+# Blogger GitHub audit
+
+Six confirmed owned blogs: infinitumwhitepapers (5 posts), ukrainianfiles (11 posts + 4 pages), adversarialmirrorratchet (1), russiaafricabythenumbers (1), russiaafricareport (1), williamaaronturner (6). Dead Reckoning excluded from URL audit. Feeds complete; totals fit first 500-entry page. nnfiles is unrelated (nn soekmana); nfiles returns 404, not confirmed owned. Other workspace domains googleprojectzero, dthain, knowcandology are external references. No edits made.
+
+All rows below returned HTTP 404. Linked images need both href and src replaced after uploading to Blogger.
+
+| Blog | Post URL | Broken GitHub URL | Type | Replacement |
+|---|---|---|---|---|
+| infinitumwhitepapers.blogspot.com | https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/wp-cover-special01.jpg | image | /workspace/wp-cover-special01.jpg |
+| infinitumwhitepapers.blogspot.com | https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/whitepapers/Infinitum-Whitepaper-Special-01-Russia-State-Influenced-Capitalism.pdf | link | https://doi.org/10.5281/zenodo.23836439 |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/russia-africa-summit-partnership-results.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-11b.jpg | image + link | /workspace/dkswap/blog-dk-11b.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-10.jpg?v=2 | image + link | /workspace/dkswap/blog-dk-10.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/blog-post_26.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-grandmas.jpg | image + link | /workspace/dkswap/blog-dk-grandmas.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-08.jpg | image + link | /workspace/dkswap/blog-dk-08.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/ukraine-forced-mobilization-evidence.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-07.jpg | image + link | /workspace/dkswap/blog-dk-07.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/zelenskyy-rise-backers-media-network.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-06.jpg | image + link | /workspace/dkswap/blog-dk-06.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/ukraine-organ-trade-allegations.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-05.jpg | image + link | /workspace/dkswap/blog-dk-05.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-04.jpg | image + link | /workspace/dkswap/blog-dk-04.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-03.jpg | image + link | /workspace/dkswap/blog-dk-03.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-02.jpg | image + link | /workspace/dkswap/blog-dk-02.jpg |
+| ukrainianfiles.blogspot.com | https://ukrainianfiles.blogspot.com/2026/10/ukraine-aid-ngos-audit-donations.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-01.jpg | image + link | /workspace/dkswap/blog-dk-01.jpg |
+| russiaafricabythenumbers.blogspot.com | https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/db-cover-01b.jpg | image | /workspace/incoming/db-cover-01b.jpg |
+| russiaafricareport.blogspot.com | https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html | https://raw.githubusercontent.com/InfinitumCorp/ukraine-files-flyers/main/blog-dk-11b.jpg | image + link | /workspace/dkswap/blog-dk-11b.jpg |
+
+Additional GitHub profile references embedded in structured data: https://github.com/InfinitumCorp (status checked separately). Appear in Russia-Africa Report, Russia-Africa By the Numbers, Whitepapers Russia Capitalism/CCW/Trenches, and Ukraine Files blog-post_85/demining/In-Q-Tel/Eastern Economic Forum/Russia economy. Not broken asset links.
+
+Russia PDF source verified in /workspace/press/submissions/40-riac/email.txt and /workspace/seo-master/publications-2026-10-31/raw/z23836439.json. Academia alternative: https://www.academia.edu/179949845/Russias_State_Influenced_Capitalism_A_Sanctions_Whitepaper

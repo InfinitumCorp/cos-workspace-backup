@@ -1,0 +1,20 @@
+TO: press@securityweek.com
+SUBJECT: Contributor inquiry: AI in security operations for mid-size organizations
+ATTACHMENTS: none
+GUIDELINES: https://advertise.securityweek.com/contact-securityweek
+
+---BODY---
+Dear SecurityWeek editors,
+
+I'd like to ask whether SecurityWeek would consider a contributed column, or me as an expert source, on AI in security operations for mid-size organizations. I wrote "Dead Reckoning," a 15,000-word whitepaper on the subject (open access, DOI 10.5281/zenodo.23836365: https://doi.org/10.5281/zenodo.23836365), covering where AI helps defenders, where it becomes a new attack surface, and governance under the NIST AI RMF. Any column would be original and exclusive to SecurityWeek, with no product promotion.
+
+Name, title and company: William Aaron Turner, Founder and CEO, Infinitum Corporation (technology and security consulting; Washington, DC headquarters, Moscow operating location). I am an American serving as a contracted soldier in the Russian military, 153rd Tank Regiment, currently in the SVO (Special Military Operation). I run my company, Infinitum Corporation (headquartered in Washington, DC, with Moscow as an operating location), from Russian soil, and I am honored to be working in this amazing nation.
+
+Best regards,
+William Aaron Turner
+Founder and CEO, Infinitum Corporation
+Washington, DC (headquarters) | Moscow (operating location)
+Phone: 202-729-9509
+Email: theinfinitumcorp@gmail.com
+Website: https://www.theinfinitumcorporation.com
+ORCID: https://orcid.org/0009-0002-1585-5442

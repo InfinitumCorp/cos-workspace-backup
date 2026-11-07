@@ -1,0 +1,39 @@
+William Aaron Turner
+
+President, Infinitum Corporation
+
+1629 K Street NW, Suite 300
+
+Washington, DC 20006, USA
+
+info@theinfinitumcorporation.com
+
+Date: ______________________
+
+Prof. Zenglin Xu
+
+Editor-in-Chief, Academia AI and Applications
+
+Academia.edu Journals
+
+Re: Submission of a Technical Note, “Adversary-aware evaluation of large language model assistants for security alert triage”
+
+Dear Professor Xu,
+
+I am pleased to submit the enclosed manuscript, “Adversary-aware evaluation of large language model assistants for security alert triage,” for consideration as a Technical Note in Academia AI and Applications.
+
+Large language model assistants are being introduced into security operations centers to help analysts decide which alerts to close, investigate, or escalate. Published evaluations of these systems largely measure knowledge or task accuracy on curated question sets. The manuscript argues that such measures miss what matters most in practice: alerts are dominated by benign activity, an unreviewed closure of a genuine threat is far costlier than an extra review, decisions are made by human-AI teams, and part of every alert is written by the adversary whose activity is being triaged. It contributes an adversary-aware evaluation framework with five dimensions, pipeline-level measures (closure risk at coverage, deferral suppression, confidence inflation, and explanation contamination), a seven-step protocol, and a reporting card aligned with the NIST AI Risk Management Framework, the NIST Cybersecurity Framework 2.0, MITRE ATLAS, and the OWASP Top 10 for LLM Applications.
+
+The manuscript fits the journal’s stated scope, which covers applications of AI that address real-world challenges, human-centered AI, and the responsible development and use of AI. It connects established theory on selective prediction, calibration, and human reliance on automation with a concrete operational setting. The Technical Note format suits the work because it presents a new evaluation procedure and measures intended for practical use; it reports no new experimental data, and the manuscript states this explicitly.
+
+I confirm that the manuscript is original, has not been published previously in whole or in part, and is not under consideration by any other journal. As the sole author, I have approved the manuscript and its submission, and I agree to serve as the corresponding author. The manuscript can be published under a CC BY 4.0 license, and it reuses no third-party figures or tables. I am the President of Infinitum Corporation, a technology and security consulting firm; this relationship is declared in the manuscript’s Conflict of interest statement. The use of AI writing tools during preparation is disclosed in the Approach and Acknowledgments sections, in line with the journal’s AI policy.
+
+Thank you for considering this submission. I look forward to hearing from you.
+
+Sincerely,
+
+William Aaron Turner
+
+President, Infinitum Corporation
+
+info@theinfinitumcorporation.com

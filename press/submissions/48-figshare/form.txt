@@ -1,0 +1,5 @@
+EXACT URL: https://figshare.com/account/register (free account)
+GUIDELINES: https://help.figshare.com/
+NO account has been created. Log any login in the vault.
+
+Optional mirror of the 6 Zenodo records (same PDFs as press/submissions/24-zenodo/upload.md). Low value: Zenodo DOIs already exist; if used, cite the Zenodo DOI in each Figshare description rather than minting duplicates.

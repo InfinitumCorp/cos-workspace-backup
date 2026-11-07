@@ -1,0 +1,19 @@
+Libro blanco Dead Reckoning: William Aaron Turner ofrece a los equipos de seguridad un control trimestral para que sus herramientas de IA sigan siendo fiables
+
+El libro blanco Dead Reckoning de Infinitum Corporation ofrece a los equipos de operaciones de seguridad un plan de adopción de IA a 90 días, una hoja de ruta a 12 meses y un control de verificación trimestral recurrente.
+
+WASHINGTON, DC, 2 de noviembre de 2026 – Infinitum Corporation destaca una herramienta práctica de su primer libro blanco, «Dead Reckoning: AI for Security Operations in a Jammed, Spoofed, Watched World»: un control trimestral recurrente que permite a los equipos de seguridad confirmar que sus herramientas de inteligencia artificial siguen apuntando en la dirección correcta.
+
+El documento, escrito por William Aaron Turner, fundador y presidente de Infinitum Corporation, toma su método de la navegación. Cuando fallan las señales de satélite, los navegantes fijan su posición a partir de lo que pueden verificar: la última posición conocida, el rumbo, la velocidad, el tiempo y una segunda fuente. Turner sostiene que los centros de operaciones de seguridad que adoptan la inteligencia artificial necesitan la misma disciplina, porque un resultado de IA seguro de sí mismo no equivale a un resultado correcto.
+
+El documento plantea una secuencia en tres etapas. Un plan a 90 días abarca la gobernanza, una línea de base medida y un piloto con los analistas siempre en el circuito. Una hoja de ruta a 12 meses amplía las herramientas que demuestran su valor. Después, el control trimestral de «navegación por estima» compara los resultados con la línea de base y con una fuente independiente para cada señal crítica.
+
+Los argumentos a favor de esa disciplina se apoyan en datos públicos. Citando el Data Breach Investigations Report 2026 de Verizon, el documento señala que la explotación de vulnerabilidades es ahora la principal vía de entrada en una brecha, con un 31 %, frente al 20 % anterior. IBM y el Ponemon Institute informan de que el tiempo medio para identificar y contener una brecha aumentó a 247 días. IBM también constató que las organizaciones que usan de forma intensiva la IA y la automatización de seguridad registraron un coste medio de 4,00 millones de dólares por brecha, frente a 5,93 millones en las que no las usan. Turner subraya que se trata de una asociación, no de una garantía.
+
+El documento está dirigido a responsables de seguridad, analistas y responsables de riesgos que deben juzgar las herramientas de IA con pruebas y no con las promesas de los proveedores. Compara el entorno del defensor con uno de señales interferidas y falsificadas y de observación constante, y deja claro que se trata de una comparación, no de una afirmación de que alguna red sea un frente de batalla.
+
+Infinitum Corporation ofrece el documento de forma gratuita y anima a los lectores a contrastar cada cifra con su fuente citada.
+
+Leer el libro blanco: https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html
+
+«Primero, gobernanza. Medir una línea de base. Hacer un piloto con analistas en el circuito. Mantener un control independiente sobre cada señal crítica. No me crean a mí. Lean las fuentes», afirmó William Aaron Turner, fundador y presidente de Infinitum Corporation.

@@ -1,0 +1,18 @@
+SOURCE_URL: https://www.academia.edu/179950632/Counter_Drone_Handbook_Modern_Warfare_Soldiers_Guide_to_UAS_Defense
+
+HEADLINE:
+Counter-Drone Handbook: William Aaron Turner Releases a Soldier's Guide to UAS Defense and the 5 D's Framework
+
+SUMMARY:
+Counter-Drone Handbook by William Aaron Turner: the 5 D's framework, layered defense, detection tiers, EW, kinetic options and fiber-optic drone threats.
+
+BODY:
+WASHINGTON, DC, November 2, 2026 - Infinitum Corporation today announced that William Aaron Turner, Founder & President, has published the "Counter-Drone Handbook: A Modern Warfare Soldier's Guide to UAS Defense" (C-UAS-FM-2026-08). The field manual sets out the "5 D's" framework, layered defense doctrine and the warfighter mindset, then walks through detection in three tiers (handheld and pocket detectors, vehicle-mounted and mid-range radar, and fully passive acoustic detection), electronic warfare including handheld jammers, spoofing and the limits of EW, kinetic interception from small arms and shotguns to directed energy, and the threat profile of fiber-optic drones that ignore jamming.
+
+"No single system stops drones. Layers do," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Academia.edu edition: https://www.academia.edu/179950632/Counter_Drone_Handbook_Modern_Warfare_Soldiers_Guide_to_UAS_Defense
+More from Infinitum Corporation: https://www.theinfinitumcorporation.com
+
+TAGS:
+counter-drone, C-UAS, drone defense, electronic warfare, FPV drones, William Aaron Turner, Infinitum Corporation

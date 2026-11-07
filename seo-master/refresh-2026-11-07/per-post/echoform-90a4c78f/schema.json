@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/#article",
+  "headline": "EchoForm: Modern Applications of Reflexive Control Theory",
+  "name": "EchoForm: Modern Applications of Reflexive Control Theory",
+  "description": "EchoForm names how prepared decision grounds return through networks as the target's own conclusion. Companion to Corporate Cognitive Warfare.",
+  "url": "https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/",
+  "mainEntityOfPage": "https://whop.com/infinitum-corporation/echoform-reflexive-control-theory/",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
+    "name": "William Aaron Turner",
+    "url": "https://williamaaronturner.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-1585-5442",
+      "url": "https://orcid.org/0009-0002-1585-5442"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0002-1585-5442",
+      "https://williamaaronturner.com/",
+      "https://x.com/infinitumceo",
+      "https://www.linkedin.com/in/william-aaron-t-726076244",
+      "https://umassmarine.academia.edu/WilliamAaronTurner",
+      "https://github.com/InfinitumCorp",
+      "https://ukrainianfiles.blogspot.com/"
+    ],
+    "jobTitle": "Founder and President",
+    "worksFor": {
+      "@id": "https://www.theinfinitumcorporation.com/#organization"
+    }
+  },
+  "abstract": "Reflexive Control Theory examines how one actor can shape another's decision by transferring the grounds from which the latter reasons. This companion note proposes EchoForm as a name for the modern informational condition surrounding that process: dense networks can return a target's emerging conclusion through social, institutional, and algorithmic channels until repetition resembles independent confirmation. The paper preserves the classical distinction between directing a decision and shaping its premises, while separating constructed control from ordinary echo chambers, personalized filter bubbles, and general persuasion. It presents a four-step cycle, a concise taxonomy linking the concept to Corporate Cognitive Warfare, and a neutral account of contemporary military, media, advertising, and boardroom mechanisms. Algorithmic amplification is considered through speed, scale, persistence, and opacity, without assuming that platforms guarantee a controller's preferred result. Particular emphasis is placed on detecting source dependence, testing alternative explanations, preserving dissent, and interrupting informational lock-in. Conceived corporate illustrations show how lawful communication can improve decision grounds without manufacturing consensus. Ethical boundaries, uncertainty, and trust preservation remain central throughout.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  },
+  "keywords": "EchoForm, Reflexive Control Theory, decision grounds, recursive reasoning, algorithmic amplification, Corporate Cognitive Warfare, information integrity, organizational resilience",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "EchoForm"
+    },
+    {
+      "@type": "Thing",
+      "name": "Reflexive Control Theory"
+    },
+    {
+      "@type": "Thing",
+      "name": "decision grounds"
+    },
+    {
+      "@type": "Thing",
+      "name": "recursive reasoning"
+    },
+    {
+      "@type": "Thing",
+      "name": "algorithmic amplification"
+    },
+    {
+      "@type": "Thing",
+      "name": "Corporate Cognitive Warfare"
+    },
+    {
+      "@type": "Thing",
+      "name": "information integrity"
+    },
+    {
+      "@type": "Thing",
+      "name": "organizational resilience"
+    }
+  ],
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Whop",
+    "url": "https://whop.com/"
+  },
+  "sameAs": [],
+  "additionalType": "https://schema.org/Report",
+  "genre": "Whitepaper"
+}

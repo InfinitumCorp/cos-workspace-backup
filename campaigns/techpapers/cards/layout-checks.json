@@ -1,0 +1,170 @@
+[
+  {
+    "file": "/workspace/campaigns/techpapers/cards/dr-dead-reckoning-1200x627.png",
+    "dimensions": [
+      1200,
+      627
+    ],
+    "title_font_px": 65,
+    "title_lines": 2,
+    "subtitle_font_px": 28,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/dr-dead-reckoning-1080x1080.png",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "title_font_px": 82,
+    "title_lines": 3,
+    "subtitle_font_px": 32,
+    "subtitle_lines": 2,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/td-trenches-and-drones-1200x627.png",
+    "dimensions": [
+      1200,
+      627
+    ],
+    "title_font_px": 65,
+    "title_lines": 2,
+    "subtitle_font_px": 28,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/td-trenches-and-drones-1080x1080.png",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "title_font_px": 82,
+    "title_lines": 4,
+    "subtitle_font_px": 32,
+    "subtitle_lines": 2,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/ccw-corporate-cognitive-warfare-1200x627.png",
+    "dimensions": [
+      1200,
+      627
+    ],
+    "title_font_px": 58,
+    "title_lines": 3,
+    "subtitle_font_px": 28,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/ccw-corporate-cognitive-warfare-1080x1080.png",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "title_font_px": 82,
+    "title_lines": 4,
+    "subtitle_font_px": 32,
+    "subtitle_lines": 2,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/bch-battlefield-cyber-hygiene-1200x627.png",
+    "dimensions": [
+      1200,
+      627
+    ],
+    "title_font_px": 65,
+    "title_lines": 2,
+    "subtitle_font_px": 28,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/bch-battlefield-cyber-hygiene-1080x1080.png",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "title_font_px": 82,
+    "title_lines": 3,
+    "subtitle_font_px": 32,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/cdh-counter-drone-handbook-1200x627.png",
+    "dimensions": [
+      1200,
+      627
+    ],
+    "title_font_px": 65,
+    "title_lines": 2,
+    "subtitle_font_px": 28,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/cdh-counter-drone-handbook-1080x1080.png",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "title_font_px": 82,
+    "title_lines": 3,
+    "subtitle_font_px": 32,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/rfh-reconnaissance-fusion-handbook-1200x627.png",
+    "dimensions": [
+      1200,
+      627
+    ],
+    "title_font_px": 62,
+    "title_lines": 2,
+    "subtitle_font_px": 28,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/rfh-reconnaissance-fusion-handbook-1080x1080.png",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "title_font_px": 82,
+    "title_lines": 4,
+    "subtitle_font_px": 32,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/dd-decentralized-disinformation-1200x627.png",
+    "dimensions": [
+      1200,
+      627
+    ],
+    "title_font_px": 65,
+    "title_lines": 2,
+    "subtitle_font_px": 28,
+    "subtitle_lines": 1,
+    "safe_layout": true
+  },
+  {
+    "file": "/workspace/campaigns/techpapers/cards/dd-decentralized-disinformation-1080x1080.png",
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "title_font_px": 82,
+    "title_lines": 4,
+    "subtitle_font_px": 32,
+    "subtitle_lines": 2,
+    "safe_layout": true
+  }
+]

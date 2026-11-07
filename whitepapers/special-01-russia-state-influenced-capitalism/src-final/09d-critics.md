@@ -1,0 +1,109 @@
+
+# What the critics get right, and why the thesis still stands {#what-critics-get-right}
+
+I have argued that Russia's model is resilient. A paper that stopped there would be a brochure. This chapter takes the best criticisms seriously, gives the numbers for each and says plainly where I think the critics are right. Then it says why I still think the thesis stands.
+
+For each point I give the evidence, what I concede and what I answer. At the end there is a scorecard.
+
+## 1. Inflation is high, and so is the cost of money
+
+**The evidence.** Average consumer price inflation was 13.7% in 2022, 5.9% in 2023, 8.4% in 2024 and 8.7% in 2025 (IMF, 2026b). The Bank of Russia reported on October 23, 2026 that annual inflation stood at 6.8% as of October 19, expected to reach 7.1% to 7.6% by the end of 2026. Seasonally adjusted price growth in the third quarter averaged 8.0% in annualized terms, up from 4.8% in the second quarter, with core inflation at 6.2%. Inflation expectations of households and businesses remain near two-year highs (Bank of Russia, 2026a). The key rate stands at 14.00% after peaking at 21.00% (Bank of Russia, 2024; Bank of Russia, 2026a). For comparison, IMF 2025 average inflation was 2.7% in the United States, 2.3% in Germany and 3.4% in the United Kingdom (IMF, 2026b).
+
+**What I concede.** Russian inflation is much higher than inflation in the large Western economies, and the cost of borrowing is a heavy drag on investment. The Bank of Russia itself says proinflationary risks outweigh disinflationary ones over the medium term (Bank of Russia, 2026a).
+
+**What I answer.** The relevant comparison is not with Germany. It is with the 1990s and with other emerging economies. Russian inflation of 8.7% in 2025 compares with 874% in 1993 (World Bank, 2026c) and 34.9% in Turkey in 2025 (IMF, 2026b). More to the point, the central bank has acted. It raised the rate to 21%, held it until June 2025, and has cut it by seven percentage points since. The Bank of Russia projects inflation falling back to 4.0% in 2027 (Bank of Russia, 2026a). Forecasts can be wrong, and a record of forecasts is not the same as a record of results. But a country whose central bank is fighting inflation with an interest rate is not a country that has lost control of its finances.
+
+## 2. Growth has slowed to near stagnation
+
+**The evidence.** Real GDP grew 1.0% in 2025 (Interfax, 2026a). The IMF forecasts 0.9% in 2026 and 0.9% in 2027 (IMF, 2026a). The Bank of Russia forecasts 0.5% to 1.0% for 2026 and 1.0% to 2.0% for 2027 (Bank of Russia, 2026a). The 2023 and 2024 numbers, 4.1% and 4.9%, were a wartime and post-shock surge, and they are not a trend.
+
+**What I concede.** The 2023-2024 boom is over. The IMF's medium-term forecasts are below one percent. A country that wants to hold its place in the world needs faster growth than that.
+
+**What I answer.** Three things. First, the slowdown is partly a choice. The Bank of Russia deliberately tightened monetary policy to cool an overheating economy, and slower growth is the price. Second, growth rates need context. The IMF's 2026 forecasts are 0.9% for Russia, 1.3% for Germany, 0.8% for Italy, 0.7% for Japan and 0.4% for France, so Russia's outlook is not out of line with several large advanced economies (IMF, 2026a). Third, a pause after a surge is different from the persistent contraction the 2022 forecasts predicted. I do not claim the outlook is good. I claim that the pattern is one of an economy adjusting, not of a system in crisis.
+
+## 3. The labor market has no slack
+
+**The evidence.** Unemployment was 2.2% in 2025 on the IMF's measure (IMF, 2026d). The Bank of Russia says the labor market tightness is gradually easing, that wage growth is slowing and gradually converging with labor productivity growth, "although the gap between them remains significant," and that unemployment is near its historic lows (Bank of Russia, 2026a).
+
+**What I concede.** An unemployment rate of 2.2% is a labor shortage. Companies cannot find workers, wages rise faster than productivity, and that feeds inflation. The central bank says so itself.
+
+**What I answer.** This is a better problem than the one it replaced. Compare 2.2% with the 13.3% unemployment of 1998 (World Bank, 2026g). A country whose main labor-market problem is that everyone has a job has a problem that most governments would accept. It is still a problem. Fixing it requires productivity growth, more participation and a policy on migration, none of which can be wished into being.
+
+## 4. The military burden is heavy
+
+**The evidence.** SIPRI estimates Russian military expenditure at US$190 billion in 2025, up 5.9% from 2024. That is 7.5% of GDP and 20% of government spending, the highest share SIPRI has recorded for Russia. SIPRI also notes a new "classified social policy" category in the defense budget, "reflecting the mounting social cost of the war" (SIPRI, 2026).
+
+**What I concede.** Money spent on defense is not available for roads, schools or private investment. A 7.5% military burden is a large claim on the economy, and the 20% share of government spending is the highest SIPRI has recorded for Russia. Some of the 2023 and 2024 growth reflected government demand for military output, and critics are right to ask what happens to that growth when the demand slows.
+
+**What I answer.** I limit myself to the economics. SIPRI says the growth in Russian military spending in 2025 was the slowest since 2022 (SIPRI, 2026). A burden that is no longer growing quickly is a burden the budget can plan around. The deficit was 2.6% of GDP and debt 16.6% (Minfin, 2026; IMF, 2026c). A country can carry a high military burden for a long time when its debt is low. It cannot do so forever, and I do not claim it can.
+
+## 5. The budget depends on energy
+
+**The evidence.** Oil and gas revenue to the federal budget was 8.477 trillion rubles in 2025, down 23.8% from 11.131 trillion in 2024 (TASS, 2026b). The deficit was 2.6% of GDP, or 5.6 trillion rubles (Minfin, 2026). The government proposed raising VAT from 20% to 22% (Reuters, 2025). The National Wealth Fund's liquid assets of roughly 3.9 to 4.2 trillion rubles were being drawn down (Reuters, 2025; Minfin, 2026). The IMF forecasts that gross debt will rise from 16.6% of GDP in 2025 to 22.2% in 2027 (IMF, 2026c).
+
+**What I concede.** This is the most direct fiscal risk. A 24% fall in oil and gas revenue in one year, in a budget that also carries a high military cost, forces tax rises and fund drawdowns. Debt is rising, and the cushion is being used.
+
+**What I answer.** Look at the starting point. Debt is rising from a very low level. The IMF's 2027 forecast of 22.2% is a third of Germany's current 62.7% and less than a fifth of the United States' 124.4% (IMF, 2026c). The government has used tools in the order a prudent finance ministry would: taxes first, savings second, borrowing third. That is how a fiscally conservative state behaves under pressure.
+
+## 6. Sanctions cost money and options
+
+**The evidence.** Roughly 210 billion euros of central bank assets are immobilized (European Parliament, 2026). The IMF's 2025 growth of 1.0% followed 4.9% in 2024 (IMF, 2026a).
+
+**What I concede.** I will not claim that sanctions are painless. They remove access to capital, technology and reserves. The slowdown in 2025 and the high rates are partly an indirect result. A world in which Russia could borrow abroad cheaply, buy any technology and hold all its reserves where it liked would be better for Russian growth.
+
+**What I answer.** The cost is real, and it is the cost of an order the Russian state chose to accept. The question I address in this paper is not whether sanctions hurt. It is whether they broke the system. The data in the previous chapters say they did not.
+
+## 7. Demographics are unfavorable
+
+**The evidence.** Russia's fertility rate was 1.42 births per woman in 2024, down from 1.78 in 2015 (World Bank, 2026i). The population was 143.5 million in 2025, below the 1992 peak of 148.5 million and below the 145.2 million of 2020 (World Bank, 2026j). Life expectancy was 73.44 years in 2024, above the 1994 low but still short of what the incomes of a high-income country would predict (World Bank, 2026e).
+
+**What I concede.** This is a structural problem. A shrinking workforce reduces growth potential, increases the dependency ratio and tightens the labor market further. The decline from 145.2 million in 2020 to 143.5 million in 2025 is not a one-year event.
+
+**What I answer.** Russia is not alone, and on fertility it is not at the bottom. The World Bank's 2024 figures are 1.42 for Russia, against 1.36 for Germany, 1.18 for Italy, 1.15 for Japan, 1.01 for China and 0.75 for South Korea, and 1.63 for the United States (World Bank, 2026i, plus the same indicator for the comparison countries). Russia's own record shows movement: from 1.16 in 1999 to 1.78 in 2015, then back down to 1.42 (World Bank, 2026i). I do not claim the problem is solved. I claim that a state with low debt and reserves has more room to address it than one without.
+
+## 8. Capital leaves
+
+**The evidence.** The Bank of Russia reports that the financial account balance, which reflects Russian residents' net acquisition of foreign assets, was US$30.3 billion in 2025, against US$52.7 billion in 2024. In direct investment, Russia moved from net lending abroad of US$9.2 billion to net borrowing of US$12.4 billion, in the Bank's terms. Net lending to the rest of the world (the current and capital accounts) fell to US$42.7 billion from US$62.3 billion (Bank of Russia, 2026b).
+
+**What I concede.** Russian residents continue to accumulate foreign assets. A reported "capital flight" figure, which some analysts quote, depends on definitions I cannot verify from a primary source and I do not use it. What the balance of payments shows is that Russian residents still send money abroad, and that the external surplus is narrowing.
+
+**What I answer.** The outflow in 2025 was smaller than in 2024, and the surplus is still positive. Without a primary source for the more dramatic figures, I decline to repeat them.
+
+## 9. Corruption is real
+
+**The evidence.** Transparency International scored Russia 22 out of 100 in its 2025 Corruption Perceptions Index and ranked it 157th of 182 countries, tied with Honduras, Zimbabwe and Chad. The score was unchanged from 2024, and the rank fell three places, a new record low in the ranking (Transparency International Russia, 2026).
+
+**What I concede.** This is the weakest part of the case, and I would be foolish to wave it away. Corruption, even as measured by perception, imposes costs in the form of misallocated capital, reduced trust and uneven enforcement. If it is as bad as the index says, it limits long-run productivity and gives the state's friends advantages that are hard to justify on the merits.
+
+**What I answer.** I offer two points and not a rebuttal. First, the index measures perceptions of public-sector corruption by experts and businesspeople. It is a useful indicator, and it does not measure macroeconomic management, which is what this paper tests. Second, the system produced debt below 17% of GDP, unemployment of 2.2% and a record-low poverty rate alongside a poor corruption score. That is a combination to be explained, not a contradiction to be denied. In the long run, I believe the corruption problem is the threat most likely to erode the model from within, and I would advise any investor to price it.
+
+## 10. The politics are not open
+
+Critics also raise civil liberties, the freedom of the press and the competitiveness of elections. They are legitimate subjects. They are outside the scope of an economic paper, and I do not dismiss them by omission. Where they bear on risk, in the quality of information, the independence of courts and the predictability of enforcement, I treat them as risk factors in the recommendations. Readers who want to assess them need sources designed for that purpose.
+
+## The scorecard
+
+| Criticism | Evidence | My verdict |
+|---|---|---|
+| High inflation and rates | 8.7% avg 2025; 6.8% y/y (Oct 19, 2026); key rate 14% | Conceded. Answered: central bank acting, trend easing from the 21% peak |
+| Near-stagnant growth | 1.0% in 2025; 0.5% to 1.0% forecast 2026 | Conceded. Answered: policy-driven cooling after a surge |
+| Labor shortage | Unemployment 2.2% | Conceded. Answered: better than the alternative, and easing |
+| Military burden | 7.5% of GDP; 20% of spending | Conceded. Answered: affordable at low debt, not forever |
+| Energy dependence | Oil and gas revenue -23.8% in 2025 | Conceded. Answered: low starting debt, taxes first |
+| Sanctions costs | About 210 billion euros immobilized | Conceded. Answered: costs are real, collapse did not happen |
+| Demographics | Fertility 1.42; population 143.5 million | Conceded. Structural, and not solved |
+| Capital outflow | Financial account US$30.3 billion in 2025; direct investment net borrowing | Qualified. Primary data shown, dramatic figures not used |
+| Corruption | CPI 22/100; rank 157/182 | Mostly conceded. Long-run risk to the model |
+| Open politics | Not an economic measure | Out of scope, treated as a risk factor |
+
+<p class="source">Sources as cited in each section above.</p>
+
+## Why the thesis still stands
+
+I have just conceded nine of ten criticisms in whole or in part. Why does the thesis survive?
+
+Because the thesis was never that the Russian economy has no problems. It is that the system built since 1999 was designed to withstand a specific set of shocks, that it did, and that the problems now visible are costs of withstanding them, not signs of failure. A boxer who took a hard fight and is cut and tired afterward has not been knocked out.
+
+The test that matters is the one the critics set themselves. They said sanctions and war would break the system. They set the bar at collapse. By the evidence, the system has not collapsed. It slowed, it tightened, it paid. The forecast of April 2022 was wrong and the explanations for its being wrong are the argument of this paper.
+
+I would also draw the critics' attention to something in their own list. Every item on it, inflation, labor shortages, military burden, energy dependence, demographics, is a problem of a functioning economy under strain. None of them is a problem of a system that has lost the ability to pay its bills, run its institutions or keep its people employed. They are the problems of the 2020s, not of the 1990s. That distinction is the thesis.

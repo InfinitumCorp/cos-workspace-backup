@@ -1,0 +1,32 @@
+Dear Editors,
+
+Please consider the following original op-ed (730 words), submitted exclusively to Virginia Mercury. A high-resolution image is available on request.
+
+Virginia needs a plan for the drones over its bases and its power grid
+
+In December 2023, unidentified drones repeatedly flew over Joint Base Langley-Eustis in Hampton, home to some of the Air Force's most advanced fighter jets. Public reporting described incursions over more than two weeks. Military officials acknowledged them, and nobody was able to say publicly who was flying them. Virginia, which hosts the world's largest naval base in Norfolk, the Pentagon in Arlington and one of the densest concentrations of data centers on Earth in Northern Virginia, should treat that episode as a warning rather than a curiosity.
+
+Small drones have changed warfare faster than any technology in a generation. The war in Ukraine has shown how cheap commercial and hobby aircraft can be adapted for reconnaissance and attack, and how quickly each new defense is answered by a new adaptation, including drones controlled by fiber-optic cable that ignore radio jamming altogether. Those lessons do not stay on foreign battlefields. The same off-the-shelf technology is for sale online, and the same weaknesses exist around American bases, substations, prisons, stadiums and ports.
+
+I recently published a field handbook on counter-drone defense written for soldiers. Its central lesson applies just as well to a state government: no single system stops drones. Layers do.
+
+A layered defense starts with detection, and detection is where Virginia's sites are weakest. Different tools see different things. Handheld detectors can pick up a drone's radio link at short range. Radar can see farther but struggles with small, slow targets in cluttered areas. Passive acoustic sensors can hear what radio detectors miss, including drones that emit no signal at all. No one tool is enough. A site that relies on one is a site that will be surprised.
+
+The next layers are where the law gets in the way. Electronic countermeasures, such as jamming or taking control of a drone's link, are powerful but blunt. They can interfere with legitimate communications, and under current federal law the authority to use them sits with a small number of federal agencies. Physical interception carries obvious risks in populated areas. State and local police, who are often first on the scene, generally have neither the legal authority nor the equipment to do much beyond finding the operator.
+
+The cost curve makes the problem worse. A capable quadcopter costs a few hundred dollars. Many of the systems built to stop one cost far more, and some interceptors cost more per shot than the drone they destroy. A defense that spends thousands to answer a few hundred dollars of hardware will lose a long contest even if it wins every engagement. That is why the cheapest layer, detection and a clear response plan, matters so much: it lets a site decide calmly which incursions are harmless, which need a call to the operator and which need federal help, instead of treating every blinking light as an emergency.
+
+That gap is not Virginia's alone to close, but Virginia has more reason than most states to push for closing it. Three steps would help.
+
+First, inventory and detect. The state should work with the military, utilities and data-center operators to identify the sites where an incursion would matter most and to fund shared, passive detection around them. Detection raises no legal problems and is the foundation for every other response.
+
+Second, coordinate. When a drone appears over a substation in Loudoun or a shipyard in Newport News, the people who see it need to know whom to call and what happens next. Virginia can build that playbook now, joining state police, local agencies, the Virginia National Guard and federal partners, rather than inventing it during an incident.
+
+Third, advocate. Virginia's congressional delegation sits on the committees that shape federal counter-drone authority. It should press for carefully limited, well-supervised authority for trained state and local agencies to protect critical infrastructure, with clear rules to protect lawful drone users and civil liberties. Hobbyists, farmers and photographers should not bear the cost of a policy written in a panic after an attack.
+
+There are real trade-offs. Jamming can harm legitimate users, surveillance tools can be misused and an overreaction could choke a growing drone industry that Virginia wants to attract. That is exactly why the planning should happen now, deliberately and in public, rather than after a drone does something worse than fly in circles over a runway.
+
+Langley was a free lesson. The next one may not be.
+
+William Aaron Turner is founder and president of Infinitum Corporation, a technology and security consulting firm headquartered at 1629 K Street NW, Washington, DC. He coined the term Corporate Cognitive Warfare. Contact: info@theinfinitumcorporation.com, 202-729-9509.
+Disclosure: Infinitum Corporation has an operating location in Moscow, and Turner serves as a contracted soldier in the Russian armed forces (153rd Tank Regiment).

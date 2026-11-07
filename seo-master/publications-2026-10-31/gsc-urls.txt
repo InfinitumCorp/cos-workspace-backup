@@ -1,0 +1,37 @@
+# Search Console URL Inspection > Request indexing (one per line). Property must be verified first.
+
+## property: https://infinitumwhitepapers.blogspot.com/  (URL-prefix; NOT verified as of 31 Oct; Blogger owner can add it in GSC and it auto-verifies via the same Google account; sitemap: https://infinitumwhitepapers.blogspot.com/sitemap.xml and https://infinitumwhitepapers.blogspot.com/sitemap-pages.xml)
+https://infinitumwhitepapers.blogspot.com/2026/10/dead-reckoning-ai-security-operations.html
+https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html
+https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html
+
+## property: https://russiaafricabythenumbers.blogspot.com/  (URL-prefix; NOT verified as of 31 Oct; Blogger owner can add it in GSC and it auto-verifies via the same Google account; sitemap: https://russiaafricabythenumbers.blogspot.com/sitemap.xml and https://russiaafricabythenumbers.blogspot.com/sitemap-pages.xml)
+https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html
+
+## property: https://russiaafricareport.blogspot.com/  (URL-prefix; NOT verified as of 31 Oct; Blogger owner can add it in GSC and it auto-verifies via the same Google account; sitemap: https://russiaafricareport.blogspot.com/sitemap.xml and https://russiaafricareport.blogspot.com/sitemap-pages.xml)
+https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html
+
+## property: https://ukrainianfiles.blogspot.com/  (URL-prefix; NOT verified as of 31 Oct; Blogger owner can add it in GSC and it auto-verifies via the same Google account; sitemap: https://ukrainianfiles.blogspot.com/sitemap.xml and https://ukrainianfiles.blogspot.com/sitemap-pages.xml)
+https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html
+https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html
+https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html
+https://ukrainianfiles.blogspot.com/2026/10/eastern-economic-forum-2026-vladivostok.html
+https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html
+https://ukrainianfiles.blogspot.com/2026/10/russia-africa-summit-partnership-results.html  # duplicate: add canonical first, or skip
+
+## property: https://www.theinfinitumcorporation.com/ (Ueni; NOT verified, pending William)
+https://www.theinfinitumcorporation.com/
+
+## property: https://williamaaronturner.com/ (Beacons; NOT verified, pending William)
+https://williamaaronturner.com/
+
+## not ours (cannot inspect/submit in GSC; discovered via links + DOI): 
+https://zenodo.org/records/23836478
+https://zenodo.org/records/23836521
+https://zenodo.org/records/23836541
+https://zenodo.org/records/23836501
+https://zenodo.org/records/23836365
+https://zenodo.org/records/23836439
+https://x.com/infinitumceo/status/2095860351791194402
+https://zenodo.org/records/23838097
+https://www.academia.edu/179983771/Corporate_Cognitive_Warfare_Irregular_Warfare_for_Market_Supremacy_Whitepaper_Expanded_Edition_

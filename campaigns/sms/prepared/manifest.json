@@ -1,0 +1,44 @@
+{
+  "mode": "OFFLINE_PREPARATION_ONLY",
+  "sending_implemented": false,
+  "live_schedules": false,
+  "source_count": 1049,
+  "preview_rows": 3147,
+  "eligible_now": 0,
+  "approval_final_text": null,
+  "approval_launch": null,
+  "verified_gateway": false,
+  "carrier_costs_confirmed": false,
+  "optout_sync_current": false,
+  "confirmed_provider_tier": null,
+  "historical_free_caps_not_reverified": {
+    "daily": 50,
+    "monthly": 300,
+    "devices": 1
+  },
+  "requested_daily_cap": 200,
+  "effective_daily_cap": 0,
+  "window": {
+    "tz": "America/New_York",
+    "start_inclusive": "12:00",
+    "stop_exclusive": "16:00",
+    "additional_recipient_local_check_required": true
+  },
+  "provider_quota_timezone": null,
+  "carrier_quota_timezone": null,
+  "all_gates_required": [
+    "William exact final text approval tied to text hash and audience",
+    "William launch approval tied to dates scope and budget",
+    "verified individual consent and current number ownership",
+    "current suppressions and replies ingested before every send",
+    "paired actual gateway verified without test SMS",
+    "carrier international pricing per segment, bulk restrictions and budget confirmed",
+    "provider plan quotas and reset timezone confirmed",
+    "recipient local time and applicable legal checks",
+    "no unresolved or unknown prior delivery status"
+  ],
+  "max_free_initial_wave_contacts_in_one_month_if_300_unused": 300,
+  "days_at_50_for_initial_wave": 21,
+  "months_at_300_for_initial_wave": 4,
+  "months_at_300_for_three_waves": 11
+}

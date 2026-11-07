@@ -1,0 +1,10 @@
+import sys,re,json
+t=open(sys.argv[1]).read()
+g=lambda a,b:t.split(a)[1].split(b)[0].strip()
+h=g("HEADLINE:","SUMMARY:");s=g("SUMMARY:","BODY:");tags=t.split("TAGS:")[1].strip()
+b=g("BODY:","TAGS:")
+b=re.sub(r'^WASHINGTON, DC, October 31, 2026 - ','',b)
+i=b.index("About Infinitum Corporation")
+main=b[:i].strip(); about=b[i:].split("\n\n")[0].split("\n",1)[1].strip()
+ps=main.split("\n\n")
+print(json.dumps(dict(h=h,s=s,tags=tags,open=ps[0],body="\n\n".join(ps[1:]),about=about),ensure_ascii=False))

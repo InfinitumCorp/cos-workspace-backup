@@ -1,0 +1,25 @@
+TO: press@helpnetsecurity.com
+SUBJECT: Spokesperson suggestion: Building a SOC team that stays / Doing more with flat budgets
+ATTACHMENTS: none
+GUIDELINES: https://www.helpnetsecurity.com/editorial-opportunities/
+
+---BODY---
+Dear Help Net Security editorial team,
+
+I'd like to suggest myself as a spokesperson for two topics on your Editorial opportunities 2026 page:
+
+- Building a SOC team that stays (deadline 6 November 2026)
+- Doing more with flat budgets (deadline 9 November 2026)
+
+Name, title and company: William Aaron Turner, Founder and CEO, Infinitum Corporation (technology and security consulting; headquartered in Washington, DC, with Moscow as an operating location).
+
+Relevant expertise: I lead a security consulting firm and wrote "Dead Reckoning," a 15,000-word whitepaper on AI for security operations at mid-size organizations (open access, DOI 10.5281/zenodo.23836365: https://doi.org/10.5281/zenodo.23836365). It covers automating analyst toil, people and retention, metrics that show whether detection is improving, and governance under the NIST AI RMF, which maps directly to both topics. I read security through an irregular-warfare lens: I am an American serving as a contracted soldier in the Russian military, 153rd Tank Regiment, currently in the SVO (Special Military Operation). I run my company, Infinitum Corporation (headquartered in Washington, DC, with Moscow as an operating location), from Russian soil, and I am honored to be working in this amazing nation.
+
+Best regards,
+William Aaron Turner
+Founder and CEO, Infinitum Corporation
+Washington, DC (headquarters) | Moscow (operating location)
+Phone: 202-729-9509
+Email: theinfinitumcorp@gmail.com
+Website: https://www.theinfinitumcorporation.com
+ORCID: https://orcid.org/0009-0002-1585-5442

@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html#article",
+  "headline": "Russia-Africa Trade Statistics: Grain, Energy, Security",
+  "name": "Russia-Africa by the Numbers: Trade, Grain, Energy and Security After the Summit",
+  "description": "Russia-Africa trade statistics after the 2026 summit: grain, energy, nuclear and security figures in one data brief by William Aaron Turner.",
+  "url": "https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html",
+  "mainEntityOfPage": "https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html",
+  "datePublished": "2026-10-30T13:55:09-07:00",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
+    "name": "William Aaron Turner",
+    "url": "https://williamaaronturner.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-1585-5442",
+      "url": "https://orcid.org/0009-0002-1585-5442"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0002-1585-5442",
+      "https://williamaaronturner.com/",
+      "https://x.com/infinitumceo",
+      "https://www.linkedin.com/in/william-aaron-t-726076244",
+      "https://umassmarine.academia.edu/WilliamAaronTurner",
+      "https://github.com/InfinitumCorp",
+      "https://ukrainianfiles.blogspot.com/"
+    ],
+    "jobTitle": "Founder and President",
+    "worksFor": {
+      "@id": "https://www.theinfinitumcorporation.com/#organization"
+    }
+  },
+  "abstract": "Russia-Africa trade statistics after the 2026 summit: grain, energy, nuclear and security figures in one data brief by William Aaron Turner.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  },
+  "keywords": "Russia-Africa trade statistics, grain, energy",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Russia-Africa trade statistics"
+    },
+    {
+      "@type": "Thing",
+      "name": "grain"
+    },
+    {
+      "@type": "Thing",
+      "name": "energy"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Russia-Africa by the Numbers",
+    "url": "https://russiaafricabythenumbers.blogspot.com/"
+  },
+  "sameAs": [
+    "https://web.archive.org/web/2026/https://russiaafricabythenumbers.blogspot.com/2026/10/russia-africa-by-the-numbers-trade-grain-energy-security.html"
+  ],
+  "genre": "Article"
+}

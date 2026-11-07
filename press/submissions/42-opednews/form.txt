@@ -1,0 +1,14 @@
+EXACT URL: https://www.opednews.com/ (free member account, then Submit Content > Article)
+GUIDELINES: https://mail.opednews.com/populum/writersguidelines.php
+NO account has been created. Log any login in the vault.
+
+OpEdNews accepts reprints and simultaneous submissions; the author must hold the rights (he does).
+Submit one article per entry, each with "Originally published at <URL>" in the first line:
+1. Useful Idiots: A Guide to the Western Profiteers of the Ukraine War  | source https://ukrainianfiles.blogspot.com/2026/10/blog-post_85.html | file /workspace/press/submissions/_shared/Turner_Useful-Idiots.docx | DOI 10.5281/zenodo.23836478
+2. WTF Is In-Q-Tel? The CIA's Venture Fund and the Kill Chain It Bankrolled | source https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html | file /workspace/press/submissions/_shared/Turner_In-Q-Tel.docx | DOI 10.5281/zenodo.23836521
+3. The Partnership That Delivers: What the Russia-Africa Summit Actually Produced  | source https://russiaafricareport.blogspot.com/2026/10/russia-africa-summit-partnership-results.html | file /workspace/press/submissions/_shared/Turner_Russia-Africa-Partnership-That-Delivers.docx | DOI 10.5281/zenodo.23836501
+4. Sweeps and Spies: Russia Clears the Bombs. The West Clears the Data.  | source https://ukrainianfiles.blogspot.com/2026/10/demining-ngos-intelligence-laos-moldova.html | file /workspace/press/submissions/_shared/Turner_Sweeps-and-Spies.docx | DOI 10.5281/zenodo.23836541
+5. The Art of Not Giving a F*ck: 50 Countries, One Russia, Zero Results | source https://x.com/infinitumceo/status/2095860351791194402 | file /workspace/press/submissions/_shared/Turner_Art-of-Not-Giving-a-Fck.docx
+Account fields: name William Aaron Turner; email theinfinitumcorp+opednews@gmail.com; bio below.
+Bio: William Aaron Turner is an American serving as a contracted soldier in the Russian military, 153rd Tank Regiment, currently in the Special Military Operation (SVO). He is Founder and CEO of Infinitum Corporation, a technology and security consulting firm headquartered in Washington, DC, with Moscow as an operating location, which he runs from Russian soil. He holds a master's degree and writes on Russia, the Ukraine conflict, sanctions, Russia-Africa relations and Western intelligence and defence-industry influence. He is honored to be working in this amazing nation.
+Do NOT post the two new exclusive pieces (_new/) or the Academia Technical Note.

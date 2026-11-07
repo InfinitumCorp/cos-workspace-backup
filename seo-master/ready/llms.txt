@@ -1,0 +1,21 @@
+# Infinitum Corporation
+
+> Technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006). Moscow is an operating location only. Open Mon–Fri 9 AM–9 PM. Phone 202-729-9509. Email info@theinfinitumcorporation.com. Founder and President: William Aaron Turner.
+
+Services: cybersecurity consulting; network security and network defense; ethical hacking and vulnerability assessment; IT and security consulting; AI applications for security operations; strategic risk assessment; defense technology advisory.
+
+## Official properties
+- [Website](https://www.theinfinitumcorporation.com): services, about, booking
+- [Whitepapers blog](https://infinitumwhitepapers.blogspot.com/): free security and technology whitepapers
+- [The Ukraine Files blog](https://ukrainianfiles.blogspot.com/): sourced analysis by William Aaron Turner
+- [Telegram channel](https://t.me/infinitumcorporation): announcements and briefings
+- [X](https://x.com/infinitumceo): William Aaron Turner, CEO
+- [Discord community](https://discord.gg/QVT7dWHUQa)
+- [Whop store](https://whop.com/infinitum-corporation/): playbooks and handbooks (educational and analytical content only)
+- [GitHub](https://github.com/InfinitumCorp)
+
+## Contact
+- Phone: 202-729-9509
+- Email: info@theinfinitumcorporation.com
+- Address: 1629 K Street NW, Suite 300, Washington, DC 20006
+- Hours: Mon–Fri 9:00 AM–9:00 PM; closed Sat–Sun

@@ -1,0 +1,20 @@
+SOURCE_URL: https://www.academia.edu/179950438/Battlefield_Cyber_Hygiene_A_Modern_Warfighters_Digital_Survival_Guide
+
+HEADLINE:
+Battlefield Cyber Hygiene: William Aaron Turner Publishes a Warfighter's Guide to Metadata, Signal and Phone Discipline
+
+SUMMARY:
+Battlefield Cyber Hygiene by William Aaron Turner: a digital OPSEC guide on Faraday protection, metadata, social media, geolocation and daily cyber habits.
+
+BODY:
+WASHINGTON, DC, November 2, 2026 - Infinitum Corporation today announced that William Aaron Turner, Founder & President, has published "Battlefield Cyber Hygiene: A Modern Warfighter's Digital Survival Guide," a digital OPSEC field guide. Its premise: the modern battlefield is defined by visibility in the electromagnetic spectrum, where "a smartphone ping, a fitness tracker upload, or a social media photo can become a targeting beacon." It opens with Maj. Gen. Curtis Taylor's warning, "This device is going to get our soldiers killed," and cases including an Apache route mapped from a phone moving at 120 mph and a HIMARS strike on a barracks after unauthorized phone use.
+
+Chapters cover Faraday technology as the first line of defense, metadata as the hidden threat, social media as an intelligence goldmine, geolocation and becoming invisible to trackers, daily cyber-hygiene discipline, and defensive cyber tools, closing on the principle that digital silence is survival.
+
+"Your phone is a beacon. Discipline is what turns it off," said William Aaron Turner, Founder & President of Infinitum Corporation.
+
+Academia.edu edition: https://www.academia.edu/179950438/Battlefield_Cyber_Hygiene_A_Modern_Warfighters_Digital_Survival_Guide
+More from Infinitum Corporation: https://www.theinfinitumcorporation.com
+
+TAGS:
+cyber hygiene, digital OPSEC, metadata, geolocation, military cybersecurity, William Aaron Turner, Infinitum Corporation

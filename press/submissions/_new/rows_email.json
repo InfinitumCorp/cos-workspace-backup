@@ -1,0 +1,148 @@
+[
+ {
+  "v": "30-asia-times",
+  "method": "email",
+  "addr": "shawn.crispin@asiatimes.com",
+  "subj": "Pitch: What the Russia-Africa summit actually produced (unpaid; previously published)",
+  "file": "press/submissions/30-asia-times/email.txt",
+  "atts": [],
+  "status": "ready-to-send",
+  "notes": "Pitch first per guidelines; prior publication disclosed; unpaid. Reply only if accepted (2 business days).",
+  "url": "https://asiatimes.com/write-for-us/"
+ },
+ {
+  "v": "31-global-times",
+  "method": "email",
+  "addr": "opinion@globaltimes.com.cn",
+  "subj": "Opinion submission: The Partnership That Delivers: What the Russia-Africa Summit Actually Produced",
+  "file": "press/submissions/31-global-times/email.txt",
+  "atts": [],
+  "status": "ready-to-send",
+  "notes": "Text in body, 791 words (cut from his article by dropping whole paragraphs; no wording added). Originality not stated by GT; prior publication disclosed.",
+  "url": "https://www.globaltimes.cn/contact-us/"
+ },
+ {
+  "v": "32-brave-new-europe",
+  "method": "email",
+  "addr": "info@braveneweurope.com",
+  "subj": "Republication offer: Russia's State-Influenced Capitalism (Infinitum whitepaper)",
+  "file": "press/submissions/32-brave-new-europe/email.txt",
+  "atts": [
+   "Infinitum-Whitepaper-Special-01-Russia-State-Influenced-Capitalism-RELEASE.pdf"
+  ],
+  "status": "ready-to-send",
+  "notes": "BNE says it cross-posts contributor blog pieces; no formal guidelines page. Whitepaper (not an article).",
+  "url": "https://braveneweurope.com/contacts/"
+ },
+ {
+  "v": "33-responsible-statecraft",
+  "method": "email",
+  "addr": "PitchRS@quincyinst.org",
+  "subj": "Pitch: The CIA's venture fund is buying the AI kill chain. Congress isn't watching.",
+  "file": "press/submissions/33-responsible-statecraft/email.txt",
+  "atts": [],
+  "status": "ready-to-send",
+  "notes": "Pitch only (RS prefers pitches; all RS stories original). Exclusive if accepted.",
+  "url": "https://responsiblestatecraft.org/editorial-submissions-policy/"
+ },
+ {
+  "v": "34-peoples-dispatch",
+  "method": "email",
+  "addr": "contact@peoplesdispatch.org",
+  "subj": "Article offer: The Partnership That Delivers: What the Russia-Africa Summit Actually Produced",
+  "file": "press/submissions/34-peoples-dispatch/email.txt",
+  "atts": [
+   "Turner_Russia-Africa-Partnership-That-Delivers.docx"
+  ],
+  "status": "ready-to-send",
+  "notes": "Address decoded from the Who We Are page (contact@). No guidelines page.",
+  "url": "https://peoplesdispatch.org/who-we-are/"
+ },
+ {
+  "v": "35-modern-ghana",
+  "method": "email",
+  "addr": "editor@modernghana.com",
+  "subj": "Opinion submission: The Partnership That Delivers: What the Russia-Africa Summit Actually Produced",
+  "file": "press/submissions/35-modern-ghana/email.txt",
+  "atts": [
+   "Turner_Russia-Africa-Partnership-That-Delivers.docx",
+   "russia-africa-pull-quote-1080x1350.jpg"
+  ],
+  "status": "ready-to-send",
+  "notes": "editor@modernghana.com per search results/contact page (not shown on the policy page). Prior publication disclosed.",
+  "url": "https://www.modernghana.com/editorial-standards-and-policies"
+ },
+ {
+  "v": "36-scheerpost",
+  "method": "email",
+  "addr": "Mailing@ScheerPost.com",
+  "subj": "Pitch: Sweeps and Spies: mine clearance, charity and intelligence",
+  "file": "press/submissions/36-scheerpost/email.txt",
+  "atts": [],
+  "status": "ready-to-send",
+  "notes": "Pitch only, \"Pitch\" in subject per FAQ.",
+  "url": "https://scheerpost.com/about-us/frequently-asked-questions/"
+ },
+ {
+  "v": "37-infosecurity-magazine",
+  "method": "email",
+  "addr": "james.coker@rxglobal.com",
+  "subj": "Guest article pitch: Mid-size SOCs don't need more AI. They need AI they can audit.",
+  "file": "press/submissions/37-infosecurity-magazine/email.txt",
+  "atts": [],
+  "status": "ready-to-send",
+  "notes": "Pitch (synopsis + title) per op-ed page; exclusive if accepted. Statistics are from the verified Dead Reckoning sources.",
+  "url": "https://www.infosecurity-magazine.com/op-ed/"
+ },
+ {
+  "v": "38-help-net-security",
+  "method": "email",
+  "addr": "press@helpnetsecurity.com",
+  "subj": "Spokesperson suggestion: Building a SOC team that stays / Doing more with flat budgets",
+  "file": "press/submissions/38-help-net-security/email.txt",
+  "atts": [],
+  "status": "ready-to-send",
+  "notes": "Spokesperson offer, details requested by the page (name, title, company, expertise).",
+  "url": "https://www.helpnetsecurity.com/editorial-opportunities/"
+ },
+ {
+  "v": "39-black-agenda-report",
+  "method": "email",
+  "addr": "bareditors@gmail.com",
+  "subj": "Submission Turner Who Holds the Switch? Russia's Floating Reactors and Africa's Fight for Power",
+  "file": "press/submissions/39-black-agenda-report/email.txt",
+  "atts": [
+   "Turner_Who-Holds-the-Switch_BAR.docx"
+  ],
+  "status": "ready-to-send",
+  "notes": "NEW original piece (840 words) written for BAR; exclusive, do not send elsewhere. Headshot not on box (offered on request).",
+  "url": "https://blackagendareport.com/contact-us"
+ },
+ {
+  "v": "40-riac",
+  "method": "email",
+  "addr": "editorial@russiancouncil.ru",
+  "subj": "Author inquiry: William Aaron Turner (Russia-Africa, sanctions, Ukraine)",
+  "file": "press/submissions/40-riac/email.txt",
+  "atts": [
+   "Turner_Russia-Africa-Partnership-That-Delivers.docx",
+   "Turner_CV.pdf"
+  ],
+  "status": "ready-to-send",
+  "notes": "Per RIAC \"On the wire\" page (editorial@). Avoid offering the MGIMO manuscript topic as a full piece while it is under review.",
+  "url": "https://russiancouncil.ru/en/on-the-wire/"
+ },
+ {
+  "v": "41-geopolitical-monitor",
+  "method": "email",
+  "addr": "editor@geopoliticalmonitor.com",
+  "subj": "Submission (situation report): The Sahel Front: Ukraine's Drone Teams in Mali and the Cost of Exporting the War",
+  "file": "press/submissions/41-geopolitical-monitor/email.txt",
+  "atts": [
+   "Turner_Sahel-Front_GeopoliticalMonitor.docx"
+  ],
+  "status": "ready-to-send",
+  "notes": "NEW original piece (988 words) written for GPM; exclusive. Affiliation disclosed (GPM rejects undisclosed state interests).",
+  "url": "https://www.geopoliticalmonitor.com/write-for-us/"
+ }
+]

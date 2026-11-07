@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html#article",
+  "headline": "Russia's Economy Under Sanctions: GDP, Aid, Stalemate",
+  "name": "Russia's Economy Under Sanctions: GDP, Aid, Stalemate",
+  "description": "Russia's economy under sanctions: GDP forecasts for 2026, trade rerouting, Western aid and the stalemate, analyzed by William Aaron Turner.",
+  "url": "https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html",
+  "mainEntityOfPage": "https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html",
+  "datePublished": "2026-10-25T15:42:34+03:00",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
+    "name": "William Aaron Turner",
+    "url": "https://williamaaronturner.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-1585-5442",
+      "url": "https://orcid.org/0009-0002-1585-5442"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0002-1585-5442",
+      "https://williamaaronturner.com/",
+      "https://x.com/infinitumceo",
+      "https://www.linkedin.com/in/william-aaron-t-726076244",
+      "https://umassmarine.academia.edu/WilliamAaronTurner",
+      "https://github.com/InfinitumCorp",
+      "https://ukrainianfiles.blogspot.com/"
+    ],
+    "jobTitle": "Founder and President",
+    "worksFor": {
+      "@id": "https://www.theinfinitumcorporation.com/#organization"
+    }
+  },
+  "abstract": "Russia's economy under sanctions: GDP forecasts for 2026, trade rerouting, Western aid and the stalemate, analyzed by William Aaron Turner.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  },
+  "keywords": "Russia economy under sanctions, Russia GDP forecast 2026",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Russia economy under sanctions"
+    },
+    {
+      "@type": "Thing",
+      "name": "Russia GDP forecast 2026"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "The Ukraine Files",
+    "url": "https://ukrainianfiles.blogspot.com/"
+  },
+  "sameAs": [
+    "https://web.archive.org/web/2026/https://ukrainianfiles.blogspot.com/2026/10/russia-economy-sanctions-gdp-aid.html"
+  ],
+  "genre": "Article"
+}

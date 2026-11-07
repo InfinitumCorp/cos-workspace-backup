@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Report",
+  "@id": "https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html#article",
+  "headline": "Russia's State-Influenced Capitalism: Sanctions Whitepaper",
+  "name": "Russia's State-Influenced Capitalism: Sanctions-Proof, War-Proof, and Chaos-Proof",
+  "description": "Russia sanctions whitepaper: why Russia's state-guided capitalism proved sanctions-proof, war-proof and chaos-proof. Infinitum Corporation®.",
+  "url": "https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html",
+  "mainEntityOfPage": "https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html",
+  "datePublished": "2026-10-26T12:05:23-07:00",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
+    "name": "William Aaron Turner",
+    "url": "https://williamaaronturner.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-1585-5442",
+      "url": "https://orcid.org/0009-0002-1585-5442"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0002-1585-5442",
+      "https://williamaaronturner.com/",
+      "https://x.com/infinitumceo",
+      "https://www.linkedin.com/in/william-aaron-t-726076244",
+      "https://umassmarine.academia.edu/WilliamAaronTurner",
+      "https://github.com/InfinitumCorp",
+      "https://ukrainianfiles.blogspot.com/"
+    ],
+    "jobTitle": "Founder and President",
+    "worksFor": {
+      "@id": "https://www.theinfinitumcorporation.com/#organization"
+    }
+  },
+  "abstract": "Russia sanctions whitepaper: why Russia's state-guided capitalism proved sanctions-proof, war-proof and chaos-proof. Infinitum Corporation®.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  },
+  "keywords": "Russia sanctions, state capitalism, Russian economy",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Russia sanctions"
+    },
+    {
+      "@type": "Thing",
+      "name": "state capitalism"
+    },
+    {
+      "@type": "Thing",
+      "name": "Russian economy"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Infinitum Corporation® Whitepapers",
+    "url": "https://infinitumwhitepapers.blogspot.com/"
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.23836439",
+    "https://zenodo.org/records/23836439",
+    "https://web.archive.org/web/2026/https://infinitumwhitepapers.blogspot.com/2026/10/russia-state-influenced-capitalism.html"
+  ],
+  "additionalType": "https://schema.org/Report",
+  "genre": "Whitepaper",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.23836439",
+      "url": "https://doi.org/10.5281/zenodo.23836439"
+    }
+  ],
+  "encoding": {
+    "@type": "MediaObject",
+    "encodingFormat": "application/pdf",
+    "contentUrl": "https://zenodo.org/records/23836439/files/Infinitum-Whitepaper-Special-01-Russia-State-Influenced-Capitalism-RELEASE.pdf"
+  }
+}

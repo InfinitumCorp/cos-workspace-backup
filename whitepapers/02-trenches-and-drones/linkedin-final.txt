@@ -1,0 +1,26 @@
+
+Nobody wins this fight in a day.
+
+Today I'm sharing my second Infinitum Corporation whitepaper: "Trenches and Drones: Network Defense for a War of Attrition."
+
+The lens is irregular warfare, used as analysis only. I read public work from CSIS and the standards bodies on the modern battlefield, then asked what it teaches people who defend mid-size organizations. Depth. Cheap mass. Signals that lie. Constant observation. Supply lines that are never safe. A comparison, not a claim that your network is a front line. The paper takes no side and makes no claim about any party, and it leaves out casualty, loss and performance figures for everyone.
+
+Then the numbers:
+
+- Verizon's 2026 DBIR: exploiting vulnerabilities is now the top way into a breach, at 31%, up from 20%. Only 26% of known-exploited vulnerabilities in its data were fully remediated, and the median time to patch rose to 43 days.
+- Verizon: breaches with third-party involvement rose 60% and now make up 48% of the total.
+- IBM and Ponemon Institute, 2026: mean time to identify and contain a breach, 247 days.
+- ISC2: 67% of respondents reported a staffing shortage.
+
+The paper turns that into seven moves: map the ground, dig in, close the cheap doors, keep a second source, reduce your signature, plan for the rear to burn, and decentralize the decisions. It includes a 30/60/90-day plan, a 12-month roadmap, a 30-item self-assessment and three hypothetical scenarios.
+
+Dig in. Spread out. Keep going.
+
+Don't take my word for it. Read the sources.
+
+Read the paper (PDF): https://www.academia.edu/180077697/Trenches_and_Drones_Network_Defense_for_a_War_of_Attrition_Whitepaper_
+
+Let's stay engaged: https://www.theinfinitumcorporation.com
+
+#CyberSecurity #Resilience #NetworkSecurity
+

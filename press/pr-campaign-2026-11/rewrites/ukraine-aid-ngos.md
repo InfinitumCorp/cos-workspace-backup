@@ -1,0 +1,36 @@
+# William Aaron Turner Publishes Guide for Donors on Tracing Where Ukraine Aid Donations Go
+
+**Summary:** Part 1 of William Aaron Turner's Ukraine Files series introduces a framework for donors to trace how charity donations for Ukraine are used, and links to three detailed follow-up files.
+
+**Dateline:** WASHINGTON, DC, November 2, 2026
+
+William Aaron Turner, founder and president of Infinitum Corporation, has published "Ukraine Aid NGOs: How to Audit Where Donations Go," Part 1 of his eight-part research series The Ukraine Files. The entry is aimed at people who give through charity websites and want to know how their donations are used.
+
+What the file covers
+
+- How consumer-facing charities that take card donations can be connected to other programs, including military procurement.
+- How to follow a charity through public records such as tax identifiers, filings and partner organizations.
+- The author's case for greater transparency and independent audits of the donation trail.
+
+Where the series continues
+
+The entry links to three detailed files that follow the same thread:
+- "Zelenskyy's Rise: Backers, Media and Political Network," which covers large charities, drone-funding groups and FARA lobbying disclosures.
+- "Demining NGOs and Intelligence: The Laos and Moldova Claims."
+- "In-Q-Tel Explained," which covers the CIA-founded venture firm.
+
+Each file in The Ukraine Files attributes its claims to named people, outlets or governments and labels the conclusions as the author's own argument.
+
+"Anyone who donates deserves to know where the money ends up. The file shows readers how to check." said William Aaron Turner, Founder & President, Infinitum Corporation.
+
+**Read the original:** https://ukrainianfiles.blogspot.com/2026/10/ukraine-aid-ngos-audit-donations.html (Ukrainian Files blog)
+
+## About Infinitum Corporation
+Infinitum Corporation is a technology and security consulting firm headquartered in Washington, DC (1629 K Street NW, Suite 300, Washington, DC 20006), with Moscow as an operating location. It provides cybersecurity consulting, network defense, ethical hacking and vulnerability assessment, AI applications for security operations, strategic risk assessment, defense technology advisory and Corporate Cognitive Warfare. Open Monday–Friday, 9:00 AM–9:00 PM; closed Saturday and Sunday. Phone 202-729-9509. info@theinfinitumcorporation.com. https://www.theinfinitumcorporation.com | Telegram: https://t.me/infinitumcorporation
+
+**Media contact:** William Aaron Turner, Infinitum Corporation, 202-729-9509, info@theinfinitumcorporation.com
+
+---
+Image: /workspace/press/pr-campaign-2026-11/rewrites/img/ukraine-aid-ngos.jpg (neutral Infinitum cover, no watermark)
+Keywords: charity transparency, donations, NGO audit, nonprofit accountability, Ukraine aid, The Ukraine Files, William Aaron Turner
+Replaces removed PressLiftoff URL: https://pressliftoff.com/press-release/ukraine-aid-ngos-william-aaron-turner-calls-for-an-audit-of-where-donations-go (410)

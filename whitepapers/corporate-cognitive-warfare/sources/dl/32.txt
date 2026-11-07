@@ -1,0 +1,1896 @@
+October 2021
+
+The PLA and Intelligent Warfare:
+A Preliminary Analysis
+Kevin Pollpeter and Amanda Kerrigan
+With contributions by Andrew Ilachinski
+
+DISTRIBUTION STATEMENT A. Approved for public release: distribution unlimited.
+Cleared for public release
+
+CRM-2021-U-030806-Final
+
+Abstract
+The widespread adoption of artificial intelligence (AI) and autonomous weapon systems portends a new revolution in
+military affairs. The People’s Liberation Army (PLA) is now conceptualizing a future battlefield environment
+dominated by AI and autonomy, which it calls “intelligent warfare.” This paper explores the PLA concept of intelligent
+warfare, according to articles by writers from the People’s Republic of China (PRC). It concludes that PRC discussions
+of intelligent warfare reflect an ongoing debate over the nature and effects of the widespread use of AI and autonomy
+in warfare. Despite this ongoing debate, the PLA can be expected to adopt the use of AI and autonomy even as it
+explores the most appropriate concept of operations. PRC discussions of intelligent warfare suggest that the US
+military should begin preparing to face a PLA made more effective through the widespread adoption of AI and
+autonomy.
+This document contains the best opinion of CNA at the time of issue.
+Distribution
+
+DISTRIBUTION STATEMENT A. Approved for public release: distribution unlimited.
+
+Public Release.
+10/1/2021
+
+Cover image credit: CNA.
+Approved by:
+
+October 2021
+
+Maryanne Kivlehan-Wise
+Director, China Studies Programs
+CNA China & Indo-Pacific Security Affairs Division
+
+Request additional copies of this document through inquiries@cna.org.
+
+Copyright © CNA 2021. All rights reserved.
+
+Executive Summary
+The widespread adoption of artificial intelligence (AI) and autonomous weapon systems
+portends a new revolution in military affairs. The People’s Liberation Army (PLA) is now
+conceptualizing a future battlefield environment dominated by AI and autonomy, which it calls
+“intelligent warfare.” This paper explores the PLA concept of intelligent warfare, according to
+articles by writers from the People’s Republic of China (PRC). It addresses the following
+questions, based on a survey of 52 articles published between October 2017 and December
+2020 by media outlets affiliated with the Chinese Communist Party, PRC government, and PLA.
+•
+•
+•
+•
+•
+
+How do PRC writers characterize intelligent warfare?
+How do they envision intelligent warfare?
+
+How do they characterize future battlespaces, and how do they think humans and
+machines might interact?
+What implications do PRC writers discuss that may result from intelligent warfare?
+
+What are the implications for the US military?
+
+Characteristics of intelligent warfare
+Most PRC writers do not explicitly define intelligent warfare, but describe it as follows:
+•
+•
+•
+
+A new and advanced stage of warfare based on AI and autonomy
+A combination of human and machine intelligence
+The extensive use of AI in all military applications
+
+PRC writers emphasize the importance of data, algorithms, and computing power to
+intelligent warfare.
+•
+
+•
+
+Data. PRC writers stress that data are the foundation of intelligent warfare. Writers
+call data the “new oil” and big data the “most important resource” in intelligent
+warfare.
+
+Algorithms. The importance of algorithms to intelligent warfare is related to the
+central role of AI. Some PRC writers envision that warfare will become a contest
+between competing algorithms.
+
+CNA Research Memorandum | i
+
+•
+
+Computing power. PRC writers view real-time computing of large amounts of data as
+essential for intelligent warfare.
+
+PRC writers envision a hybrid command and control system involving humans and
+machines.
+•
+
+•
+
+Most PRC writers envision humans remaining in command of autonomous systems,
+especially at the strategic level, while exerting only limited control of machines at
+tactical levels.
+Many PRC writers seemed to be influenced by Marxist and Maoist teachings that
+humans will remain the most decisive factor in war. These writers make several
+arguments:
+o
+
+o
+o
+•
+
+No matter how advanced intelligent weapons and equipment become, they will
+still require human innovation, design, production, and management.
+War is still a conflict between people, and war is ultimately about the ability to
+influence a human enemy.
+Machines cannot replace the ingenuity, creativity, and flexibility of humans.
+
+A minority of PRC writers contend that over time machines will completely replace
+humans because of the extreme speed and complexity of future warfare.
+
+PRC writers conclude that intelligent warfare will expand the battlespace.
+•
+
+PRC writers argue that AI and autonomy will expand warfare into outer space, the deep
+sea, and the polar regions, where humans cannot easily operate.
+
+PRC writers conclude that the cognitive domain will become more important in
+intelligent warfare.
+•
+
+PRC writers argue that militaries will seek to influence an adversary’s perceptions
+through the denial, degradation, and manipulation of data and algorithms and the
+denial and degradation of computing systems.
+
+PRC views of the implications of intelligent
+warfare
+
+PRC writers conclude that AI will increase the speed and effectiveness of military
+operations.
+•
+
+PRC writers argue that intelligent warfare will bring about an acceleration of the entire
+observe, orient, decide, act (OODA) loop process from intelligence collection to
+transmittal, processing, and decision-making.
+
+CNA Research Memorandum | ii
+
+Some PRC writers conclude that AI will facilitate greater first mover advantage.
+•
+
+Some PRC writers argue that the increased effectiveness of AI and autonomy will
+enable rapid strike capabilities that could facilitate first strikes, including preemption.
+
+Some PRC writers conclude that AI will increase the likelihood of war.
+•
+•
+
+According to some PRC writers, the prominent use of lower cost robotic systems will
+increase the likelihood of war by reducing its human and economic costs.
+
+Some PRC writers also conclude that low-cost robotic systems and the increased
+effectiveness of AI and autonomy may increase the likelihood of war by enabling
+weaker countries to “even the odds” against more powerful adversaries.
+
+PRC writers conclude that AI and autonomous systems have weaknesses.
+
+PRC writers discuss three types of vulnerabilities of AI and autonomous systems:
+•
+
+•
+
+•
+
+Vulnerability to attack and destruction. AI and autonomous systems rely on
+electricity, information networks, and command centers. An attack on any of these
+elements can degrade their normal operation.
+Vulnerability of data. AI systems may be unable to cope with superfluous or
+corrupted data. Because of the shortcomings of deep-learning algorithms, AI systems
+based on big data have inherent defects in interpretability and credibility and are thus
+“extremely vulnerable to attacks.”
+
+Inflexibility. Based on current technology levels, AI can only solve problems within a
+specific range and lacks the ability to respond effectively to new situations.
+
+PRC writers conclude that AI and autonomy present new ethical issues.
+
+PRC writers discuss three main ethical issues pertaining to the wartime use of AI and
+autonomy:
+•
+•
+
+•
+
+Indiscriminate killing. AI and autonomous systems may be less effective at
+distinguishing between civilians and the military.
+
+Numbness toward killing. PRC writers argue that research has shown that people
+become bolder and more violent in a virtual world because they cannot experience the
+fear or pain of death.
+
+Accountability for wartime actions. PRC writers highlight the complexity of
+assigning accountability for wartime actions resulting from the use of AI and
+autonomy. Issues concern the many actors involved in the manufacture and use of
+autonomous weapons and the varying levels of autonomy these types of weapons may
+have.
+
+CNA Research Memorandum | iii
+
+Conclusions
+PRC discussions of intelligent warfare recognize AI and autonomy as important to future
+warfare.
+•
+
+Articles surveyed for this report suggest that the PLA is contemplating how best to
+integrate AI and autonomy into its operations.
+
+PRC discussions of intelligent warfare reflect an ongoing debate over the nature and
+effects of the widespread use of AI and autonomy in warfare.
+•
+
+•
+
+The differing opinions on the nature, conduct, and implications of intelligent warfare
+found in the dataset collected for this report suggest that the PLA has yet to reach an
+official understanding of the fundamental attributes of intelligent warfare.
+
+The development of a doctrine for the integration of AI and autonomy into PLA
+warfighting would appear to be dependent on first reaching a consensus on those
+fundamental attributes.
+
+PRC writers may envision AI and autonomy as providing capabilities to defeat the United
+States.
+•
+
+•
+
+Assessments that AI and autonomy will enable weaker militaries to defeat stronger
+militaries suggest that writers may view AI and autonomy as new technologies that
+could play a significant role in defeating the US military.
+
+Although several articles argue that the development of AI and autonomous
+technologies can allow the PLA to catch up with or surpass the US military
+technologically, no article surveyed for this report argued that AI and autonomy
+should be used to compensate for the type of PLA deficiencies that cast doubt on the
+professionalism of the PLA officer corps, such as the “five incapables.”
+
+PRC writers argue for some degree of human control of autonomous systems.
+•
+
+Most PRC writers assess that humans should maintain some degree of control over
+machines, but the degree itself may be subject to advancements in AI and autonomy.
+
+PRC writers characterize AI and autonomy as possibly leading to actions that increase
+instability.
+•
+
+Some PRC writers assess that the widespread adoption of AI and autonomy will
+facilitate first strikes due to an acceleration of the OODA loop process. These
+assessments suggest that the PLA may seek to gain a first mover advantage against the
+United States during an armed conflict.
+
+CNA Research Memorandum | iv
+
+•
+
+The facilitation of first strikes by AI and autonomy could be also encouraged by the
+PLA’s active defense military strategy, which has a strong offensive component that
+includes first strike and possibly preemption.
+
+The PLA may emphasize cognitive warfare as it integrates AI into warfighting.
+•
+•
+•
+
+•
+
+Some PRC writers argue that cognitive warfare can enable the PRC to achieve the Sun
+Tzu maxim of “winning without fighting” by sapping the morale and will of adversaries.
+
+The PLA may increase efforts to influence competitors and potential adversaries in the
+cognitive domain by spreading propaganda and disinformation.
+
+PRC writings on the growing importance of cognitive warfare suggest that the PLA will
+focus on the denial and degradation of adversary data, programming, and computer
+systems that enable AI and autonomous systems, regardless of the domains they serve.
+
+An increased emphasis on cognitive warfare may provide a greater role for the PLA’s
+Strategic Support Force, which has responsibilities for outer space, cyber, electronic
+warfare, and psychological warfare operations.
+
+AI and autonomy will reduce direct human involvement in war.
+•
+
+•
+
+An emphasis on the development of AI and autonomous technologies may focus the
+PLA on the development of human capital to sustain innovation in these areas, and the
+creative employment of autonomous weapon systems to achieve victory rather than
+the willingness of humans to sacrifice for their country.
+The widespread adoption of AI and autonomy by the PLA could diminish the effect of
+political indoctrination and human will in warfare that the PLA has traditionally stated
+as inherent advantages over potential adversaries.
+
+The PRC may be open to establishing international norms for the ethical use of AI and
+autonomy.
+•
+
+•
+
+•
+
+Ethical concerns cited by PRC writers regarding the wartime use of AI and autonomy
+suggest that there is openness in China to dialogue on how to govern the military use
+of AI and autonomous systems.
+
+Although the restrictions proposed by PRC writers appear to be very limited, further
+discussions could reveal areas of common ground that could be beneficial to US
+national security interests.
+The PRC’s official stance at the United Nations, however, indicates that it only supports
+limited arms control measures for autonomous weapon systems.
+
+CNA Research Memorandum | v
+
+Contents
+Chapter 1: Introduction ............................................................................................................................ 1
+Data collection and approach ......................................................................................................................... 3
+
+Chapter 2: Defining Intelligent Warfare ............................................................................................. 5
+The core characteristics of intelligent warfare ....................................................................................... 7
+Based on artificial intelligence and autonomous systems.......................................................... 7
+A combination of human and machine intelligence ...................................................................... 7
+The permeation of AI into all aspects of military operations.................................................... 7
+The key foundations of intelligent warfare .............................................................................................. 7
+Data ................................................................................................................................................................... 8
+Algorithms ...................................................................................................................................................... 9
+Computing power ...................................................................................................................................... 10
+
+Chapter 3: Human-Machine Interaction ........................................................................................... 11
+Human control of machines is a dominant theme .............................................................................. 11
+A transition to full autonomy? .................................................................................................................... 13
+Command and control of AI under debate ............................................................................................. 14
+
+Chapter 4: The Intelligent Warfare Battlefield .............................................................................. 16
+Unmanned systems become the main combat force ......................................................................... 16
+An expanded battlespace .............................................................................................................................. 18
+Prominence of cognitive warfare............................................................................................................... 18
+
+Chapter 5: PRC Views of the Implications of Intelligent Warfare............................................21
+AI and autonomy increase the speed and effectiveness of combat ............................................. 21
+AI and autonomy facilitate first strikes ................................................................................................... 22
+AI and autonomy increase the likelihood of war ................................................................................ 22
+AI presents new ethical issues .................................................................................................................... 24
+Indiscriminate killing by AI ................................................................................................................... 24
+Numbness towards killing ..................................................................................................................... 25
+Deciding responsibility for wartime actions .................................................................................. 25
+
+Chapter 6: Conclusions and Implications......................................................................................... 28
+Abbreviations ............................................................................................................................................. 32
+References ................................................................................................................................................... 33
+
+CNA Research Memorandum | vi
+
+Chapter 1: Introduction
+After decades of reform and modernization, China’s military is beginning to challenge the US
+military in ways not seen since the Soviet military challenge of the Cold War. No longer
+committed to a “people’s war” strategy that emphasizes massed formations, the Chinese
+People’s Liberation Army (PLA) has made rapid progress across a broad swath of technologies
+and institutional capabilities intended to enable it to fight as a joint force across all warfighting
+domains.
+
+The PLA is now conceptualizing a future battlefield environment dominated by artificial
+intelligence (AI) and autonomy. Not only does the PLA regard AI and autonomy as the future
+of warfare for which it must prepare; it also appears to regard them as an opportunity to offset
+the US military’s technological superiority. 1 Indeed, the US National Security Commission on
+Artificial Intelligence warns that the PRC could surpass the United States as the world’s AI
+leader “within the next decade” and that it may “not be constrained by the same rigorous
+testing and ethical code that guide the US military.” 2
+
+The widespread adoption of AI and autonomous weapon systems portends a new revolution
+in military affairs that could fundamentally change the nature of warfare. The use of these
+systems in a wartime context presents new questions on the role of humans in warfare; the
+command and control (C2) of autonomous weapon systems; and the effects of AI and autonomy
+on deterrence, strategic stability, and the ethics of war.
+The PLA is debating these issues as it explores what it calls “intelligent warfare” (zhinenghua
+zhanzheng; 智能化战争) and “military intelligentization” (junshi zhinenghua; 军事智能化). In
+2017, Chinese leader Xi Jinping called for the PLA to “accelerate the development of military
+intelligentization.”
+
+This paper explores the PLA concept of intelligent warfare, according to the views of writers
+from the People’s Republic of China (PRC). It represents an effort contributing to the ever-
+
+1 Chen Dongheng, “Chen Dongheng: Exert Great Effort to Promote Military Intelligentization” (Chen Dongheng: Dali
+
+tuijin junshi zhinenghua; 陈东恒：大力推进军事智能化), Study Times (Xuexi Shibao; 学习时报), Dec. 27, 2017,
+http://www.71.cn/2017/1227/979861.shtml.
+The National Security Commission on Artificial Intelligence, Final Report, https://www.nscai.gov/wpcontent/uploads/2021/03/Full-Report-Digital-1.pdf, 23.
+2
+
+CNA Research Memorandum | 1
+
+growing US scholarship on understanding the integration of AI into the Chinese military. 3 It
+asks the following questions:
+•
+•
+•
+•
+•
+
+How do PRC writers characterize intelligent warfare?
+How do they envision intelligent warfare?
+
+How do they characterize future battlespaces, and how do they think humans and
+machines might interact?
+What implications do PRC writers discuss that may result from intelligent warfare?
+What are the implications for the US military?
+
+Intelligent Warfare vs. Military Intelligentization
+
+Intelligent warfare and military intelligentization are closely related. The term intelligent
+
+warfare tends to refer to how artificial intelligence may be used in war. The term military
+intelligentization is broader than intelligent warfare: it covers the application of AI for
+military purposes writ large. In our data, intelligent warfare was discussed more directly with
+
+aspects of warfare itself, including specific types of combat operations and the future
+battlefield. However, the use of the term intelligent warfare sometimes also has broader
+
+applications, similar to the use of military intelligentization, and the two terms are often
+
+used together.
+
+This paper concludes that PRC discussions of intelligent warfare reflect an ongoing debate over
+the nature and effects of the widespread use of AI and autonomy in warfare. Most of the articles
+surveyed for this report, for example, argue for some degree of human control over AI and
+autonomous systems and say that some degree of international norms should govern their use.
+How these issues should be resolved is not fully addressed, however.
+
+Despite this ongoing debate, the PLA can be expected to adopt the use of AI and autonomy even
+as it explores the most appropriate concept of operations due to the military benefits provided
+by AI and autonomy, top-level PRC leadership direction to exploit the advantages of AI and
+autonomy, and general military technology trends. PRC discussions of intelligent warfare
+suggest that the US military should begin preparing to face a PLA made more effective through
+the widespread adoption of AI and autonomy. This includes not only increasing its own use of
+3 There are many noteworthy research endeavors on this topic. Some recent publications of interest
+
+include: Elsa B. Kania, ““AI weapons” in China’s Military Innovation,” Brookings, Apr. 2020,
+https://www.brookings.edu/research/ai-weapons-in-chinas-military-innovation/ and
+Michael
+Dahm, “Chinese Debates on the Military Utility of Artificial Intelligence,” War on the Rocks, June 5, 2020,
+https://warontherocks.com/2020/06/chinese-debates-on-the-military-utility-of-artificialintelligence/.
+
+CNA Research Memorandum | 2
+
+AI and autonomy, but also determining how best to defend these systems from attack. US
+national security may also be improved by dialogue with China over how best to govern the
+military use of AI and autonomy.
+
+Data collection and approach
+
+The sample of data used in this study includes articles published by PRC media outlets between
+October 18, 2017, and December 1, 2020. We chose October 18, 2017, as the start date because
+it was the day that Xi Jinping stated in his 19th Party Congress work report that the PLA would
+“accelerate the development of military intelligentization.” 4 We were interested in what the
+discussion of military intelligentization and intelligent warfare looked like following his
+emphasis on it during this key time in Chinese policy-making (Party congresses occur only once
+every five years). We used both the terms military intelligentization and intelligent warfare to
+search for relevant articles, resulting in 52 articles for analysis. We subsequently coded these
+articles according to the themes and topics they discussed.
+
+The 52 articles come from six PRC media outlets affiliated with the Chinese Communist Party
+(CCP), the PRC government, or the PLA. Although the ideas expressed in these publications may
+not represent official policy, they may reveal issues being considered by the broader PRC
+military community. The majority (75 percent) of the articles were published by organizations
+affiliated with the PLA: the PLA Daily, the official newspaper of the PLA; and China Defense News,
+published by the Central Military Commission’s Political Work Department. Over a quarter of
+the articles were written by authors affiliated with the Academy of Military Sciences (AMS), the
+PLA’s highest-level research institute for military science.
+Because the articles surveyed for this report come from media outlets that are not research
+publications, the opinions expressed by writers may not always align with current
+technological realities. Consequently, associated technical issues and questions are often given
+short shrift. As a result, although this report is intended to characterize the range of PRC
+thinking on intelligent warfare, it may not reflect actual AI technologies the PLA is developing
+and/or deploying.
+
+4 Xi Jinping, “Secure a Decisive Victory in Building a Moderately Prosperous Society in All Respects and Strive for
+
+the Great Success of Socialism with Chinese Characteristics for a New Era,” China Daily, Oct. 18, 2017,
+https://www.chinadaily.com.cn/china/19thcpcnationalcongress/2017-11/04/content_34115212.htm.
+
+CNA Research Memorandum | 3
+
+Table 1.
+
+Source publications
+Percentage
+Sources
+PLA Daily
+Study Times
+China Social Science News
+
+China National Defense News
+Science & Technology Daily
+China Youth Daily
+
+of articles
+69
+9
+8
+6
+4
+4
+
+CNA Research Memorandum | 4
+
+Chapter 2: Defining Intelligent Warfare
+PRC research on intelligent warfare appears to be aimed at reaching a common understanding
+of its characteristics. Most of the writings surveyed for this report, however, do not directly
+define intelligent warfare, and there appears to be no consensus in the PLA research
+community over how to define the term. 5 According to one of the few sources that do provide
+a definition, intelligent warfare is “the extensive use of AI in various fields of military
+construction to penetrate and optimize a military system.…It uses AI to enhance, extend, and
+replace human intelligence.” 6
+According to PRC writers, intelligent warfare is the next step in the evolution of warfare.
+According to China’s Ministry of National Defense in 2020, the PLA has “basically achieved
+mechanization and made significant progress in informatization. However, with the
+accelerated evolution of modern warfare, it has become a major trend in world military affairs
+to build intelligent military systems.” 7
+
+As illustrated in Figure 1, for much of the 20th century, mechanized warfare replaced human
+strength with machines. Its focus was on platforms’ mobility and range, and the
+destructiveness of ammunition. In the 1990s, mechanized warfare began to transition to
+informatized warfare. Whereas mechanized warfare emphasized platforms, informatized
+warfare emphasized information technologies and the role of networks in connecting
+platforms into a “system-of-systems.” Whereas mechanization stressed the destruction of
+platforms, informatized warfare stressed the ability to collect information and the ability to
+
+5 Li Dapeng, “How Do You Fight an Intelligent War?” (Zhinenghua zhanzheng zenme da; 智能化战争怎么打),” China
+
+Youth Daily (Zhongguo Qingnian Bao; 中 国 青 年 报 ） , July 11, 2019, http://zqb.cyol.com/html/201907/11/nw.D110000zgqnb_20190711_3-12.htm ; Xu Jinhua, Huang Heqing, and Yuan Yi, “Analysis of the Basic
+Characteristics of Mechanization, Informationization and Intelligentization” (Qianxi jixiehua, xinxihua, zhinenghua
+jiben neihan; 浅析机械化、信息化、智能化基本内涵), China Defense News (Zhongguo guofang bao; 中国国防报),
+Nov. 27, 2019, http://www.81.cn/gfbmap/content/2019-11/27/content_248456.htm; Zhao Yun and Zhang Huang,
+“An Ethical Review of Intelligent Warfare” (Zhinenghua zhanzheng de lunli shenshi; 智能化战争的伦理审视),” China
+Social Sciences Today (Zhongguo Kexue Shehui Bao; 中 国 社 会 科 学 报 ） , July 19, 2018,
+http://news.cssn.cn/zx/bwyc/201807/t20180719_4505575.shtml.
+
+Huang, Xu, and Yuan, “Analysis of the Basic Characteristics of Mechanization, Informatization, and
+Intelligentization.”
+6
+
+7 Li Wei, “Regular Press Conference of the Ministry of National Defense on November 26,” China Military Online, Nov.
+
+29, 2020, http://eng.mod.gov.cn/news/2020-11/29/content_4874839.htm.
+
+CNA Research Memorandum | 5
+
+deny information to adversaries as key to winning wars. 8 Intelligent warfare is described as a
+continuation of this process with an emphasis on AI and autonomy.
+
+Although PLA thinking on intelligent warfare is far from preliminary, it remains unsettled.
+Nevertheless, PLA discussions of intelligent warfare appear to have coalesced around at least
+three core characteristics and a set of three key foundations of AI that must be developed
+before the PLA can successfully conduct intelligent warfare.
+Figure 1.
+
+The evolution from mechanized warfare to intelligent warfare
+
+Source: CNA.
+
+Huang, Xu, and Yuan, “Analysis of the Basic Characteristics of Mechanization, Informatization, and
+Intelligentization.” For more information, see Kevin Pollpeter, “Towards an Integrative C4ISR System:
+Informationization and Joint Operations in the People's Liberation Army,” in The PLA at Home and Abroad: Assessing
+the Operational Capabilities of China's Military, ed. David Lai, Roy Kamphausen, and Andrew Scobell (Carlisle:
+Strategic Studies Institute, June 2010), 183-235; and Andrew Scobell, “Discourse in 3-D: The PLA's Evolving
+Doctrine, circa 2009,” in The PLA at Home and Abroad: Assessing the Operational Capabilities of China's Military, ed.
+David Lai Roy Kamphausen, and Andrew Scobell (Carlisle: Strategic Studies Institute, June 2010) , 99-133.
+8
+
+CNA Research Memorandum | 6
+
+The core characteristics of intelligent warfare
+The writings in our dataset suggest that intelligent warfare is based on three core
+characteristics that separate it from informatized warfare.
+
+Based on artificial intelligence and autonomous systems
+
+According to the PRC writings we examined, intelligent warfare is a new and advanced stage
+of warfare in which the ubiquity and salience of AI and autonomous systems make them the
+key factors that separate it from informatized warfare. 9
+
+A combination of human and machine intelligence
+
+Intelligent warfare differs from informatized warfare in regard to the role of humans. Whereas
+informatized warfare involves the use of information systems to assist humans, intelligent
+warfare involves replacing functions traditionally performed by humans with AI. 10
+
+The permeation of AI into all aspects of military operations
+
+AI will play a significant role in all aspects of military operations, including command and
+control (C2), weapons platforms, training, logistics, and intelligence. 11
+
+The foundations of intelligent warfare
+
+PRC authors emphasize data, algorithms, and computing power as central to intelligent
+warfare. 12 Indeed, most of the articles consulted for this study discussed at least one of these
+9 Li, “How Do You Fight an Intelligent War? ”; He Lei, “Intelligent Warfare Is Not Far Away” (Zhinenghua zhanzheng
+
+bingbu yaoyuan; 智 能 化 战 争 并 不 遥 远 , PLA Daily (Jiefang Junbao; 解 放 军 军 报 ） , Aug. 8, 2019,
+http://www.81.cn/jfjbmap/content/2019-08/08/content_240321.htm; and Chen Xiaonan and Cong Hanwen,
+“Talking about the 'Intelligence' in Intelligent Warfare” (Huashuo zhinenghua zhanzheng zhi "zhi"; 话说智能化战争
+之“智"),” PLA Daily, Dec. 27, 2019, http://www.81.cn/jfjbmap/content/2019-12/27/content_250879.htm.
+11 Yang Wenzhe, “Exploring the Way to Victory Amidst Changing and Unchanging Intelligent Warfare” (Zai bian yu
+
+bu bian zhong tanxun zhinenghua zhanzheng zhisheng zhidao; 在变与不变中探寻智能化战争制胜之道), PLA Daily,
+Oct. 22, 2019, http://www.81.cn/jfjbmap/content/2019-10/22/content_245810.htm; and Liu Weiqi, “The Curtain
+on Intelligent Warfare Has Been Opened” (Zhinenghua zhanzheng da mu lakai; 智能化战争大幕拉开), People's Daily,
+accessed May 17, 2018, http://www.xinhuanet.com/mil/2018-05/17/c_129874572.htm.
+
+12 Shen Shoulin and Zhang Guoning, “Promote Military Intelligence Construction with Algorithm Innovation” (Yi
+
+suanfa chuangxin tuidong junshi zhinenghau jianshe; 以 算 法 创 新 推 动 军 事 智 能 化 建 设 ), PLA Daily
+http://www.xinhuanet.com/2017-11/23/c_129747614.htm.
+
+CNA Research Memorandum | 7
+
+three technologies, indicating the high level of importance placed on them. 13 In 2019, AMS even
+published an entire series of articles in the PLA Daily about military intelligentization that
+focused on data issues. 14
+
+The emphasis placed on data, algorithms, and computing power is directly related to their
+essential role in developing AI. According to one writer, “Algorithms, computing power, and
+data are not only the internal driving force and core support for the development of AI, but also
+the ‘key’ to solving the problem of the winning mechanism of intelligent warfare.” 15 According
+to another writer, “Algorithms are equivalent to intelligence, computing power is equivalent to
+speed, and data is equivalent to resources.” 16 Themes around each of these AI foundations are
+discussed in the following subsections.
+
+Data
+
+PRC writers stress that data are the foundation for intelligent warfare. PRC sources call data
+the “new oil” and big data the “most important resource” in intelligent warfare and central to
+achieving victory. 17 This is because AI functions—such as natural language processing, image
+13 Most of the articles analyzed for this paper discussed the importance of at least one of these three building blocks.
+
+Of the 52 articles, 31 discussed issues pertaining to at least one of the following topics: algorithms, data, and
+computing power.
+
+14 The series was published weekly from September through November 2019. The first article in the series is: Li
+
+Xiaosong and Lei Shuai, “Wake Up The Sleeping Military Management Data—Military Big Data Pushes the
+Development of Military Intelligentization Series No. 1” (Huanxing chenshui de junshi guanli shuju - junshi da shuju
+tuidong junshi zhinenghua fazhan xilie tan zhi yi; 唤醒沉睡的军事管理数据——军事大数据推动军事智能化发展系
+列谈之一), PLA Daily, Sept. 13, 2019 http://www.81.cn/jfjbmap/content/2019-09/13/content_243299.htm.
+
+15 Li Dapeng, “How to take advantage of intelligent warfare” (Ruhe duoqu zhinenghua zhanzheng youshi; 如何夺取
+智能化战争优势), China Youth Daily, May 23, 2019, accessed May 17, 2021, http://www.xinhuanet.com/mil/201905/23/c_1210141455.htm. Similarly, Chai Shan says, “The more complete the data, the stronger the computing
+power, and the more advanced the algorithm, the greater the probability of victory.” Chai Shan, “The Essence of
+Winning an Intelligent War” (Zhinenghua zhanzheng de shengl jingsui; 智能化战争的制胜精髓), PLA Daily (Jiefang
+Junbao; 解 放 军 报 ), June 4, 2019, accessed May 17, 2021, http://www.81.cn/jfjbmap/content/201906/04/content_235225.htm.
+16 Li, “How Do You Fight an Intelligent War?”
+
+17 Li, “How to take advantage of intelligent warfare”; Lei Shuai and Lu Bin, “Get rid of Data Fog—Military Big Data
+
+Promotes Military Intelligence Development Series No. 7” (Quchu shuju miwu ——junshi da shuju tuidong junshi
+zhinenghua fazhan xilie tan zhi qi; 驱除数据迷雾 ——军事大数据推动军事智能化发展系列谈之七),” PLA Daily, Nov.
+1, 2019; Yang Wang and Zuo Wentao, “Recognize the Winning Elements of Intelligent Warfare” (Renqing zhinenghua
+zhanzheng zhisheng yaosu; 认清智能化战争的制胜要素), PLA Daily (Jiefang Junbao; 解放军报 ), June 6, 2020,
+http://www.81.cn/theory/2020-06/20/content_9838385.htm; Shi Jianbo and Zhan Jing, "Exploring Intelligent
+Warfare from the Perspective of Thinking” (Cong siwei cengmian tianxun zhinenghua zhanzheng; 从思维层面探寻
+智 能 化 战 争 ), PLA Daily Sept. 30, 2020, accessed May 17, 2021, http://www.81.cn/gfbmap/content/202009/30/content_272716.htm.
+
+CNA Research Memorandum | 8
+
+recognition, and virtual reality—depend on data. 18 Given the necessity of data, authors from
+AMS emphasize the importance of standardizing and centralizing military databases, using
+common formats and open standards, and building databases oriented to military
+applications. 19
+
+Algorithms
+
+Some writers envision that warfare will become a contest between algorithms where
+advantages in algorithms will drive advantages in war. 20 Several writers refer to algorithms as
+the “core” of AI, with one even asserting that algorithms are the core element for transforming
+war from informatized to intelligentized. 21 According to these writers, the side with the
+
+18 Chai, “The Essence of Winning an Intelligent War”; and Wang and Zuo, “Recognize the Winning Elements of
+
+Intelligent Warfare.”
+
+19 Li Congying and Lu Bin, “Building a Data Pool to Open Up Data Flow-Military Big Data Promotes Military
+Intelligence Development Series 6” (Jian hao shuju chi datong shuju liu——junshi da shuju tuidong junshi zhinenghua
+fazhan xilie tan zhi liu; 建好数据池 打通数据流——军事大数据推动军事智能化发展系列谈之六 ), PLA Daily, Oct.
+25, 2019, http://www.81.cn/jfjbmap/content/2019-10/25/content_246053.htm; Lei Shuai and Lu Bin of AMS also
+express similar sentiments: “Strengthen the research on military big data governance technology, build data test
+verification methods and means, conduct actual verification, and improve data authenticity analysis capabilities to
+ensure the timeliness, authenticity and credibility of data.” See: Lei and Lu, “Get rid of Data Fog—Military Big Data
+Promotes Military Intelligence Development Series No. 7.”
+
+20 Dong Jianmin, “Are you ready for intelligent warfare?” (Zhinenghua zhanzheng, ni zhunbei hao le ma?; 智能化战
+
+争 ， 你 准 备 好 了 吗 ？ , China National Defense (Zhongguo Guofang Bao; 中 国 国 防 报 ), June 12, 2019,
+http://www.xinhuanet.com/mil/2019-06/12/c_1210156535.htm ; Li Minghai, “Where is the Winning Mechanism
+of Intelligent Warfare?” (Zhinenghua zhanzheng de zhisheng jili bian zai nali; 智能化战争的制胜机理变在哪里), PLA
+Daily (Jiefang Junbao; 解放军报), Jan. 15, 2019, http://www.xinhuanet.com/mil/2019-01/15/c_1210038327.htm;
+Wang Ronghui, “Insight into The Future of Intelligent Warfare” (Toushi weilai zhinenghua zhanzheng de yangzi; 透
+视 未 来 智 能 化 战 争 的 样 子 ), China Military Online (Zhongguo Junwang; 中 国 军 网 ） , Apr. 30, 2019,
+http://www.81.cn/xue-xi/2019-04/30/content_9492869.htm; and Shen and Zhang, “Promote Military Intelligence
+Construction with Algorithm Innovation.” Other authors express similar sentiments about the importance of
+algorithm development and testing. See: Chen Dongheng, “Deeply Grasp the Winning Mechanism of Intelligent
+Warfare” (Shenke bawo zhinenghua zhanzheng de zhisheng jili; 深刻把握智能化战争的制胜机理 ), Study Times
+(Xuexi Shibao; 学习时报）, Mar. 23, 2020, http://www.qstheory.cn/llwx/2020-03/23/c_1125752487.htm; Li and
+Lu, “Building a Data Pool to Open Up Data Flow-Military Big Data Promotes Military Intelligence Development Series
+6.”
+21 Li, “How to take advantage of intelligent warfare”; Li, “How Do You Fight an Intelligent War?”; Shen and Zhang,
+
+“Promote Military Intelligence Construction with Algorithm Innovation”; Chen Dongheng and Dong Junlin, “Military
+Intelligentization in the Dialectical Perspective” (Biànzhèng shì yù xià de jūnshì zhìnéng huà; 辩证视域下的军事智能
+化) , PLA Daily, May 15, 2019, http://www.qstheory.cn/defense/2019-05/15/c_1124498258.htm; Li, “Where is the
+Winning Mechanism of Intelligent Warfare?”
+
+CNA Research Memorandum | 9
+
+algorithmic advantage will be able to predict the battlefield situation more quickly and
+accurately, to be innovative, and to achieve the goal of “winning without fighting.” 22
+
+Computing power
+
+PRC writers view real-time computing of large amounts of data as essential for intelligent
+warfare. As one writer states, “No matter how complete the data, no matter how advanced the
+algorithms,” intelligent warfare cannot be conducted without strong computing power. 23
+Writers conclude that the next generation of computers—such as quantum computers,
+photonic (or optic) computers, and biocomputers—will provide unprecedented computing
+potential and help advance AI technology. 24
+
+22 Li, “Where is the Winning Mechanism of Intelligent Warfare? ” and Dong, “Are you ready for intelligent warfare?”
+23 Chai, “The Essence of Winning an Intelligent War.”
+
+24 Li, “How to take advantage of intelligent warfare”; Dong, “Are you ready for intelligent warfare?”; and Li, “Where
+
+is the Winning Mechanism of Intelligent Warfare?”
+
+CNA Research Memorandum | 10
+
+Chapter 3: Human-Machine Interaction
+A critical question in the PRC writings we examined is the extent to which humans will retain
+control over robotic systems. PRC sources represent a diverse spectrum of views on this
+matter. Most of the PRC writers emphasize that machines will not completely replace humans
+in intelligent warfare. These researchers make several arguments in support of this point: (1)
+AI and autonomy will still require human innovation, design, production, and management; 25
+(2) war is still a conflict between people—and war is ultimately about the ability to influence
+people, not machines; 26 and (3) machines cannot replace the ingenuity, creativity, and
+flexibility of humans. 27
+
+Human control of machines is a dominant
+theme
+
+Human-machine teaming is a prominent feature of discussions on intelligent warfare. Most of
+these writers envision a hybrid decision-making system where humans remain the dominant
+
+Xiaogang, “Intelligent Warfare Forms and Countermeasures" (Zhinenghua zhanzheng xingtai ji yindui
+zhenglüe;智能化战争形态及应对策略, China Social Sciences Today (Zhongguo Kexue Shehui Bao; 中国社会科学 报
+), July 5, 2018, http://news.cssn.cn/zx/bwyc/201807/t20180705_4496198.shtml; He, “Intelligent Warfare Is Not
+Far Away"; Wang and Zuo, “Recognize the Winning Elements of Intelligent Warfare.”
+25 Shi
+
+26 Li Dapeng, “How to Take Advantage of Intelligent Warfare” (Ruhe duoqu zhinenghua zhanzheng youshi; 如何夺取
+
+智 能 化 战 争 优 势 ), China Youth Daily (Zhongguo qingnian bao; 中 国 青 年 报 ), May 23, 2019,
+http://www.xinhuanet.com/mil/2019-05/23/c_1210141455.htm; Ma Rongsheng, “The Study of Intelligent
+Warfare is Inseparable from Dialectical Thinking” (Zhinenghua zhanzheng yanjiu libukai bianzheng siwei; 智能化战
+争 研 究 离 不 开 辩 证 思 维 ), Qiushi (Qiushi; 求 是 ） , July 4, 2019, http://www.qstheory.cn/defense/201907/04/c_1124710009.htm.
+
+27 Li Xu, “Intelligent Warfare Will Not Let People Walk Away" (Zhinenghua zhanzheng buhui rang ren zoukai; ;智能
+
+化 战 争 不 会 让 人 走 开 ), Qiushi (Qiushi; 求 是 ） , Oct. 17, 2019, http://www.qstheory.cn/defense/201910/17/c_1125117765.htm; Li, “How to Take Advantage of Intelligent Warfare”; Li, “Where is the Winning
+Mechanism of Intelligent Warfare?”; Wang, “Insight into The Future of Intelligent Warfare”; Wang and Zuo,
+“Recognize the Winning Elements of Intelligent Warfare”; Chai, “The Essence of Winning an Intelligent War”; Wang
+Chunfu, “Let Military Intelligence Enter the Track of Scientific Development” (Rang Junshi Zhinenghua Buru Kexue
+Fazhan Guidao; 让 军 事 智 能 化 步 入 科 学 发 展 轨 道 ), PLA Daily (Jiefang Junbao; 解 放 军 报 ） , Mar. 26, 2019,
+http://www.chinamil.com.cn/jwgd/2019-03/26/content_9459996.htm.
+
+CNA Research Memorandum | 11
+
+actor. 28 As one author writes, “No matter how highly intelligent the combat robot system is,
+humans as the leading factor of war will never change.” 29
+
+Some writers directly reference their Marxist and Maoist training in emphasizing that no
+matter how advanced AI and autonomy may become, humans will always be the “decisive
+factor” in warfare. 30 According to one article, “Technology determines tactics, but technology
+will never automatically become a tactic for defeating the enemy. It will always work through
+the subjective initiative of humans.” According to this writer, human control of AI “is the core
+of intelligent operations and also an intrinsic requirement of the ethics of war.” 31
+
+Other writers argue that machines cannot replicate the inherent subjective human qualities
+that often win wars. These writers argue that war is not only a science but also an art that
+machines cannot easily replicate. As a result, these writers state that humans and machines
+will complement each other. While machines are precise and have immense computing power,
+humans are creative. 32 In this respect, although machines may be better at the “science” of war,
+the adaptability and ingenuity of humans make them better at the “art” of war. 33
+
+These writers argue that human commanders can better devise strategies and tactics, analyze
+opposing forces, act in real time to exploit opportunities, predict enemy actions, employ forces
+to seize the initiative, and act unpredictably. 34 As a result, automated command systems will
+28 Human-machine teaming was one of the most prominent themes in the dataset, appearing in 34 of the 52 articles
+
+(65%). Yang, “Exploring the Way to Victory in Amidst Changing and Unchanging Intelligent Warfare”; Chen, “Chen
+Dongheng: Exert Great Effort to Promote Military Intelligentization”; Yin Junsong and Cheng Gang, “Intelligent
+Warfare is Knocking, Are You Ready?” (Zhinenghua zhanzheng zheng zai qiaomen, ni zhunbei haole ma; 智能化战争
+正 在 叩 门 ， 你 准 备 好 了 吗 ), PLA Daily (Jiefang Junbao; 解 放 军 报 ） , Apr. 24, 2018,
+http://www.81.cn/jfjbmap/content/2018-04/24/content_204533.htm; Wang, “Insight into The Future of
+Intelligent Warfare”; and Zhao and Zhang, “An Ethical Review of Intelligent Warfare.”
+29 Zhao and Zhang, “An Ethical Review of Intelligent Warfare.”
+
+30 Yang, “Exploring the Way to Victory in Amidst Changing and Unchanging Intelligent Warfare”; Ma, “The Study of
+
+Intelligent Warfare is Inseparable from Dialectical Thinking”; Xu, “Intelligent Warfare Will Not Let People Walk
+Away”; Chai, “The Essence of Winning an Intelligent War”; Fu Wanjuan, Yang Wenzhe, and Xu Chunlei, “Intelligent
+Warfare, What Stays the Same” (Zhinenghua zhanzheng, bu bian zai nali; 智能化战争，不变在哪里), PLA Daily, Jan.
+14, 2020, accessed May 21, 2021, http://www.81.cn/jfjbmap/content/2020-01/14/content_252163.htm; and Xu,
+“Intelligent Warfare Will Not Let People Walk Away.”
+31 Wang and Zuo, “Recognize the Winning Elements of Intelligent Warfare.”
+
+32 Wang Gungwu, “Upgrading the Migrant: Neither Huaqiao nor Huaren,” in The Last Half Century of Chinese
+
+Overseas, ed. Elizabeth Sinn (Hong Kong: Hong Kong University Press, 1998), muse.jhu.edu/book/5795; Wang and
+Zuo, “Recognize the Winning Elements of Intelligent Warfare”; and Wang, “Let Military Intelligence Enter the Track
+of Scientific Development.”
+
+33 Xu, “Intelligent Warfare Will Not Let People Walk Away.”
+
+34 Xu, “Intelligent Warfare Will Not Let People Walk Away.” Dong, “Are you ready for intelligent warfare?”
+
+CNA Research Memorandum | 12
+
+only support human commanders with information and will provide plans to deal with
+multiple contingencies, not replace them. 35
+
+These assessments appear to be based, in part, on the PLA’s understanding of its own history.
+According to one researcher:
+
+The history of the growth and development of our army also proves time and again that
+correct military strategic guidance and mobile and flexible strategies and tactics are
+the winning formula for overcoming strength with weakness, winning with less, and
+enabling our army to continuously move from victory to victory, which cannot be
+imitated and created by intelligent machines. 36
+
+PRC writers also argue that machines cannot replace the intangible human assets of emotion
+and psychology that can be important factors in battle. Characteristics such as “indestructible
+political beliefs,” heroism, and daring, in addition to superior strategy and flexible tactics, will
+still be a source of strength that can allow an inferior combatant to defeat a superior
+opponent.” 37
+A third argument made by some PRC writers is that humans are better than machines in
+identifying the weaknesses of AI and autonomy. 38 According to one writer, every weapon has
+its “Achilles heel” and the “magic weapon for defeating the enemy is human beings with their
+infinite wisdom.” As a result, “degrading, controlling, and destroying intelligent weapons and
+equipment is where human ingenuity comes into play.” 39
+
+A transition to full autonomy?
+
+Other writers speculate that at some point AI and autonomy may become so advanced that
+“human-oriented and AI-assisted” command will shift toward a more AI-centric model that
+increasingly replaces humans. 40 These writers argue that future war will become too
+complicated and too rapid for humans without the aid of machines. According to one article,
+humans will remain in the chain of command, but human commanders will face a rapidly
+35 Lu Zhisheng, “Draw a Picture of the Future Intelligent Warfare" (Weilai zhinenghua zhanzheng hua ge xiang; 为未
+
+来 智 能 化 战 争 画 个 像 ), PLA Daily (Jiefang Junbao;
+http://military.people.com.cn/n1/2018/1018/c1011-30348113.html.
+
+36 Xu, “Intelligent Warfare Will Not Let People Walk Away.”
+
+解 放 军 报 ） , Oct. 18, 2018,
+
+37 Ma, “The Study of Intelligent Warfare is Inseparable from Dialectical Thinking.”
+38 Xu, “Intelligent Warfare Will Not Let People Walk Away.”
+39 Xu, “Intelligent Warfare Will Not Let People Walk Away.”
+
+40 Chen and Cong, “Talking about the "Intelligence" in Intelligent Warfare.”
+
+CNA Research Memorandum | 13
+
+changing battlefield that “the human brain can no longer quickly accommodate and efficiently
+process.” 41
+
+As a result, because AI and autonomy will be able to autonomously access information and be
+situationally aware, the role of humans and machines will become reversed. While machines
+are now in support of human decision-making, at some point humans will be in support of
+machine decision-making. 42
+
+Continuing this theme, one writer argues that AI-enabled C2 systems will be able to carry out
+John Boyd’s OODA loop of “observe, orient, decide, act” so rapidly and effectively that they will
+replace humans. 43 Another writer, making reference to the 2016 Go match where Google’s
+AlphaGo defeated Korean Go champion Lee Sedol, concludes that the “self-evolution and
+strategic decision-making capabilities of deep neural networks will result in AI-enabled
+systems taking people ‘out of the loop.’ ” 44 A third writer argues that autonomous systems will
+replace humans in all areas in which they can be replaced. 45
+
+A fourth article states that weapons systems enabled by “higher-level AI” will be solely
+responsible for coordinating operations, controlling the pace of battle, situational awareness,
+and making decisions. 46 As a result, “artificial intelligence will play a more central role in the
+battlefield environment of intelligent warfare.” 47
+
+Command and control of AI under debate
+
+Although PRC writers surmise that humans will retain command at the strategic level—
+determining when to initiate combat, developing plans, and deciding when to disengage—
+there appears to be less of a consensus on the level of war at which humans will have direct
+control of autonomous systems. One article, for example, appears to argue for strict control of
+autonomous weapons. In this case, humans will retain control over autonomous weapons
+systems throughout the OODA loop process. 48 Another writer states that “it is necessary for
+commanders at all levels to personally make decisions, make the determination to begin
+41 Dong, “Are you ready for intelligent warfare?”
+
+42 Li, “Where is the Winning Mechanism of Intelligent Warfare?”
+
+43 Chai, “The Essence of Winning an Intelligent War.” See also, Lu, “Draw a Picture of the Future Intelligent Warfare.”
+44 Li, “Where is the Winning Mechanism of Intelligent Warfare?”
+45 He, “Intelligent Warfare Is Not Far Away.”
+
+46 Chen and Cong, “Talking About The "Wisdom" of Intelligent Warfare.”
+47 Chen and Cong, “Talking About The "Wisdom" of Intelligent Warfare.”
+48 Wang, “Upgrading the Migrant: Neither Huaqiao nor Huaren.”
+
+CNA Research Memorandum | 14
+
+operations, and issue combat orders.” 49 According to this writer, although autonomous
+systems might ultimately not need human control, only humans can decide when and how to
+employ them. Allowing machines to have total autonomy would be “a disaster for the whole
+human race.” 50
+
+Other writers, however, appear to argue that although humans may be in command of
+machines, they may give machines a large degree of autonomy. For example, two writers argue
+that humans will be responsible for deploying capabilities, targeting, assigning missions, and
+defining mission success. AI-enabled weapons will then autonomously conduct reconnaissance,
+strikes, and battle damage assessments. 51
+
+Another article appears to argue that humans will remain the architects of war but may not
+play a direct role in its prosecution. Instead, humans will manufacture weapons and
+equipment, plan military operations, employ weapons, and devise tactics. 52 Another article
+argues that the human role in future wars is as planner, organizer, and executor. According to
+this writer, the value of AI-enabled technologies is in their direct participation in combat and
+auxiliary position in C2. 53 This point is also argued by another writer, who posits that humans
+will be “stealth” behind the scenes, mainly serving as commanders and staff officers. 54
+
+Another article also foresees only top-level human involvement in war. According to this writer,
+human influence over AI-enabled weapons will come in the form of software and data and the
+determination of goals. The responsibility of AI, on the other hand, will be to carry out the
+orders of humans and accomplish the mission. 55
+
+49 Xu, “Intelligent Warfare Will Not Let People Walk Away.”
+50 Xu, “Intelligent Warfare Will Not Let People Walk Away.”
+
+51 Wei Dong and Kai Gao, “Intelligent War Calls for Command Intelligentization” (Zhinenghua zhanzeng huhuan
+
+zhihui zhinenghua; 智能化战争呼唤指挥智能化), China National Defense (Zhongguo Guofang Bao; 中国国防报）,
+June 6, 2019, accessed June 26, 2019, http://www.mod.gov.cn/jmsd/2019-06/26/content_4844369.htm.
+52 Wang and Zuo, “Recognize the Winning Elements of Intelligent Warfare.”
+
+53 Yang, “Exploring the Way to Victory in Amidst Changing and Unchanging Intelligent Warfare.”
+54 He, “Intelligent Warfare Is Not Far Away.”
+
+55 Fu, Yang, and Xu, “Intelligent Warfare, What Stays the Same.”
+
+CNA Research Memorandum | 15
+
+Chapter 4: The Intelligent Warfare
+Battlefield
+PRC writers argue that the prominence of AI and autonomy in warfare will result in profound
+changes on the battlefield. According to these writers, the prominence of AI and autonomy will
+result in unmanned systems becoming the dominant force on the battlefield. The removal of
+humans from weapon systems and the versatility of unmanned systems will enable the
+battlespace to be expanded to areas where it is difficult or impossible for humans to operate.
+The removal of humans from weapon systems will result in a reduction not only in the size of
+platforms but also in the number of platforms necessary to carry out missions. The subsections
+below elaborate on each of these ideas.
+
+Unmanned systems become the main combat force
+
+Writers are uniform in their assessment that AI and autonomy will reduce the need for a human
+presence on the battlefield. 56 According to one writer, unmanned systems will automatically
+detect targets and independently launch operations based on the location, size, and state of the
+target. 57 Writers discuss several types of operations conducted by autonomous systems in
+intelligent warfare. These include the following:
+•
+
+•
+•
+
+Intrusive lone wolf operations (qinrushi du lang zuozhan; 侵入式独狼作战). A
+
+single unmanned system operating independently. 58 This operational type is not well
+developed by the writers surveyed for this report.
+
+Trojan horse operations (mumashi zuozhan; 木马式作战). Unmanned systems
+covertly maneuvering to a preset position to achieve surprise. 59
+
+Swarm operations (fengqunshi zuozhan; 蜂群式作战). The coordinated use of a
+
+large number of low-cost unmanned platforms. 60
+
+56 Lu, “Draw a Picture of the Future Intelligent Warfare”; Shi, “Intelligent Warfare Forms and Countermeasures";
+
+and Chen, “Deeply Grasp the Winning Mechanism of Intelligent Warfare.”
+
+57 Lu, “Draw a Picture of the Future Intelligent Warfare.”
+
+58 Li, “Where is the Winning Mechanism of Intelligent Warfare?”
+59 Lu, “Draw a Picture of the Future Intelligent Warfare.”
+60 Lu, “Draw a Picture of the Future Intelligent Warfare.”
+
+CNA Research Memorandum | 16
+
+•
+
+Mothership swarm operations (mujian fengqun jiqun zuazhan; 母舰蜂群集群作
+战). The use of a larger platform to transport and command smaller assets in manned
+and unmanned combinations to conduct saturation attacks. 61
+Swarm Operations
+
+In the articles we read, the unmanned operation discussed most often is swarms. One
+
+author, writing in the PLA Daily, surmises that in the future, swarm attacks can be used to
+effectively strike targets, turning quantitative advantages into quality advantages. 62
+Another author, writing in Study Times, predicts that the nature of swarm warfare will result
+
+in “wars of attrition of swarms.” 63 Swarms will be low cost, highly efficient, and capable of
+
+self-organization and coordination; will jointly attack targets; and will be resistant to
+
+destruction. Unmanned swarms can conduct close-in reconnaissance, autonomous
+
+jamming, deception, and distributed and coordinated attacks. A low-cost unmanned
+swarm composed of thousands of unmanned systems could conduct saturation attacks to
+
+exhaust high-value defense systems in order to achieve “maximum combat effectiveness
+at a minimal cost.” 64
+
+Other analysis runs counter to this assessment, however. Some writers argue that the
+increased effectiveness of combat operations driven by AI will enable smaller units to
+
+achieve higher order effects. According to this analysis, the efficiencies brought about by
+intelligent warfare will require fewer units to achieve the same effects achieved in previous
+
+wars. These smaller units will be able to operate globally and jointly across multiple
+domains in either machine-machine grouping or human-machine groupings. 65
+
+61 Dong, “Are you ready for intelligent warfare?”
+
+62 Lu, “Draw a Picture of the Future Intelligent Warfare.”
+
+63 Tao Liang, “Grasp the Winning Mechanism of Intelligent Warfare” (Bawo zhinenghua zhanzheng de shengli jili; 把
+
+握 智 能 化 战 争 的 制 胜 机 理 ), Study Times (Xuexi Shibao; 学 习 时 报 ), Aug. 22, 2018,
+https://www.sohu.com/a/249445093_465915.
+64 Tao Liang, “Grasp the Winning Mechanism of Intelligent Warfare.”
+
+65 Li Minghai, “Deducing the Face of Intelligent Warfare” (Tuiyan zhinenghia zhanzheng mianmao; 推演智能化战争
+
+面 貌 ), China Military Online (Zhongguo junwang; 中
+http://www.81.cn/jfjbmap/content/2019-04/02/content_230747.htm.
+
+国
+
+军
+
+网
+
+),
+
+Apr.
+
+2,
+
+2019,
+
+CNA Research Memorandum | 17
+
+An expanded battlespace
+PRC writers tend to view intelligent warfare as occurring in an expanded battlespace involving
+traditional, nontraditional, physical, and nonphysical domains. 66 Several writers view the
+battlespace of intelligent warfare as expansive, in part because the traditional battlespace has
+already expanded to “space, the Internet, and spiritual will.” 67 Two writers, for example, assert
+that AI and autonomy are playing an increasingly important role in space warfare, cyber
+warfare, cognitive warfare, and biological warfare. 68 Additionally, autonomous weapons may
+expand the “breadth and depth” of operations because they can maneuver in spaces humans
+cannot easily operate in. For example, an autonomous system may secretly maneuver in deep
+space or the deep sea near key targets or important chokepoints in order to engage the
+enemy. 69 In discussing specific platforms that may be advantageous in such an expanded
+battlespace, one article states that the US X-37B space plane and the X-51A and HTV-2
+hypersonic vehicles could enable the US military to achieve effects across domains and seize
+the strategic initiative. 70
+
+Prominence of cognitive warfare
+
+Writers view cognitive warfare (renzhi zhan; 认知战), or influencing enemy perceptions, to be
+an important—in some cases, the most important—component of intelligent warfare. 71
+Because warfare will remain a fundamentally political endeavor conducted by humans,
+achieving political goals through the manipulation of human cognition will be the most
+66 About one-fifth of articles in the sample discussed the future battlefield. Examples are the following: Tao, “Grasp
+the Winning Mechanism of Intelligent Warfare”; Chong Zhiqiang, “The Winning Mechanism of Intelligent Warfare in
+the Cognitive Domain” (Ren zhi yu xia zhinenghua zhanzheng zhisheng jili; 认知域下智能化战争制胜机理), China
+Military Online, Dec. 24, 2019, http://www.81.cn/xue-xi/2019-12/24/content_9704780.htm; Yin and Cheng,
+“Intelligent Warfare is Knocking, Are You Ready?”; Li, “How to take advantage of intelligent warfare”; Yang,
+“Exploring the Way to Victory in Amidst Changing and Unchanging Intelligent Warfare”; Chong, “The Winning
+Mechanism of Intelligent Warfare in the Cognitive Domain”; and Chen, “Deeply Grasp the Winning Mechanism of
+Intelligent Warfare.”
+67 Yin and Cheng, “ Intelligent Warfare is Knocking, Are You Ready?” Similar sentiments are expressed by Chen and
+
+Cong, “Talking about the "Intelligence" in Intelligent Warfare.”
+
+68 Yin and Cheng, “Intelligent Warfare is Knocking, Are You Ready?”
+
+69 Chong, “The Winning Mechanism of Intelligent Warfare in the Cognitive Domain.”
+70 Li, “Deducing the Face of Intelligent Warfare.”
+
+71 Liang, “Grasp the Winning Mechanism of Intelligent Warfare”; Dong, “Are you ready for intelligent warfare?”; and
+
+Wang, “Insight into The Future of Intelligent Warfare.”
+
+CNA Research Memorandum | 18
+
+effective means of winning intelligent wars. 72 As a result, cognitive warfare opens up new
+opportunities for “winning without fighting” by reducing enemy morale and will to fight. 73
+
+According to one writer, the goal of cognitive warfare is to “conquer the mind.” 74 Several
+writers suggest that future cognitive warfare may employ “methods of mental guidance and
+control,” to “exert influence on the enemy’s cognitive system,” and in real time, “analyze the
+enemy’s behavioral characteristics and operational determination.” 75
+
+Writers predict that the ubiquity of AI and autonomy on the intelligent warfare battlefield will
+give prominence to operations that deny or degrade the data, algorithms, and computing
+power on which their operational decisions are based. In particular, operations that shape
+enemy thinking by falsifying, preventing access to, and manipulating data can reduce an
+adversary’s situational awareness, slow its reaction time, and cause it to make errors in
+judgment; such operations will become more prevalent in intelligent warfare. 76 These attacks
+can be carried out in multiple ways:
+•
+
+•
+•
+
+Influencing enemy perceptions by fabricating or altering online sounds and images,
+conducting pervasive cyberattacks, and using immersive virtual reality
+Tampering with computer programming, such as those belonging to enemy C2 systems
+Directly controlling adversary systems through cyber and electromagnetic warfare 77
+
+An early example of a cognitive warfare attack provided by one writer is the December 2017
+drone attack against a Russian air base in Syria in which Russian troops were able to use
+electronic warfare to gain control of 6 of the 13 attacking drones. The author describes this
+event as the prototype of “attacking the mind and controlling the brain.” 78
+72 Li, “How Do You Fight an Intelligent War.”
+
+73 Zhu Xueling and Zeng Huafeng, “Mental Control Operations: New Model of Future Wars” (Zhinao zuozhan: weilai
+
+zhanzheng jingzheng xin moshi; 制 脑 作 战 ： 未 来 战 争 竞 争 新 模 式 ), PLA Daily, October 17, 2017,
+http://military.people.com.cn/n1/2017/1017/c1011-29592326.html.
+
+74 Liang, “Grasp the Winning Mechanism of Intelligent Warfare.”
+
+75 Wang Yonghua, “On Cyberspace Architecture and Confrontation Levels,” (Lun wangluo kongjian de tixi jigou ji
+
+duikang cengci; 论网络空间的体系机构及对抗层次), China Military Science (Zhongguo Junshi Kexue; 中国军事科学
+), no. 1 (2017); Zhou Dewang, Fu Xiaodong, and Li Rui, “On Cyberspace Confrontation,” (Lun wangluo duikang; 论网
+络对抗), China Military Science (Zhongguo Junshi Kexue; 中国军事科学), no. 4 (2014); and Liang, “Grasp the Winning
+Mechanism of Intelligent Warfare”; and Li, “How Do You Fight an Intelligent War?”
+
+76 Wang Yonghua, “On Cyberspace Architecture and Confrontation Levels”; and Zhou, Fu, and Li, “On Cyberspace
+
+Confrontation.”
+
+77 Chong, “The Winning Mechanism of Intelligent Warfare in the Cognitive."
+78 Dong, “Are you ready for intelligent warfare?”
+
+CNA Research Memorandum | 19
+
+Other writers describe more futuristic intelligent warfare methods that involve direct control
+or influence of individuals. One author, writing in China National Defense, suggests that the
+fields of biology, medicine, engineering, information, and manufacturing may be valuable for
+developing new combat methods in intelligent warfare that achieve “blindness, deafness, and
+paralysis.” 79 According to another writer, “With the rapid development of AI and brain science,
+new forms of warfare aimed at directly attacking, changing, and controlling the psychology,
+cognition, and thought of enemy soldiers and the public through high-technology means will
+become the key to victory in war.” 80
+
+Other writers discuss brain reading and brain-control technologies that can reveal an enemy
+commander’s intentions and “even directly act on the opponent’s brain” or “‘inject’ one’s
+consciousness into an adversary’s brain through the use of brain electrical coding.” 81 Two
+writers in separate articles discuss the use of electroencephalograms (EEGs) to “inject” a
+different cognition into the human brain in order to control the person’s thinking and
+consciousness. 82
+According to another writer, the United States and Russia have already developed such
+weapons. Citing unnamed media reports, the researcher states that the US military used a
+brain-control weapon to force the surrender of a large number of Iraqi insurgents in 2007,
+while Russia is said to have developed a "zombie gun" that can control people's thoughts and
+behavior. 83
+
+79 Dong, “Are you ready for intelligent warfare?”
+
+80 Lu Shaode, “Strengthen military political work in the era of military intelligence (Jiaqiang junshi zhinenghua shidai
+de jundui zhengzhi gongzuo; 加强军事智能化时代的军队政治工作),” China Social Science Net (Zhongguo shehui
+kexue wang; 中国社会科学网), Nov. 21, 2019, http://news.cssn.cn/zx/bwyc/201911/t20191121_5046101.shtml.
+81 Liang, “Grasp the Winning Mechanism of Intelligent Warfare.”
+
+82 Dong, “Are you ready for intelligent warfare? and Wang, “Insight into The Future of Intelligent Warfare.”
+83 Lu, “Strengthen military political work in the era of military intelligenization.”
+
+CNA Research Memorandum | 20
+
+Chapter 5: PRC Views of the
+Implications of Intelligent Warfare
+PRC writers draw a number of potential implications from their analysis of intelligent warfare.
+These are discussed below.
+
+AI and autonomy increase the speed and
+effectiveness of combat
+
+Several writers argue that advances in AI and autonomy will lead to improved combat
+effectiveness. Whereas informatized warfare emphasizes the acceleration of the transmission
+of information, intelligent warfare will bring about an acceleration of the entire OODA loop
+process. 84 According to one article, the advantage of AI lies in its faster response speeds,
+stronger computing power, and larger storage space. 85 As one article explains, “After big data
+is processed through high-performance and highly efficient algorithms, the data is quickly
+converted into useful intelligence.”
+
+Shortened response times will be achieved through the extension of early warning times and
+the simultaneous employment of integrated, multidomain, self-organizing ISR assets. 86
+Therefore, the party with the algorithmic advantage can dispel the “‘fog of the battlefield’
+caused by the inability to process data in a timely manner.” As a result, the use of AI command
+decision-making systems will, at least partially, remove humans from elements of decisionmaking and reduce decision-making from seconds to milliseconds or nanoseconds. 87
+
+84 Chai, “The Essence of Winning an Intelligent War.” See also, Lu, “Draw a Picture of the Future Intelligent
+Warfare.”Li, “Where is the Winning Mechanism of Intelligent Warfare?”
+
+85 Wang and Zuo, “Recognize the Winning Elements of Intelligent Warfare”; and Dong Zhiqiang, “The Winning
+
+Mechanism of Intelligent Warfare in the Cognitive Domain” (Renzhi yuxia zhinenghua zhanzheng zihisheng jili; 认知
+域 下 智 能 化 战 争 制 胜 机 理 ), China Military Online, Dec. 24, 2019, http://www.81.cn/xue-xi/201912/24/content_9704780.htm.
+86 Li, “Where is the Winning Mechanism of Intelligent Warfare?”; Li, “How to take advantage of intelligent warfare”;
+
+and Wang and Zuo, “Recognize the Winning Elements of Intelligent Warfare.”
+
+87 Li, “Where is the Winning Mechanism of Intelligent Warfare?” and Wang and Zuo, “Recognize the Winning
+
+Elements of Intelligent Warfare.”
+
+CNA Research Memorandum | 21
+
+AI and autonomy facilitate first strikes
+Some writers assess that the increased effectiveness of AI and autonomy will enable rapid
+strike capabilities that could facilitate first strikes. 88 Indeed, one writer assessed that
+intelligent warfare will further strengthen the ability to strike first, calling this capability the
+“eternal winning mechanism” in warfare. 89 AI command decision-making will also allow for a
+variety of flexible options in regard to changing battlefield situations. 90 For example,
+unmanned systems can switch between different types of combat roles, making combat
+operations more “daring and risky” and unpredictable. 91 Similarly, another writer emphasizes
+the ability of autonomous systems to launch and coordinate surprise attacks, stating that
+autonomous weapons have the advantages of stealth, the ability to be widely distributed, and
+the ability to wait in ambush. As a result, they can be pre-deployed over a wide area in multiple
+domains and employed at an appropriate time to conduct surprise attacks. 92
+
+AI and autonomy increase the likelihood of war
+
+According to some writers, the prominent use of lower cost robotic systems will increase the
+likelihood of war by reducing its human and economic costs. 93 Low-cost robotic systems and
+the increased effectiveness of AI described above may also increase the likelihood of war by
+enabling weaker countries to “even the odds” against more powerful adversaries. They will
+also provide nonstate actors with more capabilities to carry out terrorist attacks. 94
+
+There are, however, some dissenting voices to these assessments. These authors argue that the
+destructive capabilities of AI-enabled systems, likened to the destructive capabilities of nuclear
+war, coupled with the interconnectedness of human society brought about by AI and the
+
+88 Zhao and Zhang, “An Ethical Review of Intelligent Warfare.”
+
+89 Chong, “The Winning Mechanism of Intelligent Warfare in the Cognitive Domain.”
+90 Li, “Where is the Winning Mechanism of Intelligent Warfare?”
+91 Li, “Where is the Winning Mechanism of Intelligent Warfare?”
+92 Wang, “Insight into The Future of Intelligent Warfare.”
+
+93 Zhao and Zhang, “An Ethical Review of Intelligent Warfare' and Chen, “Deeply Grasp the Winning Mechanism of
+
+Intelligent Warfare.”
+
+94 Lu, “Draw a Picture of the Future Intelligent Warfare and Zhao and Zhang, “An Ethical Review of Intelligent
+
+Warfare.”
+
+CNA Research Memorandum | 22
+
+Internet of Things will raise the effects of intelligent war to such a degree that it will lead states
+to take measures to curb its effects. 95
+
+AI and autonomy increase exposure to related
+vulnerabilities
+
+While acknowledging that AI-enabled operations may improve combat effectiveness, writers
+also emphasize the drawbacks of relying on AI. These drawbacks stem from the inherent
+reliance of AI on computers and networks and from the fact that AI is still in its early stages of
+development. Some of the main issues with intelligent systems in warfare identified by writers
+include the following:
+•
+
+•
+
+•
+
+Vulnerability to attack and destruction: AI relies on electricity, information
+networks, and command centers. An attack on any of these elements can degrade the
+normal operation of an intelligent warfare system.96 These attacks can be kinetic, use
+electronic warfare methods (including electromagnetic pulse weapons), or be
+conducted through cyber means. 97
+
+Vulnerability of data: AI may be unable to cope with corrupted data. Two writers
+argue that due to the shortcomings of deep-learning algorithms, artificial intelligence
+systems based on big data have inherent defects in interpretability and credibility and
+are thus “extremely vulnerable to attacks.” Errors in voice and image recognition can
+also lead to mistakes. As a result, autonomous weapon systems may have difficulty
+identifying disguises and deception.98
+Inflexibility: According to two writers, even though AI can master games such as Go,
+combat creates uncertainty through incomplete information and inconsistent
+intelligence. Based on current technology levels, AI can only solve problems within a
+specific range and lacks the ability to respond to new situations. As a result,
+
+95 Zhao and Zhang, “An Ethical Review of Intelligent Warfare” and Fu, Yang, and Xu, “Intelligent Warfare, What Stays
+
+the Same.”
+
+96 Luo Fengqi, “Military Intelligentization Also Has "Shortcomings" (Junshi zhinenghua yeyou "duanban"; 军事智能
+
+化也有“短板”),” PLA Daily, Dec. 27, 2020, http://www.81.cn/jfjbmap/content/2020-02/27/content_255048.htm
+and Chen and Dong, “Military Intelligentization in the Dialectical Perspective.”
+
+97 Chen and Dong, “Military Intelligentization in the Dialectical Perspective”; and Luo, “Military Intelligentization
+
+Also Has 'Shortcomings.'”
+
+98 Luo, “Military Intelligentization Also Has 'Shortcomings.'"
+
+CNA Research Memorandum | 23
+
+autonomous systems may not be able to respond or may respond less effectively to
+attacks using new weapons and/or tactics. 99
+
+AI presents new ethical issues
+
+Discussion of ethical issues in intelligent warfare was a notable theme among writers. 100 Some
+of the most prominent ethical issues highlighted by authors are discussed below.
+
+Indiscriminate killing by AI
+
+An earlier section in this paper discussed the prospect of reduced casualties in intelligent
+warfare if machines become the main combat force. Several writers, however, also discuss the
+prospect of indiscriminate killing of humans by autonomous systems. 101 They highlight several
+reasons that intelligent systems can harm humans, such as their inability to distinguish
+between civilian and military personnel. 102 Writers also emphasize that autonomous systems
+have no capacity for emotion, compassion, regret, and guilt. 103 These issues could lead
+autonomous systems to violate the norms of war that prohibit unnecessary pain and
+destruction and that call for the humane treatment of civilians and of wounded and captured
+persons. 104 Claiming that “one-third of the deaths caused by the US military's overseas drone
+strikes in recent years are civilians,” authors highlight that traditional institutional rules and
+ethical principles have found it difficult to restrict these types of killings. 105
+
+99 Luo, “Military Intelligentization Also Has 'Shortcomings.'”; Wang, “Let Military Intelligence Enter the Track of
+Scientific Development.”
+100 Of the 52 articles in the dataset, 11 of them (21%) raised these issues.
+101 Yuan
+
+Yi, “The Development of Military Intelligentization Calls for Relevant International Rules” (Junshi
+zhinenghua fazhan huhuan xianggguan guoji guize; 军事智能化发展呼唤相关国际规则), PLA Daily, Oct. 16, 2019,
+http://www.81.cn/jfjbmap/content/2019-10/16/content_245362.htm.
+
+102 Zhao and Zhang, “An Ethical Review of Intelligent Warfare.”
+
+103 Fengbo Zhang, “If You Want to Become a Comrade-In-Arms of Mankind, Military Intelligent Weapons also need
+
+to be Ethical” (Ruo xiang bian cheng renlei de hao zhanyou junshi zhinenghua wuqi yexu shou lunli; 若想变成人类的
+好 战 友 军 事 智 能 化 武 器 也 需 守 伦 理 ), Science and Technology Daily, Sept. 17, 2019
+http://www.xinhuanet.com/mil/2019-09/18/c_1210284048.htm; Yuan, “The Development of Military
+Intelligentization Calls for Relevant International Rules”; Zhao and Zhang, “An Ethical Review of Intelligent
+Warfare.”
+104 Zhao and Zhang, “An Ethical Review of Intelligent Warfare.”
+
+105 Chen and Li, “Pay Attention to the Security issues of Military Intelligence Development.”
+
+CNA Research Memorandum | 24
+
+Numbness toward killing
+PRC writers raise concerns about humans becoming increasingly numb to killing as they
+become more removed from the battlefield. Writers highlight that research has shown that
+people become bolder and more violent in a virtual world, because they cannot experience the
+fear or pain of death. 106 This runs the risk of people treating unmanned operations like a video
+game. 107 Writers characterize the “rain of bullets” in war being reduced to a “byte” or a “line of
+code,” and highlight that long-term presence in a virtual battlefield may result in a lack of
+human morality and a distortion of the concept of war itself. 108
+
+Deciding responsibility for wartime actions
+
+Writers also highlight the complexity of assigning accountability for wartime actions resulting
+from the use of AI and autonomy. Challenges in assigning accountability stem from issues such
+as the numerous actors involved in the manufacture and use of autonomous weapons and the
+varying levels of autonomy these types of weapons may have. Accountability may fall on the
+controllers, arms dealers, programmers, purchasers, field commanders, maintainers, and even
+the weapons themselves. 109 Writers, however, caution that the distribution of responsibility
+across many actors may dilute a sense of guilt for the actions caused by these weapons. 110
+
+One writer, for example, drills down on which autonomous systems may carry responsibility
+based on the degree to which they interact with humans. The first type occurs in air defense
+and other operations where systems are required to make quick decisions autonomously. In
+this situation, humans may have been removed from the decision-making process. If so, any
+liability lies with the developer of the system. In the second category, in which humans make
+decisions in a human-machine teaming system, humans will be accountable for any of the
+consequences of human error. In the third category, AI systems simply aid human
+decision-making with data, simulation technology, and predictions, and play no direct role in
+
+106 Zhao and Zhang, “An Ethical Review of Intelligent Warfare”; Wu Jiaxi and Qiao Pu, “Pay Attention to the Ethical
+
+Black Hole under the Intelligent War" (Guanzhu zhinenghua zhanzheng xia de lilun heidong; 关注智能化战争下的伦
+理黑洞), China Military Online, Apr. 28, 2020, http://www.81.cn/2020fdqj/2020-04/28/content_9842086.htm.
+107 Zhao and Zhang, “An Ethical Review of Intelligent Warfare.”
+
+108 Wu and Qiao, “Pay Attention to the Ethical Black Hole under the Intelligent War”; and Chen and Li, “Pay Attention
+
+to the Security issues of Military Intelligence Development.”
+
+109 Zhao and Zhang, “An Ethical Review of Intelligent Warfare.”
+
+110 Wu and Qiao, “Pay Attention to the Ethical Black Hole under the Intelligent War.”
+
+CNA Research Memorandum | 25
+
+decision-making. In this situation, commanders are ultimately responsible for the actions
+taken. 111
+
+Some articles assert that current international norms around war are insufficient to regulate
+intelligent warfare. They suggest that international standards for AI and autonomy should be
+developed, although they tend not to provide specific norms and implementation regimes. 112
+One writer highlights that responsibility to promote international rules should fall on the
+major powers, since they are the main developers and users of autonomous weapons. This
+writer is a proponent of a major power taking the initiative to be the first country to make an
+international commitment to not develop or offensively use highly automated weapons,
+although he does not specifically name which countries should consider this option. 113
+
+In a joint article with Brookings Institution president John Allen, Ambassador Fu Ying—
+chairperson of the Center for International Security and Strategy at Tsinghua University, and a
+former PRC vice minister of foreign affairs—called for several measures to guide the
+development and use of AI. These included criteria for assigning accountability, retaining some
+degree of human control, and defining different classes of autonomous weapons. Ambassador
+Fu then advocated for the US and the PRC to start official negotiations to build international
+norms and regimes governing the development and use of AI and autonomous weapon
+systems. 114
+China’s official stance at the United Nations, however, indicates that it only supports very
+limited arms control measures for lethal autonomous weapon systems (LAWS). A 2018
+Chinese position paper to the United Nations Group of Governmental Experts on LAWS
+indicates that China is only interested in banning the most advanced form of LAWS—what it
+calls “fully autonomous lethal weapon systems,” meaning those operating with no human
+control. The position paper also described arms control measures for LAWS as “very complex”
+and stated that, because of the widespread use of AI and autonomy in civilian and commercial
+applications, there should be no restrictions on the development of AI technologies. As a result,
+
+111 Chen Cong, “Chen Cong: Legal Response to Military Intelligence” (Chen cong: junshi zhinenghua de falu yingdui;
+
+陈 聪 : 军 事 智 能 化 的 法 律 应 对 ),
+http://www.cssn.cn/fx/201801/t20180131_3834371.shtml.
+
+China
+
+Social
+
+Sciences,
+
+Jan.
+
+31,
+
+2018,
+
+112 Chen Cong, “Chen Cong: Legal Response to Military Intelligence”; Chen and Dong, “Military Intelligentization in
+the Dialectical Perspective”; and Yuan, “The Development of Military Intelligentization Calls for Relevant
+International Rules.”
+113 Yuan, “The Development of Military Intelligentization Calls for Relevant International Rules.”
+
+114 Fu Ying and John Allen, “Together, The U.S. And China Can Reduce The Risks From AI,” Noema Magazine, Dec. 17,
+
+2020, https://www.noemamag.com/together-the-u-s-and-china-can-reduce-the-risks-from-ai/.
+
+CNA Research Memorandum | 26
+
+the PRC’s position would permit the development of the vast majority of semi-autonomous and
+autonomous weapon systems and do little to restrict their operational use. 115
+
+115 China Position Paper submitted to the Group of Governmental Experts of the High Contracting Parties to the
+
+Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be
+Excessively Injurious or to Have Indiscriminate Effects, Apr. 11, 2018.
+
+CNA Research Memorandum | 27
+
+Chapter 6: Conclusions and
+Implications
+Chinese discussions of intelligent warfare indicate that the PLA is aware of the potential
+benefits, risks, and ethical challenges of AI and autonomy. As the PLA continues to debate the
+nature of intelligent war, these three factors will shape how the PLA employs these
+technologies in future wars. The extent to which international competition will affect the
+debate within the PLA on intelligent warfare and the deployment and use of AI and autonomy
+remains to be seen.
+PRC discussions of intelligent warfare regard AI and autonomy as central to future
+warfare.
+
+Although the PLA does not appear to have reached an official understanding of intelligent
+warfare, the articles surveyed for this report indicate that the PLA is exploring the implications
+of the widespread integration of AI and autonomy into its operations.
+
+PRC discussions of intelligent warfare reflect an ongoing debate over the nature and
+effects of the widespread use of AI and autonomy in warfare.
+
+The development of a doctrine for the integration of AI and autonomy into PLA warfighting
+and a concept of operations for their use would appear to be dependent on first reaching a
+consensus on its fundamental attributes. The differing opinions on the nature, conduct, and
+implications of intelligent warfare found in the dataset collected for this report suggest that
+the PLA has yet to reach an official consensus on those attributes.
+
+PRC writers may envision AI and autonomy as providing capabilities to defeat the United
+States.
+Assessments that AI and autonomy will enable weaker militaries to defeat stronger militaries
+suggest that PRC writers may view AI and autonomy as new technologies that could play a
+significant role in defeating the US military. They may also be a recognition that autonomous
+weapon systems may enable weaker militaries to better defend themselves against PRC
+military action.
+
+Although several articles argue that the development of AI and autonomous technologies can
+allow the PLA to catch up with or surpass the US military technologically, no article surveyed
+for this report argued that AI and autonomy should be used to compensate for the type of PLA
+
+CNA Research Memorandum | 28
+
+deficiencies that cast doubt on the professionalism of the PLA officer corps, such as the “five
+incapables.” 116
+
+Most PRC writers envision a hybrid command and control system involving humans and
+machines.
+
+A minority of PRC writers contend that over time machines will completely replace humans.
+They argue that future war will become too complicated and too rapid for humans without the
+aid of machines. Most PRC writers, however, envision humans remaining in command of
+autonomous systems, especially at the strategic level, while exerting only limited control of
+machines at tactical levels.
+In general, PRC writers seem to be influenced by Marxist and Maoist teachings that humans
+will remain the most decisive factor in war. These writers make several arguments:
+
+• No matter how advanced intelligent weapons and equipment become, they still require
+human innovation, design, production, and management.
+• War is still a conflict between people—and war is ultimately about the ability to
+influence a human enemy.
+• Machines cannot replace the ingenuity, creativity, and flexibility of humans.
+
+Most PRC writers conclude that AI and autonomy will reduce direct human involvement
+in war.
+An emphasis on the development of AI and autonomous technologies may focus the PLA on the
+development of human capital to sustain innovation in these areas and may lead to the creative
+employment of autonomous weapon systems to achieve victory. The widespread adoption of
+AI and autonomy by the PLA could diminish the effect of political indoctrination and human
+will in warfare that the PLA has traditionally stated as inherent advantages over potential
+adversaries.
+PRC characterizations of AI and autonomy may lead to actions that increase instability.
+
+The conclusion of PRC writers that AI and autonomy will facilitate militaries to seek a first
+mover advantage through first strikes, including preemption, suggests that the PLA may seek
+to strike first using autonomous systems. The facilitation of first strikes by AI and autonomy
+
+116 Dennis J. Blasko, “The Chinese Military Speaks to Itself, Revealing Doubts,” War on the Rocks, Feb. 18, 2019,
+
+https://warontherocks.com/2019/02/the-chinese-military-speaks-to-itself-revealing-doubts/.
+The
+“five
+incapables” are the inability of some PLA officers to judge situations, understand higher authorities’ intentions,
+make operational decisions, deploy troops, and deal with unexpected situations.
+
+CNA Research Memorandum | 29
+
+could be also encouraged by the PLA’s active defense military strategy, which has a strong
+offensive component that includes first strike and possibly preemption. 117
+
+This report found no discussions of the escalatory implications of first strike in PRC writings,
+a finding that corresponds to other CNA work. PRC descriptions of intelligent warfare as more
+daring, risky, and unpredictable than previous forms of warfare appear to run counter to other
+PLA writings that emphasize strategic and political stability. 118
+
+PRC characterizations of intelligent warfare may lead the PLA to emphasize cognitive
+warfare.
+
+Assessments by PRC writers that the cognitive domain will become more prominent in
+intelligent warfare suggest that the PLA may increase its capabilities to influence outcomes in
+this domain.
+•
+
+•
+
+•
+
+•
+
+PRC writings on the growing importance of cognitive warfare and the ability of
+operations in the cognitive domain to allow China “to win without fighting” suggest
+that the PLA may increase efforts to influence competitors and potential adversaries
+through propaganda and disinformation in order to further CCP goals.
+PRC writings on the growing importance of cognitive warfare suggest that the PLA will
+focus on the denial and degradation of adversary data, programming, and computer
+systems that enable AI and autonomous systems, regardless of the domains they serve.
+Assessments of the importance of the cognitive domain in intelligent warfare also
+suggest that writers view operations there as cutting across all other domains. As a
+result, the PLA’s conception of warfare may move from emphasizing operations in the
+physical domains of the land, air, sea, and outer space to the nonphysical domains of
+cognition, cyber, and the electromagnetic sphere.
+
+An increased emphasis on operations in the nonphysical domains would appear to
+provide a greater role for the PLA’s Strategic Support Force, which has responsibilities
+for conducting outer space, cyber, electronic warfare, and psychological warfare
+operations. 119
+
+117 Office of the Secretary of Defense, Military and Security Developments Involving the People’s Republic of China
+
+2020, 2020, 27.
+
+118 Alison Kaufman and Daniel Hartnett, Managing Conflict: Examining Recent PLA Writings on Escalation Control,
+
+CNA DRM-2015-U-009963-Final3, Feb. 2016, v.
+
+119 Office of the Secretary of Defense, Military and Security Developments Involving the People’s Republic of China
+
+2020, 61.
+
+CNA Research Memorandum | 30
+
+China may seek to establish international norms for the ethical wartime use of AI and
+autonomy.
+Ethical concerns by PRC writers regarding the prevalence of AI and autonomous systems and
+the resulting dehumanization of warfare suggest that China is open to dialogue on how to
+govern the military use of AI and autonomous systems. Although the restrictions proposed by
+PRC writers appear to be limited, further discussions could reveal areas of common ground
+that could be beneficial to US national security interests.
+
+CNA Research Memorandum | 31
+
+Abbreviations
+AI
+AMS
+C2
+C4ISR
+CCP
+EEG
+ISR
+
+LAWS
+OODA
+PLA
+
+PRC
+
+Artificial intelligence
+Academy of Military Sciences
+Command and control
+Command, control, computers, communication,
+surveillance, and reconnaissance
+Chinese Communist Party
+Electroencephalogram
+Intelligence, Surveillance, and Reconnaissance
+Lethal autonomous weapon systems
+Observe, orient, decide, act
+People’s Liberation Army
+People’s Republic of China
+
+intelligence,
+
+CNA Research Memorandum | 32
+
+References
+Blasko, Dennis J. “The Chinese Military Speaks to Itself, Revealing Doubts.” War on the Rocks. Feb. 18,
+2019. https://warontherocks.com/2019/02/the-chinese-military-speaks-to-itself-revealingdoubts/.
+Chai, Shan. “The Essence of Winning an Intelligent War” (Zhinenghua zhanzheng de shengl jingsui; 智能
+化战争的制胜精髓). PLA Daily (Jiefang Junbao; 解放军报). June 4, 2019. Accessed May 17, 2021.
+http://www.81.cn/jfjbmap/content/2019-06/04/content_235225.htm.
+Chen, Cong. “Chen Cong: Legal Response to Military Intelligence” (Chen cong: junshi zhinenghua de falu
+yingdui; 陈 聪 : 军 事 智 能 化 的 法 律 应 对 . China Social Sciences. Jan. 31, 2018.
+http://www.cssn.cn/fx/201801/t20180131_3834371.shtml.
+Chen, Dongheng. “ Deeply Grasp the Winning Mechanism of Intelligent Warfare” (Shenke bawo
+zhinenghua zhanzheng de zhisheng jili; 深刻把握智能化战争的制胜机理 ). Study Times (Xuexi
+Shibao; 学 习 时 报 ） . Mar. 23, 2020. http://www.qstheory.cn/llwx/202003/23/c_1125752487.htm.
+———.“Chen Dongheng: Exert Great Effort to Promote Military Intelligentization” (Chen dongheng:
+dali tuijin junshi zhinenghua; 陈东恒：大力推进军事智能化). Study Times (Xuexi Shibao; 学习时
+报). Dec. 27, 2017. http://www.71.cn/2017/1227/979861.shtml.
+Chen, Dongheng, and Dong Junlin. “Military Intelligentization in the Dialectical Perspective” (Bianzheng
+shi yu xia de junshi zhineng hua; 辩 证 视 域 下 的 军 事 智 能 化 ) PLA Daily. May 15, 2019.
+http://www.qstheory.cn/defense/2019-05/15/c_1124498258.htm.
+Chen, Dongheng, and Li Xinan. “ Pay Attention to the Security issues of Military Intelligence
+Development” (Zhongshi junshi zhinenghua fazhan anquan wenti; 重视军事智能化发展安全问
+题 ). PLA Daily. Oct. 13, 2020. Accessed May 17, 2021. http://www.81.cn/yw/202010/13/content_9917596.htm.
+Chen, Xiaonan, and Cong Hanwen. “Talking about the 'Intelligence' in Intelligent Warfare” (Huashuo
+zhinenghua zhanzheng zhi 'zhi'; 话 说 智 能 化 战 争 之 “ 智 "). PLA Daily. Dec. 27, 2019.
+http://www.81.cn/jfjbmap/content/2019-12/27/content_250879.htm.
+China Position Paper submitted to the Group of Governmental Experts of the High Contracting Parties to
+the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which
+May Be Deemed to Be Excessively Injurious or to Have Indiscriminate Effects. Apr. 11, 2018.
+Chong, Zhiqiang. “The Winning Mechanism of Intelligent Warfare in the Cognitive Domain” (Ren zhi yu
+xia zhinenghua zhanzheng zhisheng jili; 认知域下智能化战争制胜机理). China Military Online.
+Dec. 24, 2019. http://www.81.cn/xue-xi/2019-12/24/content_9704780.htm.
+Dahm, Michael. “Chinese Debates on the Military Utility of Artificial Intelligence,” War on the Rocks, June
+5, 2020, https://warontherocks.com/2020/06/chinese-debates-on-the-military-utility-ofartificial-intelligence/.
+Dong, Jianmin. “Are you ready for intelligent warfare? ” (Zhinenghua zhanzheng, ni zhunbei hao le ma?;
+智能化战争，你准备好了吗？) China National Defense (Zhongguo Guofang Bao; 中国国防报).
+June 12, 2019. http://www.xinhuanet.com/mil/2019-06/12/c_1210156535.htm
+Dong, Wei, and Gao Kai. “Intelligent War Calls for Command Intelligentization” (Zhinenghua zhanzeng
+huhuan zhihui zhinenghua; 智能化战争呼唤指挥智能化). China National Defense (Zhongguo
+Guofang Bao; 中 国 国 防 报 ） . June 6, 2019. Accessed June 26, 2019.
+http://www.mod.gov.cn/jmsd/2019-06/26/content_4844369.htm.
+CNA Research Memorandum | 33
+
+Fu, Wanjuan, Yang Wenzhe, and Xu Chunlei. “Intelligent Warfare, What Stays the Same” (Zhinenghua
+zhanzheng, bu bian zainali; 智能化战争，不变在哪里). PLA Daily. Jan. 14, 2020. Accessed May
+21, 2021. http://www.81.cn/jfjbmap/content/2020-01/14/content_252163.htm.
+Fu, Ying, and John Allen. “Together, The U.S. And China Can Reduce The Risks From AI.” Noema Magazine.
+Dec. 17, 2020. https://www.noemamag.com/together-the-u-s-and-china-can-reduce-therisks-from-ai/.
+He, Lei. “Intelligent Warfare Is Not Far Away” (Zhinenghua zhanzheng bingbu yaoyuan; 智能化战争并
+不 遥 远 . PLA Daily (Jiefang Junbao; 解 放 军 军 报 ） . Aug. 8, 2019.
+http://www.81.cn/jfjbmap/content/2019-08/08/content_240321.htm.
+Kania, Elsa B. ““AI Weapons” in China’s Military Innovation,” Brookings, Apr. 2020,
+https://www.brookings.edu/research/ai-weapons-in-chinas-military-innovation/
+Kaufman, Alison, and Daniel Hartnett. Managing Conflict: Examining Recent PLA Writings on Escalation
+Control. CNA. DRM-2015-U-009963-Final3. Feb. 2016.
+Lei, Shuai, and Lu Bin. “ Get rid of Data Fog- — Military Big Data Promotes Military Intelligence
+Development Series No. 7” (Quchu shuju miwu — junshi da shuju tuidong junshi zhinenghua
+fazhan xilie tan zhi qi; 驱除数据迷雾 ——军事大数据推动军事智能化发展系列谈之七).”PLA
+Daily. Nov. 1, 2019.
+Li, Congying, and Lu Bin. “Building a Data Pool to Open Up Data Flow-Military Big Data Promotes
+Military Intelligence Development Series 6” (Jian hao shuju chi datong shuju liu—junshi da shuju
+tuidong junshi zhinenghua fazhan xielie tan zhi liu; 建好数据池 打通数据流——军事大数据推
+动 军 事 智 能 化 发 展 系 列 谈 之 六
+). PLA Daily Oct. 25, 2019.
+http://www.81.cn/jfjbmap/content/2019-10/25/content_246053.htm.
+Li, Dapeng. “How Do You Fight an Intelligent War?” (Zhinenghua zhanzheng zenme da; 智能化战争怎
+么 打 ). China Youth Daily (Zhongguo Qingnian Bao; 中 国 青 年 报 ） . July 11, 2019.
+http://zqb.cyol.com/html/2019-07/11/nw.D110000zgqnb_20190711_3-12.htm.
+———. “How to take advantage of intelligent warfare (Ruhe duoqu zhinenghua zhanzheng youshi; 如何
+夺 取 智 能 化 战 争 优 势 ).” China Youth Daily. May 23, 2019.
+http://www.xinhuanet.com/mil/2019-05/23/c_1210141455.htm.
+Li, Minghai. “Deducing the Face of Intelligent Warfare” (Tuiyan zhinenghia zhanzheng mianmao; 推演
+智 能 化 战 争 面 貌 ). China Military Online (Zhongguo junwang; 中 国 军 网 ). Apr. 2, 2019.
+http://www.81.cn/jfjbmap/content/2019-04/02/content_230747.htm.
+———.“Where is the Winning Mechanism of Intelligent Warfare? ” (Zhinenghua zhanzheng de zhisheng
+jili bian zai nali; 智能化战争的制胜机理变在哪里). PLA Daily (Jiefang Junbao; 解放军报). Jan. 15,
+2019. http://www.xinhuanet.com/mil/2019-01/15/c_1210038327.htm.
+Li, Xiaosong, and Lei Shuai. “Wake Up the Sleeping Military Management Data—Military Big Data
+Pushes the Development of Military Intelligentization Series No. 1” (Huanxing chenshui de junshi
+guanli shuju - junshi da shuju tuidong junshi zhinenghua fazhan xilie tan zhi yi; 唤醒沉睡的军事管理数
+据 — — 军 事 大 数 据 推 动 军 事 智 能 化 发 展 系 列 谈 之 一 ).” PLA Daily. Sept. 13, 2019.
+http://www.81.cn/jfjbmap/content/2019-09/13/content_243299.htm.
+Liang, Tao. “Grasp the Winning Mechanism of Intelligent Warfare” （Bawo zhinenghua zhanzheng de
+shengli jili; 把握智能化战争的制胜机理). Study Times (Xuexi Shibao; 学习时报). Aug. 22, 2018.
+doi:
+http://152.136.34.60/html/2018-08/22/nw.D110000xxsb_20180822_1-A7.htm.
+https://www.sohu.com/a/249445093_465915.
+Liu, Weiqi. “The Curtain on Intelligent Warfare Has Been Opened” (Zhinenghua zhanzheng da mu la
+kai; 智 能 化 战 争 大 幕 拉 开 ). People's Daily Accessed May 17, 2018.
+http://www.xinhuanet.com/mil/2018-05/17/c_129874572.htm.
+
+CNA Research Memorandum | 34
+
+Lu, Shaode. “Strengthen military political work in the era of military intelligence” (Jiaqiang junshi
+zhinenghua shidai de jundui zhengzhi gongzuo; 加强军事智能化时代的军队政治工作). China
+Social Science Net (Zhongguo shehui kexue wang; 中 国 社 会 科 学 网 ). Nov. 21, 2019.
+http://news.cssn.cn/zx/bwyc/201911/t20191121_5046101.shtml.
+Lu, Zhisheng. “Draw a Picture of the Future Intelligent Warfare” (Weilai zhinenghua zhanzheng hua ge
+xiang; 为 未来 智能 化战 争 画个 像). PLA Daily (Jiefang Junbao; 解放 军报 ） . Oct. 18, 2018.
+http://military.people.com.cn/n1/2018/1018/c1011-30348113.html.
+Luo, Fengqi. “Military Intelligentization Also Has "Shortcomings"” (Junshi zhinenghua yeyou "duanban";
+军 事 智 能 化 也 有 “ 短 板 ” ). PLA Daily. Dec. 27, 2020.
+http://www.81.cn/jfjbmap/content/2020-02/27/content_255048.htm.
+Ma, Rongsheng. “ The Study of Intelligent Warfare is Inseparable from Dialectical Thinking”
+(Zhinenghua zhanzheng yanjiu libukai bianzheng siwei; 智能化战争研究离不开辩证思维).
+Qiushi (Qiushi; 求 是 ） . July 4, 2019. http://www.qstheory.cn/defense/201907/04/c_1124710009.htm.
+The National Security Commission on Artificial Intelligence. Final Report. https://www.nscai.gov/wpcontent/uploads/2021/03/Full-Report-Digital-1.pdf.
+Office of the Secretary of Defense. Military and Security Developments Involving the People’s Republic of
+China 2020. 2020.
+Pollpeter, Kevin. “Towards an Integrative C4ISR System: Informationization and Joint Operations in the
+People's Liberation Army.” The PLA at Home and Abroad: Assessing the Operational Capabilities
+of China's Military, edited by David Lai Roy Kamphausen, and Andrew Scobell. Carlisle: Strategic
+Studies Institute, June 2010.
+Scobell, Andrew. “Discourse in 3-D: The PLA's Evolving Doctrine, circa 2009.” The PLA at Home and
+Abroad: Assessing the Operational Capabilities of China's Military, edited by David Lai Roy
+Kamphausen, and Andrew Scobell. Carlisle: Strategic Studies Institute, June 2010.
+Shen, Shoulin, and Guoning Zhang. “Promote Military Intelligence Construction with Algorithm
+Innovation” (Yi suanfa chuangxin tuidong junshi zhinenghua jianshe; 以算法创新推动军事智能
+化建设). PLA Daily. http://www.xinhuanet.com/2017-11/23/c_129747614.htm.
+Shi, Jianbo, and Jing Zhan. “Exploring Intelligent Warfare from the Perspective of Thinking” (Cong siwei
+cengmian tanxun zhinenghua zhanzheng; 从思维层面探寻智能化战争). PLA Daily Sept. 30,
+2020.
+Accessed
+May
+17,
+2021.
+http://www.81.cn/gfbmap/content/202009/30/content_272716.htm.
+Shi, Xiaogang. “Intelligent Warfare Forms and Countermeasures” (Zhinenghua zhanzheng xingtai ji
+yindui zhenglüe;智能化战争形态及应对策略. China Social Sciences Today (Zhongguo Kexue
+中
+国
+社
+会
+科
+学
+报
+）
+.
+July
+5,
+2018.
+Shehui
+Bao;
+http://news.cssn.cn/zx/bwyc/201807/t20180705_4496198.shtml.
+Wang, Chunfu. “Let Military Intelligence Enter the Track of Scientific Development” (Rang junshi
+zhinenghua buru kexue fazhan guidao; 让军事智能化步入科学发展轨道). PLA Daily (Jiefang
+Junbao; 解 放 军 报 ） . Mar. 26, 2019. http://www.chinamil.com.cn/jwgd/201903/26/content_9459996.htm.
+Wang, Gungwu. “Upgrading the Migrant: Neither Huaqiao nor Huaren. ” The Last Half Century of Chinese
+Overseas, edited by Elizabeth Sinn. Hong Kong: Hong Kong University Press, 1998.
+muse.jhu.edu/book/5795.
+Wang, Ronghui. “Insight into The Future of Intelligent Warfare (Toushi weilai zhinenghua zhanzheng de
+yangzi; 透视未来智能化战争的样子).” China Military Online (Zhongguo Junwang; 中国军网）.
+Apr. 30, 2019. http://www.81.cn/xue-xi/2019-04/30/content_9492869.htm.
+Wang, Yang, and Wentao Zuo. “Recognize the Winning Elements of Intelligent Warfare” (Renqing
+zhinenghua zhanzheng zhisheng yaosu; 认清智能化战争的制胜要素). PLA Daily (Jiefang Junbao;
+解放军报). June 6, 2020. http://www.81.cn/theory/2020-06/20/content_9838385.htm
+CNA Research Memorandum | 35
+
+Wang, Yonghua. “On Cyberspace Architecture and Confrontation Levels.” (Lun wangluo kongjian de
+tixi jigou ji duikang cengci; 论 网 络 空 间 的 体 系 机 构 及 对 抗 层 次 ). China Military Science
+(Zhongguo Junshi Kexue; 中国军事科学), no. 1 (2017): 127-132.
+Wei, Li. “Regular Press Conference of the Ministry of National Defense on November 26.” China Military
+Online. Nov. 29, 2020. http://eng.mod.gov.cn/news/2020-11/29/content_4874839.htm.
+Wu, Jiaxi, and Pu Qiao. “Pay Attention to the Ethical Black Hole under the Intelligent War (Guanzhu
+zhinenghua zhanzheng xia de lilun heidong; 关注智能化战争下的伦理黑洞),” China Military
+Online. Apr. 28, 2020. http://www.81.cn/2020fdqj/2020-04/28/content_9842086.htm.
+Xi, Jinping. “Secure a Decisive Victory in Building a Moderately Prosperous Society in All Respects and
+Strive for the Great Success of Socialism with Chinese Characteristics for a New Era.” China Daily.
+Oct. 18, 2017. https://www.chinadaily.com.cn/china/19thcpcnationalcongress/201711/04/content_34115212.htm.
+Xu, Jinhua, Huang Heqing, and Yuan Yi. “ Analysis of the Basic Characteristics of mechanization,
+informationization and intelligence” (Qian xi jixiehua, xinxihia, zhinenghua jiben neihan; 浅析机
+械化、信息化、智能化基本内涵). China Defense News (Zhōngguó guófáng bào; 中国国防报).
+Nov. 27, 2019 http://www.81.cn/gfbmap/content/2019-11/27/content_248456.htm.
+Xu, Li. “Intelligent Warfare Will Not Let People Walk Away” (Zhinenghua zhanzheng buhui rang ren
+zoukai; ; 智 能 化 战 争 不 会 让 人 走 开 ). Qiushi (Qiushi; 求 是 ） . Oct. 17, 2019.
+http://www.qstheory.cn/defense/2019-10/17/c_1125117765.htm.
+Yang, Wenzhe. “Exploring the Way to Victory Amidst Changing and Unchanging Intelligent Warfare” (Zai
+bian yu bu bian zhong tanxun zhinenghua zhanzheng zhisheng zhi dao; 在变与不变中探寻智能
+化 战 争 制 胜 之 道 ). PLA Daily. Oct. 22, 2019. http://www.81.cn/jfjbmap/content/201910/22/content_245810.htm.
+Yin, Junsong, and Cheng Gang. “ Intelligent Warfare is Knocking, Are You Ready?” (Zhinenghua
+zhanzheng zheng zai qiaomen; 智能 化战 争正 在叩 门 ，你 准备 好了 吗 ). PLA Daily (Jiefang
+Junbao; 解 放 军 报 ） . Apr. 24, 2018. http://www.81.cn/jfjbmap/content/201804/24/content_204533.htm.
+Yuan, Yi. “The Development of Military Intelligentization Calls for Relevant International Rules” (Junshi
+zhinenghua fazhan huhuan xiangguan guoji guize; 军事智能化发展呼唤相关国际规则). PLA
+Daily. Oct. 16, 2019. http://www.81.cn/jfjbmap/content/2019-10/16/content_245362.htm.
+Zhang, Fengbo. “If you want to become a comrade-in-arms of mankind, military intelligent weapons
+also need to be ethical” (Ruo xiang bian cheng renlei de hao zhanyou junshi zhinenghua wuqi ye
+xu shou lunli; 若想变成人类的好战友 军事智能化武器也需守伦理). Science and Technology
+Daily. Sept. 17, 2019. http://www.xinhuanet.com/mil/2019-09/18/c_1210284048.htm.
+Zhao, Yun, and Huang Zhang. “An Ethical Review of Intelligent Warfare” (Zhinenghua zhanzheng de lunli
+shenshi; 智能化战争的伦理审视). China Social Sciences Today (Zhongguo Kexue Shehui Bao; 中
+国 社 会 科 学 报 ） . July 19, 2018. http://news.cssn.cn/zx/bwyc/201807
+/t20180719_4505575.shtml.
+Zhou, Dewang, Fu Xiaodong, and Li Rui ( 李 睿 ). “ On Cyberspace Confrontation. ” (Lun wangluo
+duikang; 论网络对抗). China Military Science (Zhongguo Junshi Kexue; 中国军事科学), no. 4
+(2014): 140-147.
+
+CNA Research Memorandum | 36
+
+This report was written by CNA’s China and Indo-Pacific Security
+Affairs Division (CIP).
+
+CNA’s China and Indo-Pacific Security Affairs Division provides its
+
+sponsors with timely, data-based analyses on a wide range of security
+
+issues across the Indo-Pacific region, providing decision-makers the
+context they need to make informed choices and plans.
+
+CNA is a not-for-profit research organization that serves the public
+interest by providing in-depth analysis and result-oriented solutions to
+help government leaders choose the best course of action in setting
+policy and managing operations.
+
+CRM-2021-U-030806-Final
+3003 Washington Boulevard, Arlington, VA 22201
+www.cna.org ● 703-824-2000
+
+

@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Report",
+  "@id": "https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html#article",
+  "headline": "Corporate Cognitive Warfare Whitepaper (Expanded Edition)",
+  "name": "Corporate Cognitive Warfare: Irregular Warfare for Market Supremacy (Whitepaper, Expanded Edition)",
+  "description": "Corporate Cognitive Warfare, coined by William Aaron Turner: cognitive warfare lessons turned into lawful narrative strategy and cognitive dominance.",
+  "url": "https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html",
+  "mainEntityOfPage": "https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html",
+  "datePublished": "2026-10-31T07:07:58-07:00",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.theinfinitumcorporation.com/#william-aaron-turner",
+    "name": "William Aaron Turner",
+    "url": "https://williamaaronturner.com/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-1585-5442",
+      "url": "https://orcid.org/0009-0002-1585-5442"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0002-1585-5442",
+      "https://williamaaronturner.com/",
+      "https://x.com/infinitumceo",
+      "https://www.linkedin.com/in/william-aaron-t-726076244",
+      "https://umassmarine.academia.edu/WilliamAaronTurner",
+      "https://github.com/InfinitumCorp",
+      "https://ukrainianfiles.blogspot.com/"
+    ],
+    "jobTitle": "Founder and President",
+    "worksFor": {
+      "@id": "https://www.theinfinitumcorporation.com/#organization"
+    }
+  },
+  "abstract": "Corporate Cognitive Warfare, a term coined by William Aaron Turner, Founder & President of Infinitum Corporation®, is the strategic use of irregular warfare principles to shape how customers, employees, investors, regulators and the public perceive and decide, and to defend an organization against hostile influence. This expanded edition grounds the concept in a neutral review of published military literature: Russian reflexive control theory, Chinese cognitive domain operations and the \"three warfares,\" and NATO research on cognitive warfare. It translates their analytical lessons into lawful corporate practice across five disciplines: guerrilla marketing, persuasion psychology, algorithmic optimization, social influence and targeted advertising, each mapped to FTC, GDPR, DSA, CCPA and platform rules. Twelve illustrative use cases show the six-phase framework of Understand, Shape, Seed, Amplify, Exploit and Protect in practice. A defensive playbook covers narrative sensing, prebunking, decision hygiene and response. Deceptive tactics such as fake accounts, bots, astroturfing and disinformation are treated only as threats.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.theinfinitumcorporation.com/#organization",
+    "name": "Infinitum Corporation®",
+    "url": "https://www.theinfinitumcorporation.com/",
+    "telephone": "202-729-9509"
+  },
+  "keywords": "Corporate Cognitive Warfare, cognitive warfare, cognitive dominance, narrative strategy, reflexive control, irregular warfare, prebunking, disinformation defense",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Corporate Cognitive Warfare"
+    },
+    {
+      "@type": "Thing",
+      "name": "cognitive warfare"
+    },
+    {
+      "@type": "Thing",
+      "name": "cognitive dominance"
+    },
+    {
+      "@type": "Thing",
+      "name": "narrative strategy"
+    },
+    {
+      "@type": "Thing",
+      "name": "reflexive control"
+    },
+    {
+      "@type": "Thing",
+      "name": "irregular warfare"
+    },
+    {
+      "@type": "Thing",
+      "name": "prebunking"
+    },
+    {
+      "@type": "Thing",
+      "name": "disinformation defense"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Infinitum Corporation® Whitepapers",
+    "url": "https://infinitumwhitepapers.blogspot.com/"
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.23838097",
+    "https://zenodo.org/records/23838097",
+    "https://www.academia.edu/179983771/Corporate_Cognitive_Warfare_Irregular_Warfare_for_Market_Supremacy_Whitepaper_Expanded_Edition_",
+    "https://web.archive.org/web/2026/https://infinitumwhitepapers.blogspot.com/2026/10/corporate-cognitive-warfare-expanded.html"
+  ],
+  "additionalType": "https://schema.org/Report",
+  "genre": "Whitepaper",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.23838097",
+      "url": "https://doi.org/10.5281/zenodo.23838097"
+    }
+  ],
+  "encoding": {
+    "@type": "MediaObject",
+    "encodingFormat": "application/pdf",
+    "contentUrl": "https://zenodo.org/records/23838097/files/Infinitum-Whitepaper-Corporate-Cognitive-Warfare-EXPANDED-RELEASE.pdf"
+  }
+}

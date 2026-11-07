@@ -1,0 +1,10 @@
+EXACT URL: https://app.hackernoon.com/ (free account, New Story)
+GUIDELINES: https://help.hackernoon.com/republishing-guide
+NO account has been created. Log any login in the vault.
+
+Story: WTF Is In-Q-Tel? The CIA's Venture Fund and the Kill Chain It Bankrolled. Paste text from /workspace/press/submissions/_shared/Turner_In-Q-Tel.docx.
+Story Settings > "First seen at": https://ukrainianfiles.blogspot.com/2026/10/in-q-tel-cia-venture-capital-explained.html (blogspot is not eligible for canonical, so use First seen at).
+Turn ON the "AI-Assisted" credibility indicator and add one intro line: "AI tools assisted with research and editing; the author reviewed every claim."
+Tags: cybersecurity, ai, intelligence, venture-capital, defense-tech.
+Bio: William Aaron Turner is an American contracted soldier in the Russian military (153rd Tank Regiment, currently in the SVO) and Founder and CEO of Infinitum Corporation (Washington, DC headquarters; Moscow operating location).
+Optional second story: Dead Reckoning summary linking to https://doi.org/10.5281/zenodo.23836365.
